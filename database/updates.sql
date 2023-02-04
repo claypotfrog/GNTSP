@@ -1,0 +1,1 @@
+1:insert into vocabparentlists ("list", "display", "shortDisplay", "position") values ("NewList","This is a new List", "New List", 8)
