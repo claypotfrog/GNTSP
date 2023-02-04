@@ -1,0 +1,33 @@
+<p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	ποιοῦμαι	ποιῶμαι	—</p>
+<p tabstops="70,160">2nd sg	ποιεῖ	ποιῇ	ποιοῦ</p>
+<p tabstops="70,160">3rd sg	ποιεῖται	ποιῆται	ποιείσθω</p>
+<p tabstops="70,160">1st pl	ποιούμεθα	ποιώμεθα	—</p>
+<p tabstops="70,160">2nd pl	ποιεῖσθε	ποιῆσθε	ποιεῖσθε</p>
+<p tabstops="70,160">3rd pl	ποιοῦνται	ποιῶνται	ποιείσθων /</p>
+<p spacebelow="5" tabstops="70,160">			ποιείσθωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">ποιεῖσθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	ποιούμενος	ποιουμένη	ποιούμενον</p>
+<p tabstops="70,160">gen sg	ποιουένου	ποιουένης	ποιουένου</p>
+<p tabstops="70,160">dat sg	ποιουένῳ	ποιουένῃ	ποιουένῳ</p>
+<p spacebelow="5" tabstops="70,160">acc sg	ποιούμενον	ποιουένην	ποιούμενον</p>
+<p tabstops="70,160">nom pl	ποιούμενοι	ποιούμεναι	ποιούμενα</p>
+<p tabstops="70,160">gen pl	ποιουένων	ποιουενῶν	ποιουένων</p>
+<p tabstops="70,160">dat pl	ποιουένοις	ποιουέναις	ποιουένοις</p>
+<p tabstops="70,160">acc pl	ποιουένους	ποιουένας	ποιούμενα</p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>IMPERFECT</u></b></p>
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	ἐποιούμην</p>
+<p tabstops="70,160">2nd sg	ἐποιοῦ</p>
+<p tabstops="70,160">3rd sg	ἐποιεῖτο</p>
+<p tabstops="70,160">1st pl	ἐποιούμεθα</p>
+<p tabstops="70,160">2nd pl	ἐποιεῖσθε</p>
+<p tabstops="70,160">3rd pl	ἐποιοῦντο</p>

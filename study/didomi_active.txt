@@ -1,0 +1,100 @@
+<p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	δίδωμι	διδῶ	—</p>
+<p tabstops="70,160">2nd sg	δίδως	διδῷς	δίδου</p>
+<p tabstops="70,160">3rd sg	δίδωσι(ν)	διδῷ	διδότω</p>
+<p tabstops="70,160">1st pl	δίδομεν	διδῶμεν	—</p>
+<p tabstops="70,160">2nd pl	δίδοτε	διδῶτε	δίδοτε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	διδόασι(ν)	διδῶσι(ν)	διδότωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">διδόναι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	διδούς	διδοῦσα	διδόν</p>
+<p tabstops="70,160">gen sg	διδόντος	διδούσης	διδόντος</p>
+<p tabstops="70,160">dat sg	διδόντι	διδούσῃ	διδόντι</p>
+<p spacebelow="5" tabstops="70,160">acc sg	διδόντα	διδοῦσαν	διδόν</p>
+<p tabstops="70,160">nom pl	διδόντες	διδοῦσαι	διδόντα</p>
+<p tabstops="70,160">gen pl	διδόντων	διδουσῶν	διδόντων</p>
+<p tabstops="70,160">dat pl	διοῦσι(ν)	διδούσαις	διοῦσι(ν)</p>
+<p tabstops="70,160">acc pl	διδόντας	διδούσας	διδόντα</p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>IMPERFECT</u></b></p>
+<p tabstops="70,175">	<u>Indicative</u></p>
+<p tabstops="70,175">1st sg	ἐδίδουν</p>
+<p tabstops="70,175">2nd sg	ἐδίδους</p>
+<p tabstops="70,175">3rd sg	ἐδίδου</p>
+<p tabstops="70,175">1st pl	ἐδίδομεν</p>
+<p tabstops="70,175">2nd pl	ἐδίδοτε</p>
+<p tabstops="70,175">3rd pl	ἐδίδοσαν</p>
+
+<p></p>
+<p  spacebelow="5" tabstops="70,160">		<u><b>FUTURE</u></b></p>
+<p tabstops="70,175">	<u>Indicative</u></p>
+<p tabstops="70,175">1st sg	δώσω</p>
+<p tabstops="70,175">2nd sg	δώσεις</p>
+<p tabstops="70,175">3rd sg	δώσει</p>
+<p tabstops="70,175">1st pl	δώσομεν</p>
+<p tabstops="70,175">2nd pl	δώσετε</p>
+<p tabstops="70,175">3rd pl	δὠσουσι(ν)</p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	ἔδωκα	δῶ	—</p>
+<p tabstops="70,160">2nd sg	ἔδωκας	δῷς	δός</p>
+<p tabstops="70,160">3rd sg	ἔδωκε(ν)	δῷ	δότω</p>
+<p tabstops="70,160">1st pl	ἐδώκαμεν	δῶμεν	—</p>
+<p tabstops="70,160">2nd pl	ἐδώκατε	δῶτε	δότε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	ἔδωκαν	δῶσι(ν)	δότωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">δοῦναι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	δούς	δοῦσα	δόν</p>
+<p tabstops="70,160">gen sg	δόντος	δούσης	δόντος</p>
+<p tabstops="70,160">dat sg	δόντι	δούσῃ	δόντι</p>
+<p spacebelow="5" tabstops="70,160">acc sg	δόντα	δοῦσαν	δόν</p>
+<p tabstops="70,160">nom pl	δόντες	δοῦσαι	δόντα</p>
+<p tabstops="70,160">gen pl	δόντων	δουσῶν	δόντων</p>
+<p tabstops="70,160">dat pl	δοῦσι(ν)	δούσαις	δοῦσι(ν)</p>
+<p tabstops="70,160">acc pl	δόντας	δούσσας	δόντα</p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>PERFECT</u></b></p>
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	δέδωκα</p>
+<p tabstops="70,160">2nd sg	δέδωκας</p>
+<p tabstops="70,160">3rd sg	δέδωκε(ν)</p>
+<p tabstops="70,160">1st pl	δεδώκαμεν</p>
+<p tabstops="70,160">2nd pl	δεδώκατε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	δεδώκασι(ν)</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">δεδωκέναι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	δεδωκώς	δεδωκυῖα	δεδωκός</p>
+<p tabstops="70,160">gen sg	δεδωκότος	δεδωκυίας	δεδωκότος</p>
+<p tabstops="70,160">dat sg	δεδωκότι	δεδωκυίᾳ	δεδωκότι</p>
+<p spacebelow="5" tabstops="70,160">acc sg	δεδωκότα	δεδωκυῖαν	δεδωκός</p>
+<p tabstops="70,160">nom pl	δεδωκότες	δεδωκυῖαι	δεδωκότα</p>
+<p tabstops="70,160">gen pl	δεδωκότων	δεδωκυιῶν	δεδωκότων</p>
+<p tabstops="70,160">dat pl	δεδωκόσι	δεδωκυίαις	δεδωκόσι</p>
+<p tabstops="70,160">acc pl	δεδωκότας	δεδωκυίας	δεδωκότα</p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>PLUPERFECT</u></b></p>
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	ἐδεδώκειν</p>
+<p tabstops="70,160">2nd sg	ἐδεδώκεις</p>
+<p tabstops="70,160">3rd sg	ἐδεδώκει</p>
+<p tabstops="70,160">1st pl	ἐδεδώκειμεν</p>
+<p tabstops="70,160">2nd pl	ἐδεδώκειτε</p>
+<p tabstops="70,160">3rd pl	ἐδεδώκεσαν</p>

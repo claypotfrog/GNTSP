@@ -1,0 +1,22 @@
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	ἐβαλόμην	βάλωμαι	—</p>
+<p tabstops="70,160">2nd sg	ἐβάλου	βάλῃ	βαλοῦ</p>
+<p tabstops="70,160">3rd sg	ἐβάλετο	βάληται	βαλέσθω</p>
+<p tabstops="70,160">1st pl	ἐβαλόμεθα	βαλώμεθα	—</p>
+<p tabstops="70,160">2nd pl	ἐβάλεσθε	βάλησθε	βάλεσθε</p>
+<p tabstops="70,160">3rd pl	ἐβάλοντο	βάλωνται	βαλέσθων /		</p>
+<p spacebelow="5" padding="0" tabstops="70,160">			βαλέσθωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">βαλέσθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="15">nom sg	βαλόμενος	βαλομένη	βαλόμενον</font></p>
+<p tabstops="70,160"><font size="15">gen sg	βαλομένου	βαλομένης	βαλομένου</font></p>
+<p tabstops="70,160"><font size="15">dat sg	βαλομένῳ	βαλομένῃ	βαλομένῳ</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="15">acc sg	βαλόμενον	βαλομένην	βαλόμενον</font></p>
+<p tabstops="70,160"><font size="15">nom pl	βαλόμενοι	βαλόμεναι	βαλόμενα</font></p>
+<p tabstops="70,160"><font size="15">gen pl	βαλομένων	βαλομενῶν	βαλομένων</font></p>
+<p tabstops="70,160"><font size="15">dat pl	βαλομένοις	βαλομέναις	βαλομένοις</font></p>
+<p tabstops="70,160"><font size="15">acc pl	βαλομένους	βαλομένας	βαλόμενα</font></p>

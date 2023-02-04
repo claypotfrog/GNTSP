@@ -1,0 +1,79 @@
+<p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	ἵσταμαι	ἱστῶμαι	—</p>
+<p tabstops="70,160">2nd sg	ἵστασαι	ἱστῇ	ἵστασο</p>
+<p tabstops="70,160">3rd sg	ἵσταται	ἱστῆται	ἱστάσθω</p>
+<p tabstops="70,160">1st pl	ἱστάμεθα	ἱστώμεθα	—</p>
+<p tabstops="70,160">2nd pl	ἵστασθε	ἱστῆσθε	ἵστασθε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	ἵστανται	ἱστῶνται	ἱστάσθωσαν /</p>
+
+<p tabstops="70,160" ><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">ἵστασθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	ἱστάμενος	ἱσταμένη	ἱστάμενον</p>
+<p tabstops="70,160">gen sg	ἱσταμένου	ἱσταμένης	ἱσταμένου</p>
+<p tabstops="70,160">dat sg	ἱσταμένῳ	ἱσταμένῃ	ἱσταμένῳ</p>
+<p spacebelow="5" tabstops="70,160">acc sg	ἱστάμενον	ἱσταμένην	ἱστάμενον</p>
+<p tabstops="70,160">nom pl	ἱστάμενοι	ἱστάμεναι	ἱστάμενα</p>
+<p tabstops="70,160">gen pl	ἱσταμένων	ἱσταμενῶν	ἱσταμένων</p>
+<p tabstops="70,160">dat pl	ἱσταμένοις	ἱσταμέναις	ἱσταμένοις</p>
+<p tabstops="70,160">acc pl	ἱσταμένους	ἱσταμένας	ἱστάμενα</p>
+
+<p></p>
+<p  spacebelow="5" tabstops="70,160">		<u><b>IMPERFECT</u></b></p>
+<p tabstops="70,175">	<u>Indicative</u></p>
+<p tabstops="70,175">1st sg	ἱστάμην</p>
+<p tabstops="70,175">2nd sg	ἵστασο</p>
+<p tabstops="70,175">3rd sg	ἵστατο</p>
+<p tabstops="70,175">1st pl	ἱστάμεθα</p>
+<p tabstops="70,175">2nd pl	ἵστασθε</p>
+<p tabstops="70,175">3rd pl	ἵσταντο</p>
+
+<p></p>
+<p  spacebelow="5" tabstops="70,160">		<u><b>FUTURE</u></b></p>
+<p tabstops="70,175">	<u>Indicative</u></p>
+<p tabstops="70,175">1st sg	στήσομαι</p>
+<p tabstops="70,175">2nd sg	στήσῃ</p>
+<p tabstops="70,175">3rd sg	στήσεται</p>
+<p tabstops="70,175">1st pl	στησόμεθα</p>
+<p tabstops="70,175">2nd pl	στήσεσθε</p>
+<p tabstops="70,175">3rd pl	στήσονται</p>
+
+<p></p>
+<p  spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	ἐστάμην	στῶμαι	—</p>
+<p tabstops="70,160">2nd sg	ἔστω	στῇ	στῶ</p>
+<p tabstops="70,160">3rd sg	ἔστατο	στῆται	στάσθω</p>
+<p tabstops="70,160">1st pl	ἐστάμεθα	στώμεθα	—</p>
+<p tabstops="70,160">2nd pl	ἔστασθε	στῆσθε	στάσθε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	ἔσταντο	στῶνται	στάσθωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">στήσασθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="14">nom sg	στησάμενος	στησαμένη	στησάμενον</font></p>
+<p tabstops="70,160"><font size="14">gen sg	στησαμένου	στησαμένης	στησαμένου</font></p>
+<p tabstops="70,160"><font size="14">dat sg	στησαμένῳ	στησαμένῃ	στησαμένῳ</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="14">acc sg	στησάμενον	στησαμένην	στησάμενον</font></p>
+<p tabstops="70,160"><font size="14">nom pl	στησάμενοι	στησάμεναι	στησάμενα</font></p>
+<p tabstops="70,160"><font size="14">gen pl	στησαμένων	στησαμενῶν	στησαμένων</font></p>
+<p tabstops="70,160"><font size="14">dat pl	στησαμένοις	στησαμέναις	στησαμένοις</font></p>
+<p tabstops="70,160"><font size="14">acc pl	στησαμένους	στησαμένας	στησάμενα</font></p>
+
+<p></p>
+<p  spacebelow="5" tabstops="70,160">		<u><b>2nd AORIST</u></b></p>
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="15">nom sg	στάμενος	σταμένη	στάμενον</font></p>
+<p tabstops="70,160"><font size="15">gen sg	σταμένου	σταμένης	σταμένου</font></p>
+<p tabstops="70,160"><font size="15">dat sg	σταμένῳ	σταμένῃ	σταμένῳ</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="15">acc sg	στάμενον	σταμένην	στάμενον</font></p>
+<p tabstops="70,160"><font size="15">nom pl	στάμενοι	στάμεναι	στάμενα</font></p>
+<p tabstops="70,160"><font size="15">gen pl	σταμένων	σταμενῶν	σταμένων</font></p>
+<p tabstops="70,160"><font size="15">dat pl	σταμένοις	σταμέναις	σταμένοις</font></p>
+<p tabstops="70,160"><font size="15">acc pl	σταμένους	σταμένας	στάμενα</font></p>

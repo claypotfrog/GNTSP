@@ -1,0 +1,22 @@
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	ἔλυσα	λύσω	—</p>
+<p tabstops="70,160">2nd sg	ἔλυσας	λύσῃς	λῦσον</p>
+<p tabstops="70,160">3rd sg	ἔλυσε(ν)	λύσῃ	λυσάτω</p>
+<p tabstops="70,160">1st pl	ἐλύσαμεν	λύσωμεν	—</p>
+<p tabstops="70,160">2nd pl	ἐλύσατε	λύσητε	λύσατε</p>
+<p tabstops="70,160">3rd pl	ἔλυσαν	λύσωσι(ν)	λυσάντων /</p>
+<p spacebelow="5" padding="0" tabstops="70,160">			λυσάτωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">λῦσαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	λύσας	λύσασα	λῦσαν</p>
+<p tabstops="70,160">gen sg	λύσαντος	λυσάσης	λύσαντος</p>
+<p tabstops="70,160">dat sg	λύσαντι	λυσάσῃ	λύσαντι</p>
+<p spacebelow="5" tabstops="70,160">acc sg	λύσαντα	λύσασαν	λῦσαν</p>
+<p tabstops="70,160">nom pl	λύσαντες	λύσασαι	λύσαντα</p>
+<p tabstops="70,160">gen pl	λυσάντων	λυσασῶν	λυσάντων</p>
+<p tabstops="70,160">dat pl	λύσασι(ν)	λυσάσαις	λύσασι(ν)</p>
+<p tabstops="70,160">acc pl	λύσαντας	λυσάσας	λύσαντα</p>

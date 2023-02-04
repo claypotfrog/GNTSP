@@ -1,0 +1,23 @@
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	λύομαι	λύωμαι	—</p>
+<p tabstops="70,160">2nd sg	λύει / λύῃ	λύῃ	λύου</p>
+<p tabstops="70,160">3rd sg	λύεται	λύηται	λυέσθω</p>
+<p tabstops="70,160">1st pl	λυόμεθα	λυώμεθα	—</p>
+<p tabstops="70,160">2nd pl	λύεσθε	λύησθε	λύεσθε</p>
+<p tabstops="70,160">3rd pl	λύονται	λύωνται	λυέσθων /</p>
+<p spacebelow="5" tabstops="70,160">			λυέσθωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">λύεσθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	λυόμενος	λυομένη	λυόμενον</p>
+<p tabstops="70,160">gen sg	λυομένου	λυομένης	λυομένου</p>
+<p tabstops="70,160">dat sg	λυομένῳ	λυομένῃ	λυομένῳ</p>
+<p spacebelow="5" tabstops="70,160">acc sg	λυόμενον	λυομένην	λυόμενον</p>
+<p tabstops="70,160">nom pl	λυόμενοι	λυόμεναι	λυόμενα</p>
+<p tabstops="70,160">gen pl	λυομένων	λυομενῶν	λυομένων</p>
+<p tabstops="70,160">dat pl	λυομένοις	λυομέναις	λυομένοις</p>
+<p tabstops="70,160" spacebelow="5">acc pl	λυομένους	λυομένας	λυομένα</p>
+

@@ -1,0 +1,22 @@
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	λύω	λύω	—</p>
+<p tabstops="70,160">2nd sg	λύεις	λύῃς	λῦε</p>
+<p tabstops="70,160">3rd sg	λύει	λύῃ	λυέτω</p>
+<p tabstops="70,160">1st pl	λύομεν	λύωμεν	—</p>
+<p tabstops="70,160">2nd pl	λύετε	λύητε	λύετε</p>
+<p tabstops="70,160">3rd pl	λύουσι(ν)	λύωσι(ν)	λυόντων /</p>
+<p spacebelow="5" tabstops="70,160">			λυέτωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">λύειν</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	λύων	λύουσα	λῦον</p>
+<p tabstops="70,160">gen sg	λύοντος	λυούσης	λύοντος</p>
+<p tabstops="70,160">dat sg	λύοντι	λυούσῃ	λύοντι</p>
+<p spacebelow="5" tabstops="70,160">acc sg	λύοντα	λύουσαν	λῦον</p>
+<p tabstops="70,160">nom pl	λύοντες	λύουσαι 	λύοντα</p>
+<p tabstops="70,160">gen pl	λυόντων	λυουσῶν 	λυόντων</p>
+<p tabstops="70,160">dat pl	λύουσι(ν)	λυούσαις 	λύουσι(ν)</p>
+<p tabstops="70,160">acc pl	λύοντας 	λυούσας 	λύοντα</p>

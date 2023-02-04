@@ -1,0 +1,22 @@
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	ἐλυσάμην	λύσωμαι	—</p>
+<p tabstops="70,160">2nd sg	ἐλύσω	λύσῃ	λύσαι</p>
+<p tabstops="70,160">3rd sg	ἐλύσατο	λύσηται	λυσάσθω</p>
+<p tabstops="70,160">1st pl	ἐλυσάμεθα	λυσώμεθα	—</p>
+<p tabstops="70,160">2nd pl	ἐλύσασθε	λύσησθε	λύσασθε</p>
+<p tabstops="70,160">3rd pl	ἐλύσαντο	λύσωνται	λυσάσθων /</p>
+<p spacebelow="5" padding="0" tabstops="70,160">			λυσάσθωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">λύσασθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="15">nom sg	λυσάμενος	λυσαμένη	λυσάμενον</font></p>
+<p tabstops="70,160"><font size="15">gen sg	λυσαμένου	λυσαμένης	λυσαμένου</font></p>
+<p tabstops="70,160"><font size="15">dat sg	λυσαμένῳ	λυσαμένῃ	λυσαμένῳ</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="15">acc sg	λυσάμενον	λυομένην	λυσάμενον</font></p>
+<p tabstops="70,160"><font size="15">nom pl	λυσάμενοι	λυσάμεναι	λυσάμενα</font></p>
+<p tabstops="70,160"><font size="15">gen pl	λυσαμένων	λυσαμενῶν	λυσαμένων</font></p>
+<p tabstops="70,160"><font size="15">dat pl	λυσαμένοις	λυσαμέναις	λυσαμένοις</font></p>
+<p tabstops="70,160"><font size="15">acc pl	λυσαμένους	λυσαμένας	λυσάμενα</font></p>

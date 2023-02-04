@@ -1,0 +1,95 @@
+<p><i>Note: δείκνυμι in the Greek New Testament</i></p>
+<p><i>sometimes conjugates as a -μι verb and</i></p>
+<p><i>sometimes as an -ω verb, the present tense</i></p>
+<p><i>of δεικνύω.  The forms found here are</i></p>
+<p spacebelow="15"><i>for the -μι verb.</i></p>
+
+<p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160"><font size="14">1st sg	δείκνυμαι	δεικνύωμαι	—</font></p>
+<p tabstops="70,160"><font size="14">2nd sg	δείκνυσαι	δεικνύῃ	δείκνυσο</font></p>
+<p tabstops="70,160"><font size="14">3rd sg	δείκνυται	δεικνύηται	δεικνύσθω</font></p>
+<p tabstops="70,160"><font size="14">1st pl	δεικνύμεθα	δεικνυώμεθα	—</font></p>
+<p tabstops="70,160"><font size="14">2nd pl	δείκνυσθε	δεικνύησθε	δείκνυσθε</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="14">3rd pl	δείκνυνται	δεικνύωνται	δεικνύσθωσαν</font></p>
+
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">δείκνυσθαι</p>
+
+<<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="14">nom sg	δεικνύμενος	δεικνυμένη	δεικνύμενον</font></p>
+<p tabstops="70,160"><font size="14">gen sg	δεικνυμένου	δεικνυμένης	δεικνυμένου</font></p>
+<p tabstops="70,160"><font size="14">dat sg	δεικνυμένῳ	δεικνυμένῃ	δεικνυμένῳ</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="14">acc sg	δεικνύμενον	δεικνυμένην	δεικνύμενον</font></p>
+<p tabstops="70,160"><font size="14">nom pl	δεικνύμενοι	δεικνύμεναι	δεικνύμενα</font></p>
+<p tabstops="70,160"><font size="14">gen pl	δεικνυμένων	δεικνυμενῶν	δεικνυμένων</font></p>
+<p tabstops="70,160"><font size="14">dat pl	δεικνυμένοις	δεικνυμέναις	δεικνυμένοις</font></p>
+<p tabstops="70,160"><font size="14">acc pl	δεικνυμένους	δεικνυμένας	δεικνύμενα</font></p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>IMPERFECT</u></b></p>
+<p tabstops="70,175">	<u>Indicative</u></p>
+<p tabstops="70,175">1st sg	ἐδεικνύμην</p>
+<p tabstops="70,175">2nd sg	ἐδείκνυσο</p>
+<p tabstops="70,175">3rd sg	ἐδείκνυτο</p>
+<p tabstops="70,175">1st pl	ἐδεικνύμεθα</p>
+<p tabstops="70,175">2nd pl	ἐδείκνυσθε</p>
+<p tabstops="70,175">3rd pl	ἐδείκνυντο</p>
+
+<p></p>
+<p  spacebelow="5" tabstops="70,160">		<u><b>FUTURE</u></b></p>
+<p tabstops="70,175">	<u>Indicative</u></p>
+<p tabstops="70,175">1st sg	δείξομαι </p>
+<p tabstops="70,175">2nd sg	δείξῃ</p>
+<p tabstops="70,175">3rd sg	δείξεtαι</p>
+<p tabstops="70,175">1st pl	δειξόμεθα</p>
+<p tabstops="70,175">2nd pl	δείξεσθε</p>
+<p tabstops="70,175">3rd pl	δείξονται</p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
+<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
+<p tabstops="70,160">1st sg	ἐδειξάμην  	δείξωμαι	—</p>
+<p tabstops="70,160">2nd sg	ἐδείξω	δείξῃ	δεῖξαι</p>
+<p tabstops="70,160">3rd sg	ἐδείξατο	δείξηται	δειξάσθω</p>
+<p tabstops="70,160">1st pl	ἐδειξάμεθα	δειξώμεθα	—</p>
+<p tabstops="70,160">2nd pl	ἐδείξασθε	δείξησθε	δείξασθε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	ἐδείξαντο	δείξωνται	δειξάσθωσαν</p>
+
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="15">nom sg	δειξάμενος	δειξαμένη	δειξάμενον</font></p>
+<p tabstops="70,160"><font size="15">gen sg	δειξαμένου	δειξαμένης	δειξαμένου</font></p>
+<p tabstops="70,160"><font size="15">dat sg	δειξαμένῳ	δειξαμένῃ	δειξαμένῳ</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="15">acc sg	δειξάμενον	δειξαμένην	δειξάμενον</font></p>
+<p tabstops="70,160"><font size="15">nom pl	δειξάμενοι	δειξάμεναι	δειξάμενα</font></p>
+<p tabstops="70,160"><font size="15">gen pl	δειξαμένων	δειξαμενῶν	δειξαμένων</font></p>
+<p tabstops="70,160"><font size="15">dat pl	δειξαμένοις	δειξαμέναις	δειξαμένοις</font></p>
+<p tabstops="70,160"><font size="15">acc pl	δειξαμένους	δειξαμένας	δειξάμενα</font></p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>PERFECT</u></b></p>
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	δέδειγμαι</p>
+<p tabstops="70,160">2nd sg	δέδειξαι</p>
+<p tabstops="70,160">3rd sg	δέδεικται</p>
+<p tabstops="70,160">1st pl	δεδείγμεθα</p>
+<p tabstops="70,160">2nd pl	δέδειχθε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	δέδειγνται</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">δεδείχθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="14">nom sg	δεδειγμένος	δεδειγμένη	δεδειγμένον</font></p>
+<p tabstops="70,160"><font size="14">gen sg	δεδειγμένου	δεδειγμένης	δεδειγμένου</font></p>
+<p tabstops="70,160"><font size="14">dat sg	δεδειγμένῳ	δεδειγμένῃ	δεδειγμένῳ</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="14">acc sg	δεδειγμένον	δεδειγμένην	δεδειγμένον</font></p>
+<p tabstops="70,160"><font size="14">nom pl	δεδειγμένοι	δεδειγμέναι	δεδειγμένα</font></p>
+<p tabstops="70,160"><font size="14">gen pl	δεδειγμένων	δεδειγμενῶν	δεδειγμένων</font></p>
+<p tabstops="70,160"><font size="14">dat pl	δεδειγμένοις	δεδειγμέναις	δεδειγμένοις</font></p>
+<p tabstops="70,160"><font size="14">acc pl	δεδειγμένους	δεδειγμένας	δεδειγμένα</font></p>
