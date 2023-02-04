@@ -1,0 +1,27 @@
+<p spacebelow="5" tabstops="70,160"><u><b>endings in –ης –ες</u></b></p>
+<p tabstops="80,200">Singular	<u>Masc./Fem.	Neut.</u></p>
+<p tabstops="80,200">nom.	ἀληθής	ἀληθές</p>
+<p tabstops="80,200">gen.	ἀληθοῦς	ἀληθοῦς</p>
+<p tabstops="80,200">dat.	ἀληθεῖ	ἀληθεῖ</p>
+<p tabstops="80,200">acc.	ἀληθῆ	ἀληθές</p>
+<p tabstops="80,200" spacebelow="5">voc.	ἀληθές	ἀληθές</p>
+<p tabstops="80,200">Plural</p>
+<p tabstops="80,200">nom.	ἀληθεῖς	ἀληθῆ</p>
+<p tabstops="80,200">gen.	ἀληθῶν	ἀληθῶν</p>
+<p tabstops="80,200">dat.	ἀληθέσι(ν)	ἀληθέσι(ν)</p>
+<p tabstops="80,200">acc.	ἀληθεῖς	ἀληθῆ</p>
+<p spacebelow="5" tabstops="80,180">voc.	ἀληθεῖς	ἀληθῆ</p>
+
+<p spacebelow="5" tabstops="70,160"><u><b>endings in –(ί)ων –(ι)ον</u></b></p>
+<p tabstops="80,200">Singular	<u>Masc./Fem.	Neut.</u></p>
+<p tabstops="80,200">nom.	βελτίων	βέλτιον</p>
+<p tabstops="80,200">gen.	βελτίονος	βελτίονος</p>
+<p tabstops="80,200">dat.	βελτίονι	βελτίονι</p>
+<p tabstops="80,200">acc.	βελτίονα	βέλτιον</p>
+<p tabstops="80,200">voc.	βέλτιον	βέλτιον</p>
+<p tabstops="80,200">Plural</p>
+<p tabstops="80,200">nom.	βελτίονες	βελτίονα</p>
+<p tabstops="80,200">gen.	βελτιόνων	βελτιόνων</p>
+<p tabstops="80,200">dat.	βελτίοσι(ν)	βελτίοσι(ν)</p>
+<p tabstops="80,200">acc.	βελτίονας	βελτίονα</p>
+<p tabstops="80,200">voc.	βελτίονες	βελτίονα</p>

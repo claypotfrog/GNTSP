@@ -1,0 +1,12 @@
+<p tabstops="80,170">Singular	<u>-ρ	-ερ</u></p>
+<p tabstops="80,170">nom.	ἡ χείρ	ὁ πατήρ</p>
+<p tabstops="80,170">gen.	χειρός	πατρός</p>
+<p tabstops="80,170">dat.	χειρί	πατρί</p>
+<p tabstops="80,170">acc.	χεῖρα	πατέρα</p>
+<p tabstops="80,170" spacebelow="5">voc.	χείρ	πἀτερ</p>
+<p tabstops="80,170">Plural</p>
+<p tabstops="80,170">nom.	χεῖρες	πατέρες</p>
+<p tabstops="80,170">gen.	χειρῶν	πατέρων</p>
+<p tabstops="80,170">dat.	χερσί(ν)	πατράσι(ν)</p>
+<p tabstops="80,170">acc.	χεῖρας	πατέρας</p>
+<p tabstops="80,170">voc.	χεῖρες	πατέρες</p>

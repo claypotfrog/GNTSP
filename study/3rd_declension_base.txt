@@ -1,0 +1,12 @@
+<p tabstops="80,180">Singular	<u>masc./fem.	neut.</u></p>
+<p tabstops="80,180">nom.	–ς	–ς</p>
+<p tabstops="80,180">gen.	–ος	–ος</p>
+<p tabstops="80,180">dat.	–ι	–ι</p>
+<p tabstops="80,180">acc.	–α	–ς</p>
+<p tabstops="80,180" spacebelow="5">voc.	&mdash;	–ς</p>
+<p tabstops="80,180">Plural</p>
+<p tabstops="80,180">nom.	–ες	–α</p>
+<p tabstops="80,180">gen.	–ων	–ων</p>
+<p tabstops="80,180">dat.	–σι(ν)	–σι(ν)</p>
+<p tabstops="80,180">acc.	–ας	–α</p>
+<p tabstops="80,180">voc.	–ες	–α</p>
