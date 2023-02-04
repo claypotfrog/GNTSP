@@ -1,0 +1,41 @@
+<p spacebelow="5" tabstops="70,160"><i><b>1st person</i></b></p>
+<p tabstops="80,170">Singular	<u>emphatic	unemphatic</u></p>
+<p tabstops="80,170">nom.	ἐγώ	&mdash;</p>
+<p tabstops="80,170">gen.	ἐμοῦ	μου</p>
+<p tabstops="80,170">dat.	ἐμοί	μοι</p>
+<p tabstops="80,170" spacebelow="5">acc.	ἐμέ	με</p>
+<p tabstops="80,170">Plural</p>
+<p tabstops="80,170">nom.	ἡμεῖς	&mdash;</p>
+<p tabstops="80,170">gen.	ἡμῶν	&mdash;</p>
+<p tabstops="80,170">dat.	ἡμῖν	&mdash;</p>
+<p spacebelow="10" tabstops="80,170">acc.	ἡμᾶς	&mdash;</p>
+
+<p spacebelow="5" tabstops="70,160"><i><b>2nd person</i></b></p>
+<p tabstops="80,170">Singular	<u>emphatic	unemphatic</u></p>
+<p tabstops="80,170">nom.	σύ	&mdash;</p>
+<p tabstops="80,170">gen.	σοῦ	σου</p>
+<p tabstops="80,170">dat.	σοί	σοι</p>
+<p tabstops="80,170" spacebelow="5">acc.	σέ	σε</p>
+<p tabstops="80,170">Plural</p>
+<p tabstops="80,170">nom.	ὑμεῖς	&mdash;</p>
+<p tabstops="80,170">gen.	ὑμῶν	&mdash;</p>
+<p tabstops="80,170">dat.	ὑμῖν	&mdash;</p>
+<p spacebelow="10" tabstops="80,170">acc.	ὑμᾶς	&mdash;</p>
+
+<p spacebelow="5" tabstops="70,160"><i><b>3rd person</i></b></p>
+<p tabstops="80,170">Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="80,170">nom.	αὐτός	αὐτή	αὐτό</p>
+<p tabstops="80,170">gen.	αὐτοῦ	αὐτῆς	αὐτοῦ</p>
+<p tabstops="80,170">dat.	αὐτῷ	αὐτῇ	αὐτῷ</p>
+<p tabstops="80,170" spacebelow="5">acc.	αὐτόν	αὐτήν	αὐτό</p>
+<p tabstops="80,170">Plural</p>
+<p tabstops="80,170">nom.	αὐτοί	αὐταί	αὐτά</p>
+<p tabstops="80,170">gen.	αὐτῶν	αὐτῶν	αὐτῶν</p>
+<p tabstops="80,170">dat.	αὐτοῖς	αὐταῖς	αὐτοῖς</p>
+<p tabstops="80,170">acc.	αὐτούς	αὐτάς	αὐτά</p>
+
+
+
+
+
+

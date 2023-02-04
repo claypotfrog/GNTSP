@@ -1,0 +1,44 @@
+<p spacebelow="5" tabstops="70,160"><i><b>1st person reflexive (myself, ourselves)</i></b></p>
+<p tabstops="80,200">Singular	<u>Masc.	Fem.</u></p>
+<p tabstops="80,200">gen.	ἐμαυτοῦ	ἐμαυτῆς</p>
+<p tabstops="80,200">dat.	ἐμαυτῷ	ἐμαυτῇ</p>
+<p tabstops="80,200" spacebelow="5">acc.	ἐμαυτόν	ἐμαυτήν</p>
+<p tabstops="80,200">Plural</p>
+<p tabstops="80,200">gen.	ἡμῶν αὐτῶν	ἡμῶν αὐτῶν</p>
+<p tabstops="80,200">dat.	ἡμῖν αὐτοῖς	ἡμῖν αὐταῖς</p>
+<p spacebelow="10" tabstops="80,200">acc.	ἡμᾶς αὐτούς	ἡμᾶς αὐτάς</p>
+
+<p spacebelow="5" tabstops="70,160"><i><b>2nd person reflexive (yourself, yourselves)</i></b></p>
+<p tabstops="80,200">Singular	<u>Masc.	Fem.</u></p>
+<p tabstops="80,200">gen.	σεμαυτοῦ	σεμαυτῆς</p>
+<p tabstops="80,200">dat.	σεμαυτῷ	σεμαυτῇ</p>
+<p tabstops="80,200" spacebelow="5">acc.	σεμαυτόν	σεμαυτήν</p>
+<p tabstops="80,200">Plural</p>
+<p tabstops="80,200">gen.	ὑμῶν αὐτῶν	ὑμῶν αὐτῶν</p>
+<p tabstops="80,200">dat.	ὑμῖν αὐτοῖς	ὑμῖν αὐταῖς</p>
+<p spacebelow="10" tabstops="80,200">acc.	ὑμᾶς αὐτούς	ὑμᾶς αὐτάς</p>
+
+<p spacebelow="5" tabstops="70,160"><i><b>3rd person reflexive (his/her/itself, themselves)</i></b></p>
+<p tabstops="80,170">Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="80,170">gen.	ἑαυτοῦ	ἑαυτῆς	ἑαυτοῦ</p>
+<p tabstops="80,170">dat.	ἑαυτῷ	ἑαυτῇ	ἑαυτῷ</p>
+<p tabstops="80,170" spacebelow="5">acc.	ἑαυτόν	ἑαυτήν	ἑαυτό</p>
+<p tabstops="80,170">Plural</p>
+<p tabstops="80,170">gen.	ἑαυτῶν	ἑαυτῶν	ἑαυτῶν</p>
+<p tabstops="80,170">dat.	ἑαυτοῖς	ἑαυταῖς	ἑαυτοῖς</p>
+<p spacebelow="10" tabstops="80,170">acc.	ἑαυτούς	ἑαυτάς	ἑαυτά</p>
+
+<p spacebelow="5" tabstops="70,160"><i><b>reciprocal (each other)</i></b></p>
+<p tabstops="80,170">Plural	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="80,170">gen.	ἀλλήλων	ἀλλήλων	ἀλλήλων</p>
+<p tabstops="80,170">dat.	ἀλλήλοις	ἀλλήλαις	ἀλλήλοις</p>
+<p tabstops="80,170">acc.	ἀλλήλους	ἀλλήλας	ἄλληλα</p>
+
+
+
+
+
+
+
+
+
