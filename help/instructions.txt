@@ -1,0 +1,3 @@
+<p spacebelow=10>Scroll down and click the various section headers to see the information they contain.  You can close any section (including this one) by pressing and holding for one second anywhere in that section.</p>
+
+<p spacebelow=10>Since different mobile operating systems handle the clipboard differently, if you click on any links in this screen, the link will be placed in the blue field directly above which presently says, "Links will appear here."  You can copy the link from that field, then open that link in your preferred web browser.</p>

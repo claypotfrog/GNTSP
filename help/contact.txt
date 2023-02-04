@@ -1,0 +1,7 @@
+<p spacebelow=10>The Greek Study Project NT (New Testament) was created by Jeff Jansen.  I spent twenty years in IT as a missionary with Wycliffe Bible Translators, and am now a pastor living in Atlanta, GA.  I have a degree (from many years ago) in Classical Greek, so I have always had a love of the Ancient Greek language and history.</p>
+
+<p spacebelow=10>If you find any bugs or errors in the program or data, please let me know.  Or if you have any feature requests, please let me know those as well.  If you can code in LiveCode or write SQL, so much the better.  Please clone <a href="https://github.com/claypotfrog/GSPNT">the project at GitHub</a> and send me a pull request.</p>
+
+<p spacebelow=10>Likewise, if you have vocabulary lists from other Greek textbooks which you would like to see included (until I create a way to make your own in the program), please send me the list and I'll be happy to include it.</p>
+
+<p spacebelow=10>You can contact me at <a href="jeff@claypotfrog.com">jeff@claypotfrog.com</a>.

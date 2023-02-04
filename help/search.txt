@@ -1,0 +1,44 @@
+<img src="search.png">
+<p spacebelow=10>Clicking on the Search icon brings you to the Search screen.  Here you can search for Greek words and for English definitions.</p>
+
+<img src="search-word-options.png">
+<p spacebelow=10>You select which part of the database you wish to search through using the top pull-down list labeled "Search."  You have three options: "Greek Words", "Greek Forms", and "English Definitions".  "Greek Words" searches for words based on their dictionary entry.  "Greek Forms" search for words based on any of their forms found in the New Testament.  Which one you choose will depend on whether you know the dictionary entry or are searching for a form.</p>
+
+<p>For example, typing "ηλθον" will not turn up any entries under "Greek Words" because it is not the dictionary form of a word.</p>
+<img src="search-hlthon-word.png">
+<p>But switching the Search pull-down to "Greek Forms" will turn up an entry, "ἔρχομαι," because "ἤλθον" is an aorist form of the verb "ἔρχομαι".</p>
+<p spacebelow=10><img src="search-hlthon-form.png"></p>
+
+<p>Below the "Search" pull-down is the "Text" pull-down.  This allows you to control where in the word you search.</p>
+<img src="search-text-options.png">
+<p spacebelow=10>You can search for combinations of letters at the beginning a word, at the end a word, or anywhere within that word (which includes, of course, beginning and ending).</p>
+
+<p>In the image below we are searching for all words which begin with "βαλ".  As you can see, there are four words which begin with "βαλ" in the Greek text text.</p>
+<p spacebelow=10><img src="search-bal-begin.png"></p>
+
+<p>But here we switch to "Appears Anywhere", and you can see that there are twenty-four words in the Greek text which have the letters "βαλ" anywhere in the dictionary word.</p>
+<p spacebelow=10><img src="search-bal-anywhere.png"></p>
+
+<p>Finally, if we switch to "Ends With", we see that there are no words in the Greek text which end with "βαλ".</p>
+<p spacebelow=10><img src="search-bal-ends.png"></p>
+
+<p>But if you were studying the athematic "μι" verbs, you could use the "Ends With" option to discover that there are ten "ωμι" verbs in the Greek text, "δίδωμι" and nine compounds based on it.</p>
+<p spacebelow=10><img src="search-wmi-ends.png"></p>
+
+<p>When you type in the Search bar, you can use the standard Roman keyboard.  The app will transliterate all you type into Greek characters.  The mapping is fairly intuitive, but you can see which Roman letters map to which Greek letters by pressing the period (".") at any time.  Pressing the period again will turn the keyboard map off.  You can type in the Search bar with the keyboard map up and the program will search like normal, but you will not be able to see the results until you turn off the keyboard map.</p>
+<img src="search-keyboard.png">
+<p spacebelow=10>Both top and bottom rows show the same keyboard mappings.  The top row is sorted alphabetically by Roman letters, and the bottom row is sorted alphabetically by Greek letters.</p>
+
+<p spacebelow=10>If you have a Greek keyboard installed on your device, you can type Greek characters directly into the Search bar.  Whichever keyboard you use, however, do not include any diacritics - no breathings, accents, diaresis, etc.  The search database does not include diacritics, so including them in your search string will result in no entries being found.</p>
+
+<p>You can also search in the definitions of words by selecting "English Definitions" from the Search drop-down.  The Text drop-down will switch to "Appears Anywhere" since that is the only way you can search the English definitions.</p>
+<p spacebelow=10><img src="search-english.png"></p>
+
+<p>Here we are searching for all Greek words which have "encourage" in their glosses.  You can see that there are five words which contain "encourage" in their gloss.</p>
+<p spacebelow=10><img src="search-english-encourage.png"></p>
+
+<p>Clicking on any of these lines will bring that word up in the Details screen, just the same as if you have clicked on the word while reading the Greek text.  Here we have clicked on the word "παράκλησις" and have been taken to its detail page.</p>
+<img src="search-encourage.png">
+<p><i>Please see the <b>Details</b> section for more information about the Details screen</i></p>
+
+
