@@ -1,1 +1,1 @@
-This is the livecode stack for the mobile application.   You can use either the standalone GSPNT.livecode file which is the complete stack, or you can use the smartcrumbs version control files which are also included here and import the stack from them.  Smartcrumbs makes livecode play much nicer with git and the like. 
+This is the livecode stack for the mobile application.
