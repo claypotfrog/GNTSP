@@ -12,6 +12,6 @@ Note that LiveCode uses the forward slash as the directory separator regardless 
 
 Close LiveCode, open it up again (or close and purge the present stack from memory), and re-open the "program/GSPNT.livecode" stack.  The program should now work properly in your LiveCode IDE.
 
-If you wish to build the app and test it on mobile, then go to the Standalone Application Settings, choose the Copy Files icon, and copy the following files and folders.  Copy folder: "books", "fonts", "help", and "study".  Copy files "database/GSPNT.db" and "database/updates.sql".  Then go to the Android and/or iOS settings and set everything appropriately.  The icon is in the "icon" folder.
+If you wish to build the app and test it on mobile, then go to the Standalone Application Settings, choose the Copy Files icon, and copy the following files and folders.  Copy folders: "books", "fonts", "help", and "study".  Copy files "database/GSPNT.db" and "database/updates.sql".  Then go to the Android and/or iOS settings and set everything appropriately.  The icon is in the "icon" folder.
 
 Now you should be able to build for your mobile OS of choice.
