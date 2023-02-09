@@ -25,9 +25,8 @@
 <p>But if you were studying the athematic "μι" verbs, you could use the "Ends With" option to discover that there are ten "ωμι" verbs in the Greek text, "δίδωμι" and nine compounds based on it.</p>
 <p spacebelow=10><img src="binfile:help/images/search-wmi-ends.png"></p>
 
-<p>When you type in the Search bar, you can use the standard Roman keyboard.  The app will transliterate all you type into Greek characters.  The mapping is fairly intuitive, but you can see which Roman letters map to which Greek letters by pressing the period (".") at any time.  Pressing the period again will turn the keyboard map off.  You can type in the Search bar with the keyboard map up and the program will search like normal, but you will not be able to see the results until you turn off the keyboard map.</p>
+<p>When you type in the Search bar, you can use the standard Roman keyboard.  The app will transliterate all you type into Greek characters.  The mapping is fairly intuitive, but you can see which Roman letters map to which Greek letters by pressing the period (".") at any time.  Pressing the period again, or tapping anywhere on the keyboard map will turn the keyboard map off.  You can type in the Search bar with the keyboard map up and the program will search like normal, but you will not be able to see the results at the top of the screen until you turn off the keyboard map.</p>
 <img src="binfile:help/images/search-keyboard.png">
-<p spacebelow=10>Both top and bottom rows show the same keyboard mappings.  The top row is sorted alphabetically by Roman letters, and the bottom row is sorted alphabetically by Greek letters.</p>
 
 <p spacebelow=10>If you have a Greek keyboard installed on your device, you can type Greek characters directly into the Search bar.  Whichever keyboard you use, however, do not include any diacritics - no breathings, accents, diaresis, etc.  The search database does not include diacritics, so including them in your search string will result in no entries being found.</p>
 
