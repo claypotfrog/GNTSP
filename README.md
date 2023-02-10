@@ -6,3 +6,5 @@ This project combines the text of the [Society of Biblical Literature's Greek Ne
 It also includes Koine Greek grammatical forms and Greek New Testament Vocabulary to help you learn and improve your Biblical Greek.
 
 This project consists of an [SQLite](https://www.sqlite.org/) database containing all the morphological and lexical data for the text of the SBLGNT, a mobile app written in [Livecode](https://livecode.com/), and a number of html files containing static information like grammer tables, instructions, etc.
+
+If you want to try out the program, you can install it (for Android) from the [Google Play Store](https://play.google.com/store/apps/details?id=com.claypotfrog.gspnt)
