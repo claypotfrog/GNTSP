@@ -4,4 +4,4 @@
 
 <p spacebelow=10>Likewise, if you have vocabulary lists from other Greek textbooks which you would like to see included (until I create a way to make your own in the program), please send me the list and I'll be happy to see if I want to include it.</p>
 
-<p spacebelow=10>You can contact me at <a href="jeff@claypotfrog.com">jeff@claypotfrog.com</a>.
+<p spacebelow=10>You can contact me at <a href="software@claypotfrog.com">software@claypotfrog.com</a>.
