@@ -8,7 +8,7 @@ Open the stack "program/GSPNT.livecode" in LiveCode.  It will give you database 
 
 local sDevelopmentDir = "C:/Users/Bob/Livecode/GSPNT"
 
-Note that LiveCode uses the forward slash as the directory separator regardless of which OS you are on.
+Note that LiveCode uses the forward slash as the directory separator regardless of which OS you are on.  Also, if you are working on an OS which has case-sensitive filenames, be sure you match the case properly for the path.
 
 Close LiveCode, open it up again (or close and purge the present stack from memory), and re-open the "program/GSPNT.livecode" stack.  The program should now work properly in your LiveCode IDE.
 
