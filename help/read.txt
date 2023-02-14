@@ -5,7 +5,7 @@
 <p spacebelow=10><img src="binfile:help/images/bookselect.png"></p>
 <p>Clicking on the blue gear icon in the upper right corner brings up the font settings dialogue where you can change the font as well as adjust the font size and line spacing.</p>
 <p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
-
+<p spacebelow=10>The "Default" font is whatever your operating system uses by default when it displays text.  The other three fonts are specialty Greek text fonts which are included with the program</p>
 <p>As you are reading the text, clicking on any word will highlight that word and bring up a box with the word's dictionary entry and gloss.  Below the gloss is the the grammatical parsing for this word in this occurrence.  You can also see the total number of times this word appears (in any form) in the Greek text in the upper right-hand corner.</p>
 <p spacebelow=10><img src="binfile:help/images/wordclick.png"></p>
 <p>Clicking on the blue dialogue box itself will bring up the Details screen for this particular (dictionary) word.</p>
