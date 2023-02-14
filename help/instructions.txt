@@ -1,3 +1,3 @@
 <p spacebelow=10>Scroll down and click the various section headers to see the information they contain.  You can close any section (including this one) by pressing and holding anywhere in that section until the section closes.</p>
 
-<p spacebelow=10>Since different mobile operating systems handle the clipboard differently, if you click on any links in this screen, the link will be placed in the blue field directly above which presently says, "Links will appear here."  You can copy the link from that field, then open that link in your preferred web browser.</p>
+<p spacebelow=10>Clicking on a link in this screen will attempt to open urls in your browser and emails in your email client.  But just in case that doesn't work like you want, the link will also be placed on the clipboard so that you can paste it into the program of your choice.</p>
