@@ -1,9 +1,0 @@
-<p spacebelow=10>Here's a list of present limitations of the program and issues which I hope to address in future versions.</p>
-
-<p spacebelow=10>Right now the program only works in Portrait orientation.  Turning your device horizontally has no effect.</p>
-
-<p spacebelow=10>If a word appears multiple times in a verse, there's no way to know that without clicking on the verse to expand it.  At present, words are not highlighted until AFTER you click to open the verse.  This is why a word may have 120 occurrences, but only appear in 112 verses.  There are multiple verses where the word appears more than once.</p>
-
-<p spacebelow=10>Changing the font of the Greek text on the Read page only changes the text in that field.  Everywhere else in the program, the default text font of the mobile operating system is used to render all text.</p>
-
-<p spacebelow=10>All the vocabulary lists are presently hard-coded, and it's impossible to create your own lists.  But it would probably be helpful to some students to be able to create their own lists for studying vocabulary (from textbooks not included in the present lists, for example).</p>
