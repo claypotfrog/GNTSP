@@ -1,17 +1,11 @@
 Instructions for setting up your own LiveCode project
 
-Download and place all these folders somewhere on your filesystem.  It doesn't matter where, but they all need to live in the same location.
+Download and place all these folders somewhere on your filesystem.  It doesn't matter where, but they all need to live in the same folder.
 
 Unzip the file "database/GSPNT.db.zip" to create "GSPNT.db".  This is the sqlite database file.  You can do what you like with the zip file.  You don't need it after unzipping the database.
 
-Open the stack "program/GSPNT.livecode" in LiveCode.  It will give you database errors and no text will be displayed.  Open the Stack Script (Object->Stack Script) and change the first (uncommented) line which says "local sDevelopmentDir = ..."  Change that location to match where you put all the project folders.  So you have put all the project folders (on Windows) into "C:\Users\Bob\Livecode\GSPNT" then change the line to say:
+Open the stack "program/GSPNT.livecode" in LiveCode.  Everything should be set up correctly regardless of which OS you are developing on.
 
-local sDevelopmentDir = "C:/Users/Bob/Livecode/GSPNT"
+If you wish to build the app, you'll need to go to the Standalone Application Settings and set it up for your system.  Choose the Copy Files icon, and copy the following files and folders where ever you have stored them.  Copy folders: "books", "fonts", "help", and "study".  Copy files: "database/GSPNT.db" and "database/updates.sql".  Then go to the tab for the OS you want to develop for and enable it.   The icons for various OSes are in the "icon" folder.
 
-Note that LiveCode uses the forward slash as the directory separator regardless of which OS you are on.  Also, if you are working on an OS which has case-sensitive filenames, be sure you match the case properly for the path.
-
-Close LiveCode, open it up again (or close and purge the present stack from memory), and re-open the "program/GSPNT.livecode" stack.  The program should now work properly in your LiveCode IDE.
-
-If you wish to build the app and test it on mobile, then go to the Standalone Application Settings, choose the Copy Files icon, and copy the following files and folders.  Copy folders: "books", "fonts", "help", and "study".  Copy files: "database/GSPNT.db" and "database/updates.sql".  Then go to the Android and/or iOS settings and set everything appropriately.  The icon is in the "icon" folder.
-
-Now you should be able to build for your mobile OS of choice.
+Now you should be able to build for your OS of choice.
