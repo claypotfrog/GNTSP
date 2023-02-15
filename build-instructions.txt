@@ -1,11 +1,11 @@
 Instructions for setting up your own LiveCode project
 
-Download and place all this whole structure somewhere on your filesystem.  It doesn't matter where, but everything here needs to live in the same folder.
+Make sure this entire structure is relicated somewhere on your filesystem.  It doesn't matter where, but everything here needs to live in the same folder.  The various folders need to be at the same level as the "GSPNT.livecode" file so that all the relative paths will work.
 
 Unzip the file "database/GSPNT.db.zip" to create "GSPNT.db" there in the "database" folder.  This is the sqlite database file.  You can do what you like with the zip file.  You don't need it after unzipping the database.
 
 Open the stack "GSPNT.livecode" in LiveCode.  Everything should be set up correctly regardless of which OS you are developing on.
 
-If you wish to build the app, you'll need to go to the Standalone Application Settings and enable the various OSes you want to build for.  The Copy Files tab should be set up correctly since they are all relative to the stack.  The icons for various OSes are in the "icon" folder.  You may want to change the "Build folder" item to match your system. 
+If you wish to build a standalone app, you'll need to go to the Standalone Application Settings and enable the various OSes you want to build for.  The Copy Files tab should be set up correctly since they are all relative to the stack.  The icons for various OSes are in the "icon" folder.  You may want to change the "Build folder" item to match your system. 
 
 Now you should be able to build for your OSes of choice.
