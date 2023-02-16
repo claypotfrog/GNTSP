@@ -1,0 +1,1 @@
+These are zip files of installations for various OSes.  For Desktop version, unzip the folder and run the "Greek Study Project NT" executable from inside the folder.  For the Mobile versions you will need to side-load them or get them from the appropriate App Store.
