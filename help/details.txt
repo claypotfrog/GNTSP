@@ -30,7 +30,11 @@
 <img src="binfile:help/images/details-logos-occurrences.png">
 <p>Here we see that the word "λόγος" appears (in all its forms) in 318 verses in the Greek text.  Clicking on any of these lines will display the text of the verse with the occurrences of the word highlighted.</p>
 <img src="binfile:help/images/details-logos-show-verse.png">
-<p spacebelow=10>If you wish to hide the verse text, press and hold until the verse closes.  If you click normally on any line with the verse text showing, the program will take you back to the Read screen with that book open to that chapter and verse.  All occurrences of the word you were examining in the Details screen (in any form) will be highlighted throughout the book. (You can remove the highlights by pressing and holding for one second anywhere on the Greek Text.)</p>
+<p spacebelow=10>If you wish to hide the verse text, press and hold until the verse closes.  If you click normally on any line with the verse text showing, the program will take you back to the Read screen with that book open to that chapter and verse.  All occurrences of the word you were examining in the Details screen (in any form) will be highlighted throughout the book. (You can remove the highlights by pressing and holding anywhere on the Greek Text.)</p>
+
+<p>If there are more than 300 verses in the list (and you are on mobile device) then you will see scroll buttons at the lower right-hand corner of the screen.</p>
+<p spacebelow=5><img src="binfile:help/images/scrollbtns.png"></p>
+<p spacebelow=5>Clicking on these will do exactly what they say, going to the first (top) or last (bottom) entry in the list.  The Page Up and Page Down buttons will move up or down by one screen initially, but if you hold the button down, they will accelerate and move by multiple screens.
 
 <p>There will also be a back arrow in the upper-left.  Clicking on this arrow will return you to the Occurrences screen.</p>
 <p spacebelow=5><img src="binfile:help/images/read-with-back.png"></p>
