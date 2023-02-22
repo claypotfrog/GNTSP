@@ -5,7 +5,7 @@
 <p tabstops="70,160">3rd sg	ἵσταται	ἱστῆται	ἱστάσθω</p>
 <p tabstops="70,160">1st pl	ἱστάμεθα	ἱστώμεθα	—</p>
 <p tabstops="70,160">2nd pl	ἵστασθε	ἱστῆσθε	ἵστασθε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἵστανται	ἱστῶνται	ἱστάσθωσαν /</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	ἵστανται	ἱστῶνται	ἱστάσθωσαν</p>
 
 <p tabstops="70,160" ><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">ἵστασθαι</p>
