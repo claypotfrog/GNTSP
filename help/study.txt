@@ -13,7 +13,7 @@
 
 <p>Clicking any of these lines will bring up child-lists of words which you can choose to study from the larger parent vocabulary list.</p>
 <img src="binfile:help/images/vocablist-nocheck.png">
-<p spacebelow=10>By default, none of these child-lists are enabled for study.  Clicking on any line will toggle whether you wish to include that child-list when you study.  All child-lists which are enabled for study will have a checkmark in the "Study These Words" box.</p>
+<p spacebelow=10>By default, none of these child-lists are enabled for study.  Clicking on the "Study These Words" button will toggle whether you wish to include that child-list when you study.  When a child-list is enabled for study, the "Study These Words" button will be "enabled," i.e. white text on a blue background.  Disabled lists will show the button as the normal black text on a gray background.</p>
 
 <p>In the following image, the child-lists "Words appearing 400 or more times" and "Words appearing 200 to 399 times" are the only lines checked.  With both these child-lists checked, you will be studying all words in the Greek text which appear 200 or more times.</p>
 <p spacebelow=10><img src="binfile:help/images/vocablist.png"></p>
@@ -67,7 +67,7 @@
 <img src="binfile:help/images/vocabstudy-reset.png">
 <p spacebelow=10>Clicking on the "Reset" link will go through that parent-list or child-list and remove any delays on all the words so that they appear immediately the next time you review this list.</p>
 
-<p spacebelow=10>If you want to "hide" or "reset" a single word rather than entire list of words, or if you wish to see when a word is next scheduled to be studied, you can do so by clicking on the "Examine X Words" button in each child-list.  This will take you a screen where you can see every word in this child-list (with its gloss and frequency) and when it will next be reviewed.</p>
+<p spacebelow=10>If you want to "hide" or "reset" a single word rather than entire list of words, or if you wish to see when a word is next scheduled to be studied, you can do so by clicking on the blue "Examine X Words" link in each child-list.  This will take you a screen where you can see every word in this child-list (with its gloss and frequency) and when it will next be reviewed.</p>
 
 <img src="binfile:help/images/allwordslines.png">
 <p>Here we are looking at the first two child-lists from the "All Words in the New Testament by Frequency" parent-list.  The first child-list, "Words appearing 400 or more times" consists of 45 words as you can see by the button which says "Examine 45 words."  Likewise the second child-list, "Words appearing 200 to 399 times", consists of 34 words because the button says "Examine 34 words."</p>
