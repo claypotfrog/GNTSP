@@ -1,0 +1,96 @@
+<p spacebelow=10><img src="binfile:help/images/vocab.png"></p>
+<p spacebelow=10>Clicking on the Vocabulary Icon brings up the Vocabulary Tutor which includes a number of lists of vocabulary words which you can study.  At present there are four lists of words by frequency and three lists of words based on the chapters of popular first-year Greek textbooks.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabscreen.png"></p>
+
+<p spacebelow=10>Clicking any of these lines will bring up child-lists of words which you can choose to study from the larger parent vocabulary list.</p>
+<p spacebelow=10><img src="binfile:help/images/vocablist-nocheck.png"></p>
+<p spacebelow=10>By default, none of these child-lists are enabled for study.  Clicking on the "Study These Words" button will toggle whether you wish to include that child-list when you study.  When a child-list is enabled for study, the "Study These Words" button will be "enabled," i.e. white text on a blue background.  Disabled lists will show the button as the normal black text on a gray background.</p>
+
+<p spacebelow=10>In the following image, the child-lists "Words appearing 400 or more times" and "Words appearing 200 to 399 times" are the only lines checked.  With both these child-lists checked, you will be studying all words in the Greek text which appear 200 or more times.</p>
+<p spacebelow=10><img src="binfile:help/images/vocablist.png"></p>
+
+<p spacebelow=10>You can enable and disable the child-lists in order to review the collections of vocabulary words which you are interested in.  Once you have decided which child-lists to study and enabled them, the "Study" link in the upper-right corner of the app will become enabled.  Clicking on that link will take you to the Vocabulary Study screen.</p>
+
+<p spacebelow=10><img src="binfile:help/images/vocabstudy.png"></p>
+<p spacebelow=10>In the Vocabulary Study screen, all the words in all the child-lists which you selected to study are randomized and presented to you one at a time.  At the bottom of the screen the number of words remaining to study are on the left in red and the number of words which you have seen are in blue on the right.</p>
+
+<p spacebelow=10>After looking at the word and (hopefully) remembering its meaning, click anywhere on the screen to display the gloss and see if you correctly knew the word.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabstudy-show.png"></p>
+<p spacebelow=10>Now the gloss and the number of occurrences in the Greek text are shown as well as the principle parts (of verbs) and any notes which you have attached to this word.</p>
+<p spacebelow=10>At the bottom there will now be four colored buttons from which you need to choose one to tell the app when you wish to next see the word in your studies.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabbuttons.png"></p>
+
+<p spacebelow=10>If you choose the red "Again" button, then the word will be added (randomly) to the end of your study list, and you will see it again during this review session.  If you choose any of the three buttons marked with days, however, then you will not see the word again for that many days.</p>
+
+<p spacebelow=10>So if you choose "1 Day" then you will not see this word again in this session.  But if you study these words again tomorrow, you will again see this word.  Likewise, if you choose the "2 Days" button, then you will not see this word again while studying today, nor will you see it if you study these words tomorrow.  But you will see it when you study these words at least two days from now.</p>
+
+<p spacebelow=10>The next time you see this word, your choices for how long to delay before seeing the word again will also change.  You will always have the red "Again" button which shows you the word again that same review session.  But for any other time delay you choose greater than 1 day, the next time you see the word, your previous choice will be in the green button, with half that delay to the left of it in the yellow button and twice that delay in the blue button to the right of it.</p>
+
+<p spacebelow=10>So imagine that you choose the "4 Days" button in the above example.  Then the next time that you see the word (four days from now), you will have the following button choices</p>
+<p spacebelow=10><img src="binfile:help/images/vocabstudy-4.png"></p>
+<p spacebelow=10>"4 Days" (your previous choice) is in the green button, "2 Days" (half of 4) is in the yellow button, and "8 Days" (twice 4) is in the blue button.  If you were to choose "4 Days" again, then you will see this same configuration of buttons when next you see this word.  If you were to choose "2 Days", however, then the next time you see the word (two days from now) you will see the same buttons you saw before - "1 Day", "2 Days", and "4 Days".  If you were to choose "8 Days", on the other hand, then the next time you see the word (in 8 days) you will see the following buttons.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabstudy-8.png"></p>
+
+<p spacebelow=10>The idea is that as you come to know words better and better, you need to study them less frequently.  So you tell the app to delay showing them to you again until further in the future.  Words you are not as familiar with, you can tell the app to show to you repeatedly, day after day, until you feel confident enough to push it out two days, then four days, etc.  Hopefully this maximizes the benefit of your vocabulary study time.</p>
+
+<p spacebelow=10>You can click away from the vocabulary tutor at any time, using the navigation bar at the bottom of the screen.  The program will pause your session and remember where you are.  Clicking on the Vocabulary icon later will bring you back to where you left off.  You must use the Exit link at the top of the Vocabulary Tutor to end a study session and return to original screens which allow you to choose which lists you wish to study.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabclickaway.png"></p>
+
+<h3>Hiding and Resetting Lists</h3>
+
+<p spacebelow=10>There may come a time, however, when you feel that you have pushed a word too far out and need to study it again sooner.  Or there may be entire lists (child or parent) of words that you no longer want even to see on your screen so you no longer need to scroll past it.  You can accomplish both these tasks at all levels of the app.  You can "hide" (so you never see it again) or "reset" (so you see it immediately) any parent-list, child-list, or individual word.</p>
+
+<p spacebelow=10>You "hide" and "reset" parent-lists and child-lists on their respective screens in the app.  So imagine that you are studying child-lists in the "Verbs by Frequency" parent-list and are perfectly confident about all verbs in the child-list "Verbs appearing 150 or more times."  You wish to hide this list so you don't see it on the child-list screen anymore.  You do this by swiping left on that line to reveal the red "Hide" link.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabstudy-hide.png"></p>
+<p spacebelow=10>Click on the "Hide" link and that child-list will be removed from the screen.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabstudy-hidden.png"></p>
+
+<p spacebelow=10>The same can be accomplished for parent-lists on the main "Vocabulary List" screen.  Swipe left to reveal the "Hide" link, click on this link, and that entire parent-list will be removed.</p>
+<p spacebelow=10><img src="binfile:help/images/hide-parent-list.png"></p>
+
+<p spacebelow=10>You can restore a hidden parent-list or child-list at any time on the "Hidden Lists" tab of the Vocabulary Lists screen.</p>
+
+<p spacebelow=10><img src="binfile:help/images/hiddenlists.png"></p>
+<p spacebelow=10>In the above image, we have hidden the parent-list, "Adjectives in the New Testament by Frequency", as well as two child-lists, "Words appearing more than 400 times" and "Words appearing 200 to 299 times".  You can tell that the bottom two items are child-lists because they are in italics.  To see which parent-list a child-list belongs to, press and hold anywhere on the row until the name of the parent appears.  The display will disappear as soon as you stop pressing.</p>
+<p spacebelow=10><img src="binfile:help/images/unhide-tooltip.png"></p>
+
+<p spacebelow=10>To unhide a list, swipe left or right to reveal the green "Unhide" link.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabstudy-unhide-swipe.png"></p>
+<p spacebelow=10>Click that link and the list will disappear from this screen and be returned to the appropriate screen where you can interact with it again.</p>
+
+<p spacebelow=10>You can "reset" a parent-list or child-list in the same way, i.e. you can reset all the words in any list so that you will review them again immediately the next time you enable that list.  This removes any delays that you have placed on a word.</p>
+<p spacebelow=10>You do this just like hiding a list, except that you swipe right on the line to reveal the blue "Reset" link.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabstudy-reset.png"></p>
+<p spacebelow=10>Clicking on the "Reset" link will go through that parent-list or child-list and remove any delays on all the words so that they appear immediately the next time you review this list.</p>
+
+<p spacebelow=10>If you want to "hide" or "reset" a single word rather than entire list of words, or if you wish to see when a word is next scheduled to be studied, you can do so by clicking on the blue "Examine X Words" link in each child-list.  This will take you a screen where you can see every word in this child-list (with its gloss and frequency) and when it will next be reviewed.</p>
+
+<p spacebelow=10><img src="binfile:help/images/allwordslines.png"></p>
+<p spacebelow=10>Here we are looking at the first two child-lists from the "All Words in the New Testament by Frequency" parent-list.  The first child-list, "Words appearing 400 or more times" consists of 45 words as you can see by the button which says "Examine 45 words."  Likewise the second child-list, "Words appearing 200 to 399 times", consists of 34 words because the button says "Examine 34 words."</p>
+<p spacebelow=10>Clicking on the Examine button on the first line will bring up a screen detailing all the words in this list.</p>
+<p spacebelow=10><img src="binfile:help/images/examine-all.png"></p>
+<p spacebelow=10>In the above image we are looking at the first three words from the "Words appearing 400 or more times" child-list of the "Words in the New Testament by Frequency" parent-list.  What interests us here is the "Next Review" item in the lower right-hand corner.</p>
+
+<p spacebelow=10>You can see that for first line, "ἀκούω," the next review says "NOW."  So this word has no delay on it and will be included in the list of vocabulary to study next time you enable this child-list for studying.  The second line, "ἀλλά," has "NEVER" as its "Next Review."  So this word is "hidden" and will never be seen again when studying this child-list.  The third line, "ἄνθρωπος" has the date "2023-02-01" for its "Next Review."  This word will not appear in your study list until the 1st of February, 2023.</p>
+
+<p spacebelow=10>You "hide" and "reset" individual words just like lists - swipe left and click the red "Hide" link or swipe right and click the blue "Reset" link.</p>
+<p spacebelow=10><img src="binfile:help/images/hide-word.png"></p>
+<p spacebelow=10>In the above image, we are swiping left to hide the first line, "ἀκούω."</p>
+
+<p spacebelow=10><img src="binfile:help/images/word-hidden.png"></p>
+<p spacebelow=10>And now the first line, "ἀκούω," shows "NEVER" for its "Next Review;" it has been hidden so it will never appear when you study this list.</p>
+
+<p spacebelow=10><img src="binfile:help/images/reset-word.png"></p>
+<p spacebelow=10>In the above image, we are swiping right to reset the second line, "ἀλλά."</p>
+<p spacebelow=10><img src="binfile:help/images/word-reset.png"></p>
+<p spacebelow=10>And now the second line, "ἀλλά," shows "NOW" for its "Next Review;" it has been reset so that it will appear the next time you study this list.</p>
+
+<p spacebelow=10>There is also a "Reset All" link in the upper-right corner of the screen which will reset all the words so they will be seen next time we review this list.  This is the same thing as swiping right on every line in this list and clicking the blue "Reset" link.  After we click on that link, all the words show "NOW" for when they will next be reviewed.</p>
+<p spacebelow=10><img src="binfile:help/images/reset-all.png"></p>
+
+
+
+
+
+
+
