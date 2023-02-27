@@ -33,7 +33,7 @@
 
 <p spacebelow=10>The idea is that as you come to know words better and better, you need to study them less frequently.  So you tell the app to delay showing them to you again until further in the future.  Words you are not as familiar with, you can tell the app to show to you repeatedly, day after day, until you feel confident enough to push it out two days, then four days, etc.  Hopefully this maximizes the benefit of your vocabulary study time.</p>
 
-<p spacebelow=10>You can click away from the vocabulary tutor at any time, using the navigation bar at the bottom of the screen.  The program will pause your session and remember where you are.  Clicking on the Vocabulary icon later will bring you back to where you left off.  You must use the Exit link at the top of the Vocabulary Tutor to end a study session and return to original screens which allow you to choose which lists you wish to study.</p>
+<p spacebelow=10>You can click away from the vocabulary tutor at any time, using the navigation bar at the bottom of the screen.  The program will pause your session and remember where you are.  Clicking on the Vocabulary icon later will bring you back to where you left off.  You can end a session by clicking on the "Exit" link at the top of the screen which will return you to the screen where you choose which vocabulary child lists to study.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabclickaway.png"></p>
 
 <h3>Hiding and Resetting Lists</h3>
