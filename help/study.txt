@@ -1,11 +1,30 @@
 <p spacebelow=10><img src="binfile:help/images/study.png"></p>
-<p spacebelow=10>Clicking on the Study icon brings up the list of major topics you can review.  At present that consists of Vocabulary words and grammatical forms for verbs, nouns, pronouns, adjectives, and the definite article.</p>
+<p spacebelow=10>Clicking on the Study icon brings up the list of major grammatical forms which you can review as well as a Verb Form "Quiz" you can use to test how well you recognize various verbal forms.</p>
 <p spacebelow=10><img src="binfile:help/images/studylist.png"></p>
-<p spacebelow=10>Clicking on any line in this screen will bring up a list of grammatical forms for that part-of-speech.</p>
+<p spacebelow=10>Clicking on any line other than the top line, Verb Forms Review, in this screen will bring up a list of grammatical forms for that part-of-speech.</p>
 <p spacebelow=10><img src="binfile:help/images/studytopic.png"></p>
 <p spacebelow=10>Clicking any of these lines will expand the section so you can review the material.  Clicking in the section does nothing.  These lists are not interactive; they are only for review.</p>
 <p spacebelow=10><img src="binfile:help/images/studyclicked.png"></p>
 <p spacebelow=10>Like on the main Study screen, you can close any section by pressing and holding until the section collapses back to just the title.</p>
+<p spacebelow=10>Clicking on the Verb Form Review line brings up the Verb Form Review screen where you set which different types of verbs you wish to review.</p>
+<p spacebelow=10><img src="binfile:help/images/verbreviewchooser.png"></p>
+<p spacebelow=10>Here you select which verbs you wish to quiz yourself on.  Choose which types of verbs you wish to review from the Verb Type drop-down at the top of the screen.</p>
+<p spacebelow=10><img src="binfile:help/images/verbreviewtype.png"></p>
+<p spacebelow=10>Then click on the appropriate buttons to select which various verb forms you wish to review.  You must choose at least one option from the TENSE, VOICE, and MOOD sections, but you can choose as many as you wish.  Not all options are available if those don exist.  So if you choose only "Imperfect" from the TENSE section, then only "Indicative" will be available in the MOOD section because the "Imperfect" tense has only "Indicative" mood forms.</p>
+<p spacebelow=10>In the following image we have chosen to review Present, Active, Indicative forms of Non-Contract Omega verbs (so no μι verbs and no ἀω, ἐω, or ὀω verbs).
+<p spacebelow=10><img src="binfile:help/images/verbreviewchoosen.png"></p>
+<p spacebelow=10>If you select to review Aorist tense verbs, then you also have to choose which types of Aorist.  You can choose to review all Aorists, only Sigma/Theta (1st) aorists, or only non-Sigma/Theta (2nd) aorists.</p>
+<p spacebelow=10><img src="binfile:help/images/verbreviewaorists.png"></p>
+<p spacebelow=10><i>Please note that the morphological database does not distinguish between 1st and 2nd aorists, so this screen determines it programmatically by looking for the various 1st aorist "σα/θη" stem endings.  This will lead to misclassification occasionally.  For example,  ἔπεσεν, which is the 3rd singular, 2nd aorist active indicative of the verb πίπτω, will be classified as a 1st aorist because of the "σεν" ending.</i></p>
+<p spacebelow=10>Once you have choosen at least one option from the TENSE, VOICE, and MOOD sections, the "Study" link in the upper-right of the screen will become active.  When you click on that link, a list of verbs meeting your criteria will be randomly selected from the database and displayed one at a time.</p>
+<p spacebelow=10><img src="binfile:help/images/verbreviewshow.png"></p>
+<p spacebelow=10>Tap anywhere in the screen to see the information about this verbal form.</p>
+<p spacebelow=10><img src="binfile:help/images/verbreviewshowall.png"></p>
+<p spacebelow=10>You can click away from the review at any time using the icons in the navigation bar at the bottom of the screen.  Your progress is saved.  Clicking on the "Study" icon will put you back where you were.  Click the "Exit" link at the top of the page to return to Verb Forms page where you can select new options.  Since the forms are randomly choosen from the database, simply pressing the "Study" link again will get you a new set of forms to test yourself with.</p>
+<p spacebelow=10>Clicking on the blue Gear icon brings up the setting page for the verb form review.</p>
+<p spacebelow=10><img src="binfile:help/images/verbreviewsettings.png"></p>
+<p spacebelow=10>You can set two options here.  The top option controls how common a verb has to be in order to be included in your review.  The higher you set this number the more you limit the verbs which you will review, but the more common will be the forms you see.  You can set this as low as 1, meaning all verbs in the Greek New Testament, or as high as 150, for which there are only 25 verbs which qualify.</p>
+<p spacebelow=10>The lower option controls how many verbal forms you review in a session.  You can see between 5 and 100 verbs in each review.  For both these sliders you can drag them to a new position, or you can click on either side of the slider to move it by 1 in that direction.  Click the "Done" button to return to the selection screen.</p>
 
 
 
