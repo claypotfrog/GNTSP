@@ -32,7 +32,7 @@
 <p tabstops="70,175">3rd pl	ἵστασαν</p>
 
 <p></p>
-<p  spacebelow="5" tabstops="70,160">		<u><b>FUTURE</u></b></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>FUTURE</u></b></p>
 <p tabstops="70,175">	<u>Indicative</u></p>
 <p tabstops="70,175">1st sg	στήσω</p>
 <p tabstops="70,175">2nd sg	στήσεις</p>
@@ -49,7 +49,7 @@
 <p tabstops="70,160">3rd sg	ἔστησε(ν)	στῇ	στήτω</p>
 <p tabstops="70,160">1st pl	ἐστήσαμεν	στῶμεν	—</p>
 <p tabstops="70,160">2nd pl	ἐστήσατε	στῆτε	στῆτε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἐστήσαν	στῶσι(ν)	στήτωσαν</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	ἔστησαν	στῶσι(ν)	στήτωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">στῆσαι</p>
@@ -73,7 +73,7 @@
 <p tabstops="70,175">3rd sg	ἔστη</p>
 <p tabstops="70,175">1st pl	ἔστημεν</p>
 <p tabstops="70,175">2nd pl	ἔστητε</p>
-<p tabstops="70,175">3rd pl	ἔστησαν</p>
+<p tabstops="70,175" spacebelow="5">3rd pl	ἔστησαν</p>
 
 <p tabstops="70,160"><u>Participle</u></p>
 <p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
@@ -128,8 +128,8 @@
 <p tabstops="70,160">	<u>Indicative</u></p>
 <p tabstops="70,160">1st sg	εἱστήκειν</p>
 <p tabstops="70,160">2nd sg	εἱστήκεις</p>
-<p tabstops="70,160">3rd sg	εἱστήκει,</p>
-<p tabstops="70,160">1st pl	εἱστήκειμεν,</p>
-<p tabstops="70,160">2nd pl	εἱστήκειτε,</p>
-<p tabstops="70,160">3rd pl	εἱστήκεισαν,</p>
+<p tabstops="70,160">3rd sg	εἱστήκει</p>
+<p tabstops="70,160">1st pl	εἱστήκειμεν</p>
+<p tabstops="70,160">2nd pl	εἱστήκειτε</p>
+<p tabstops="70,160">3rd pl	εἱστήκεισαν</p>
 
