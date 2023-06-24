@@ -1,96 +1,163 @@
 <p spacebelow=10><img src="binfile:help/images/vocab.png"></p>
-<p spacebelow=10>Clicking on the Vocabulary Icon brings up the Vocabulary Tutor which includes a number of lists of vocabulary words which you can study.  At present there are four lists of words by frequency and three lists of words based on the chapters of popular first-year Greek textbooks.</p>
+<p spacebelow=10>Clicking on the Vocabulary Icon brings up the Vocabulary Tutor which includes a number of lists of vocabulary words which you can review.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabscreen.png"></p>
-
-<p spacebelow=10>Clicking any of these lines will bring up child-lists of words which you can choose to study from the larger parent vocabulary list.</p>
-<p spacebelow=10><img src="binfile:help/images/vocablist-nocheck.png"></p>
-<p spacebelow=10>By default, none of these child-lists are enabled for study.  Clicking on the "Study These Words" button will toggle whether you wish to include that child-list when you study.  When a child-list is enabled for study, the "Study These Words" button will be "enabled," i.e. white text on a blue background.  Disabled lists will show the button as the normal black text on a gray background.</p>
-
-<p spacebelow=10>In the following image, the child-lists "Words appearing 400 or more times" and "Words appearing 200 to 399 times" are the only lines checked.  With both these child-lists checked, you will be studying all words in the Greek text which appear 200 or more times.</p>
+<p spacebelow=10>At present there are lists of words by frequency and lists of words from first-year Greek textbooks.  But you can create new lists yourself or import lists of words.</p>
+<h3>Reviewing Vocabulary Words</h3>
+<p spacebelow=10>First click on the Vocabulary List you wish to study.  This takes you to the Vocabulary Groups screen for that list.  Here you choose which subsets of vocabulary words you wish to study from entire list.  In the image below, we clicked on the first Vocabulary List, "All Words by Frequency".  You can see the Vocabulary List name at the top of this screen.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-empty.png"></p>
+<p spacebelow=10>By default, none of the vocabulary groups are enabled for review.  Clicking on the "Study These Words" button for any group will toggle whether you wish to include that group when you review this vocabulary list.</p>
+<p spacebelow=10>In the following image, the groups "Words appearing 400 or more times" and "Words appearing 200 to 399 times" are the only groups enabled.  With both these groups enabled, you will be reviewing all words in the Greek text which appear 200 or more times.</p>
 <p spacebelow=10><img src="binfile:help/images/vocablist.png"></p>
-
-<p spacebelow=10>You can enable and disable the child-lists in order to review the collections of vocabulary words which you are interested in.  Once you have decided which child-lists to study and enabled them, the "Study" link in the upper-right corner of the app will become enabled.  Clicking on that link will take you to the Vocabulary Study screen.</p>
-
+<p spacebelow=10>You can enable and disable the groups in order to review the collections of vocabulary words which you are interested in.  Once you have enabled any groups to review, the "Study" link near the top of the screen will become enabled.  Clicking on that link will take you to the Vocabulary Review screen.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabstudy.png"></p>
-<p spacebelow=10>In the Vocabulary Study screen, all the words in all the child-lists which you selected to study are randomized and presented to you one at a time.  At the bottom of the screen the number of words remaining to study are on the left in red and the number of words which you have seen are in blue on the right.</p>
-
+<p spacebelow=10>In the Vocabulary Review screen, all the words in all the groups which you selected to review are randomized and presented to you one at a time.  At the bottom of the screen, the number of words remaining to review is on the left in red and the number of words which you have seen is in blue on the right.</p>
 <p spacebelow=10>After looking at the word and (hopefully) remembering its meaning, click anywhere on the screen to display the gloss and see if you correctly knew the word.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabstudy-show.png"></p>
-<p spacebelow=10>Now the gloss and the number of occurrences in the Greek text are shown as well as the principle parts (of verbs) and any notes which you have attached to this word.</p>
-<p spacebelow=10>At the bottom there will now be four colored buttons from which you need to choose one to tell the app when you wish to next see the word in your studies.</p>
+<p spacebelow=10>The gloss and the number of occurrences in the Greek text are shown as well as the principle parts (of verbs) and any notes which you have attached to this word.</p>
+<p spacebelow=10>At the bottom there will now be four colored buttons from which you need to choose one to tell the app when you wish to next see this word in your studies.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabbuttons.png"></p>
-
-<p spacebelow=10>If you choose the red "Again" button, then the word will be added (randomly) to the end of your study list, and you will see it again during this review session.  If you choose any of the three buttons marked with days, however, then you will not see the word again for that many days.</p>
-
-<p spacebelow=10>So if you choose "1 Day" then you will not see this word again in this session.  But if you study these words again tomorrow, you will again see this word.  Likewise, if you choose the "2 Days" button, then you will not see this word again while studying today, nor will you see it if you study these words tomorrow.  But you will see it when you study these words at least two days from now.</p>
-
+<p spacebelow=10>If you choose the red "Again" button, then the word will be added (randomly) to the end of your review list, and you will see it again during this review session.  If you choose any of the three buttons marked with days, however, then you will not see the word again for that many days.</p>
+<p spacebelow=10>So if you choose "1 Day", then you will not see this word again in this session.  But if you review these words again tomorrow, you will again see this word.  Likewise, if you choose the "2 Days" button, then you will not see this word again while reviewing today, nor will you see it if you review these words tomorrow.  But you will see it when you review these words at least two days from now.</p>
 <p spacebelow=10>The next time you see this word, your choices for how long to delay before seeing the word again will also change.  You will always have the red "Again" button which shows you the word again that same review session.  But for any other time delay you choose greater than 1 day, the next time you see the word, your previous choice will be in the green button, with half that delay to the left of it in the yellow button and twice that delay in the blue button to the right of it.</p>
-
-<p spacebelow=10>So imagine that you choose the "4 Days" button in the above example.  Then the next time that you see the word (four days from now), you will have the following button choices</p>
+<p spacebelow=10>So imagine that you choose the "4 Days" button in the above example.  Then the next time that you see the word (four days from now), you will have the following button choices:</p>
 <p spacebelow=10><img src="binfile:help/images/vocabstudy-4.png"></p>
 <p spacebelow=10>"4 Days" (your previous choice) is in the green button, "2 Days" (half of 4) is in the yellow button, and "8 Days" (twice 4) is in the blue button.  If you were to choose "4 Days" again, then you will see this same configuration of buttons when next you see this word.  If you were to choose "2 Days", however, then the next time you see the word (two days from now) you will see the same buttons you saw before - "1 Day", "2 Days", and "4 Days".  If you were to choose "8 Days", on the other hand, then the next time you see the word (in 8 days) you will see the following buttons.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabstudy-8.png"></p>
-
-<p spacebelow=10>The idea is that as you come to know words better and better, you need to study them less frequently.  So you tell the app to delay showing them to you again until further in the future.  Words you are not as familiar with, you can tell the app to show to you repeatedly, day after day, until you feel confident enough to push it out two days, then four days, etc.  Hopefully this maximizes the benefit of your vocabulary study time.</p>
-
-<p spacebelow=10>You can click away from the vocabulary tutor at any time, using the navigation bar at the bottom of the screen.  The program will pause your session and remember where you are.  Clicking on the Vocabulary icon later will bring you back to where you left off.  You can end a session by clicking on the "Exit" link at the top of the screen which will return you to the screen where you choose which vocabulary child lists to study.</p>
-<p spacebelow=10><img src="binfile:help/images/vocabclickaway.png"></p>
-
-<h3>Hiding and Resetting Lists</h3>
-
-<p spacebelow=10>There may come a time, however, when you feel that you have pushed a word too far out and need to study it again sooner.  Or there may be entire lists (child or parent) of words that you no longer want even to see on your screen so you no longer need to scroll past it.  You can accomplish both these tasks at all levels of the app.  You can "hide" (so you never see it again) or "reset" (so you see it immediately) any parent-list, child-list, or individual word.</p>
-
-<p spacebelow=10>You "hide" and "reset" parent-lists and child-lists on their respective screens in the app.  So imagine that you are studying child-lists in the "Verbs by Frequency" parent-list and are perfectly confident about all verbs in the child-list "Verbs appearing 150 or more times."  You wish to hide this list so you don't see it on the child-list screen anymore.  You do this by swiping left on that line to reveal the red "Hide" link.</p>
-<p spacebelow=10><img src="binfile:help/images/vocabstudy-hide.png"></p>
-<p spacebelow=10>Click on the "Hide" link and that child-list will be removed from the screen.</p>
-<p spacebelow=10><img src="binfile:help/images/vocabstudy-hidden.png"></p>
-
-<p spacebelow=10>The same can be accomplished for parent-lists on the main "Vocabulary List" screen.  Swipe left to reveal the "Hide" link, click on this link, and that entire parent-list will be removed.</p>
-<p spacebelow=10><img src="binfile:help/images/hide-parent-list.png"></p>
-
-<p spacebelow=10>You can restore a hidden parent-list or child-list at any time on the "Hidden Lists" tab of the Vocabulary Lists screen.</p>
-
-<p spacebelow=10><img src="binfile:help/images/hiddenlists.png"></p>
-<p spacebelow=10>In the above image, we have hidden the parent-list, "Adjectives in the New Testament by Frequency", as well as two child-lists, "Words appearing more than 400 times" and "Words appearing 200 to 299 times".  You can tell that the bottom two items are child-lists because they are in italics.  To see which parent-list a child-list belongs to, press and hold anywhere on the row until the name of the parent appears.  The display will disappear as soon as you stop pressing.</p>
-<p spacebelow=10><img src="binfile:help/images/unhide-tooltip.png"></p>
-
-<p spacebelow=10>To unhide a list, swipe left or right to reveal the green "Unhide" link.</p>
-<p spacebelow=10><img src="binfile:help/images/vocabstudy-unhide-swipe.png"></p>
-<p spacebelow=10>Click that link and the list will disappear from this screen and be returned to the appropriate screen where you can interact with it again.</p>
-
-<p spacebelow=10>You can "reset" a parent-list or child-list in the same way, i.e. you can reset all the words in any list so that you will review them again immediately the next time you enable that list.  This removes any delays that you have placed on a word.</p>
-<p spacebelow=10>You do this just like hiding a list, except that you swipe right on the line to reveal the blue "Reset" link.</p>
-<p spacebelow=10><img src="binfile:help/images/vocabstudy-reset.png"></p>
-<p spacebelow=10>Clicking on the "Reset" link will go through that parent-list or child-list and remove any delays on all the words so that they appear immediately the next time you review this list.</p>
-
-<p spacebelow=10>If you want to "hide" or "reset" a single word rather than entire list of words, or if you wish to see when a word is next scheduled to be studied, you can do so by clicking on the blue "Examine X Words" link in each child-list.  This will take you a screen where you can see every word in this child-list (with its gloss and frequency) and when it will next be reviewed.</p>
-
-<p spacebelow=10><img src="binfile:help/images/allwordslines.png"></p>
-<p spacebelow=10>Here we are looking at the first two child-lists from the "All Words in the New Testament by Frequency" parent-list.  The first child-list, "Words appearing 400 or more times" consists of 45 words as you can see by the button which says "Examine 45 words."  Likewise the second child-list, "Words appearing 200 to 399 times", consists of 34 words because the button says "Examine 34 words."</p>
-<p spacebelow=10>Clicking on the Examine button on the first line will bring up a screen detailing all the words in this list.</p>
-<p spacebelow=10><img src="binfile:help/images/examine-all.png"></p>
-<p spacebelow=10>In the above image we are looking at the first three words from the "Words appearing 400 or more times" child-list of the "Words in the New Testament by Frequency" parent-list.  What interests us here is the "Next Review" item in the lower right-hand corner.</p>
-
-<p spacebelow=10>You can see that for first line, "ἀκούω," the next review says "NOW."  So this word has no delay on it and will be included in the list of vocabulary to study next time you enable this child-list for studying.  The second line, "ἀλλά," has "NEVER" as its "Next Review."  So this word is "hidden" and will never be seen again when studying this child-list.  The third line, "ἄνθρωπος" has the date "2023-02-01" for its "Next Review."  This word will not appear in your study list until the 1st of February, 2023.</p>
-
-<p spacebelow=10>You "hide" and "reset" individual words just like lists - swipe left and click the red "Hide" link or swipe right and click the blue "Reset" link.</p>
-<p spacebelow=10><img src="binfile:help/images/hide-word.png"></p>
-<p spacebelow=10>In the above image, we are swiping left to hide the first line, "ἀκούω."</p>
-
-<p spacebelow=10><img src="binfile:help/images/word-hidden.png"></p>
-<p spacebelow=10>And now the first line, "ἀκούω," shows "NEVER" for its "Next Review;" it has been hidden so it will never appear when you study this list.</p>
-
-<p spacebelow=10><img src="binfile:help/images/reset-word.png"></p>
-<p spacebelow=10>In the above image, we are swiping right to reset the second line, "ἀλλά."</p>
-<p spacebelow=10><img src="binfile:help/images/word-reset.png"></p>
-<p spacebelow=10>And now the second line, "ἀλλά," shows "NOW" for its "Next Review;" it has been reset so that it will appear the next time you study this list.</p>
-
-<p spacebelow=10>There is also a "Reset All" link in the upper-right corner of the screen which will reset all the words so they will be seen next time we review this list.  This is the same thing as swiping right on every line in this list and clicking the blue "Reset" link.  After we click on that link, all the words show "NOW" for when they will next be reviewed.</p>
-<p spacebelow=10><img src="binfile:help/images/reset-all.png"></p>
-
-
-
-
-
-
-
+<p spacebelow=10>The idea is that as you come to know words better and better, you need to review them less frequently.  So you tell the app to delay showing them to you again until further in the future.  Words you are not as familiar with, you can tell the app to show to you repeatedly, day after day, until you feel confident enough to push it out two days, then four days, etc.  Hopefully this maximizes the benefit of your vocabulary study time.</p>
+<p spacebelow=10>In the upper-left of the screen, is a blue (triangle) Back icon.  Clicking that icon will take you back to the previous word so you can change the delay interval.  Your choice now will overwrite your previous choice.  You can go back as many words as you wish in this session, all the way back to the first word.  But you will need to choose a delay again for each word; there's no way to "jump" back to where you were in the list.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabstudy-back.png"></p>
+<p spacebelow=10>You can click away from the vocabulary tutor at any time using the navigation bar at the bottom of the screen.  The program will pause your session and remember where you are.  Clicking on the Vocabulary icon later will bring you back to where you left off.  You end a session by clicking on the "Exit" link at the top of the screen which will return you to the screen where you choose which vocabulary groups to review.</p>
+<h3>Editing Vocabulary Lists</h3>
+<p spacebelow=10>Back on the main Vocabulary List screen, click on "Edit" in the upper-right corner to put the lists into EDIT mode.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-edit.png"></p>
+<p spacebelow=10>While in EDIT mode, click on any list title to rename it.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-rename.png"></p>
+<p spacebelow=10>You can click and drag any line's reorder bars (the three gray horizontal lines on the right side) to reorder the list.  In the image below, we have dragged the first line of the list, "All Words by Frequency", to make it the second line of the list.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-reorder.png"></p>
+<p spacebelow=10>Clicking on the adjust button (the red half circle on the left side) will bring up more options for that list.  In the image below we have clicked on the adjust button of the second line "All Verbs by Frequency" which brings up the "Export, "Reset", and "Delete" buttons for that list.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-showoptions.png"></p>
+<h3>Export a List</h3>
+<p spacebelow=10>Clicking the green "Export" button will export this vocabulary list to a file so that you can share the list and import it into the app on another machine.  If you are on a desktop then you'll be prompted to save the vocabulary list just like any other file.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-export-desktop.png"></p>
+<p spacebelow=10>If you are on a mobile platform, then you will be prompted to transfer the file.  Which methods are available for transferring the file will depend on how your mobile device is set up.  If you have email on your device, then you can transfer the file as an email message.  A new email will be created with the vocabulary list as the text of the message as well as attached as a ".txt" file.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-export-mobile.png"></p>
+<h3>Reset a List</h3>
+<p spacebelow=10>Clicking on the blue "Reset" button will reset all the words in that vocabulary list so that you will review them again immediately the next time you review any words from this list. <i>(See the section below on Reviewing Vocabulary Words.)</i></p>
+<p spacebelow=10><img src="binfile:help/images/vocab-reset.png"></p>
+<h3>Delete a List</h3>
+<p spacebelow=10>Clicking on the red "Delete" button will delete this entire vocabulary list.  Once deleted, a list cannot be recovered.  <i>(You can, however, export a list, then restore it by importing it again from the exported file.)</i></p>
+<p spacebelow=10>Click anywhere else in order to return to the normal EDIT mode screen.</p>
+<h3>Creating New Vocabulary Lists</h3>
+<p spacebelow=10>Click on the blue plus sign ("+") in the upper-left to create a new list.  There are two ways to create a new list: create the list by hand or import the list using the exported vocaubulary list file creating using the "Export" button above.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-create.png"></p>
+<p spacebelow=10>If you choose "Create New List", then enter a name for the new list in the dialog box which appears.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-new.png"></p>
+<p spacebelow=10>The new list will be added to bottom of the vocabulary lists, but you can reorder it at any time by dragging its reorder bars into a new position.</p>
+<p spacebelow=10>A new vocabulary list is empty by default.  You must add manually Groups of words you wish to review. <i>(See below.)</i></p>
+<p spacebelow=10>If you choose "Import List", then you must paste the text of the exported vocabulary list file you created using the "Export" button into the dialog box that appears.  Be sure that you only paste in the text from the export file.  <i>(If you are on a desktop, you can right-click the field to bring up an "Open File" dialog where you can select an exported vocabulary file.  The text of the file will be placed in the import field.)</i></p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-import.png"></p>
+<p spacebelow=10><i>Please note that the import field can be edited, so you can change any of the lines to change the name of the list, the name of the groups, etc.  But if you alter the format of the lines, the list will not import correctly.</i></p>
+<p spacebelow=10>Click the "Import" button and the exported list will be imported into your database.  The imported list will be added to bottom of the vocabulary lists, but you can reorder it at any time by dragging its reorder bars into a new position.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-import-done.png"></p>
+<p spacebelow=10>Once you have finished editing, click the "Done" button in the upper-right to go back to the main Vocabulary Lists screen.</p>
+<p spacebelow=10><img src="binfile:help/images/vocabscreen.png"></p>
+<h3>Working with Vocabulary Groups in a List</h3>
+<p spacebelow=10>Clicking any line in the Vocabulary Lists screen will bring up the Vocabulary Groups of words for this Vocabulary list.  Here is where you can create and edit Groups of words, as well as enable different Groups of words to review.</p>
+<p spacebelow=10>The name of the main vocabulary list you are viewing will be in the title bar of this screen.  In the image below we have clicked on the "All Words by Frequency" list from the Vocabulary Lists page and gone to the Vocabulary Groups screen.</p>
+<p spacebelow=10><img src="binfile:help/images/vocablist-nocheck.png"></p>
+<p spacebelow=10>Clicking on "Edit" in the upper-right will put the list into EDIT mode which operates just like it does in the parent Vocabulary Lists screen.  You can click on the Group name to rename it, click and drag the reorder bars to move a Group of words to a new position in the list, and click on the adjust button to Export, Reset, or Delete the Group.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-edit.png"></p>
+<p spacebelow=10>The Export, Reset, and Delete button work just like they do for Vocabulary List screen except that operate only on this group.  So if you export a group, then only the words in this group will be exported.  <i>(See the section on creating new groups below for instructions how to import a group using the exported words.)</i></p>
+<h3>Creating Vocabulary Groups in a List</h3>
+<p spacebelow=10>You create a new Group of words by clicking the blue plus sign ("+") in the upper-left.  Here we will name the new group and assign vocabulary words to it.</p>
+<p spacebelow=10>In the image below, we are working in the vocabulary list "All Words by Frequency".  <i>(You see the vocabulary list name in the title bar.)</i></p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-create.png"></p>
+<p spacebelow=10>There are two ways to add vocabulary words to a new vocabulary group.  You can select words en masse by frequency or you can enter individual words.</p>
+<h3>Create Group by Frequency</h3>
+<p spacebelow=10>To create a new group based on word frequency, select the tab labeled "Select Words by Frequency" immediately below the title we just entered. <i>(This is the default choice when you create a new list.)</i></p>
+<p spacebelow=10>Then from the drop-down menu labeled "Select words from:" we choose "All Books".  But we could also select any individual book from which to select words.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-bookmenu.png"></p>
+<p spacebelow=10>Then from the drop-down menu labeled "Select word types:" we choose "All Words".  But again we could limit our selection to only verbs, only nouns, only adjectives, or only "miscellaneous" (which is everything other than verbs, nouns, and adjectives).</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-typemenu.png"></p>
+<p spacebelow=10>Next we choose the frequency of words which we want to select.  We can set a minimum frequency and a maximum frequency.  These are the frequencies of words in our selected books.  If we choose "All Books" then this is the frequency of words in the whole New Testament.  But if we had choosen the book of "Luke" then this would be the frequency of words found in the book of "Luke".</p>
+<p spacebelow=10>In this case we want words which appear exactly nine times, so we set the minimum and maximum both to 9.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-frequency.png"></p>
+<p spacebelow=10><i>(If you want a minimum with no maximum, i.e., you want all words that appear at least 250 times with no upper limit, drag the maximum slider all the way to the right and it will say "All" instead of a number.)</i></p>
+<p spacebelow=10>Once we've set up our frequency options, we click the blue "Create List" link below the frequency sliders.  The grid at the bottom will populate with all the words that meet the criteria you set.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-createlist.png"></p>
+<p spacebelow=10>Here you can see that there are 97 words in the New Testament which appear exactly 9 times.  You can scroll through the list to see all the words.  You can also delete individual words from the list by clicking on the red trash can to the right of each line.</p>
+<p spacebelow=10>You can clear the entire list by clicking the "Clear List" link.  You can also change your criteria and click "Create List" again to recreate the list.  But note that every time you click "Create List", a new list is created which overwrites the old list.</p>
+<p spacebelow=10>Once you have the list you want, click the blue "Save" link in the upper-right.  This will open up the "Create" dialogue where you will give the group a name and decide if you want to split the words into multiple groups to make studying more manageable.</p>
+<p spacebelow=10>In this case, I've titled this new group "All Words appearing 9 times".</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-savedlg-title.png"></p>
+<p spacebelow=10>Below the Name field, you can choose to split all these words into multiple groups. As you can see, if you hit the "Create" button now, it will create one group of all 97 words.  But if you slide the scrollbar over, you can create more groups of fewer words.  As you slide the scrollbar, you'll see how many groups you can create and how many words would be in each group.  We could, if we wanted, create 97 groups each containging only one word.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-savedlg-oneword.png"></p>
+<p spacebelow=10>Let's create two groups so that each has half the words.  This way we don't have to study all 97 words at the same time.  We can study one group or the other.  And of course, we can always enable both groups to study all 97 words whenever we want.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-savedlg-twogroups.png"></p>
+<p spacebelow=10>Once you've choosen to create more than one group, the "Split Groups By" dropdown menu will become enabled.  You can create your groups splitting them by their name, by their count, or randomly.  I've chosen to split them randomly into two groups.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-savedlg-random.png"></p>
+<p spacebelow=10>Click the "Create" button and the group(s) will be created.  The new group(s) you created will be at the bottom of the list.  If you created multiple groups, then then each group will have a number appended to the name.  So the two groups we created are called "All words appearing 9 times-01" and "All words appearing 9 times-02". Of course, you can click the "Edit" button and rename and/or reorder these groups as you like.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-newlistcreated.png"></p>
+<h3>Create Group of Individual Words</h3>
+<p spacebelow=10>You can also create a vocabulary group by typing (or pasting) words directly.  This time, instead of creating a group based on word frequency, we will create a group by typing in words directly.  In the Vocabulary Groups screen click on "Edit", then click the plus sign ("+") to create a new list.  Then click the "Enter Words" tab below the group name rather than the "Select Words by Frequency" tab like we used last time.  Now your screen will look like this.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-import.png"></p>
+<p spacebelow=10>You can type directly into this large "import" field that has the "Gr" symbol in it.  The "Gr" means that your keyboard will type in Greek letters.  You can see which English letters correspond to which Greek letters by pressing the dollar sign ("$").  This will bring up the Greek to English keyboard map.  Click anywhere on the keyboard map to close it.  <i>(On Desktop versions you can also press the spacebar to close the keyboard map.)</i></p>
+<p spacebelow=10><img src="binfile:help/images/vocab-map.png"></p>
+<p spacebelow=10>If you want to type a dollar sign itself ("$") in the import field, then simply type the dollar sign twice.  The first time will show the keyboard map but the second will hide the map and print a "$" in the field.</p>
+<p spacebelow=10>When entering words, you do not need to type any diacritics; the program will search for words without any diacritics.  But as you can see, you can type diacritcs if you want to.  <i>(See the section on <b>Adding Special Entries</b> for times you may want to type Greek words with diacritcs.)</i></p>
+<p spacebelow=10>In the image below we have typed in "καλος" and "αγαθος" which are the two common Greek words "καλός" and "ἀγαθός" but without any diacritics.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-import-typewords.png"></p>
+<p spacebelow=10>Once you have typed in your words, click the "Add Words" link below the field.  (This is where the "Create List" link is when creating a list by frequency.)  The program will search for Greek words which match what you have entered and, assuming it finds them, will populate the list with these words, removing them from the import field where you typed them.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-import-addwords.png"></p>
+<p spacebelow=10>You can continue entering and adding words to your list this way.  Unlike the "Create List" link, the "Add Words" link will not overwrite the exiting list.  It will add new words to the list.  <i>(It will not, however, add the same word multiple times.  Duplicates will be silently ignored.)</i></p>
+<p spacebelow=10>If the program cannot find a word that matches what you typed, then you will be notified and that line will be left in the import field so you can edit it and try again.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-bad-entry.png"></p>
+<p spacebelow=10>If, on the other hand, a word you typed has multiple possible Greek words, all the words will be added and you will be notified so you can delete the words you do not want.  For example, if you enter "εις", that could be the Greek number "εἷς" ("one") or the preposition "είς" ("into").  Both will added to your list and you can scroll down and delete the one you do not want.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-multiples.png"></p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-add-multiples.png"></p>
+<p spacebelow=10>You can also paste words into the import field rather than type them yourself.  <i>(If you have exported a group of words, you can paste that list of words into this field to add them to this new group.)</i>  Words can be pasted in with or without diacritics.  <i>(If you are on a desktop, you can right-click the field to bring up an "Open File" dialog where you can select a file.  The text of the file will be placed in the import field.)</i></p>
+<p spacebelow=10>If you enter words with diacritics, then they must match exactly with the form of the word in the dictionary.  For example, if you enter "εἵς" forgetting that the Greek numeral has a circumflex instead of an accute accent, then the program will not recognize that word.  <i>(If you are pasting words in from a group you previously exported, then they will match exactly since all the words came out of the database originally.)</i></p>
+<p spacebelow=10>In addition, if you paste in entries, make sure you are using Greek Unicode characters.  There are other Unicode character sets which have Greek letters, but while they look similar to us humans, they are totally different to a computer.  "α" is the Unicode Greek letter Alpha.  "𝝰" is the Unicode mathmatical symbol Alpha.  The program will not recoginze the second symbol eventhough it is a version of the letter Alpha and looks the same to us humans. <i>(If you type words in using the app, then you don't have to worry about this.  The app always uses the correct Unicode characters.)</i></p>
+<p spacebelow=10>If you are working on a desktop, then you can copy and paste straight into the import field.  But if you are on mobile, then you cannot paste directly into the field.  Instead, press the "@" key.  This will bring up a mobile text field that you can paste into.  When you click OK, the lines will be transfered to the import field.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-paste.png"></p>
+<p spacebelow=10>Click the "Add Words" link to verify these words and add them to your list.  Once you have entered all the words you wish for this vocabulary group, then click the "Save" link in the upper-right to create the list containing these words.  You'll be taken to the Save dialogue to give this new group a name as well as split it into multiple groups if prefer.</p>
+<h3>Adding Special Entries</h3>
+<p spacebelow=10>The import field also has one other "special" ability.  It allows you to create vocabulary entries which do not match dictionary words.  Right now, we have only added dictionary words, and the program automatically fills in the definition, word count, etc.  But many vocabulary lists want you to study irregular forms.  So there will be an entry for "ἦλθον" which is the aorist of "ἔρχομαι".  In order to enter a form which is not a dictionary word, you use a special syntax in the import field.</p>
+<p spacebelow=10>You need to make three separate entries, each separated by "::".  The first entry is the dictionary word you want to associate this entry with.  The second is the entry you wish to create, and the third is the "definition" you want associated with this entry.  So in our example above, to create an entry for "ἦλθον" we would enter:</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-import-special.png"></p>
+<p spacebelow=10>When you click the "Add Words" link, you will see the entry in the grid does not have the dictionary entry for "ἔρχομαι" but rather the "entry" and "definition" which you created separated by "::".  When you click the "Save" link, this will create the entry "ἦλθον" with the definition "aorist of ἔρχομαι".</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-special-added.png"></p>
+<p spacebelow=10>The dictionary word (the first entry) does not need to contain diacritcs since the program will search for it with or without them.  The two other entries can be anything you want, so make sure that they appear the way you want.  The program does no checking on entries you create yourself.</p>
+<p spacebelow=10>In order to type this line, you may wish to include diacritics in your Greek word, and you may want to type in English to add descriptions.  You can add diacritics to vowels using special "control characters", "[ ( ] ) / 1 \ 2 = 3". <i>(Remember that pressing the dollar sign ("$") will bring up the keyboard map which includes these diacritics.)</i></p>
+<p spacebelow=10>You can type breathings, "[" or "(" for rough and "]" or ")" for smooth, and accents, "/" or "1" for accute, "\" or "2" for grave, and "=" or "3" for circumflex in front of any vowel.  So if you want an omega with a smooth breathing and a circumflex accent, you would type ")=w" or "]=w".  The order of the diacritcs does not matter.  You could type "=]w" and get the same result.  All that matters is that the verb be typed last.  Nothing will appear until after you type the vowel at which point the character "<b>ὦ</b>" will appear.  The control characters do not appear when you type.  If you type anything other than a vowel immediately after these characters, then they will silently discarded.  If you want to type any of the control characters and have it appear, type a space (" ") immediately after the character.  So "( " will type "(", "3 " will type "3", etc.</p>
+<p spacebelow=10><i>(Please note that the app does not check that what you typed makes sense in Greek.  You can type breathings on characters at any place in a word, you can put an accent on every vowel in a word, etc.  The keyboard allows you to type whatever you want in Greek; it doesn't check what you type.)</i></p>
+<p spacebelow=10>You can also switch your keybaord back to type in English (or whatever your native keyboard language is) by pressing the ampersand key ("&").  <i>(Desktop versions can also press the Tab key.)</i>  Pressing the "&" key repeatedly toggles the keyboard back and forth between Greek and English.  The keyboard language will be displayed in the watermark of the import field, "Gr" for Greek and "En" for English.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-import-english.png"></p>
+<p spacebelow=10>You can cancel the creation of a new group at any time by clicking the "back" arrow in the upper-left.  This will return you to the vocabulary groups screen.  Any changes you have made in the groups creator will be forgotten.  The only exception is the import field.  While canceling the creation of a new group will remove any words you have added to that list, anything you have typed into the import field will still be there next time you create a new list.</p>
+<h3>Editing Vocabulary Groups</h3>
+<p spacebelow=10>Once you have created a vocabulary group, you can add and delete words in this group by clicking on the link which says "Examine X Words" where "X" tells you the number of words the list contains.  If you look at the new group we made above called "Words appearing 9 times", you'll see that it contains 97 words.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-viewwords.png"></p>
+<p spacebelow=10>Clicking on the "Examine" link will show you all the words which are in this group listed alphabetically.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-showall.png"></p>
+<p spacebelow=10>Here you see all the words in this vocabulary group along with their defintions, how many times that word appears in the entire New Testament, and (most importantly for this screen) when we will next see this word when we are reviewing this group.  By default, all words in a group are set to "Next Review" is "NOW".  But as you review vocabulary words, you will decide when you next want to see each word depending on how well you know it.  <i>(See the following section on Reviewing Vocabulary Words.)</i></p>
+<p spacebelow=10>So in the image above, you can see that the word ἄβυσσος will not be reviewed again until May 30, 2023, Ἀδάμ will not be reviewed again until June 1, 2023, and so on.  αἵρεσις, on the other hand, will be reviewed again the next time you review the words in this group because its Next Review date is "NOW".</p>
+<p spacebelow=10>The "Edit" link will put this list into EDIT mode just like on the other screens.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-showall-edit.png"></p>
+<p spacebelow=10>EDIT mode works similarly here as it does on the other screens.  You cannot, however reorder the words,nor can you export a single word.  The words in this screen are always in alphabetical order.  When you review words, they are always presented to you randomly.  And you cannot "rename" a word like you can a list or group.  Words can be added or deleted, but not renamed.</p>
+<p spacebelow=10>Like EDIT mode for other screens, clicking on the red adjust button will bring up the "Reset" and "Delete" buttons.  "Delete" will remove that word from this vocabulary group.  <i>(It never removes words from the database or from other groups; it only removes them from this group.)</i></p>
+<p spacebelow=10>"Reset" will reset the "Next Review" date to be "NOW".  In the following image you can see that we have "reset" the words ἄβυσσος and Ἀδάμ so they will be reviewed again the next time we study this group, and we have deleted the word ἄζυμος completely from the list.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-showall-reset.png"></p>
+<p spacebelow=10>You can also add words to this vocabulary group by clicking the blue plus sign ("+") in the upper-left.  This will bring up the same screen you saw previously when you created a new vocabulary group except that it only allows you to add words by entering them directly, not by selecting them by frequency.</p>
+<p spacebelow=10>In the image below you see that we are adding words to the group "All words appearing 10 times" as that name appears at the top of the screen.  <i>(You cannot edit the name her; you edit group names in the Vocabulary Groups screen.)</i>  And the tabs to change between creating a list by frequency and by entering words directly is grayed out because you cannot add words to an existing list by frequency.  You must create a new list to do that.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-childlist-addwords.png"></p>
+<p spacebelow=10>You enter new words here exactly as described above.  Once all the words you wish to add have been added to the grid in the lower-half of the screen, click the "Save" link in the upper-right.  Since you are adding words to an existing group, the program will not ask you for a group name or allow to split the words into multiple groups.  They will all be added to the group you are editing and you will be returned the group details screen.  <i>(Only new words will be added to the list.  If you try to add words that already exist in that list, they will be silently ignored.)</i></p>
+<p spacebelow=10>When you are done editing the group, click the "Done" button to return to the normal Vocabulary Groups screen.</p>
+<h3>A Note About Warnings</h3>
+<p spacebelow=10>If you do a lot of work creating and/or deleting vocabulary lists and groups, then you are going to see a lot of warnings.  Every time you delete anything, the progam will ask you for confirmation because deletions are permenant.  But if you are deleting a lot, this can get tiresome.  You can turn the delete warnings off by going to the Search Page, changing the Search drop-down to "English Definitions" and typing "warnings:delete:off" into the search field.</p>
+<p spacebelow=10><img src="binfile:help/images/warnings-delete-off.png"></p>
+<p spacebelow=10>Now the program will never ask for confirmation for a vocabulary deletion.  Press "Delete" and it's gone.  This change remains the default every time you run the program.  If you want to turn the warnings back on, you must do so manually by typing "warnings:delete:on" into that same field.</p>
+<p spacebelow=10><img src="binfile:help/images/warnings-delete-on.png"></p>
+<p spacebelow=10>In addition, if you create a number of vocabulary groups by typing or pasting words in directly, every time you click the "Add Words" link, if there are any words in the import field which the app cannot identify, then you will receive a warning and those words will remain in the import field.  You can also turn this warning off by going to the Search Page, changing the Search drop-down to "English Definitions" and typing "warnings:import:off" into the search field.</p>
+<p spacebelow=10><img src="binfile:help/images/warnings-import-off.png"></p>
+<p spacebelow=10>As with turning off the delete warnings, this change remains the default every time you run the program.  If you want to turn the warnings back on, you must do so manually by typing "warnings:import:on" into that same field.</p>
+<p spacebelow=10><img src="binfile:help/images/warnings-import-on.png"></p>

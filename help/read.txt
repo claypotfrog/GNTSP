@@ -10,12 +10,9 @@
 <p spacebelow=10><img src="binfile:help/images/wordclick.png"></p>
 <p spacebelow=10>Clicking on the blue dialogue box itself will bring up the Details screen for this particular (dictionary) word.</p>
 <p spacebelow=10><img src="binfile:help/images/wordpage.png"></p>
-<p spacebelow=10>Here you will see the word's dictionary entry at the top as well as its part-of-speech, its gloss, the number of times it occurs (in any form) in the Greek text, and the number of different forms in which it appears in the text.  If you have added any notes to this word, they will appear here.  Also, if the word appears in any vocabulary lists, you will see that information here as well.</p>
-
+<p spacebelow=10>Here you will see the word's dictionary entry at the top as well as its part-of-speech, its gloss, the number of times it occurs (in any form) in the Greek text, and the number of different forms in which it appears in the text.  If you have added any notes to this word, they will appear here.</p>
 <p spacebelow=10>In addition, if the word is a verb, then its principle parts (if they have been entered in the database) will be displayed here as well.</p>
 <p spacebelow=10><img src="binfile:help/images/lego.png"></p>
-
 <p spacebelow=10>All of these lines can be clicked on to bring up more information or to allow editing.  <i>See the <b>Details</b> section for more information about the functions of this screen.</i></p>
-
 <p spacebelow=10>Click the back arrow in the upper-left corner or the "Read" icon at the bottom of the screen to return to the Read screen from this Details screen.  When you do, this word (in all forms) will be highlighted in the book where you are reading.  You can remove the highlighting by pressing and holding anywhere on the text screen until the highlights disappear.  Or, just for fun, you can shake the device and all the highlighting will disappear.</p>
 <p spacebelow=10><img src="binfile:help/images/hilited.png"></p>
