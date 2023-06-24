@@ -10,7 +10,7 @@
 <p tabstops="80,200">gen.	ἀληθῶν	ἀληθῶν</p>
 <p tabstops="80,200">dat.	ἀληθέσι(ν)	ἀληθέσι(ν)</p>
 <p tabstops="80,200">acc.	ἀληθεῖς	ἀληθῆ</p>
-<p spacebelow="5" tabstops="80,180">voc.	ἀληθεῖς	ἀληθῆ</p>
+<p spacebelow="5" tabstops="80,200">voc.	ἀληθεῖς	ἀληθῆ</p>
 
 <p spacebelow="5" tabstops="70,160"><u><b>endings in –(ί)ων –(ι)ον</u></b></p>
 <p tabstops="80,200">Singular	<u>Masc./Fem.	Neut.</u></p>

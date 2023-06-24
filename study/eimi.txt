@@ -1,12 +1,19 @@
 <p  spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	εἰμί	ὦ	—</p>
-<p tabstops="70,160">2nd sg	εἶ	ᾖς	ἴσθι	</p>
-<p tabstops="70,160">3rd sg	ἐστί(ν)	ᾖ	ἔστω	</p>
-<p tabstops="70,160">1st pl	ἐσμέν	ὦμεν	—	</p>
-<p tabstops="70,160">2nd pl	ἐστέ	ἦτε	ἔστε	</p>
-<p tabstops="70,160">3rd pl	εἰσί(ν)	ὦσι(ν)	ἔστων /</p>
-<p spacebelow="5" tabstops="70,160">			ἔστωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	εἰμί	ὦ</p>
+<p tabstops="75,175">2nd sg	εἶ	ᾖς</p>
+<p tabstops="75,175">3rd sg	ἐστί(ν)	ᾖ</p>
+<p tabstops="75,175">1st pl	ἐσμέν	ὦμεν</p>
+<p tabstops="75,175">2nd pl	ἐστέ	ἦτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	εἰσί(ν)	ὦσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	εἴην	—</p>
+<p tabstops="75,175">2nd sg	εἴης	ἴσθι</p>
+<p tabstops="75,175">3rd sg	εἴη	ἔστω</p>
+<p tabstops="75,175">1st pl	εἶμεν	—</p>
+<p tabstops="75,175">2nd pl	εἶτε	ἔστε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	εἶεν	ἔστων / ἔστωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">εἶναι</p>

@@ -1,11 +1,18 @@
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἔβαλον	βάλω	—</p>
-<p tabstops="70,160">2nd sg	ἔβαλες	βάλῃς	βάλε</p>
-<p tabstops="70,160">3rd sg	ἔβαλε(ν)	βάλῃ	βαλέτω</p>
-<p tabstops="70,160">1st pl	ἐβάλομεν	βάλωμεν	—</p>
-<p tabstops="70,160">2nd pl	ἐβάλετε	βάλητε	βάλετε</p>
-<p tabstops="70,160">3rd pl	ἔβαλον/αν	βάλωσι(ν)	βαλόντων /	</p>
-<p spacebelow="5" padding="0" tabstops="70,160">			βαλέτωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἔβαλον	βάλω</p>
+<p tabstops="75,175">2nd sg	ἔβαλες	βάλῃς</p>
+<p tabstops="75,175">3rd sg	ἔβαλε(ν)	βάλῃ</p>
+<p tabstops="75,175">1st pl	ἐβάλομεν	βάλωμεν</p>
+<p tabstops="75,175">2nd pl	ἐβάλετε	βάλητε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἔβαλον/αν	βάλωσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	βάλοιμι	—</p>
+<p tabstops="75,175">2nd sg	βάλοις	βάλε</p>
+<p tabstops="75,175">3rd sg	βάλοι	βαλέτω</p>
+<p tabstops="75,175">1st pl	βάλοιμεν	—</p>
+<p tabstops="75,175">2nd pl	βάλοιτε	βάλετε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	βάλοιεν	βαλέτωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">βαλεῖν</p>

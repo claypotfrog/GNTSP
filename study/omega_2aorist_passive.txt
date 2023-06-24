@@ -1,10 +1,18 @@
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἐγράφην	γραφῶ	—</p>
-<p tabstops="70,160">2nd sg	ἐγράφης	γραφῇς	γράφητι</p>
-<p tabstops="70,160">3rd sg	ἐγράφη	γραφῇ	γραφήτω</p>
-<p tabstops="70,160">1st pl	ἐγράφημεν	γραφῶμεν	—</p>
-<p tabstops="70,160">2nd pl	ἐγράφητε	γραφῆτε	γράφητε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἐγράφησαν	γραφῶσι(ν)	γραφέντων</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἐγράφην	γραφῶ</p>
+<p tabstops="75,175">2nd sg	ἐγράφης	γραφῇς</p>
+<p tabstops="75,175">3rd sg	ἐγράφη	γραφῇ</p>
+<p tabstops="75,175">1st pl	ἐγράφημεν	γραφῶμεν</p>
+<p tabstops="75,175">2nd pl	ἐγράφητε	γραφῆτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἐγράφησαν	γραφῶσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	γραφείην	—</p>
+<p tabstops="75,175">2nd sg	γραφείης	γράφητι</p>
+<p tabstops="75,175">3rd sg	γραφείη	γραφήτω</p>
+<p tabstops="75,175">1st pl	γραφεῖμεν	—</p>
+<p tabstops="75,175">2nd pl	γραφεῖτε	γράφητε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	γραφεῖεν	γραφήτωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">γραφῆναι</p>

@@ -5,13 +5,21 @@
 <p spacebelow="15"><i>for the -μι verb.</i></p>
 
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160"><font size="14">1st sg	δείκνυμαι	δεικνύωμαι	—</font></p>
-<p tabstops="70,160"><font size="14">2nd sg	δείκνυσαι	δεικνύῃ	δείκνυσο</font></p>
-<p tabstops="70,160"><font size="14">3rd sg	δείκνυται	δεικνύηται	δεικνύσθω</font></p>
-<p tabstops="70,160"><font size="14">1st pl	δεικνύμεθα	δεικνυώμεθα	—</font></p>
-<p tabstops="70,160"><font size="14">2nd pl	δείκνυσθε	δεικνύησθε	δείκνυσθε</font></p>
-<p spacebelow="5" tabstops="70,160"><font size="14">3rd pl	δείκνυνται	δεικνύωνται	δεικνύσθωσαν</font></p>
+<p tabstops="75,185">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,185">1st sg	δείκνυμαι	δεικνύωμαι</p>
+<p tabstops="75,185">2nd sg	δείκνυσαι	δεικνύῃ</p>
+<p tabstops="75,185">3rd sg	δείκνυται	δεικνύηται</p>
+<p tabstops="75,185">1st pl	δεικνύμεθα	δεικνυώμεθα</p>
+<p tabstops="75,185">2nd pl	δείκνυσθε	δεικνύησθε</p>
+<p spacebelow="5" tabstops="75,185">3rd pl	δείκνυνται	δεικνύωνται</p>
+
+<p tabstops="75,185">	<u>Optative	Imperative</u></p>
+<p tabstops="75,185">1st sg	δεικνυοίμην	—</p>
+<p tabstops="75,185">2nd sg	δεικνύοιο	δείκνυσο</p>
+<p tabstops="75,185">3rd sg	δεικνύοι	δεικνύσθω</p>
+<p tabstops="75,185">1st pl	δεικνυοίμεθα	—</p>
+<p tabstops="75,185">2nd pl	δεικνύοισθε	δείκνυσθε</p>
+<p spacebelow="5" tabstops="75,185">3rd pl	δεικνύοιντο	δεικνύσθωσαν</p>
 
 
 <p tabstops="70,160"><u>Infinitive</u></p>
@@ -50,14 +58,24 @@
 
 <p></p>
 <p spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἐδειξάμην  	δείξωμαι	—</p>
-<p tabstops="70,160">2nd sg	ἐδείξω	δείξῃ	δεῖξαι</p>
-<p tabstops="70,160">3rd sg	ἐδείξατο	δείξηται	δειξάσθω</p>
-<p tabstops="70,160">1st pl	ἐδειξάμεθα	δειξώμεθα	—</p>
-<p tabstops="70,160">2nd pl	ἐδείξασθε	δείξησθε	δείξασθε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἐδείξαντο	δείξωνται	δειξάσθωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἐδειξάμην  	δείξωμαι</p>
+<p tabstops="75,175">2nd sg	ἐδείξω	δείξῃ</p>
+<p tabstops="75,175">3rd sg	ἐδείξατο	δείξηται</p>
+<p tabstops="75,175">1st pl	ἐδειξάμεθα	δειξώμεθα</p>
+<p tabstops="75,175">2nd pl	ἐδείξασθε	δείξησθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἐδείξαντο	δείξωνται</p>
 
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	δειξαίμην	—</p>
+<p tabstops="75,175">2nd sg	δείξαιο	δεῖξαι</p>
+<p tabstops="75,175">3rd sg	δείξαιτο	δειξάσθω</p>
+<p tabstops="75,175">1st pl	δειξαίμεθα	—</p>
+<p tabstops="75,175">2nd pl	δείξαισθε	δείξασθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	δείξαιντο	δειξάσθωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">δείξασθαι</p>
 
 <p tabstops="70,160"><u>Participle</u></p>
 <p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>

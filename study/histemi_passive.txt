@@ -1,11 +1,19 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἵσταμαι	ἱστῶμαι	—</p>
-<p tabstops="70,160">2nd sg	ἵστασαι	ἱστῇ	ἵστασο</p>
-<p tabstops="70,160">3rd sg	ἵσταται	ἱστῆται	ἱστάσθω</p>
-<p tabstops="70,160">1st pl	ἱστάμεθα	ἱστώμεθα	—</p>
-<p tabstops="70,160">2nd pl	ἵστασθε	ἱστῆσθε	ἵστασθε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἵστανται	ἱστῶνται	ἱστάσθωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἵσταμαι	ἱστῶμαι</p>
+<p tabstops="75,175">2nd sg	ἵστασαι	ἱστῇ</p>
+<p tabstops="75,175">3rd sg	ἵσταται	ἱστῆται</p>
+<p tabstops="75,175">1st pl	ἱστάμεθα	ἱστώμεθα</p>
+<p tabstops="75,175">2nd pl	ἵστασθε	ἱστῆσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἵστανται	ἱστῶνται</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	ἱσταίμην	—</p>
+<p tabstops="75,175">2nd sg	ἵσταιο	ἵστασο</p>
+<p tabstops="75,175">3rd sg	ἵσταιτο	ἱστάσθω</p>
+<p tabstops="75,175">1st pl	ἱσταῖμεθα	—</p>
+<p tabstops="75,175">2nd pl	ἵσταισθε	ἵστασθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἵσταιντο	ἱστάσθωσαν</p>
 
 <p tabstops="70,160" ><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">ἵστασθαι</p>
@@ -43,13 +51,21 @@
 
 <p></p>
 <p  spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἐστάθην	σταθῶ	—</p>
-<p tabstops="70,160">2nd sg	ἔστάθης	σταθῇς	στάθητι</p>
-<p tabstops="70,160">3rd sg	ἔστάθην	σταθῇ	σταθήτω</p>
-<p tabstops="70,160">1st pl	ἐστάθημεν	σταθῶμεν	—</p>
-<p tabstops="70,160">2nd pl	ἐστάθητε	σταθῆτε	στάθητε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἐστάθησαν	σταθῶσι(ν)	σταθέντων</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἐστάθην	σταθῶ</p>
+<p tabstops="75,175">2nd sg	ἔστάθης	σταθῇς</p>
+<p tabstops="75,175">3rd sg	ἔστάθην	σταθῇ</p>
+<p tabstops="75,175">1st pl	ἐστάθημεν	σταθῶμεν</p>
+<p tabstops="75,175">2nd pl	ἐστάθητε	σταθῆτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἐστάθησαν	σταθῶσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	σταθείην	—</p>
+<p tabstops="75,175">2nd sg	σταθείης	στάθητι</p>
+<p tabstops="75,175">3rd sg	σταθείη	σταθήτω</p>
+<p tabstops="75,175">1st pl	σταθεῖμεω	—</p>
+<p tabstops="75,175">2nd pl	σταθεῖτε	στάθητε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	σταθεῖεν	σταθέντων</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">σταθῆναι</p>

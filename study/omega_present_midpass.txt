@@ -1,11 +1,18 @@
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	λύομαι	λύωμαι	—</p>
-<p tabstops="70,160">2nd sg	λύει / λύῃ	λύῃ	λύου</p>
-<p tabstops="70,160">3rd sg	λύεται	λύηται	λυέσθω</p>
-<p tabstops="70,160">1st pl	λυόμεθα	λυώμεθα	—</p>
-<p tabstops="70,160">2nd pl	λύεσθε	λύησθε	λύεσθε</p>
-<p tabstops="70,160">3rd pl	λύονται	λύωνται	λυέσθων /</p>
-<p spacebelow="5" tabstops="70,160">			λυέσθωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	λύομαι	λύωμαι</p>
+<p tabstops="75,175">2nd sg	λύῃ	λύῃ</p>
+<p tabstops="75,175">3rd sg	λύεται	λύηται</p>
+<p tabstops="75,175">1st pl	λυόμεθα	λυώμεθα</p>
+<p tabstops="75,175">2nd pl	λύεσθε	λύησθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	λύονται	λύωνται</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	λυοίμην	—</p>
+<p tabstops="75,175">2nd sg	λύοιο	λύου</p>
+<p tabstops="75,175">3rd sg	λύοιτο	λυέσθω</p>
+<p tabstops="75,175">1st pl	λυοίμεθα	—</p>
+<p tabstops="75,175">2nd pl	λύοισθε	λύεσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	λύοιντο	λυέσθωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">λύεσθαι</p>

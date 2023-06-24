@@ -1,11 +1,19 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἵστημι	ἱστῶ	—</p>
-<p tabstops="70,160">2nd sg	ἵστης	ἱστῇς	ἵστη</p>
-<p tabstops="70,160">3rd sg	ἵστησι(ν)	ἱστῇ	ἱστάτω</p>
-<p tabstops="70,160">1st pl	ἵσταμεν	ἱστῶμεν	—</p>
-<p tabstops="70,160">2nd pl	ἵστατε	ἱστῆτε	ἵστατε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἱστᾶσι(ν)	ἱστῶσι(ν)	ἱστάτωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἵστημι	ἱστῶ</p>
+<p tabstops="75,175">2nd sg	ἵστης	ἱστῇς</p>
+<p tabstops="75,175">3rd sg	ἵστησι(ν)	ἱστῇ</p>
+<p tabstops="75,175">1st pl	ἵσταμεν	ἱστῶμεν</p>
+<p tabstops="75,175">2nd pl	ἵστατε	ἱστῆτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἱστᾶσι(ν)	ἱστῶσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	ἱσταίην	—</p>
+<p tabstops="75,175">2nd sg	ἱσταίης	ἵστη</p>
+<p tabstops="75,175">3rd sg	ἱσταίη	ἱστάτω</p>
+<p tabstops="75,175">1st pl	ἱσταῖμεν	—</p>
+<p tabstops="75,175">2nd pl	ἱσταῖτε	ἵστατε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἱσταῖεν	ἱστάτωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">ἱστάναι</p>
@@ -43,13 +51,21 @@
 
 <p></p>
 <p spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἔστησα	στῶ	—</p>
-<p tabstops="70,160">2nd sg	ἔστησας	στῇς	στῆθι</p>
-<p tabstops="70,160">3rd sg	ἔστησε(ν)	στῇ	στήτω</p>
-<p tabstops="70,160">1st pl	ἐστήσαμεν	στῶμεν	—</p>
-<p tabstops="70,160">2nd pl	ἐστήσατε	στῆτε	στῆτε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἔστησαν	στῶσι(ν)	στήτωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἔστησα	στήσω</p>
+<p tabstops="75,175">2nd sg	ἔστησας	στήσῇς</p>
+<p tabstops="75,175">3rd sg	ἔστησε(ν)	στήσῇ</p>
+<p tabstops="75,175">1st pl	ἐστήσαμεν	στήσωμεν</p>
+<p tabstops="75,175">2nd pl	ἐστήσατε	στήσητε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἔστησαν	στήσωσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	στήσαιμι	—</p>
+<p tabstops="75,175">2nd sg	στήσαις	στήσον</p>
+<p tabstops="75,175">3rd sg	στήσαι	στησάτω</p>
+<p tabstops="75,175">1st pl	στήσαιμεν	—</p>
+<p tabstops="75,175">2nd pl	στήσαιτε	στήσατε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	στήσαιεν	στησάτωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">στῆσαι</p>
@@ -67,13 +83,24 @@
 
 <p></p>
 <p  spacebelow="5" tabstops="70,160">		<u><b>2nd AORIST</u></b></p>
-<p tabstops="70,175">	<u>Indicative</u></p>
-<p tabstops="70,175">1st sg	ἔστην</p>
-<p tabstops="70,175">2nd sg	ἔστης</p>
-<p tabstops="70,175">3rd sg	ἔστη</p>
-<p tabstops="70,175">1st pl	ἔστημεν</p>
-<p tabstops="70,175">2nd pl	ἔστητε</p>
-<p tabstops="70,175" spacebelow="5">3rd pl	ἔστησαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἔστην	στῶ</p></p>
+<p tabstops="75,175">2nd sg	ἔστης	στῇς</p></p>
+<p tabstops="75,175">3rd sg	ἔστη	στῇ</p></p>
+<p tabstops="75,175">1st pl	ἔστημεν	στῶμεν</p></p>
+<p tabstops="75,175">2nd pl	ἔστητε	στῆτε</p></p>
+<p tabstops="75,175" spacebelow="5">3rd pl	ἔστησαν	στῶσι(ν)</p></p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	σταίην	—</p>
+<p tabstops="75,175">2nd sg	σταίης	στῆθι</p>
+<p tabstops="75,175">3rd sg	σταίη	στήτω</p>
+<p tabstops="75,175">1st pl	σταῖμεν	—</p>
+<p tabstops="75,175">2nd pl	σταῖτε	στῆτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	σταῖεν	στήτωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">στῆναι</p>
 
 <p tabstops="70,160"><u>Participle</u></p>
 <p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>

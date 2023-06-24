@@ -1,12 +1,19 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	δηλῶ	δηλῶ	—</p>
-<p tabstops="70,160">2nd sg	δηλοῖς	δηλοῖς	δήλου</p>
-<p tabstops="70,160">3rd sg	δηλοῖ	δηλοῖ	δηλούτω</p>
-<p tabstops="70,160">1st pl	δηλοῦμεν	δηλῶμεν	—</p>
-<p tabstops="70,160">2nd pl	δηλοῦτε	δηλῶτε	δηλοῦτε</p>
-<p tabstops="70,160">3rd pl	δηλοῦσι(ν)	δηλῶσι(ν)	δηλούντων /</p>
-<p spacebelow="5" tabstops="70,160">			δηλούτωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	δηλῶ	δηλῶ</p>
+<p tabstops="75,175">2nd sg	δηλοῖς	δηλοῖς</p>
+<p tabstops="75,175">3rd sg	δηλοῖ	δηλοῖ</p>
+<p tabstops="75,175">1st pl	δηλοῦμεν	δηλῶμεν</p>
+<p tabstops="75,175">2nd pl	δηλοῦτε	δηλῶτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	δηλοῦσι(ν)	δηλῶσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	δηλοίην	—</p>
+<p tabstops="75,175">2nd sg	δηλοίης	δήλου</p>
+<p tabstops="75,175">3rd sg	δηλοίη	δηλούτω</p>
+<p tabstops="75,175">1st pl	δηλοῖμεν	—</p>
+<p tabstops="75,175">2nd pl	δηλοῖτε	δηλοῦτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	δηλοῖεν	δηλούτωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">δηλοῦν</p>

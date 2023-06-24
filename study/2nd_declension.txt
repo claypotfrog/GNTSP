@@ -1,4 +1,4 @@
-<p tabstops="80,200">Singular	<u>Masc./Fem.	Neut.</u></p>
+<p tabstops="80,200">Singular	<u>masc./fem.	neut.</u></p>
 <p tabstops="80,200">nom.	λόγος	ἔργον</p>
 <p tabstops="80,200">gen.	λόγου	ἔργου</p>
 <p tabstops="80,200">dat.	λόγῳ	ἔργῳ</p>

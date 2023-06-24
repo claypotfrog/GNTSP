@@ -1,4 +1,4 @@
-<p tabstops="80,200">Singular	<u>Masculine	Neut.</u></p>
+<p tabstops="80,200">Singular	<u>masc.	neut.</u></p>
 <p tabstops="80,200">nom.	περίπλους	ὀστοῦν</p>
 <p tabstops="80,200">gen.	περίπλου	ὀστοῦ</p>
 <p tabstops="80,200">dat.	περίπλῳ	ὀστῷ</p>

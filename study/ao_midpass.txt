@@ -1,12 +1,19 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	τιμῶμαι	τιμῶμαι	—</p>
-<p tabstops="70,160">2nd sg	τιμᾷ	τιμᾷ	τιμῶ</p>
-<p tabstops="70,160">3rd sg	τιμᾶται	τιμᾶται	τιμάσθω</p>
-<p tabstops="70,160">1st pl	τιμώμεθα	τιμώμεθα	—</p>
-<p tabstops="70,160">2nd pl	τιμᾶσθε	τιμᾶσθε	τιμᾶσθε</p>
-<p tabstops="70,160">3rd pl	τιμῶνται	τιμῶνται	τιμάσθων /</p>
-<p spacebelow="5" tabstops="70,160">			τιμάσθωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	τιμῶμαι	τιμῶμαι</p>
+<p tabstops="75,175">2nd sg	τιμᾷ	τιμᾷ</p>
+<p tabstops="75,175">3rd sg	τιμᾶται	τιμᾶται</p>
+<p tabstops="75,175">1st pl	τιμώμεθα	τιμώμεθα</p>
+<p tabstops="75,175">2nd pl	τιμᾶσθε	τιμᾶσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	τιμῶνται	τιμῶνται</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	τιμῴμην	—</p>
+<p tabstops="75,175">2nd sg	τιμῷο	τιμῶ</p>
+<p tabstops="75,175">3rd sg	τιμῷτο	τιμάσθω</p>
+<p tabstops="75,175">1st pl	τιμῴμεθα	—</p>
+<p tabstops="75,175">2nd pl	τιμῷσθε	τιμᾶσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	τιμῷντο	τιμάσθωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">τιμᾶσθαι</p>

@@ -1,11 +1,19 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	δίδωμι	διδῶ	—</p>
-<p tabstops="70,160">2nd sg	δίδως	διδῷς	δίδου</p>
-<p tabstops="70,160">3rd sg	δίδωσι(ν)	διδῷ	διδότω</p>
-<p tabstops="70,160">1st pl	δίδομεν	διδῶμεν	—</p>
-<p tabstops="70,160">2nd pl	δίδοτε	διδῶτε	δίδοτε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	διδόασι(ν)	διδῶσι(ν)	διδότωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	δίδωμι	διδῶ</p>
+<p tabstops="75,175">2nd sg	δίδως	διδῷς</p>
+<p tabstops="75,175">3rd sg	δίδωσι(ν)	διδῷ</p>
+<p tabstops="75,175">1st pl	δίδομεν	διδῶμεν</p>
+<p tabstops="75,175">2nd pl	δίδοτε	διδῶτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	διδόασι(ν)	διδῶσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	διδοίην	—</p>
+<p tabstops="75,175">2nd sg	διδοίης	δίδου</p>
+<p tabstops="75,175">3rd sg	διδοίη	διδότω</p>
+<p tabstops="75,175">1st pl	διδοῖμεν	—</p>
+<p tabstops="75,175">2nd pl	διδοῖτε	δίδοτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	διδοῖεν	διδότωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">διδόναι</p>
@@ -43,13 +51,22 @@
 
 <p></p>
 <p spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἔδωκα	δῶ	—</p>
-<p tabstops="70,160">2nd sg	ἔδωκας	δῷς	δός</p>
-<p tabstops="70,160">3rd sg	ἔδωκε(ν)	δῷ	δότω</p>
-<p tabstops="70,160">1st pl	ἐδώκαμεν	δῶμεν	—</p>
-<p tabstops="70,160">2nd pl	ἐδώκατε	δῶτε	δότε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἔδωκαν	δῶσι(ν)	δότωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἔδωκα	δῶ</p>
+<p tabstops="75,175">2nd sg	ἔδωκας	δῷς</p>
+<p tabstops="75,175">3rd sg	ἔδωκε(ν)	δῷ</p>
+<p tabstops="75,175">1st pl	ἐδώκαμεν	δῶμεν</p>
+<p tabstops="75,175">2nd pl	ἐδώκατε	δῶτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἔδωκαν	δῶσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	δοίην	—</p>
+<p tabstops="75,175">2nd sg	δοίης	δός</p>
+<p tabstops="75,175">3rd sg	δοίη	δότω</p>
+<p tabstops="75,175">1st pl	δοῖμεν	—</p>
+<p tabstops="75,175">2nd pl	δοῖτε	δοτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	δοῖεν	δότωσαν</p>
+
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">δοῦναι</p>

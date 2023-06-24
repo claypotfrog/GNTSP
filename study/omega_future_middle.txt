@@ -1,6 +1,6 @@
 <p tabstops="70,160">	<u>Indicative</u></p>
 <p tabstops="70,160">1st sg	λύσομαι</p>
-<p tabstops="70,160">2nd sg	λύσει / λύσῃ</p>
+<p tabstops="70,160">2nd sg	λύσῃ</p>
 <p tabstops="70,160">3rd sg	λύσεται</p>
 <p tabstops="70,160">1st pl	λυσόμεθα</p>
 <p tabstops="70,160">2nd pl	λύσεσθε</p>

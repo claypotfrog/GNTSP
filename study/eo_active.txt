@@ -1,12 +1,19 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ποιῶ	ποιῶ	—</p>
-<p tabstops="70,160">2nd sg	ποιεῖς	ποιῇς	ποίει</p>
-<p tabstops="70,160">3rd sg	ποιεῖ	ποιῇ	ποιείτω</p>
-<p tabstops="70,160">1st pl	ποιοῦμεν	ποιῶμεν	—</p>
-<p tabstops="70,160">2nd pl	ποιεῖτε	ποιῆτε	ποιεῖτε</p>
-<p tabstops="70,160">3rd pl	ποιοῦσι(ν)	ποιῶσι(ν)	ποιούντων /</p>
-<p spacebelow="5" tabstops="70,160">			ποιείτωσαν
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ποιῶ	ποιῶ</p>
+<p tabstops="75,175">2nd sg	ποιεῖς	ποιῇς</p>
+<p tabstops="75,175">3rd sg	ποιεῖ	ποιῇ</p>
+<p tabstops="75,175">1st pl	ποιοῦμεν	ποιῶμεν</p>
+<p tabstops="75,175">2nd pl	ποιεῖτε	ποιῆτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ποιοῦσι(ν)	ποιῶσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	ποιοίην	—</p>
+<p tabstops="75,175">2nd sg	ποιοίης	ποίει</p>
+<p tabstops="75,175">3rd sg	ποιοίη	ποιείτω</p>
+<p tabstops="75,175">1st pl	ποιοῖμεν	—</p>
+<p tabstops="75,175">2nd pl	ποιοῖτε	ποιεῖτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ποιοῖεν	ποιείτωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">ποιεῖν</p>

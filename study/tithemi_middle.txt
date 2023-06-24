@@ -1,11 +1,19 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	τίθεμαι	τιθῶμαι	—</p>
-<p tabstops="70,160">2nd sg	τίθεσαι	τιθῇ	τίθεσο</p>
-<p tabstops="70,160">3rd sg	τίθεται	τιθῆται	τιθέσθω</p>
-<p tabstops="70,160">1st pl	τιθέμεθα	τιθώμεθα	—</p>
-<p tabstops="70,160">2nd pl	τίθεσθε	τιθῆσθε	τίθεσθε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	τίθενται	τιθῶνται	τιθέσθωσαν /</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	τίθεμαι	τιθῶμαι</p>
+<p tabstops="75,175">2nd sg	τίθεσαι	τιθῇ</p>
+<p tabstops="75,175">3rd sg	τίθεται	τιθῆται</p>
+<p tabstops="75,175">1st pl	τιθέμεθα	τιθώμεθα</p>
+<p tabstops="75,175">2nd pl	τίθεσθε	τιθῆσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	τίθενται	τιθῶνται</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	τιθείμην	—</p>
+<p tabstops="75,175">2nd sg	τιθεῖο	τίθεσο</p>
+<p tabstops="75,175">3rd sg	τιθεῖτο	τιθέσθω</p>
+<p tabstops="75,175">1st pl	τιθείμεθα	—</p>
+<p tabstops="75,175">2nd pl	τιθεῖσθε	τίθεσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	τιθεῖντο	τιθέσθωσαν</p>
 
 <p tabstops="70,160" ><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">τίθεσθαι</p>
@@ -43,13 +51,21 @@
 
 <p></p>
 <p  spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
-<p tabstops="70,160">	<u>Indicative	Subjunctive	Imperative</u></p>
-<p tabstops="70,160">1st sg	ἐθέμην	θῶμαι	—</p>
-<p tabstops="70,160">2nd sg	ἔθου	θῇ	θοῦ</p>
-<p tabstops="70,160">3rd sg	ἔθετο	θῆται	θέσθω</p>
-<p tabstops="70,160">1st pl	ἐθέμεθα	θώμεθα	—</p>
-<p tabstops="70,160">2nd pl	ἔθεσθε	θῆσθε	θέσθε</p>
-<p spacebelow="5" tabstops="70,160">3rd pl	ἔθεντο	θῶνται	θέσθωσαν</p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἐθέμην	θῶμαι</p>
+<p tabstops="75,175">2nd sg	ἔθου	θῇ</p>
+<p tabstops="75,175">3rd sg	ἔθετο	θῆται</p>
+<p tabstops="75,175">1st pl	ἐθέμεθα	θώμεθα</p>
+<p tabstops="75,175">2nd pl	ἔθεσθε	θῆσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἔθεντο	θῶνται</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	θείμην	—</p>
+<p tabstops="75,175">2nd sg	θεῖο	θοῦ</p>
+<p tabstops="75,175">3rd sg	θεῖτο	θέσθω</p>
+<p tabstops="75,175">1st pl	θείμεθα	—</p>
+<p tabstops="75,175">2nd pl	θεῖσθε	θέσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	θεῖντο	θέσθωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
 <p tabstops="70,160" spacebelow="5">θέσθαι</p>
