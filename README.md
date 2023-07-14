@@ -7,4 +7,4 @@ It also includes Koine Greek grammatical forms, a grammer tutor, and a Vocabular
 
 This project consists of an [SQLite](https://www.sqlite.org/) database containing all the morphological and lexical data for the text of the SBLGNT, a mobile app written in [Livecode](https://livecode.com/), and a number of html files containing static information like grammar tables, instructions, etc.
 
-If you want to try out the program, there are zip files of compiled versions for Desktop Operating Systems in the "apps" folder.  You can install it (for Android) from the [Google Play Store](https://play.google.com/store/apps/details?id=com.claypotfrog.gspnt)
+You can install the app from the android and ios app stores.  Compiled binaries for windows, mac, and linux are available at [the claypotfrog.com website](https://claypotfrog.com).
