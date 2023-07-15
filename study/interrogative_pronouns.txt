@@ -15,7 +15,7 @@
 <p tabstops="80,200">nom.	τις	τι</p>
 <p tabstops="80,200">gen.	τινός	τινός</p>
 <p tabstops="80,200">dat.	τινί	τινί</p>
-<p tabstops="80,200" spacebelow="5">acc.	τιν 	τι</p>
+<p tabstops="80,200" spacebelow="5">acc.	τινα	τι</p>
 <p tabstops="80,200">Plural</p>
 <p tabstops="80,200">nom.	τινές	τινά</p>
 <p tabstops="80,200">gen.	τινῶν	τινῶν</p>

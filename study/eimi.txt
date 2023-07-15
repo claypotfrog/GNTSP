@@ -21,7 +21,7 @@
 <p tabstops="70,160"><u>Participle</u></p>
 <p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
 <p tabstops="70,160">nom sg	ὤν	οὖσα	ὄν</p>
-<p tabstops="70,160">gen sg	ὄντος	οὔσῃ	ὄντος</p>
+<p tabstops="70,160">gen sg	ὄντος	οὔσης	ὄντος</p>
 <p tabstops="70,160">dat sg	ὄντι	οὔσῃ	ὄντι</p>
 <p spacebelow="5" tabstops="70,160">acc sg	ὄντα	οὖσαν	ὄν</p>
 <p tabstops="70,160">nom pl	ὄντες 	οὖσαι 	ὄντα</p>
@@ -43,7 +43,7 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>FUTURE</u></b></p>
 <p tabstops="70,160">	<u>Indicative</u></p>
 <p tabstops="70,160">1st sg	ἔσομαι</p>
-<p tabstops="70,160">2nd sg	ἔσῃ / ἔσει</p>
+<p tabstops="70,160">2nd sg	ἔσῃ</p>
 <p tabstops="70,160">3rd sg	ἔσται</p>
 <p tabstops="70,160">1st pl	ἐσόμεθα</p>
 <p tabstops="70,160">2nd pl	ἔσεσθε</p>

@@ -53,15 +53,15 @@
 <p spacebelow="5" tabstops="70,160">		<u><b>AORIST</u></b></p>
 <p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
 <p tabstops="75,175">1st sg	ἔστησα	στήσω</p>
-<p tabstops="75,175">2nd sg	ἔστησας	στήσῇς</p>
-<p tabstops="75,175">3rd sg	ἔστησε(ν)	στήσῇ</p>
+<p tabstops="75,175">2nd sg	ἔστησας	στήσῃς</p>
+<p tabstops="75,175">3rd sg	ἔστησε(ν)	στήσῃ</p>
 <p tabstops="75,175">1st pl	ἐστήσαμεν	στήσωμεν</p>
 <p tabstops="75,175">2nd pl	ἐστήσατε	στήσητε</p>
 <p spacebelow="5" tabstops="75,175">3rd pl	ἔστησαν	στήσωσι(ν)</p>
 
 <p tabstops="75,175">	<u>Optative	Imperative</u></p>
 <p tabstops="75,175">1st sg	στήσαιμι	—</p>
-<p tabstops="75,175">2nd sg	στήσαις	στήσον</p>
+<p tabstops="75,175">2nd sg	στήσαις	στῆσον</p>
 <p tabstops="75,175">3rd sg	στήσαι	στησάτω</p>
 <p tabstops="75,175">1st pl	στήσαιμεν	—</p>
 <p tabstops="75,175">2nd pl	στήσαιτε	στήσατε</p>

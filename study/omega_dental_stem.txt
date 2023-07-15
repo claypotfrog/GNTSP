@@ -15,7 +15,7 @@
 <p tabstops="60,160"><font size="14">nom sg	πεπεισμένος	πεπεισμένη	πεπεισμένον</font></p>
 <p tabstops="60,160"><font size="14">gen sg	πεπεισμένου	πεπεισμένης	πεπεισμένου</font></p>
 <p tabstops="60,160"><font size="14">dat sg	πεπεισμένῳ	πεπεισμένῃ	πεπεισμένῳ</font></p>
-<p spacebelow="5" tabstops="60,160"><font size="14">acc sg	πεπεισμμένον	πεπεισμένην	πεπεισμένον</font></p>
+<p spacebelow="5" tabstops="60,160"><font size="14">acc sg	πεπεισμένον	πεπεισμένην	πεπεισμένον</font></p>
 <p tabstops="60,160"><font size="14">nom pl	πεπεισμένοι	πεπεισμέναι	πεπεισμένα</font></p>
 <p tabstops="60,160"><font size="14">gen pl	πεπεισμένων	πεπεισμενῶν	πεπεισμένων</font></p>
 <p tabstops="60,160"><font size="14">dat pl	πεπεισμένοις	πεπεισμέναις	πεπεισμένοις</font></p>

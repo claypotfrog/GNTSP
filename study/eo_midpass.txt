@@ -20,14 +20,14 @@
 
 <p tabstops="70,160"><u>Participle</u></p>
 <p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
-<p tabstops="70,160">nom sg	ποιούμενος	ποιουμένη	ποιούμενον</p>
-<p tabstops="70,160">gen sg	ποιουένου	ποιουένης	ποιουένου</p>
-<p tabstops="70,160">dat sg	ποιουένῳ	ποιουένῃ	ποιουένῳ</p>
-<p spacebelow="5" tabstops="70,160">acc sg	ποιούμενον	ποιουένην	ποιούμενον</p>
-<p tabstops="70,160">nom pl	ποιούμενοι	ποιούμεναι	ποιούμενα</p>
-<p tabstops="70,160">gen pl	ποιουένων	ποιουενῶν	ποιουένων</p>
-<p tabstops="70,160">dat pl	ποιουένοις	ποιουέναις	ποιουένοις</p>
-<p tabstops="70,160">acc pl	ποιουένους	ποιουένας	ποιούμενα</p>
+<p tabstops="70,160"><font size="14">nom sg	ποιούμενος	ποιουμένη	ποιούμενον</font></p>
+<p tabstops="70,160"><font size="14">gen sg	ποιουμένου	ποιουμένης	ποιουμένου</font></p>
+<p tabstops="70,160"><font size="14">dat sg	ποιουμένῳ	ποιουμένῃ	ποιουμένῳ</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="14">acc sg	ποιούμενον	ποιουμένην	ποιούμενον</font></p>
+<p tabstops="70,160"><font size="14">nom pl	ποιούμενοι	ποιούμεναι	ποιούμενα</font></p>
+<p tabstops="70,160"><font size="14">gen pl	ποιουμένων	ποιουμενῶν	ποιουμένων</font></p>
+<p tabstops="70,160"><font size="14">dat pl	ποιουμένοις	ποιουμέναις	ποιουμένοις</font></p>
+<p tabstops="70,160"><font size="14">acc pl	ποιουμένους	ποιουμένας	ποιούμενα</font></p>
 
 <p></p>
 <p spacebelow="5" tabstops="70,160">		<u><b>IMPERFECT</u></b></p>

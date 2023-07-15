@@ -64,7 +64,7 @@
 <p tabstops="75,175">2nd sg	δοίης	δός</p>
 <p tabstops="75,175">3rd sg	δοίη	δότω</p>
 <p tabstops="75,175">1st pl	δοῖμεν	—</p>
-<p tabstops="75,175">2nd pl	δοῖτε	δοτε</p>
+<p tabstops="75,175">2nd pl	δοῖτε	δότε</p>
 <p spacebelow="5" tabstops="75,175">3rd pl	δοῖεν	δότωσαν</p>
 
 
@@ -114,4 +114,4 @@
 <p tabstops="70,160">3rd sg	ἐδεδώκει</p>
 <p tabstops="70,160">1st pl	ἐδεδώκειμεν</p>
 <p tabstops="70,160">2nd pl	ἐδεδώκειτε</p>
-<p tabstops="70,160">3rd pl	ἐδεδώκεσαν</p>
+<p tabstops="70,160">3rd pl	ἐδεδώκεισαν</p>

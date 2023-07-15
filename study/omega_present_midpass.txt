@@ -26,5 +26,5 @@
 <p tabstops="70,160">nom pl	λυόμενοι	λυόμεναι	λυόμενα</p>
 <p tabstops="70,160">gen pl	λυομένων	λυομενῶν	λυομένων</p>
 <p tabstops="70,160">dat pl	λυομένοις	λυομέναις	λυομένοις</p>
-<p tabstops="70,160" spacebelow="5">acc pl	λυομένους	λυομένας	λυομένα</p>
+<p tabstops="70,160" spacebelow="5">acc pl	λυομένους	λυομένας	λυόμενα</p>
 

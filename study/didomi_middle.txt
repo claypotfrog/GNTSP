@@ -64,7 +64,7 @@
 <p tabstops="75,175">2nd sg	δοῖο	δοῦ</p>
 <p tabstops="75,175">3rd sg	δοῖτο	δόσθω</p>
 <p tabstops="75,175">1st pl	δοίμεθα	—</p>
-<p tabstops="75,175">2nd pl	δοῖσθε	δοσθε</p>
+<p tabstops="75,175">2nd pl	δοῖσθε	δόσθε</p>
 <p spacebelow="5" tabstops="75,175">3rd pl	δοῖντο	δόσθωσαν</p>
 
 <p tabstops="70,160"><u>Infinitive</u></p>
@@ -77,7 +77,7 @@
 <p tabstops="70,160"><font size="15">dat sg	δομένῳ	δομένῃ	δομένῳ</font></p>
 <p spacebelow="5" tabstops="70,160"><font size="15">acc sg	δόμενον	δομένην	δόμενον</font></p>
 <p tabstops="70,160"><font size="15">nom pl	δόμενοι	δόμεναι	δόμενα</font></p>
-<p tabstops="70,160"><font size="15">gen pl	δοαμένων	δομενῶν	δομένων</font></p>
+<p tabstops="70,160"><font size="15">gen pl	δομένων	δομενῶν	δομένων</font></p>
 <p tabstops="70,160"><font size="15">dat pl	δομένοις	δομέναις	δομένοις</font></p>
 <p tabstops="70,160"><font size="15">acc pl	δομένους	δομένας	δόμενα</font></p>
 

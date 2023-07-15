@@ -1,4 +1,4 @@
-<p spacebelow="5" tabstops="70,160"><u><b>Stems not ending in –ε, –ι or –ρ</u></b></p>
+<p spacebelow="5" tabstops="70,160"><u><b>Stems not ending in –ε, –ι or –ρ</u></b></p>
 <p tabstops="70,160">Singular	<u>Masc.	Fem.	Neut.</u></p>
 <p tabstops="70,160">nom.	ἀγαθός	ἀγαθή	ἀγαθόν</p>
 <p tabstops="70,160">gen.	ἀγαθοῦ	ἀγαθῆς	ἀγαθοῦ</p>
@@ -12,7 +12,7 @@
 <p tabstops="70,160">acc.	ἀγαθούς	ἀγαθάς	ἀγαθά</p>
 <p spacebelow="5" tabstops="70,160">voc.	ἀγαθοί	ἀγαθαί	ἀγαθά</p>
 
-<p spacebelow="5" tabstops="70,160"><u><b>Stems ending in –ε, –ι or –ρ</u></b></p>
+<p spacebelow="5" tabstops="70,160"><u><b>Stems ending in –ε, –ι or –ρ</u></b></p>
 <p tabstops="70,160">Singular	<u>Masc.	Fem.	Neut.</u></p>
 <p tabstops="70,160">nom.	δίκαιος	δικαία	δίκαιον</p>
 <p tabstops="70,160">gen.	δικαίου	δικαίας	δικαίου</p>
@@ -21,7 +21,7 @@
 <p tabstops="70,160" spacebelow="5">voc.	δίκαιε	δικαία	δίκαιον</p>
 <p tabstops="70,160">Plural</p>
 <p tabstops="70,160">nom.	δίκαιοι	δίκαιαι	δίκαια</p>
-<p tabstops="70,160">gen.	δικαίων	δικαίῶν	δικαίων</p>
+<p tabstops="70,160">gen.	δικαίων	δικαιῶν	δικαίων</p>
 <p tabstops="70,160">dat.	δικαίοις	δικαίαις	δικαίοις</p>
 <p tabstops="70,160">acc.	δικαίους	δικαίας	δίκαια</p>
 <p spacebelow="5" tabstops="70,160">voc.	δίκαιοι	δίκαιαι	δίκαια</p>

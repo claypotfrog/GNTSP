@@ -11,7 +11,7 @@
 <p tabstops="75,175">1st sg	ἱσταίμην	—</p>
 <p tabstops="75,175">2nd sg	ἵσταιο	ἵστασο</p>
 <p tabstops="75,175">3rd sg	ἵσταιτο	ἱστάσθω</p>
-<p tabstops="75,175">1st pl	ἱσταῖμεθα	—</p>
+<p tabstops="75,175">1st pl	ἱσταίμεθα	—</p>
 <p tabstops="75,175">2nd pl	ἵσταισθε	ἵστασθε</p>
 <p spacebelow="5" tabstops="75,175">3rd pl	ἵσταιντο	ἱστάσθωσαν</p>
 

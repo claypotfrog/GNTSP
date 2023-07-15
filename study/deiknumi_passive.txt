@@ -1,9 +1,3 @@
-<p><i>Note: δείκνυμι in the Greek New Testament</i></p>
-<p><i>sometimes conjugates as a -μι verb and</i></p>
-<p><i>sometimes as an -ω verb, the present tense</i></p>
-<p><i>of δεικνύω.  The forms found here are</i></p>
-<p spacebelow="15"><i>for the -μι verb.</i></p>
-
 <p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
 <p tabstops="75,185">	<u>Indicative	Subjunctive</u></p>
 <p tabstops="75,185">1st sg	δείκνυμαι	δεικνύωμαι</p>
@@ -63,7 +57,7 @@
 <p tabstops="75,175">3rd sg	ἐδείχθη	δειχθῇ</p>
 <p tabstops="75,175">1st pl	ἐδείχθημεν	δειχθῶμεν</p>
 <p tabstops="75,175">2nd pl	ἐδείχθητε	δειχθῆτε</p>
-<p spacebelow="5" tabstops="75,175">3rd pl	ἐδειχθησαν	δειχθῶσι(ν)</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἐδείχθησαν	δειχθῶσι(ν)</p>
 
 <p tabstops="75,175">	<u>Optative	Imperative</u></p>
 <p tabstops="75,175">1st sg	δειχθείην	—</p>
