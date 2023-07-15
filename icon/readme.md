@@ -1,1 +1,1 @@
-This is the icon for the app.
+These are the icons for the app on different platforms.
