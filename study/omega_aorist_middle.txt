@@ -8,7 +8,7 @@
 
 <p tabstops="75,175">	<u>Optative	Imperative</u></p>
 <p tabstops="75,175">1st sg	λυσαίμην	—</p>
-<p tabstops="75,175">2nd sg	λύσαιο	λύσαι</p>
+<p tabstops="75,175">2nd sg	λύσαιο	λῦσαι</p>
 <p tabstops="75,175">3rd sg	λύσαιτο	λυσάσθω</p>
 <p tabstops="75,175">1st pl	λυσαίμεθα	—</p>
 <p tabstops="75,175">2nd pl	λύσαισθε	λύσασθε</p>
