@@ -3,7 +3,7 @@
 <p spacebelow=10>At the top of the screen are dropdown lists for selecting the book and chapter you wish to read.</p>
 <p spacebelow=10>You can move through the book by scrolling up and down.  As you scroll, the Chapter dropdown will update to show you which chapter you are reading in.  You cannot, however, scroll to the next or previous book.  You must change books by selecting them in the Book dropdown.</p>
 <p spacebelow=10><img src="binfile:help/images/bookselect.png"></p>
-<p spacebelow=10>Clicking on the blue gear icon in the upper right corner brings up the font settings dialogue where you can change the font as well as adjust the font size and line spacing.</p>
+<p spacebelow=10>Clicking on the blue gear icon in the upper right corner brings up the "Settings" dialogue where you can change the font as well as adjust the font size and line spacing (as well as other options which are discussed in other sections.)</p>
 <p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
 <p spacebelow=10>The "Default" font is whatever your operating system uses by default when it displays text.  The other three fonts are specialty Greek text fonts which are included with the program.</p>
 <p spacebelow=10>As you are reading the text, clicking on any word will highlight that word and bring up a box with the word's dictionary entry and gloss.  Below the gloss is the grammatical parsing for this word in this occurrence.  You can also see the total number of times this word appears (in any form) in the Greek text in the upper right-hand corner.</p>
@@ -14,5 +14,5 @@
 <p spacebelow=10>In addition, if the word is a verb, then its principle parts (if they have been entered in the database) will be displayed here as well.</p>
 <p spacebelow=10><img src="binfile:help/images/lego.png"></p>
 <p spacebelow=10>All of these lines can be clicked on to bring up more information or to allow editing.  <i>See the <b>Details</b> section for more information about the functions of this screen.</i></p>
-<p spacebelow=10>Click the back arrow in the upper-left corner or the "Read" icon at the bottom of the screen to return to the Read screen from this Details screen.  When you do, this word (in all forms) will be highlighted in the book where you are reading.  You can remove the highlighting by pressing and holding anywhere on the text screen until the highlights disappear.  <i>(On mobile, you can also shake the device and all the highlighting will disappear.)</i></p>
+<p spacebelow=10>Click the back arrow in the upper-left corner or the "Read" icon at the bottom of the screen to return to the Read screen from this Details screen.  This word (in all forms) will be highlighted in the book where you are reading.  You can remove the highlighting by pressing and holding anywhere on the text screen until the highlights disappear.  <i>(On mobile, you can also shake the device and all the highlighting will disappear.)</i></p>
 <p spacebelow=10><img src="binfile:help/images/hilited.png"></p>

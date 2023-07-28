@@ -1,0 +1,12 @@
+<p spacebelow=10>You scroll through the fields of the app by swiping up and down like in any mobile app.  It is possible, however, to also enable scroll buttons which allow you to click to scroll any scrollable field.  These will allow you to scroll on devices that do not have touchscreens, as well as move more quickly through very long fields.  Scroll buttons are turned off by default, but you can enable them if you so desire.</p>
+<p spacebelow=10>On the "Read" page, click the blue gear icon in the upper-right to open up the "Settings" dialogue.  Near the bottom of the window, you'll see a checkbox labeled "Show Scroll Buttons".</p>
+<p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
+<p spacebelow=10>Check that box, click "Done", and you'll see light blue arrows in the upper-right of every scrollable field.</p>
+<p spacebelow=10><img src="binfile:help/images/scroll_arrows.png"></p>
+<p spacebelow=10>Clicking on these arrows will enable scroll buttons at bottom-right of that field.</p>
+<p spacebelow=10><img src="binfile:help/images/scroll_buttons_enabled.png"></p>
+<p spacebelow=10>Clicking on these will do exactly what they say, going to the first (top) or last (bottom) entry in the list.  The Page Up and Page Down buttons will move up or down by one screen initially, but if you hold the button down, they will accelerate and move by multiple screens.  You can hide the scroll buttons by clicking the arrows in the upper-right again.</p>
+<p spacebelow=10>You can turn the scroll buttons off completely by going back to the "Setting" icon on the "Read" page and removing the check from the "Show Scroll Buttons" checkbox. All the scroll buttons and the blue arrows which activate them will be hidden</p>
+
+
+

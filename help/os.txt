@@ -1,0 +1,2 @@
+<p spacebelow=10>This program is available for all major computer operating systems: Android and iOS on Mobile; Windows, Macintosh, and Linux on Desktop.</p>
+<p spacebelow=10>You can install any version of this software from the project's home page at <a href="http://claypotfrog.com">http://claypotfrog.com</a>.</p>
