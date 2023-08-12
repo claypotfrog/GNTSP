@@ -1,1 +1,0 @@
-These are the books of the greek text in html format.  The books which end in ".grk" are the actual greek text.  The books which end in ".lex" are the greek text but where every word is the dictionary head word so we know the source form of every word in the text.
