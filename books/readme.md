@@ -1,0 +1,1 @@
+These are the HTML files for displaying and searching the New Testament text.  The ".grk" files are the Greek Text files you see in the main window.  The ".lex" files are the text files using headwords in order to search for words in the text.
