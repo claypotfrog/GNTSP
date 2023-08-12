@@ -5,8 +5,5 @@
 <p spacebelow=10><img src="binfile:help/images/scroll_arrows.png"></p>
 <p spacebelow=10>Clicking on these arrows will enable scroll buttons at bottom-right of that field.</p>
 <p spacebelow=10><img src="binfile:help/images/scroll_buttons_enabled.png"></p>
-<p spacebelow=10>Clicking on these will do exactly what they say, going to the first (top) or last (bottom) entry in the list.  The Page Up and Page Down buttons will move up or down by one screen initially, but if you hold the button down, they will accelerate and move by multiple screens.  You can hide the scroll buttons by clicking the arrows in the upper-right again.</p>
+<p spacebelow=10>Clicking on these will do exactly what they say, Top going to the first line and Bottom going to the last line in the field.  The Scroll Up and Scroll Down buttons will move up or down by a little less than half a screen initially, but if you hold the button down, they will accelerate and move by larger and larger amounts.  You can hide the scroll buttons by clicking the arrows in the upper-right again.</p>
 <p spacebelow=10>You can turn the scroll buttons off completely by going back to the "Setting" icon on the "Read" page and removing the check from the "Show Scroll Buttons" checkbox. All the scroll buttons and the blue arrows which activate them will be hidden</p>
-
-
-
