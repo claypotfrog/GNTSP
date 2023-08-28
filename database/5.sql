@@ -1,0 +1,27 @@
+PRAGMA foreign_keys = 0
+begin
+update dictionary set gloss = '(gen) instead of, for' where lemma = 'ἀντί'
+update dictionary set gloss = '(gen) from, away from' where lemma = 'ἀπό'
+update dictionary set gloss = '(gen) as far as, up to, until' where lemma = 'ἄχρι'
+update dictionary set gloss = '(gen) through; (acc) because of, on account of' where lemma = 'διά'
+update dictionary set gloss = '(acc) into, in, among, till, for' where lemma = 'εἰς'
+update dictionary set gloss = '(gen) out of, out from among, from' where lemma = 'ἐκ'
+update dictionary set gloss = '(gen) in front, before the face' where lemma = 'ἔμπροσθεν'
+update dictionary set gloss = '(dat) in, on, among' where lemma = 'ἐν'
+update dictionary set gloss = '(gen) for the sake of, on account of' where lemma = 'ἕνεκεν'
+update dictionary set gloss = '(gen) before the face of, in the presence of' where lemma = 'ἐνώπιον'
+update dictionary set gloss = '(gen) on, over; (dat) on, at, on the basis of; (acc) on, to, against, for' where lemma = 'ἐπί'
+update dictionary set gloss = '(gen) down from, against; (acc) according to, throughout, during' where lemma = 'κατά'
+update dictionary set gloss = '(gen) with; (acc) after' where lemma = 'μετά'
+update dictionary set gloss = '(gen) behind, after' where lemma = 'ὀπίσω'
+update dictionary set gloss = '(gen) from; (dat) beside, in the presence of; (acc) on, at, beyond' where lemma = 'παρά'
+update dictionary set gloss = '(gen) over, beyond' where lemma = 'πέραν'
+update dictionary set gloss = '(gen) about, concerning; (acc) around' where lemma = 'περί'
+update dictionary set gloss = '(gen) before,in front of' where lemma = 'πρό'
+update dictionary set gloss = '(acc) to, towards' where lemma = 'πρός'
+update dictionary set gloss = '(dat) with' where lemma = 'σύν'
+update dictionary set gloss = '(gen) for, on behalf of; (acc) above, beyond' where lemma = 'ὑπέρ'
+update dictionary set gloss = '(gen) by; (acc) under' where lemma = 'ὑπό'
+update dictionary set gloss = '(gen) apart from, without' where lemma = 'χωρίς'
+commit
+PRAGMA foreign_keys = 1
