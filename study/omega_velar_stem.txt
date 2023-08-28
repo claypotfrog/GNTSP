@@ -1,4 +1,4 @@
-<h3>Perfect</h3>
+<h3>Perfect Middle/Passive</h3>
 <p tabstops="70,160">	<u>Indicative</u></p>
 <p tabstops="70,160">1st sg	πέπραγμαι</p>
 <p tabstops="70,160">2nd sg	πέπραξαι</p>
@@ -21,7 +21,7 @@
 <p tabstops="60,160"><font size="14">dat pl	πεπραγμένοις	πεπραγμέναις	πεπραγμένοις</font></p>
 <p tabstops="60,160" spacebelow="15"><font size="14">acc pl	πεπραγμένους	πεπραγμένας	πεπραγμένα</font></p>
 
-<h3>Pluperfect</h3>
+<h3>Pluperfect Middle/Passive</h3>
 <p tabstops="70,160">	<u>Indicative</u></p>
 <p tabstops="70,160">1st sg	ἐπεπράγμην</p>
 <p tabstops="70,160">2nd sg	ἐπέπραξο</p>
