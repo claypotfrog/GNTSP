@@ -1,0 +1,21 @@
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	λυθήσομαι</p>
+<p tabstops="70,160">2nd sg	λυθήσῃ</p>
+<p tabstops="70,160">3rd sg	λυθήσεται</p>
+<p tabstops="70,160">1st pl	λυθησόμεθα</p>
+<p tabstops="70,160">2nd pl	λυθήσεσθε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	λυθήσονται</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">λυθήσεσθαι</p>
+
+<p tabstops="70,162"><u>Participle</u></p>
+<p tabstops="65,162">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="65,162"><font size="14">nom sg	λυθησόμενος	λυθησομένη	λυθησόμενον</font></p>
+<p tabstops="65,162"><font size="14">acc sg	λυθησόμενον	λυθησομένην	λυθησόμενον</font></p>
+<p tabstops="65,162"><font size="14">gen sg	λυθησομένου	λυθησομένης	λυθησομένου</font></p>
+<p spacebelow="5" tabstops="65,162"><font size="14">dat sg	λυθησομένῳ	λυθησομένῃ	λυθησομένῳ</font></p>
+<p tabstops="65,162"><font size="14">nom pl	λυθησόμενοι	λυθησόμεναι	λυθησόμενα</font></p>
+<p tabstops="65,162"><font size="14">acc pl	λυθησομένους	λυθησομένας	λυθησόμενα</font></p>
+<p tabstops="65,162"><font size="14">gen pl	λυθησομένων	λυθησομενῶν	λυθησομένων</font></p>
+<p tabstops="65,162"><font size="14">dat pl	λυθησομένοις	λυθησομέναις	λυθησομένοις</font></p>

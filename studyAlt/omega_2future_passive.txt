@@ -1,0 +1,21 @@
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	γραφήσομαι</p>
+<p tabstops="70,160">2nd sg	γραφήσῃ</p>
+<p tabstops="70,160">3rd sg	γραφήσεται</p>
+<p tabstops="70,160">1st pl	γραφησόμεθα</p>
+<p tabstops="70,160">2nd pl	γραφήσεσθε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	γραφήσονται</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">γραφήσεσθαι</p>
+
+<p tabstops="70,162"><u>Participle</u></p>
+<p tabstops="60,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="60,160"><font size="13">nom sg	γραφησόμενος	γραφησομένη	γραφησόμενον</font></p>
+<p tabstops="60,160"><font size="13">acc sg	γραφησόμενον	γραφησομένην	γραφησόμενον</font></p>
+<p tabstops="60,160"><font size="13">gen sg	γραφησομένου	γραφησομένης	γραφησομένου</font></p>
+<p spacebelow="5" tabstops="60,160"><font size="13">dat sg	γραφησομένῳ	γραφησομένῃ	γραφησομένῳ</font></p>
+<p tabstops="60,160"><font size="13">nom pl	γραφησόμενοι	γραφησόμεναι	γραφησόμενα</font></p>
+<p tabstops="60,160"><font size="13">acc pl	γραφησομένους	γραφησομένας	γραφησόμενα</font></p>
+<p tabstops="60,160"><font size="13">gen pl	γραφησομένων	γραφησομενῶν	γραφησομένων</font></p>
+<p tabstops="60,160"><font size="13">dat pl	γραφησομένοις	γραφησομέναις	γραφησομένοις</font></p>

@@ -1,0 +1,12 @@
+<p tabstops="70,160">Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom.	μέγας	μεγάλη	μέγα</p>
+<p tabstops="70,160">voc.	μέγα	μεγάλη	μέγα</p>
+<p tabstops="70,160">acc.	μέγαν	μεγάλην	μέγα</p>
+<p tabstops="70,160">gen.	μεγάλου	μεγάλης	μεγάλου</p>
+<p  spacebelow="5"tabstops="70,160">dat.	μεγάλῳ	μεγάλῃ	μεγάλῳ</p>
+<p tabstops="70,160">Plural</p>
+<p tabstops="70,160">nom.	μεγάλοι	μεγάλαι	μεγάλα</p>
+<p tabstops="70,160">voc.	μεγάλοι	μεγάλαι	μεγάλα</p>
+<p tabstops="70,160">acc.	μεγάλους	μεγάλας	μεγάλα</p>
+<p tabstops="70,160">gen.	μεγάλων	μεγαλῶν	μεγάλων</p>
+<p tabstops="70,160">dat.	μεγάλοις	μεγάλαις	μεγάλοις</p>

@@ -1,0 +1,12 @@
+<p tabstops="80,200">Singular	<u>masc.	neut.</u></p>
+<p tabstops="80,200">nom.	περίπλους	ὀστοῦν</p>
+<p tabstops="80,200">voc.	περίπλου	ὀστοῦν</p>
+<p tabstops="80,200">acc.	περίπλουν	ὀστοῦν</p>
+<p tabstops="80,200">gen.	περίπλου	ὀστοῦ</p>
+<p  spacebelow="5"tabstops="80,200">dat.	περίπλῳ	ὀστῷ</p>
+<p tabstops="80,200">Plural</p>
+<p tabstops="80,200">nom.	περίπλοι	ὀστᾶ</p>
+<p tabstops="80,200">voc.	περίπλοι	ὀστᾶ</p>
+<p tabstops="80,200">acc.	περίπλους	ὀστᾶ</p>
+<p tabstops="80,200">gen.	περίπλων	ὀστῶν</p>
+<p tabstops="80,200">dat.	περίπλοις	ὀστοῖς</p>

@@ -1,0 +1,40 @@
+<p spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	δηλοῦμαι	δηλῶμαι</p>
+<p tabstops="75,175">2nd sg	δηλοῖ	δηλοῖ</p>
+<p tabstops="75,175">3rd sg	δηλοῦται	δηλῶται</p>
+<p tabstops="75,175">1st pl	δηλούμεθα	δηλώμεθα</p>
+<p tabstops="75,175">2nd pl	δηλοῦσθε	δηλῶσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	δηλοῦνται	δηλῶνται</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	δηλοίμην	—</p>
+<p tabstops="75,175">2nd sg	δηλοῖο	δηλοῦ</p>
+<p tabstops="75,175">3rd sg	δηλοῖτο	δηλούσθω</p>
+<p tabstops="75,175">1st pl	δηλοίμεθα	—</p>
+<p tabstops="75,175">2nd pl	δηλοῖσθε	δηλοῦσθε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	δηλοῖντο	δηλούσθωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">δηλοῦσθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="14">nom sg	δηλούμενος	δηλουμένη	δηλούμενον</font></p>
+<p tabstops="70,160"><font size="14">acc sg	δηλούμενον	δηλουμένην	δηλούμενον</font></p>
+<p tabstops="70,160"><font size="14">gen sg	δηλουμένου	δηλουμένης	δηλουμένου</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="14">dat sg	δηλουμένῳ	δηλουμένῃ	δηλουμένῳ</font></p>
+<p tabstops="70,160"><font size="14">nom pl	δηλούμενοι	δηλούμεναι	δηλούμενα</font></p>
+<p tabstops="70,160"><font size="14">acc pl	δηλουμένους	δηλουμένας	δηλούμενα</font></p>
+<p tabstops="70,160"><font size="14">gen pl	δηλουμένων	δηλουμενῶν	δηλουμένων</font></p>
+<p tabstops="70,160"><font size="14">dat pl	δηλουμένοις	δηλουμέναις	δηλουμένοις</font></p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>IMPERFECT</u></b></p>
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	ἐδηλούμην</p>
+<p tabstops="70,160">2nd sg	ἐδηλοῦ</p>
+<p tabstops="70,160">3rd sg	ἐδηλοῦτο</p>
+<p tabstops="70,160">1st pl	ἐδηλούμεθα</p>
+<p tabstops="70,160">2nd pl	ἐδηλοῦσθε</p>
+<p tabstops="70,160">3rd pl	ἐδηλοῦντο</p>

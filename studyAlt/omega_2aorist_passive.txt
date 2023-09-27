@@ -1,0 +1,29 @@
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	ἐγράφην	γραφῶ</p>
+<p tabstops="75,175">2nd sg	ἐγράφης	γραφῇς</p>
+<p tabstops="75,175">3rd sg	ἐγράφη	γραφῇ</p>
+<p tabstops="75,175">1st pl	ἐγράφημεν	γραφῶμεν</p>
+<p tabstops="75,175">2nd pl	ἐγράφητε	γραφῆτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	ἐγράφησαν	γραφῶσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	γραφείην	—</p>
+<p tabstops="75,175">2nd sg	γραφείης	γράφητι</p>
+<p tabstops="75,175">3rd sg	γραφείη	γραφήτω</p>
+<p tabstops="75,175">1st pl	γραφεῖμεν	—</p>
+<p tabstops="75,175">2nd pl	γραφεῖτε	γράφητε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	γραφεῖεν	γραφήτωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">γραφῆναι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160"><font size="15">nom sg	γραφείς	γραφεῖσα	γραφέν</font></p>
+<p tabstops="70,160"><font size="15">acc sg	γραφέντα	γραφεῖσαν	γραφέν</font></p>
+<p tabstops="70,160"><font size="15">gen sg	γραφέντος	γραφείσης	γραφέντος</font></p>
+<p spacebelow="5" tabstops="70,160"><font size="15">dat sg	γραφέντῳ	γραφείσῃ	γραφέντῳ</font></p>
+<p tabstops="70,160"><font size="15">nom pl	γραφέντες	γραφεῖσαι	γραφέντα</font></p>
+<p tabstops="70,160"><font size="15">acc pl	λγραφέντας	γραφείσας	γραφέντα</font></p>
+<p tabstops="70,160"><font size="15">gen pl	γραφέντων	γραφεισῶν	γραφέντων</font></p>
+<p tabstops="70,160"><font size="15">dat pl	γραφεῖσι(ν)	γραφείσαις	γραφεῖσι(ν)</font></p>

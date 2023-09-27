@@ -1,0 +1,64 @@
+<p  spacebelow="5" tabstops="70,160">		<u><b>PRESENT</u></b></p>
+<p tabstops="75,175">	<u>Indicative	Subjunctive</u></p>
+<p tabstops="75,175">1st sg	εἰμί	ὦ</p>
+<p tabstops="75,175">2nd sg	εἶ	ᾖς</p>
+<p tabstops="75,175">3rd sg	ἐστί(ν)	ᾖ</p>
+<p tabstops="75,175">1st pl	ἐσμέν	ὦμεν</p>
+<p tabstops="75,175">2nd pl	ἐστέ	ἦτε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	εἰσί(ν)	ὦσι(ν)</p>
+
+<p tabstops="75,175">	<u>Optative	Imperative</u></p>
+<p tabstops="75,175">1st sg	εἴην	—</p>
+<p tabstops="75,175">2nd sg	εἴης	ἴσθι</p>
+<p tabstops="75,175">3rd sg	εἴη	ἔστω</p>
+<p tabstops="75,175">1st pl	εἶμεν	—</p>
+<p tabstops="75,175">2nd pl	εἶτε	ἔστε</p>
+<p spacebelow="5" tabstops="75,175">3rd pl	εἶεν	ἔστων / ἔστωσαν</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">εἶναι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	ὤν	οὖσα	ὄν</p>
+<p tabstops="70,160">acc sg	ὄντα	οὖσαν	ὄν</p>
+<p tabstops="70,160">gen sg	ὄντος	οὔσης	ὄντος</p>
+<p spacebelow="5" tabstops="70,160">dat sg	ὄντι	οὔσῃ	ὄντι</p>
+<p tabstops="70,160">nom pl	ὄντες 	οὖσαι 	ὄντα</p>
+<p tabstops="70,160">acc pl	ὄντας 	οὔσας 	ὄντα</p>
+<p tabstops="70,160">gen pl	ὄντων 	οὐσῶν 	ὄντων</p>
+<p tabstops="70,160">dat pl	οὖσι(ν) 	οὔσαις 	οὖσι(ν)</p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>IMPERFECT</u></b></p>
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	ἤμην</p>
+<p tabstops="70,160">2nd sg	ἦς / ἦσθα</p>
+<p tabstops="70,160">3rd sg	ἦν</p>
+<p tabstops="70,160">1st pl	ἦμεν / ἤμεθα</p>
+<p tabstops="70,160">2nd pl	ἦτε / ἦστε</p>
+<p tabstops="70,160">3rd pl	ἦσαν</p>
+
+<p></p>
+<p spacebelow="5" tabstops="70,160">		<u><b>FUTURE</u></b></p>
+<p tabstops="70,160">	<u>Indicative</u></p>
+<p tabstops="70,160">1st sg	ἔσομαι</p>
+<p tabstops="70,160">2nd sg	ἔσῃ</p>
+<p tabstops="70,160">3rd sg	ἔσται</p>
+<p tabstops="70,160">1st pl	ἐσόμεθα</p>
+<p tabstops="70,160">2nd pl	ἔσεσθε</p>
+<p spacebelow="5" tabstops="70,160">3rd pl	ἔσονται</p>
+
+<p tabstops="70,160"><u>Infinitive</u></p>
+<p tabstops="70,160" spacebelow="5">ἔσεσθαι</p>
+
+<p tabstops="70,160"><u>Participle</u></p>
+<p tabstops="70,160">	<u>Masc.	Fem.	Neut.</u></p>
+<p tabstops="70,160">nom sg	ἐσόμενος	ἐσομένη	ἐσόμενον</p>
+<p tabstops="70,160">acc sg	ἐσόμενον	ἐσομένην	ἐσόμενον</p>
+<p tabstops="70,160">gen sg	ἐσομένου	ἐσομένης	ἐσομένου</p>
+<p spacebelow="5" tabstops="70,160">dat sg	ἐσομένῳ	ἐσομένῃ	ἐσομένῳ</p>
+<p tabstops="70,160">nom pl	ἐσόμενοι	ἐσόμεναι	ἐσόμενα</p>
+<p tabstops="70,160">acc pl	ἐσομένους	ἐσομένας	ἐσόμενα</p>
+<p tabstops="70,160">gen pl	ἐσομένων	ἐσομενῶν	ἐσομένων</p>
+<p tabstops="70,160">dat pl	ἐσομένοις	ἐσομέναις	ἐσομένοις</p>
