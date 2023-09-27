@@ -1,4 +1,4 @@
-<p spacebelow="5" tabstops="70,160"><u><b>endings in –ύς –εῖα –ύ</u></b></p>
+<p spacebelow="5" tabstops="70,160"><u><b>endings in –ύς –εῖα –ύ</u></b></p>
 <p tabstops="70,160">Singular	<u>Masc.	Fem.	Neut.</u></p>
 <p tabstops="70,160">nom.	ἡδύς	ἡδεῖα	ἡδύ</p>
 <p tabstops="70,160">gen.	ἡδέος	ἡδείας	ἡδέος</p>
