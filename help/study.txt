@@ -6,6 +6,14 @@
 <p spacebelow=10>Clicking any of these lines will expand the section so you can review the material.  Clicking in the section does nothing.  These lists are not interactive; they are only for review.</p>
 <p spacebelow=10><img src="binfile:help/images/studyclicked.png"></p>
 <p spacebelow=10>Like on the main About screen, you can close any section by pressing and holding until the section collapses back to just the title.</p>
+<p spacebelow=10>On the main Forms screen, there is a blue gear icon in the upper-right.</p>
+<p spacebelow=10><img src="binfile:help/images/forms-settings-gear.png"></p>
+<p spacebelow=10>Clicking this icon brings up the "Settings" menu for how noun cases are presented in the program.  You can choose to view nouns cases in the order: Nominative, Genitive, Dative, Accusative, Vocative (which I am told is the "American" order) or in the order: Nominative, Vocative, Accusative, Genitive, Dative (which I am told is the "British" order).</p>
+<p spacebelow=10><img src="binfile:help/images/forms-settings.png"></p>
+<p spacebelow=10>However you choose to view noun cases, they will be presented to you in this order everywhere that noun forms are displayed in the program, both here and on the Details screen. <i>(See the <b>Word Details</b> section later on this screen.)</i></p>
+<p spacebelow=5><img src="binfile:help/images/forms-settings-nvagd.png"></p>
+<p><img src="binfile:help/images/forms-settings-nvagd-details.png"></p>
+<h3>Verb Form Review</h3>
 <p spacebelow=10>Clicking on the Verb Form Review line brings up the Verb Form Review screen where you can test your recognition of verbal forms.</p>
 <p spacebelow=10><img src="binfile:help/images/verbreviewchooser.png"></p>
 <p spacebelow=10>In the first drop-down, you choose whether you wish to review verbal forms (like in a textbook where all the forms are presented on one verb) or review forms found in the New Testament.</p>

@@ -46,7 +46,7 @@
 <p spacebelow=10><img src="binfile:help/images/search-add-all-to-vocab.png"></p>
 <p spacebelow=10>Now when you click on any word in the list, instead of the going to "Details" page for that word, the program will add <b>all</b> the words in the list to a vocabulary list.</p>
 <p spacebelow=10><img src="binfile:help/images/search-word-added.png"></p>
-<p spacebelow=10>Now when you go create a new Vocabulary List (or edit an existing one), you'll see all the words you added in the "Manual List" item.</p>
+<p spacebelow=10>Now when you go create a new Vocabulary List (or edit an existing one), you'll see all the words you added in the "Manual List" item.  (They are added in the same order they appeared on the Search screen.)</p>
 <p spacebelow=10><img src="binfile:help/images/search-words-in-field.png"></p>
 <p spacebelow=10>You can edit these words if you like, and then click the "Add Words" link to place them in the vocabulary list below and then save them as you see fit.</p>
 <p spacebelow=10><img src="binfile:help/images/search-words-in-list.png"></p>
