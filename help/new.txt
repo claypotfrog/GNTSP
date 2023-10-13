@@ -1,0 +1,2 @@
+<p spacebelow=10>***You can now backup your data and sync multiple devices.  See the section on <b>Backup/Synchronize</b> in the About screen for instructions.</p>
+<p spacebelow=10>***You can create character sets using brackets ([]) in wildcard searches.  So entering "α[πφ]?" would search for words beginning with "απ" or "αφ".  See the section on <b>Searching</b> in the About screen for instructions.</p>
