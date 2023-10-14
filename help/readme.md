@@ -1,1 +1,1 @@
-These are the files which are shown in the help page.
+These are the files which are shown in the About screen.
