@@ -2,4 +2,4 @@ Privacy Statement
 
 The Greek New Testament Study Project collects no data from the user and shares no data with anyone else.
 
-The program and data files exist on your device alone and do not communicate in any way with other programs or other devices.
+Unless you choose to backup your data using the build-in Backup/Synchronize function, the program and data files exist on your device alone.  If you do choose to use the backup function, then your data is encrypted using a password stored only on your device and known only to you.  An encrypted copy of your data is then stored on a server on the internet.
