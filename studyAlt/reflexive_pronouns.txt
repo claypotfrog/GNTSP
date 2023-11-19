@@ -10,9 +10,9 @@
 
 <p spacebelow="5"><i><b>2nd person reflexive (yourself, yourselves)</i></b></p>
 <p tabstops="80,200">Singular	<u>Masc.	Fem.</u></p>
-<p tabstops="80,200">acc.	σεμαυτόν	σεμαυτήν</p>
-<p tabstops="80,200">gen.	σεμαυτοῦ	σεμαυτῆς</p>
-<p spacebelow="5" tabstops="80,200">dat.	σεμαυτῷ	σεμαυτῇ</p>
+<p tabstops="80,200">acc.	σεαυτόν	σεαυτήν</p>
+<p tabstops="80,200">gen.	σεαυτοῦ	σεαυτῆς</p>
+<p spacebelow="5" tabstops="80,200">dat.	σεαυτῷ	σεαυτῇ</p>
 <p tabstops="80,200">Plural</p>
 <p tabstops="80,200">acc.	ὑμᾶς αὐτούς	ὑμᾶς αὐτάς</p>
 <p tabstops="80,200">gen.	ὑμῶν αὐτῶν	ὑμῶν αὐτῶν</p>

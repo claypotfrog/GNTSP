@@ -1,4 +1,4 @@
-<p tabstops="80,160">Singular	<u>-ι</u>	<u>-υ</u>	<u>-eυ</u></p>
+<p tabstops="80,160">Singular	<u>-ι</u>	<u>-υ</u>	<u>-ευ</u></p>
 <p tabstops="80,160">nom.	ἡ πόλις	ὁ πῆχυς	ὁ βασιλεύς</p>
 <p tabstops="80,160">voc.	πόλι	πῆχυ	βασιλεῦ</p>
 <p tabstops="80,160">acc.	πόλιν	πῆχυν	βασιλέα	</p>

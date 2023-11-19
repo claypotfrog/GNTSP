@@ -78,7 +78,7 @@
 <p tabstops="70,160">gen sg	δόντος	δούσης	δόντος</p>
 <p spacebelow="5" tabstops="70,160">dat sg	δόντι	δούσῃ	δόντι</p>
 <p tabstops="70,160">nom pl	δόντες	δοῦσαι	δόντα</p>
-<p tabstops="70,160">acc pl	δόντας	δούσσας	δόντα</p>
+<p tabstops="70,160">acc pl	δόντας	δούσας	δόντα</p>
 <p tabstops="70,160">gen pl	δόντων	δουσῶν	δόντων</p>
 <p tabstops="70,160">dat pl	δοῦσι(ν)	δούσαις	δοῦσι(ν)</p>
 
