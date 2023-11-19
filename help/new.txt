@@ -1,2 +1,5 @@
-<p spacebelow=10>***You can now backup your data and sync multiple devices.  See the section on <b>Backup/Synchronize</b> in the About screen for instructions.</p>
-<p spacebelow=10>***You can create character sets using brackets ([]) in wildcard searches.  So entering "α[πφ]?" would search for words beginning with "απ" or "αφ".  See the section on <b>Searching</b> in the About screen for instructions.</p>
+<p spacebelow=10>***Now includes the Lexham English Bible with translation notes.  See the Read section later on this screen for information how to access it.</p>
+<p spacebelow=10>***The Gentium Plus font has replaced the older GentiumAlt and is now the default font for both the Greek and English text on the Read page.</p>
+<p spacebelow=10>***You can bookmark a book and chapter to easily return there. See the Read section later on this screen for more information.</p>
+
+
