@@ -1,5 +1,8 @@
-<p spacebelow=10>***Now includes the Lexham English Bible with translation notes.  See the Read section later on this screen for information how to access it.</p>
-<p spacebelow=10>***The Gentium Plus font has replaced the older GentiumAlt and is now the default font for both the Greek and English text on the Read page.</p>
-<p spacebelow=10>***You can bookmark a book and chapter to easily return there. See the Read section later on this screen for more information.</p>
+<p spacebelow=10>***New drop-down menus.</p>
+<p spacebelow=10>***Redesigned Vocabulary List selectors.</p>
+<p spacebelow=10>***Vocabulary frequency lists can be created for any chapter of any book.</p>
+<p spacebelow=10>***Vocabulary Tutor shows you your previous choice.</p>
+<p spacebelow=10>***Click on any verse number to bookmark that verse.</p>
+<p spacebelow=10>***Swipe left and right on mobile to switch between languages. <i>(Enable/disable in preferences.)</p>
 
 

@@ -7,14 +7,14 @@
 <p spacebelow=10><img src="binfile:help/images/langchooser-greek.png"></p>
 <p spacebelow=10>And clicking on the item to the right labeled "English" will bring up the text of the Lexham English Bible.</p>
 <p spacebelow=10><img src="binfile:help/images/langchooser-english.png"></p>
+<p spacebelow=10>If you are on a mobile device, you can also swipe right and left to switch between the Greek and English texts.  But default the option to swipe to change languages is enabled.  But you can enable and disable swiping in the Settings dialogue box (see next paragraph).</p>
 <p spacebelow=10>Clicking on the blue gear icon in the upper right corner brings up the "Settings" dialogue for that language.  Here you can change the font as well as adjust the font size and line spacing for the Greek and English text.  When you first run the program, it will display all the text in both Greek and English in the "Gentium Plus" font.  But you can switch to any font that is available on your device.  In addition, the program itself includes the "Gentium Plus" font as well as "Galatia SIL", "SBL Greek", "Literata", and "Montserrat" fonts.</p>
 <p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
 <p spacebelow=10><i>(Please note that the font settings for each language are independent of each other.  You can set either text to any available font.)</i></p>
-<p spacebelow=10>As you scroll through either the Greek or the English text, the other language text will scroll with you as well, although of course you won't see it until you switch languages.  But when you do switch, you will be at (approximately) the same chapter and verse as you were in the previous language.</p>
 <p spacebelow=10>As you are reading the Greek text, clicking on any word will highlight that word and bring up a box with the word's dictionary entry and gloss.  Below the gloss is the grammatical parsing for this word in this occurrence.  You can also see the total number of times this word appears (in any form) in the Greek text in the upper right-hand corner.</p>
 <p spacebelow=10><img src="binfile:help/images/wordclick.png"></p>
 <p spacebelow=10>Clicking on the blue dialogue box itself will bring up the Details screen for this particular (dictionary) word.</p>
-<p spacebelow=10><img src="binfile:help/images/wordpage.png"></p>
+<p spacebelow=10><img src="binfile:help/images/details-logos.png"></p>
 <p spacebelow=10>Here you will see the word's dictionary entry at the top as well as its part-of-speech, its gloss, the number of times it occurs (in any form) in the Greek text, and the number of different forms in which it appears in the text.  If you have added any notes to this word, they will appear here.</p>
 <p spacebelow=10>In addition, if the word is a verb, then its principle parts (if they have been entered in the database) will be displayed here as well.</p>
 <p spacebelow=10><img src="binfile:help/images/lego.png"></p>
@@ -28,16 +28,8 @@
 <p spacebelow=10>In addition, words and phrases which are underlined (<u>like this</u>) are places where the Greek text uses an idiom.  There is always a translation note attached to these which you can read to the see the original Greek idiom.</p>
 <p spacebelow=10>Translation notes are indicated by superscripted blue ampersands (<font color="blue"><sup shift="-4">@</sup></font>).  Click on these to access the LEB translation notes for the previous word or words.</p>
 <p spacebelow=10><img src="binfile:help/images/englishclick.png"></p>
-<p spacebelow=10>On both the Greek and English pages, you can also bookmark a book and chapter in order to easily return to that location.  Click on the blue Bookmark icon in the upper-left corner to bring up the bookmark menu.</p>
+<p spacebelow=10>On both the Greek and English pages, you can also bookmark a verse in order to easily return to that location.  Click on a verse number in either Greek or English to bookmark that verse.  The program will ask you to confirm your choice.  In the following image, we have clicked on the verse number "28" in chapter 8 of Romans, and the app is asking us to confirm setting this verse as our new bookmark.</p> 
+<p spacebelow=10><img src="binfile:help/images/bookmark-set-verse.png"></p>
+<p spacebelow=10>Click on the blue Bookmark icon in the upper-left corner to bring up the bookmark menu.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmarkmenu.png"></p>
-<p spacebelow=10>Because we are reading in Romans chapter 9, the first button in the bookmark menu lets us set this location as the new bookmark.  The second button lets us return directly to the previously set bookmark, which in this case is John 1.</p>
-<p spacebelow=10>Let's click on the first button and set the bookmark to Romans 9.  Then we'll examine the word "ὀδύνη" in Romans 9:2 and navigate to 1 Timothy 6:10, the one other place where Paul uses this word.</p>
-<p spacebelow=10><img src="binfile:help/images/bookmark-1tim6.png"></p>
-<p spacebelow=10>Notice that now the Bookmark icon in the upper-left of the app has been replaced by the Back arrow so that we can return to the list of occurrences of this word in case we want to continue studying other passages where the word is used.</p>
-<p spacebelow=10>You can show the Bookmark icon again by clicking on any word in the text; that will remove the Back icon and show the Bookmark icon in its place.  Here we've clicked on "ὀδύνη" again, and the Bookmark icon has reappeared.</p>
-<p spacebelow=10><img src="binfile:help/images/bookmark-clicktoshow.png"></p>
-<p spacebelow=10>Clicking on the Bookmark icon brings up the bookmark menu again.  Now we have the option to set 1 Timothy 6 as our bookmark since that is the passage we are in.  Or we can return to our existing bookmark, Romans 9.</p>
-<p spacebelow=10><img src="binfile:help/images/bookmarkmenu2.png"></p>
-<p spacebelow=10>We click on the middle button, "Go to Romans 9", and we are returned immediately to that location.</p>
-<p spacebelow=10><img src="binfile:help/images/bookmark-return-romans.png"></p>
-<p spacebelow=10>Romans 9 will remain our bookmark until we change it to something else.  The program also remembers your bookmark between sessions.</p>
+<p spacebelow=10>Clicking the top button lets us return directly to the bookmark we just set, Romans 8:28.</p>

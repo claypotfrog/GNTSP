@@ -47,16 +47,14 @@
 <p spacebelow=10><img src="binfile:help/images/search-encourage.png"></p>
 <p spacebelow=10><i>Please see the <b>Details</b> section below for more information about the Details screen</i></p>
 <h3>Adding Words to Vocabulary Lists</h3>
-<p spacebelow=10>You can also use the search function to put words into a Vocabulary group.  Imagine that we want to create a Vocabulary List of those same "ωμι" verbs we found before.  Once you've done the search, click anywhere on the line where it says, "Open in Details".  You'll see the text changes to say "Add All to Vocabulary".</p>
-<p spacebelow=10><img src="binfile:help/images/search-add-all-to-vocab.png"></p>
-<p spacebelow=10>Now when you click on any word in the list, instead of the going to "Details" page for that word, the program will add <b>all</b> the words in the list to a vocabulary list.</p>
+<p spacebelow=10>You can also use the search function to put words into a Vocabulary group.  Imagine that we want to create a Vocabulary List of those same "ωμι" verbs we found before.  Once you've done the search, click anywhere on the line where it says, "Open in Details" and it will present you with a list of options for what happens when you click on a word in the search results.</p>
+<p spacebelow=10><img src="binfile:help/images/search-show-options.png"></p>
+<p spacebelow=10>Choose the bottom option, "Add All Words to Vocabulary".  The line above the search results will show you that you have chosen this option.  Now when you click on any word in the list, instead of the going to "Details" page for that word, the program will add <b>all</b> the words in the list to a vocabulary list.</p>
 <p spacebelow=10><img src="binfile:help/images/search-word-added.png"></p>
 <p spacebelow=10>Now when you go create a new Vocabulary List (or edit an existing one), you'll see all the words you added in the "Manual List" item.  (They are added in the same order they appeared on the Search screen.)</p>
 <p spacebelow=10><img src="binfile:help/images/search-words-in-field.png"></p>
 <p spacebelow=10>You can edit these words if you like, and then click the "Add Words" link to place them in the vocabulary list below and then save them as you see fit.</p>
 <p spacebelow=10><img src="binfile:help/images/search-words-in-list.png"></p>
-<p spacebelow=10>You can also add words individually to the Vocabulary list from the Search screen.  If you click again on the line which (now) says "Add All to Vocabulary", it will change to say simply "Add to Vocabulary".</p>
-<p spacebelow=10><img src="binfile:help/images/search-add-to-vocab.png"></p>
-<p spacebelow=10>Now you can click on any word in the list, and only that word will be added the Vocabulary list.</p>
-<p spacebelow=10>Click that same line (which now says "Add to Vocabulary") one more time if you wish to return to the default action "Open in Details" setting.  <i>(Please note that when you leave the Search screen, this action always resets to "Open in Details", so you do not need to change it back unless you want to examine a particular word now.)<i></p>
+<p spacebelow=10>You can also add words individually to the Vocabulary list from the Search screen.  If you click on the line and chose "Add Word to Vocabulary", then each line you click on in the search results will be individually added to the vocabulary list.</p>
+<p spacebelow=10><i>(Please note that whenever you enter the Search screen, this line always resets to "Open in Details", so you do not need to change it back unless you want to examine a particular word now.)<i></p>
 <p spacebelow=10><i>See the <b>Vocabulary Lists</b> section to review how to create, edit, and save Vocabulary lists and groups.</i></p>

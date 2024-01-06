@@ -23,7 +23,7 @@
 <p spacebelow=10>If you have chosen to review verbs from the New Testament, then you choose which types of verbs: Ω verbs, contract verbs, ΜΙ verbs, etc.</p>
 <p spacebelow=10><img src="binfile:help/images/verbreviewtype.png"></p>
 <p spacebelow=10>Once you have chosen which verbs to study, click the appropriate buttons to select which various verb forms you wish to review.  You must choose at least one option from the TENSE, VOICE, and MOOD sections, but you can choose as many as you wish.  Not all options are available if those combinations don't exist in the Greek New Testament.  So if you choose only "Imperfect" from the TENSE section, then only "Indicative" will be available in the MOOD section because the "Imperfect" tense has only "Indicative" mood forms.</p>
-<p spacebelow=10><i>Double-clicking on a button will highlight all the enabled buttons in that section.</i></p>
+<p spacebelow=10><i>Clicking the "Select All" button will select all the options in that group.</i></p>
 <p spacebelow=10>Clicking on the "Reset" link in the upper-right corner will turn off all the options and reset the dropdown menus back to the defaults.</p>
 <p spacebelow=10>In the following image we have chosen to review Verbs from the New Testament - Present, Middle, Indicative forms of Non-Contract Omega verbs (so no μι verbs and no άω, έω, or όω verbs).</p>
 <p spacebelow=10><img src="binfile:help/images/verbreviewchoosen.png"></p>
