@@ -1,5 +1,5 @@
 # GNTSP
-The Greek New Testament Study App 
+## The Greek New Testament Study App 
 
 This project combines the text of the [Society of Biblical Literature's Greek New Testament](https://www.sblgnt.com/) (SBLGNT) with the morphological data from [MorphGNT](https://github.com/morphgnt) and a Greek-English lexicon into a single mobile app which will allow you to (hopefully) more easily read the Greek New Testament by quickly providing definitions and grammatical parsings for every word in the SBLGNT.
 
