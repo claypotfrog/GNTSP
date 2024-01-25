@@ -3,7 +3,7 @@
 -----------------------------------------------------
 **dictionary.txt** is the main dictionary table containing the base form of every word found in the SBLGNT.  There are six columns in each record.
 
-col 1 : lemma - the "dictionary" form of the word - for nouns and adjectives this is the nom. sg. masc. form., for verbs this is the present indicative, 1st sg., etc.  Because this column is the primary key of the database it must be unique.  So for "δέω" which is the dictionary for of two different words, one meaning "to bind" and one meaning meaning "to lack", "δέω" is the lemma for "to bind" while "δέω2" is the lemma for "to lack".
+col 1 : lemma - the "dictionary" form of the word - for nouns and adjectives this is the nom. sg. masc. form., for verbs this is the present indicative, 1st sg., etc.  Because this column is the primary key of the database it must be unique.  So for "δέω" which is the dictionary form of two different words, one meaning "to bind" and one meaning meaning "to lack", "δέω" is the lemma for "to bind" while "δέω2" is the lemma for "to lack".
 
 col 2 : part of speech - noun, adjective, verb, etc.
 
