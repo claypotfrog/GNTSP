@@ -32,4 +32,4 @@ col 6 : number
 
 col 7 : gender (participles only)
 
-Not every verbal form has all the columns; different moods parse differently.  Infinitives have just the first four columns.  Indicatives, subjunctives, optatives, and imperatives have the first six columns, and column 5 contains the person (1st, 2nd, or 3rd).  Participles have all seven columns, and column 5 contains the case (nom., gen., dat., acc., voc.).
+Not every verbal form has all the columns; different moods parse differently.  Infinitives have data for just the first four columns; the last three columns are blank.  Indicatives, subjunctives, optatives, and imperatives have the first six columns, and column 5 contains the person (1st, 2nd, or 3rd).  Participles have all seven columns, and column 5 contains the case (nom., gen., dat., acc., voc.).
