@@ -1,8 +1,6 @@
-<p spacebelow=10>***New drop-down menus.</p>
-<p spacebelow=10>***Redesigned Vocabulary List selectors.</p>
-<p spacebelow=10>***Vocabulary frequency lists can be created for any chapter of any book.</p>
-<p spacebelow=10>***Vocabulary Tutor shows you your previous choice.</p>
-<p spacebelow=10>***Click on any verse number to bookmark that verse.</p>
-<p spacebelow=10>***Swipe left and right on mobile to switch between languages. <i>(Enable/disable in preferences.)</p>
-
-
+<p spacebelow=10>*** Landscape Mode on Mobile</p>
+<p spacebelow=10>*** Bookmark, highlight, and copy verses. Click on verse number to access. (See the "Verse Actions" section on the About page.)</p>
+<p spacebelow=10>*** Vocabulary lists can be created for an entire book ordered by chapter.</p>
+<p spacebelow=10>*** Set a maximum interval for vocabulary review from 1 month to a year.  (Default is 6 months.)</p>
+<p spacebelow=10>*** Transparency of the Scroll Buttons can be adjusted in Settings.</p>
+<p spacebelow=10>*** Expand and Collapse all Verses on Occurrence screen.</p>

@@ -12,10 +12,10 @@
 <p spacebelow=10>So if you want to type an omega with a smooth breathing and a circumflex accent, you could type ")3w".  The order of the diacritics does not matter.  You could type "3)w" and get the same result.  All that matters is that the vowel be typed last.  Nothing will appear until after you type the vowel.  The control characters do not appear when you type.  Once you type the vowel "ω", "<b>ὦ</b>" will appear.  If you type anything other than a vowel immediately after these characters, then they will silently discarded.</p>
 <p spacebelow=10><img src="binfile:help/images/details-gloss-greek.png"></p>
 <p spacebelow=10>If you want to type any of the control characters themselves and have them appear, type a space (" ") immediately after the character.  So "( " will type "(", "3 " will type "3", etc.</p>
-<p spacebelow=10>Once you have edited the definition, click the "Save" link in the upper-right to save the new definition and return to the Details screen where you will see the new gloss you just entered.  Or click the back arrow in the upper-left to return to the Details screen without saving any changes.</p>
+<p spacebelow=10>Once you have edited the definition, click the "Save" link in the upper right to save the new definition and return to the Details screen where you will see the new gloss you just entered.  Or click the back arrow in the upper left to return to the Details screen without saving any changes.</p>
 <p spacebelow=10>In the same way, you can click on the Notes line to enter or edit a note about the word.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-note.png"></p>
-<p spacebelow=10>Like the definition screen, you can type your notes in any combination of English and Greek using the "&" character <i>(or tab on desktop)</i> to change the keyboard.  Also like the definition screen, click the Save link to save the note and return to the Details screen where you will see the note you just entered or click the back arrow in the upper-left to return to the Details screen without saving any changes you may have made.</p>
+<p spacebelow=10>Like the definition screen, you can type your notes in any combination of English and Greek using the "&" character <i>(or tab on desktop)</i> to change the keyboard.  Also like the definition screen, click the Save link to save the note and return to the Details screen where you will see the note you just entered or click the back arrow in the upper left to return to the Details screen without saving any changes you may have made.</p>
 <p spacebelow=10>If the word is a verb, then below the definition line will be a line for the principle parts of the verb.</p>
 <p spacebelow=10><img src="binfile:help/images/details-lego.png"></p>
 <p spacebelow=10>The database includes the principle parts for all verbs appearing 10 or more times in the Greek text.  The six principle parts are arranged in the traditional order of present, future active, aorist active, perfect active, perfect middle, aorist passive.  In addition, the imperfect will be in parenthesis after the present.  If there are multiple forms attested for that tense, then they will be separated by a slash (/).</p>
@@ -25,16 +25,18 @@
 <p spacebelow=10><img src="binfile:help/images/details-lego-parts.png"></p>
 <p spacebelow=10>This screen operates just like the "Edit Definition" and "Edit Note" screens.  Press the Save link to save your changes; press the back arrow to cancel and return to the details screen.</p>
 <p spacebelow=10>Back in the Details screen, we see that there are 330 occurrences of the word "λόγος" (in any form) in the Greek text.</p>
-<p spacebelow=10><img src="binfile:help/images/details-logos-occurrence-line.png"></p>
+<p spacebelow=10><img src="binfile:help/images/details-logos.png"></p>
 <p spacebelow=10>Clicking on the "Occurrences" line of the Details screen will take you to screen that lists every verse where this word appears (in any form).</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-occurrences.png"></p>
 <p spacebelow=10>Here we see that the word "λόγος" appears (in all its forms) in 318 verses in the Greek text.  Clicking on any of these lines will display the text of the verse with the occurrences of the word highlighted.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-show-verse.png"></p>
-<p spacebelow=10>If you wish to hide the verse text, press and hold anywhere on the verse until the verse text closes.  If you click normally on any line with the verse text showing, the program will take you to the Read screen with that book open to that chapter and verse.  All occurrences of the word you were examining in the Details screen (in any form) will be highlighted throughout the book. (You can remove the highlights by pressing and holding anywhere on the Greek Text or on Mobile by shaking your device.)</p>
-<p spacebelow=10>Moreover, in the upper-left corner of the Read screen, where you normally see the Bookmark icon, there will now be a back arrow.  Clicking on this arrow will return you to the Occurrences screen.</p>
+<p spacebelow=10>You can also display the text of all the verses by clicking on the blue arrow in the box in the upper-right.  (<i>The blue plus you just clicked on will change to minus.  Click on the minus to hide the text of all the verses.</i>)</p>
+<p spacebelow=10><img src="binfile:help/images/details-logos-show-all-verses.png"></p>
+<p spacebelow=10>If you wish to hide the verse text of any particular line, press and hold anywhere on the verse until the verse text closes.</p>
+<p spacebelow=10>If you click normally on any line with the verse text showing, the program will take you to the Read screen with that book open to that chapter and verse.  All occurrences of the word you were examining in the Details screen (in any form) will be highlighted throughout the book. (You can remove the highlights by pressing and holding anywhere on the Greek Text or on Mobile by shaking your device.)</p>
+<p spacebelow=10>Moreover, in the upper left corner of the Read screen next to the bookmarks icon, the back arrow will now be highlighted indeacting that you can click on it.  Clicking on this arrow will return you to the Occurrences screen.  The arrow will remained enabled until you click on another word in the Greek text and examine that word.</p>
 <p spacebelow=5><img src="binfile:help/images/read-with-back.png"></p>
-<p spacebelow=10>Once you click on any word to examine it, however, the back arrow will disappear and be replaced by the Bookmark icon again.</p>
-<p spacebelow=10>From the Occurrences screen, you can return to the Details screen by pressing the back arrow in the upper-left.</p>
+<p spacebelow=10>From the Occurrences screen, you can return to the Details screen by pressing the back arrow in the upper left.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos.png"></p>
 <p spacebelow=10>Below the Occurrences lines, we see that the word "λόγος" has eight different forms attested in the Greek text.  Clicking on that link will bring up a screen where you can see all the different grammatical forms in which that word appears in the Greek text.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-forms.png"></p>

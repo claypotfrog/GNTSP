@@ -1,8 +1,14 @@
 <p spacebelow=10>You scroll through the fields of the app by swiping up and down like in any mobile app.  It is possible, however, to also enable scroll buttons which allow you to click to scroll any scrollable field.  With these you can scroll on devices that do not have touchscreens, as well as move more quickly through very long fields.  Scroll buttons are turned off by default, but you can enable them if you so desire.</p>
-<p spacebelow=10>On the "Read" page, click the blue gear icon in the upper-right to open up the "Settings" dialogue.  Near the bottom of the window, you'll see a checkbox labeled "Show Scroll Buttons".</p>
+<p spacebelow=10>On the "Read" page, click the blue gear icon in the upper right to open up the "Settings" dialog.  Near the bottom of the window, you'll see a checkbox labeled "Show Scroll Buttons".</p>
 <p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
-<p spacebelow=10>Check that box, click "Accept", and you'll see light blue arrows in the upper-right of every scrollable field.</p>
+<p spacebelow=10>Check that box, click "Accept", and you'll see light blue arrows in the upper right of every scrollable field.</p>
 <p spacebelow=10><img src="binfile:help/images/scroll_arrows.png"></p>
 <p spacebelow=10>The arrows point to the right meaning the scroll buttons are hidden.  Click on these arrows and then will flip to point to the left and enable the scroll buttons at bottom-right of that field.</p><p spacebelow=10><img src="binfile:help/images/scroll_buttons_enabled.png"></p>
-<p spacebelow=10>Clicking on these will do exactly what they say, "Top" going to the first line and "Bottom" going to the last line in the field.  The "Scroll Up" and "Scroll Down" buttons will move up or down by a little less than half a screen initially, but if you hold the button down, they will accelerate and move by larger and larger amounts.  You can hide the scroll buttons by clicking the arrows in the upper-right again.</p>
+<p spacebelow=10>Clicking on these will do exactly what they say, "Top" going to the first line and "Bottom" going to the last line in the field.  The "Scroll Up" and "Scroll Down" buttons will move up or down by a little less than half a screen initially, but if you hold the button down, they will accelerate and move by larger and larger amounts.  You can hide the scroll buttons by clicking the arrows in the upper right again.</p>
+<p spacebelow=10>By default, the "darkness" of scroll buttons is set at 50%.  But you can adjust how dark or light the buttons are using the slider on the settings page below the checkbox to enable or disable the buttons.</p>
+<p spacebelow=10><img src="binfile:help/images/scroll_btn_transparency.png"></p>
+<p spacebelow=10>In the image above we have set them to 75%, so the buttons will appear much darker.  This makes them easier to see, but also make it harder to see the text underneath them.</p>
+<p spacebelow=10><img src="binfile:help/images/scroll_btn_darker.png"></p>
+<p spacebelow=10>Or, if you prefer, you can set the darkness to a much larger smaller, and the buttons will be much fainter and the text underneath them much easier to see.  Here we have set them to 20%.</p>
+<p spacebelow=10><img src="binfile:help/images/scroll_btn_lighter.png"></p>
 <p spacebelow=10>You can turn the scroll buttons off completely by going back to the "Setting" icon on the "Read" page and removing the check from the "Show Scroll Buttons" checkbox.  All the scroll buttons and the blue arrows which activate them will be hidden</p>

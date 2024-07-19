@@ -1,0 +1,18 @@
+<p spacebelow=10>Starting in version 2.2, when you rotate a mobile device, the display will rotate.  But not all screens can accomadate landscape mode.  Some screens on smaller devices do not work well in landscape mode.  Here's the Search screen in landscape mode on a small screen.</p>
+<p spacebelow=10><img src="binfile:help/images/landscape-search.png"></p>
+<p spacebelow=10>As you can see, with the mobile device's onscreen keyboard displayed so you can type in the search field, you cannot see any of your matches.</p>
+<p spacebelow=10>Or here is the verb study field in Portrait mode where you can easily see the entire description of the verb.</p>
+<p spacebelow=10><img src="binfile:help/images/portrait-verbstudy.png"></p>
+<p spacebelow=10>But if we turn our phone to landscape mode, there is very little room and you must scroll to see all the description.</p>
+<p spacebelow=10><img src="binfile:help/images/landscape-verbstudy.png"></p>
+<p spacebelow=10>On smaller devices, you will find that most screens in the app work better in portrait mode.</p>
+<p spacebelow=10>In addition, some dialog boxes will not fit in landscape mode.  If you rotate your device and there is not enough room to display a dialog box, the option will disabled.  Here is the Setting dialog box displayed on a phone in portrait mode where it fits easily.</p>
+<p spacebelow=10><img src="binfile:help/images/portrait-settings.png"></p>
+<p spacebelow=10>But here we have rotated the phone to landscape mode.  Since the Settings dialog will not fit on the screen now, the dialog box has been closed and the blue gear icon in the upper-right has been disabled so you cannot access the Settings dialog from this orientation.  You must rotate your device back to portrait mode in order to access the Settings dialog box.</p>
+<p spacebelow=10><img src="binfile:help/images/landscape-settings.png"></p> 
+<p spacebelow=10>If the device does have enough space to display the dialog box in landscape mode, however, then it will always be available.  Here you can see the settings dialog displayed on a tablet (which has a much larger screen) in landscape mode.</p>
+<p spacebelow=10><img src="binfile:help/images/landscape-tablet-settings.png"></p>
+<p spacebelow=10>In other cases, dialog boxes may fit on the screen, but when the mobile keyboard is activated it "pushes" the dialog box up so that it's no longer usable.  Here's a Save dialog box which has been pushed up by the mobile keyboard so that you can no longer see the field in which to type.</p>
+<p spacebelow=10><img src="binfile:help/images/landscape-pushup.png"></p>
+<p spacebelow=10>In this case, simply rotate the device back to portrait mode.  Then you can open the dialog box again and you should be able to access all of it.</p>
+<p spacebelow=10>In short, if you find options which are disabled or become unusable in landscape mode, rotate your device to portrait mode, and they should be usable again.</p>

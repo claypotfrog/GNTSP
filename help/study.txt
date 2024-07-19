@@ -5,8 +5,8 @@
 <p spacebelow=10><img src="binfile:help/images/studytopic.png"></p>
 <p spacebelow=10>Clicking any of these lines will expand the section so you can review the material.  Clicking in the section does nothing.  These lists are not interactive; they are only for review.</p>
 <p spacebelow=10><img src="binfile:help/images/studyclicked.png"></p>
-<p spacebelow=10>Like on the main About screen, you can close any section by pressing and holding until the section collapses back to just the title.</p>
-<p spacebelow=10>On the main Forms screen, there is a blue gear icon in the upper-right.</p>
+<p spacebelow=10>You can close any section by pressing and holding until the section collapses back to just the title.</p>
+<p spacebelow=10>On the main Forms screen, there is a blue gear icon in the upper right.</p>
 <p spacebelow=10><img src="binfile:help/images/forms-settings-gear.png"></p>
 <p spacebelow=10>Clicking this icon brings up the "Settings" menu for how noun cases are presented in the program.  You can choose to view nouns cases in the order: Nominative, Genitive, Dative, Accusative, Vocative (which I am told is the "American" order) or in the order: Nominative, Vocative, Accusative, Genitive, Dative (which I am told is the "British" order).</p>
 <p spacebelow=10><img src="binfile:help/images/forms-settings.png"></p>
@@ -24,7 +24,7 @@
 <p spacebelow=10><img src="binfile:help/images/verbreviewtype.png"></p>
 <p spacebelow=10>Once you have chosen which verbs to study, click the appropriate buttons to select which various verb forms you wish to review.  You must choose at least one option from the TENSE, VOICE, and MOOD sections, but you can choose as many as you wish.  Not all options are available if those combinations don't exist in the Greek New Testament.  So if you choose only "Imperfect" from the TENSE section, then only "Indicative" will be available in the MOOD section because the "Imperfect" tense has only "Indicative" mood forms.</p>
 <p spacebelow=10><i>Clicking the "Select All" button will select all the options in that group.</i></p>
-<p spacebelow=10>Clicking on the "Reset" link in the upper-right corner will turn off all the options and reset the dropdown menus back to the defaults.</p>
+<p spacebelow=10>Clicking on the "Reset" link in the upper right corner will turn off all the options and reset the dropdown menus back to the defaults.</p>
 <p spacebelow=10>In the following image we have chosen to review Verbs from the New Testament - Present, Middle, Indicative forms of Non-Contract Omega verbs (so no μι verbs and no άω, έω, or όω verbs).</p>
 <p spacebelow=10><img src="binfile:help/images/verbreviewchoosen.png"></p>
 <p spacebelow=10>Once you have chosen at least one option from the TENSE, VOICE, and MOOD sections, the "Study" button at the top of the screen will become active.  When you click on that button, a list of verbs meeting your criteria will be randomly selected from the database and displayed one at a time.</p>
@@ -32,7 +32,7 @@
 <p spacebelow=10>Tap anywhere in the screen to see the information about this verbal form.</p>
 <p spacebelow=10><img src="binfile:help/images/verbreviewshowall.png"></p>
 <p spacebelow=10>You see here the verb's parsing information, dictionary form, and dictionary definition.  The "Lookup" button will take you the Details page for this verb if you wish to examine it further.  You can return to the verb review page by clicking the "Forms" icon at the bottom of the screen.</p>
-<p spacebelow=10>Click on the back arrow in the upper-left hand corner to move backwards through the list of verbs.</p>
+<p spacebelow=10>Click on the back arrow in the upper left hand corner to move backwards through the list of verbs.</p>
 <p spacebelow=10><i>Please note that for the Present, Imperfect, Perfect, and Pluperfect tenses, the voice will be "mid/pass" rather than "middle" or "passive" since the middle and passive forms are the same in these tenses.</i></p>
 <p spacebelow=10>You can click away from the review at any time using the icons in the navigation bar at the bottom of the screen.  Your progress is saved.  Clicking on the Forms icon will put you back where you were.  Click the "Exit" link at the top of the page to return to Verb Forms page where you can select new options.  Since the forms are randomly chosen from the database, simply pressing the "Study" link again will get you a new set of forms to test yourself with.</p>
 <p spacebelow=10>Clicking on the blue Gear icon brings up the setting page for the verb form review.</p>
