@@ -1,0 +1,30 @@
+<p>	<u>Indicative</u></p>
+<p>1st sg	γραφήσομαι</p>
+<p>2nd sg	γραφήσῃ</p>
+<p>3rd sg	γραφήσεται</p>
+<p>1st pl	γραφησόμεθα</p>
+<p>2nd pl	γραφήσεσθε</p>
+<p spacebelow="10">3rd pl	γραφήσονται</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">γραφήσεσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	γραφησόμενος	γραφησόμενον</p>
+<p>acc sg	γραφησόμενον	γραφησόμενον</p>
+<p>gen sg	γραφησομένου	γραφησομένου</p>
+<p spacebelow="5">dat sg	γραφησομένῳ	γραφησομένῳ</p>
+<p>nom pl	γραφησόμενοι	γραφησόμενα</p>
+<p>acc pl	γραφησομένους	γραφησόμενα</p>
+<p>gen pl	γραφησομένων	γραφησομένων</p>
+<p spacebelow="10">dat pl	γραφησομένοις	γραφησομένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	γραφησομένη</p>
+<p>acc sg	γραφησομένην</p>
+<p>gen sg	γραφησομένης</p>
+<p spacebelow="5">dat sg	γραφησομένῃ</p>
+<p>nom pl	γραφησόμεναι</p>
+<p>acc pl	γραφησομένας</p>
+<p>gen pl	γραφησομενῶν</p>
+<p spacebelow="10">dat pl	γραφησομέναις</p>

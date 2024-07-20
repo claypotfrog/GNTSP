@@ -1,0 +1,48 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ποιῶ	ποιῶ</p>
+<p>2nd sg	ποιεῖς	ποιῇς</p>
+<p>3rd sg	ποιεῖ	ποιῇ</p>
+<p>1st pl	ποιοῦμεν	ποιῶμεν</p>
+<p>2nd pl	ποιεῖτε	ποιῆτε</p>
+<p spacebelow="10">3rd pl	ποιοῦσι(ν)	ποιῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	ποιοίην	&mdash;</p>
+<p>2nd sg	ποιοίης	ποίει</p>
+<p>3rd sg	ποιοίη	ποιείτω</p>
+<p>1st pl	ποιοῖμεν	&mdash;</p>
+<p>2nd pl	ποιοῖτε	ποιεῖτε</p>
+<p spacebelow="10">3rd pl	ποιοῖεν	ποιείτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ποιεῖν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	ποιῶν	ποιοῦν</p>
+<p>acc sg	ποιοῦντα	ποιοῦν</p>
+<p>gen sg	ποιοῦντος	ποιοῦντος</p>
+<p spacebelow="5">dat sg	ποιοῦντι	ποιοῦντι</p>
+<p>nom pl	ποιοῦντες	ποιοῦντα</p>
+<p>acc pl	ποιοῦντας	ποιοῦντα</p>
+<p>gen pl	ποιούντων	ποιούντων</p>
+<p spacebelow="10">dat pl	ποιοῦσι(ν)	ποιοῦσι(ν)</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	ποιοῦσα</p>
+<p>acc sg	ποιοῦσαν</p>
+<p>gen sg	ποιούσης</p>
+<p spacebelow="5">dat sg	ποιούσῃ</p>
+<p>nom pl	ποιοῦσαι</p>
+<p>acc pl	ποιούσας</p>
+<p>gen pl	ποιουσῶν</p>
+<p spacebelow="10">dat pl	ποιούσαις</p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐποίουν</p>
+<p>2nd sg	ἐποίεις</p>
+<p>3rd sg	ἐποίει</p>
+<p>1st pl	ἐποιοῦμεν</p>
+<p>2nd pl	ἐποιεῖτε</p>
+<p spacebelow="10">3rd pl	ἐποίουν</p>

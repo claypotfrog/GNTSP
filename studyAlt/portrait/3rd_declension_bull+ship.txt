@@ -1,0 +1,13 @@
+<p>Singular	<u>ὁ βοῦς</u>	<u>ἡ ναῦς</u></p>
+<p>nom.	βοῦς	ναῦς</p>
+<p>voc.	βοῦ	ναῦ</p>
+<p>acc.	βοῦν	ναῦν</p>
+<p>gen.	βοός	νεώς</p>
+<p spacebelow="5">dat.	βοΐ	νηΐ</p>
+<p>Plural</p>
+<p>nom.	βόες	νῆες</p>
+<p>voc.	βόες	νῆες</p>
+<p>acc.	βοῦς	ναῦς</p>
+<p>gen.	βοῶν	νεῶν</p>
+<p spacebelow="10">dat.	βουσί(ν)	ναυσί(ν)</p>
+

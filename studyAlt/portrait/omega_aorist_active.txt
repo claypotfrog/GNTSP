@@ -1,0 +1,38 @@
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἔλυσα	λύσω</p>
+<p>2nd sg	ἔλυσας	λύσῃς</p>
+<p>3rd sg	ἔλυσε(ν)	λύσῃ</p>
+<p>1st pl	ἐλύσαμεν	λύσωμεν</p>
+<p>2nd pl	ἐλύσατε	λύσητε</p>
+<p spacebelow="10">3rd pl	ἔλυσαν	λύσωσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	λύσαιμι	&mdash;</p>
+<p>2nd sg	λύσαις	λῦσον</p>
+<p>3rd sg	λύσαι	λυσάτω</p>
+<p>1st pl	λύσαιμεν	&mdash;</p>
+<p>2nd pl	λύσαιτε	λύσατε</p>
+<p spacebelow="10">3rd pl	λύσαιεν	λυσάτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">λῦσαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	λύσας	λῦσαν</p>
+<p>acc sg	λύσαντα	λῦσαν</p>
+<p>gen sg	λύσαντος	λύσαντος</p>
+<p spacebelow="5">dat sg	λύσαντι	λύσαντι</p>
+<p>nom pl	λύσαντες	λύσαντα</p>
+<p>acc pl	λύσαντας	λύσαντα</p>
+<p>gen pl	λυσάντων	λυσάντων</p>
+<p spacebelow="10">dat pl	λύσασι(ν)	λύσασι(ν)</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	λύσασα</p>
+<p>acc sg	λύσασαν</p>
+<p>gen sg	λυσάσης</p>
+<p spacebelow="5">dat sg	λυσάσῃ</p>
+<p>nom pl	λύσασαι</p>
+<p>acc pl	λυσάσας</p>
+<p>gen pl	λυσασῶν</p>
+<p spacebelow="10">dat pl	λυσάσαις</p>

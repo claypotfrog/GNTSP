@@ -1,0 +1,27 @@
+<p><u><b>endings in –ύς –εῖα –ύ</u></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	ἡδύς	ἡδύ</p>
+<p>voc.	ἡδύ	ἡδύ</p>
+<p>acc.	ἡδύν	ἡδύ</p>
+<p>gen.	ἡδέος	ἡδέος</p>
+<p spacebelow="5">dat.	ἡδεῖ	ἡδεῖ</p>
+<p>Plural</p>
+<p>nom.	ἡδεῖς	ἡδέα</p>
+<p>voc.	ἡδεῖς	ἡδέα</p>
+<p>acc.	ἡδεῖς	ἡδέα</p>
+<p>gen.	ἡδέων	ἡδέων</p>
+<p spacebelow="10">dat.	ἡδέσι(ν)	ἡδέσι(ν)</p>
+
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	ἡδεῖα</p>
+<p>voc.	ἡδεῖα</p>
+<p>acc.	ἡδεῖαν</p>
+<p>gen.	ἡδείας</p>
+<p spacebelow="5">dat.	ἡδείᾳ</p>
+<p>Plural</p>
+<p>nom.	ἡδεῖαι</p>
+<p>voc.	ἡδεῖαι</p>
+<p>acc.	ἡδείας</p>
+<p>gen.	ἡδειῶν</p>
+<p spacebelow="10">dat.	ἡδείαις</p>
+

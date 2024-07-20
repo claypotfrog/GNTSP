@@ -1,0 +1,137 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἵσταμαι	ἱστῶμαι</p>
+<p>2nd sg	ἵστασαι	ἱστῇ</p>
+<p>3rd sg	ἵσταται	ἱστῆται</p>
+<p>1st pl	ἱστάμεθα	ἱστώμεθα</p>
+<p>2nd pl	ἵστασθε	ἱστῆσθε</p>
+<p spacebelow="10">3rd pl	ἵστανται	ἱστῶνται</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	ἱσταίμην	&mdash;</p>
+<p>2nd sg	ἵσταιο	ἵστασο</p>
+<p>3rd sg	ἵσταιτο	ἱστάσθω</p>
+<p>1st pl	ἱσταίμεθα	&mdash;</p>
+<p>2nd pl	ἵσταισθε	ἵστασθε</p>
+<p spacebelow="10">3rd pl	ἵσταιντο	ἱστάσθωσαν</p>
+
+<p ><u>Infinitive</u></p>
+<p spacebelow="10">ἵστασθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	ἱστάμενος	ἱστάμενον</p>
+<p>acc sg	ἱστάμενον	ἱστάμενον</p>
+<p>gen sg	ἱσταμένου	ἱσταμένου</p>
+<p spacebelow="5">dat sg	ἱσταμένῳ	ἱσταμένῳ</p>
+<p>nom pl	ἱστάμενοι	ἱστάμενα</p>
+<p>acc pl	ἱσταμένους	ἱστάμενα</p>
+<p>gen pl	ἱσταμένων	ἱσταμένων</p>
+<p spacebelow="10">dat pl	ἱσταμένοις	ἱσταμένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	ἱσταμένη</p>
+<p>acc sg	ἱσταμένην</p>
+<p>gen sg	ἱσταμένης</p>
+<p spacebelow="5">dat sg	ἱσταμένῃ</p>
+<p>nom pl	ἱστάμεναι</p>
+<p>acc pl	ἱσταμένας</p>
+<p>gen pl	ἱσταμενῶν</p>
+<p spacebelow="10">dat pl	ἱσταμέναις</p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἱστάμην</p>
+<p>2nd sg	ἵστασο</p>
+<p>3rd sg	ἵστατο</p>
+<p>1st pl	ἱστάμεθα</p>
+<p>2nd pl	ἵστασθε</p>
+<p spacebelow="10">3rd pl	ἵσταντο</p>
+
+<p spacebelow="5">	<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	στήσομαι</p>
+<p>2nd sg	στήσῃ</p>
+<p>3rd sg	στήσεται</p>
+<p>1st pl	στησόμεθα</p>
+<p>2nd pl	στήσεσθε</p>
+<p spacebelow="10">3rd pl	στήσονται</p>
+
+<p spacebelow="5">	<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἐστησάμην	στήσωμαι</p>
+<p>2nd sg	ἐστήσω	στήσῃ</p>
+<p>3rd sg	ἐστήσατο	στήσηται</p>
+<p>1st pl	ἐστήσαμεθα	στησώμεθα</p>
+<p>2nd pl	ἐστήσασθε	στήσησθε</p>
+<p spacebelow="10">3rd pl	ἐστήσαντο	στήσωνται</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	στησαίμην	&mdash;</p>
+<p>2nd sg	στήσαιο	στῆσαι</p>
+<p>3rd sg	στήσαιτο	στησάσθω</p>
+<p>1st pl	στησαίμεθα	&mdash;</p>
+<p>2nd pl	στήσαισθε	στήσασθε</p>
+<p spacebelow="10">3rd pl	στήσαιντο	στήσάσθωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">στήσασθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	στησάμενος	στησάμενον</p>
+<p>acc sg	στησάμενον	στησάμενον</p>
+<p>gen sg	στησαμένου	στησαμένου</p>
+<p spacebelow="5">dat sg	στησαμένῳ	στησαμένῳ</p>
+<p>nom pl	στησάμενοι	στησάμενα</p>
+<p>acc pl	στησαμένους	στησάμενα</p>
+<p>gen pl	στησαμένων	στησαμένων</p>
+<p spacebelow="10">dat pl	στησαμένοις	στησαμένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	στησαμένη</p>
+<p>acc sg	στησαμένην</p>
+<p>gen sg	στησαμένης</p>
+<p spacebelow="5">dat sg	στησαμένῃ</p>
+<p>nom pl	στησάμεναι</p>
+<p>acc pl	στησαμένας</p>
+<p>gen pl	στησαμενῶν</p>
+<p spacebelow="10">dat pl	στησαμέναις</p>
+
+<p spacebelow="5">	<u><b>2nd AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἐστάμην	στῶμαι</p>
+<p>2nd sg	ἔστω	στῇ</p>
+<p>3rd sg	ἔστατο	στῆται</p>
+<p>1st pl	ἐστάμεθα	στώμεθα</p>
+<p>2nd pl	ἔστασθε	στῆσθε</p>
+<p spacebelow="10">3rd pl	ἔσταντο	στῶνται</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	σταίμην	&mdash;</p>
+<p>2nd sg	σταῖο	στῶ</p>
+<p>3rd sg	σταῖτο	στάσθω</p>
+<p>1st pl	σταίμεθα	&mdash;</p>
+<p>2nd pl	σταῖσθε	στάσθε</p>
+<p spacebelow="10">3rd pl	σταῖντο	στάσθωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">στάσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	στάμενος	στάμενον</p>
+<p>acc sg	στάμενον	στάμενον</p>
+<p>gen sg	σταμένου	σταμένου</p>
+<p spacebelow="5">dat sg	σταμένῳ	σταμένῳ</p>
+<p>nom pl	στάμενοι	στάμενα</p>
+<p>acc pl	σταμένους	στάμενα</p>
+<p>gen pl	σταμένων	σταμένων</p>
+<p spacebelow="10">dat pl	σταμένοις	σταμένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	σταμένη</p>
+<p>acc sg	σταμένην</p>
+<p>gen sg	σταμένης</p>
+<p spacebelow="5">dat sg	σταμένῃ</p>
+<p>nom pl	στάμεναι</p>
+<p>acc pl	σταμένας</p>
+<p>gen pl	σταμενῶν</p>
+<p spacebelow="10">dat pl	σταμέναις</p>

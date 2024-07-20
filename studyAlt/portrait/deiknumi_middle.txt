@@ -1,0 +1,129 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	δείκνυμαι	δεικνύωμαι</p>
+<p>2nd sg	δείκνυσαι	δεικνύῃ</p>
+<p>3rd sg	δείκνυται	δεικνύηται</p>
+<p>1st pl	δεικνύμεθα	δεικνυώμεθα</p>
+<p>2nd pl	δείκνυσθε	δεικνύησθε</p>
+<p spacebelow="10">3rd pl	δείκνυνται	δεικνύωνται</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	δεικνυοίμην	&mdash;</p>
+<p>2nd sg	δεικνύοιο	δείκνυσο</p>
+<p>3rd sg	δεικνύοιτο	δεικνύσθω</p>
+<p>1st pl	δεικνυοίμεθα	&mdash;</p>
+<p>2nd pl	δεικνύοισθε	δείκνυσθε</p>
+<p spacebelow="10">3rd pl	δεικνύοιντο	δεικνύσθωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δείκνυσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δεικνύμενος	δεικνύμενον</p>
+<p>acc sg	δεικνύμενον	δεικνύμενον</p>
+<p>gen sg	δεικνυμένου	δεικνυμένου</p>
+<p spacebelow="5">dat sg	δεικνυμένῳ	δεικνυμένῳ</p>
+<p>nom pl	δεικνύμενοι	δεικνύμενα</p>
+<p>acc pl	δεικνυμένους	δεικνύμενα</p>
+<p>gen pl	δεικνυμένων	δεικνυμένων</p>
+<p spacebelow="10">dat pl	δεικνυμένοις	δεικνυμένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δεικνυμένη</p>
+<p>acc sg	δεικνυμένην</p>
+<p>gen sg	δεικνυμένης</p>
+<p spacebelow="5">dat sg	δεικνυμένῃ</p>
+<p>nom pl	δεικνύμεναι</p>
+<p>acc pl	δεικνυμένας</p>
+<p>gen pl	δεικνυμενῶν</p>
+<p spacebelow="10">dat pl	δεικνυμέναις</p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐδεικνύμην</p>
+<p>2nd sg	ἐδείκνυσο</p>
+<p>3rd sg	ἐδείκνυτο</p>
+<p>1st pl	ἐδεικνύμεθα</p>
+<p>2nd pl	ἐδείκνυσθε</p>
+<p spacebelow="10">3rd pl	ἐδείκνυντο</p>
+
+<p spacebelow="5">	<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	δείξομαι </p>
+<p>2nd sg	δείξῃ</p>
+<p>3rd sg	δείξεtαι</p>
+<p>1st pl	δειξόμεθα</p>
+<p>2nd pl	δείξεσθε</p>
+<p spacebelow="10">3rd pl	δείξονται</p>
+
+<p spacebelow="5">	<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἐδειξάμην  	δείξωμαι</p>
+<p>2nd sg	ἐδείξω	δείξῃ</p>
+<p>3rd sg	ἐδείξατο	δείξηται</p>
+<p>1st pl	ἐδειξάμεθα	δειξώμεθα</p>
+<p>2nd pl	ἐδείξασθε	δείξησθε</p>
+<p spacebelow="10">3rd pl	ἐδείξαντο	δείξωνται</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	δειξαίμην	&mdash;</p>
+<p>2nd sg	δείξαιο	δεῖξαι</p>
+<p>3rd sg	δείξαιτο	δειξάσθω</p>
+<p>1st pl	δειξαίμεθα	&mdash;</p>
+<p>2nd pl	δείξαισθε	δείξασθε</p>
+<p spacebelow="10">3rd pl	δείξαιντο	δειξάσθωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δείξασθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δειξάμενος	δειξάμενον</p>
+<p>acc sg	δειξάμενον	δειξάμενον</p>
+<p>gen sg	δειξαμένου	δειξαμένου</p>
+<p spacebelow="5">dat sg	δειξαμένῳ	δειξαμένῳ</p>
+<p>nom pl	δειξάμενοι	δειξάμενα</p>
+<p>acc pl	δειξαμένους	δειξάμενα</p>
+<p>gen pl	δειξαμένων	δειξαμένων</p>
+<p spacebelow="10">dat pl	δειξαμένοις	δειξαμένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δειξαμένη</p>
+<p>acc sg	δειξαμένην</p>
+<p>gen sg	δειξαμένης</p>
+<p spacebelow="5">dat sg	δειξαμένῃ</p>
+<p>nom pl	δειξάμεναι</p>
+<p>acc pl	δειξαμένας</p>
+<p>gen pl	δειξαμενῶν</p>
+<p spacebelow="10">dat pl	δειξαμέναις</p>
+
+<p spacebelow="5">	<u><b>PERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	δέδειγμαι</p>
+<p>2nd sg	δέδειξαι</p>
+<p>3rd sg	δέδεικται</p>
+<p>1st pl	δεδείγμεθα</p>
+<p>2nd pl	δέδειχθε</p>
+<p spacebelow="10">3rd pl	δέδειγνται</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δεδείχθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δεδειγμένος	δεδειγμένον</p>
+<p>acc sg	δεδειγμένον	δεδειγμένον</p>
+<p>gen sg	δεδειγμένου	δεδειγμένου</p>
+<p spacebelow="5">dat sg	δεδειγμένῳ	δεδειγμένῳ</p>
+<p>nom pl	δεδειγμένοι	δεδειγμένα</p>
+<p>acc pl	δεδειγμένους	δεδειγμένα</p>
+<p>gen pl	δεδειγμένων	δεδειγμένων</p>
+<p spacebelow="10">dat pl	δεδειγμένοις	δεδειγμένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δεδειγμένη</p>
+<p>acc sg	δεδειγμένην</p>
+<p>gen sg	δεδειγμένης</p>
+<p spacebelow="5">dat sg	δεδειγμένῃ</p>
+<p>nom pl	δεδειγμέναι</p>
+<p>acc pl	δεδειγμένας</p>
+<p>gen pl	δεδειγμενῶν</p>
+<p spacebelow="10">dat pl	δεδειγμέναις</p>

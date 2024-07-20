@@ -1,0 +1,30 @@
+<p>	<u>Indicative</u></p>
+<p>1st sg	λύσομαι</p>
+<p>2nd sg	λύσῃ</p>
+<p>3rd sg	λύσεται</p>
+<p>1st pl	λυσόμεθα</p>
+<p>2nd pl	λύσεσθε</p>
+<p spacebelow="10">3rd pl	λύσονται</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">λύσεσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	λυσόμενος	λυσόμενον</p>
+<p>acc sg	λυσόμενον	λυσόμενον</p>
+<p>gen sg	λυσομένου	λυσομένου</p>
+<p spacebelow="5">dat sg	λυσομένῳ	λυσομένῳ</p>
+<p>nom pl	λυσόμενοι	λυσόμενα</p>
+<p>acc pl	λυσομένους	λυσόμενα</p>
+<p>gen pl	λυσομένων	λυσομένων</p>
+<p spacebelow="10">dat pl	λυσομένοις	λυσομένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	λυσομένη</p>
+<p>acc sg	λυσομένην</p>
+<p>gen sg	λυσομένης</p>
+<p spacebelow="5">dat sg	λυσομένῃ</p>
+<p>nom pl	λυσόμεναι</p>
+<p>acc pl	λυσομένας</p>
+<p>gen pl	λυσομενῶν</p>
+<p spacebelow="10">dat pl	λυσομέναις</p>

@@ -1,0 +1,81 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	εἰμί	ὦ</p>
+<p>2nd sg	εἶ	ᾖς</p>
+<p>3rd sg	ἐστί(ν)	ᾖ</p>
+<p>1st pl	ἐσμέν	ὦμεν</p>
+<p>2nd pl	ἐστέ	ἦτε</p>
+<p spacebelow="10">3rd pl	εἰσί(ν)	ὦσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	εἴην	&mdash;</p>
+<p>2nd sg	εἴης	ἴσθι</p>
+<p>3rd sg	εἴη	ἔστω</p>
+<p>1st pl	εἶμεν	&mdash;</p>
+<p>2nd pl	εἶτε	ἔστε</p>
+<p>3rd pl	εἶεν	ἔστων /</p>
+<p spacebelow="10">		ἔστωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">εἶναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	ὤν	ὄν</p>
+<p>acc sg	ὄντα	ὄν</p>
+<p>gen sg	ὄντος	ὄντος</p>
+<p spacebelow="5">dat sg	ὄντι	ὄντι</p>
+<p>nom pl	ὄντες 	ὄντα</p>
+<p>acc pl	ὄντας 	ὄντα</p>
+<p>gen pl	ὄντων 	ὄντων</p>
+<p spacebelow="10">dat pl	οὖσι(ν) 	οὖσι(ν)</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	οὖσα</p>
+<p>acc sg	οὖσαν</p>
+<p>gen sg	οὔσης</p>
+<p spacebelow="5">dat sg	οὔσῃ</p>
+<p>nom pl	οὖσαι </p>
+<p>acc pl	οὔσας </p>
+<p>gen pl	οὐσῶν </p>
+<p spacebelow="10">dat pl	οὔσαις </p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἤμην</p>
+<p>2nd sg	ἦς / ἦσθα</p>
+<p>3rd sg	ἦν</p>
+<p>1st pl	ἦμεν / ἤμεθα</p>
+<p>2nd pl	ἦτε / ἦστε</p>
+<p spacebelow="10">3rd pl	ἦσαν</p>
+
+<p spacebelow="5">	<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἔσομαι</p>
+<p>2nd sg	ἔσῃ</p>
+<p>3rd sg	ἔσται</p>
+<p>1st pl	ἐσόμεθα</p>
+<p>2nd pl	ἔσεσθε</p>
+<p spacebelow="10">3rd pl	ἔσονται</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ἔσεσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	ἐσόμενος	ἐσόμενον</p>
+<p>acc sg	ἐσόμενον	ἐσόμενον</p>
+<p>gen sg	ἐσομένου	ἐσομένου</p>
+<p spacebelow="5">dat sg	ἐσομένῳ	ἐσομένῳ</p>
+<p>nom pl	ἐσόμενοι	ἐσόμενα</p>
+<p>acc pl	ἐσομένους	ἐσόμενα</p>
+<p>gen pl	ἐσομένων	ἐσομένων</p>
+<p spacebelow="10">dat pl	ἐσομένοις	ἐσομένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	ἐσομένη</p>
+<p>acc sg	ἐσομένην</p>
+<p>gen sg	ἐσομένης</p>
+<p spacebelow="5">dat sg	ἐσομένῃ</p>
+<p>nom pl	ἐσόμεναι</p>
+<p>acc pl	ἐσομένας</p>
+<p>gen pl	ἐσομενῶν</p>
+<p spacebelow="10">dat pl	ἐσομέναις</p>

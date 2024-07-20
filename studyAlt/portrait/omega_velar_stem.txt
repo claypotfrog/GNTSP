@@ -1,0 +1,32 @@
+<h2>Perfect Middle/Passive</h2>
+<p>	<u>Indicative</u></p>
+<p>1st sg	πέπραγμαι</p>
+<p>2nd sg	πέπραξαι</p>
+<p>3rd sg	πέπρακται</p>
+<p>1st pl	πεπράγμεθα</p>
+<p>2nd pl	πέπραχθε</p>
+<p spacebelow="10">3rd pl	πεπραγμένοι εἰσί(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">πεπρᾶχθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	πεπραγμένη</p>
+<p>acc sg	πεπραγμένην</p>
+<p>gen sg	πεπραγμένης</p>
+<p spacebelow="5">dat sg	πεπραγμένῃ</p>
+<p>nom pl	πεπραγμέναι</p>
+<p>acc pl	πεπραγμένας</p>
+<p>gen pl	πεπραγμενῶν</p>
+<p spacebelow="10">dat pl	πεπραγμέναις</p>
+
+<h2>Pluperfect Middle/Passive</h2>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐπεπράγμην</p>
+<p>2nd sg	ἐπέπραξο</p>
+<p>3rd sg	ἐπέπρακτο</p>
+<p>1st pl	ἐπεπράγμεθα</p>
+<p>2nd pl	ἐπέπραχθε</p>
+<p spacebelow="10">3rd pl	πεπραγμένοι ἦσαν</p>

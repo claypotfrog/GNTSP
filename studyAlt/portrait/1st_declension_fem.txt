@@ -1,0 +1,39 @@
+<p>Singular	<u>-η</u></p>
+<p>nom.	γραφή</p>
+<p>voc.	γραφή</p>
+<p>acc.	γραφήν</p>
+<p>gen.	γραφῆς</p>
+<p spacebelow="5">dat.	γραφῇ</p>
+<p>Plural</p>
+<p>nom.	γραφαί</p>
+<p>voc.	γραφαί</p>
+<p>acc.	γραφάς</p>
+<p>gen.	γραφῶν</p>
+<p spacebelow="10">dat.	γραφαῖς</p>
+
+<p>Singular	<u>-εα,-ια,-ρα</u></p>
+<p>nom.	χώρα</p>
+<p>voc.	χώρα</p>
+<p>acc.	χώραν</p>
+<p>gen.	χώρας</p>
+<p spacebelow="5">dat.	χώρᾳ</p>
+<p>Plural</p>
+<p>nom.	χῶραι</p>
+<p>voc.	χῶραι</p>
+<p>acc.	χώρας</p>
+<p>gen.	χωρῶν</p>
+<p spacebelow="10">dat.	χώραις</p>
+
+<p>Singular	<u>-α</u></p>
+<p>nom.	θάλασσα</p>
+<p>voc.	θάλασσα</p>
+<p>acc.	θάλασσαν</p>
+<p>gen.	θαλάσσης</p>
+<p spacebelow="5">dat.	θαλάσσῃ</p>
+<p>Plural</p>
+<p>nom.	θάλασσαι</p>
+<p>voc.	θάλασσαι</p>
+<p>acc.	θαλάσσας</p>
+<p>gen.	θαλασσῶν</p>
+<p spacebelow="10">dat.	θαλάσσαις</p>
+

@@ -1,0 +1,48 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	τιμῶ	τιμῶ</p>
+<p>2nd sg	τιμᾷς	τιμᾷς</p>
+<p>3rd sg	τιμᾷ	τιμᾷ</p>
+<p>1st pl	τιμῶμεν	τιμῶμεν</p>
+<p>2nd pl	τιμᾶτε	τιμᾶτε</p>
+<p spacebelow="10">3rd pl	τιμῶσι(ν)	τιμῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	τιμῴην	&mdash;</p>
+<p>2nd sg	τιμῴης	τίμα</p>
+<p>3rd sg	τιμῴη	τιμάτω</p>
+<p>1st pl	τιμῷμεν	&mdash;</p>
+<p>2nd pl	τιμῷτε	τιμᾶτε</p>
+<p spacebelow="10">3rd pl	τιμῷεν	τιμάτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">τιμᾶν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	τιμῶν	τιμῶν</p>
+<p>acc sg	τιμῶντα	τιμῶν</p>
+<p>gen sg	τιμῶντος	τιμῶντος</p>
+<p spacebelow="5">dat sg	τιμῶντι	τιμῶντι</p>
+<p>nom pl	τιμῶντες 	τιμῶντα</p>
+<p>acc pl	τιμῶντας 	τιμῶντα</p>
+<p>gen pl	τιμώντων 	τιμώντων</p>
+<p spacebelow="10">dat pl	τιμῶσι(ν) 	τιμῶσι(ν)</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	τιμῶσα</p>
+<p>acc sg	τιμῶσαν</p>
+<p>gen sg	τιμώσης</p>
+<p spacebelow="5">dat sg	τιμώσῃ</p>
+<p>nom pl	τιμῶσαι </p>
+<p>acc pl	τιμώσας </p>
+<p>gen pl	τιμωσῶν </p>
+<p spacebelow="10">dat pl	τιμώσαις </p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐτίμων	</p>
+<p>2nd sg	ἐτίμας	</p>
+<p>3rd sg	ἐτίμα	</p>
+<p>1st pl	ἐτιμῶμεν	</p>
+<p>2nd pl	ἐτιμᾶτε	</p>
+<p spacebelow="10">3rd pl	ἐτίμων	</p>

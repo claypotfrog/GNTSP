@@ -1,0 +1,47 @@
+<p><i><b>definite (who, which, what, that)</i></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	ὅς	ὅ</p>
+<p>acc.	ὅν	ὅ</p>
+<p>gen.	οὗ	οὗ</p>
+<p spacebelow="5">dat.	ᾧ	ᾧ</p>
+<p>Plural</p>
+<p>nom.	οἵ	ἅ</p>
+<p>acc.	οὕς	ἅ</p>
+<p>gen.	ὧν	ὧν</p>
+<p spacebelow="10">dat.	οἷς	οἷς</p>
+
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	ἥ</p>
+<p>acc.	ἥν</p>
+<p>gen.	ἧς</p>
+<p spacebelow="5">dat.	ᾗ</p>
+<p>Plural</p>
+<p>nom.	αἵ</p>
+<p>acc.	ἅς</p>
+<p>gen.	ὧν</p>
+<p spacebelow="10">dat.	αἷς</p>
+
+<p></p>
+<p><i><b>indefinite (whosoever, anyone who)</i></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	ὅστις	ὅ τι</p>
+<p>acc.	ὅντινα	ὅ τι</p>
+<p>gen.	οὗτινος	οὗτινος</p>
+<p spacebelow="5">dat.	ᾧτινι	ᾧτινι</p>
+<p>Plural</p>
+<p>nom.	οἵτινες	ἅτινα</p>
+<p>acc.	οὕστινας	ἅτινα</p>
+<p>gen.	ὧντινων	ὧντινων</p>
+<p spacebelow="10">dat.	οἷστισι	οἷστισι</p>
+
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	ἥτις</p>
+<p>acc.	ἥντινα</p>
+<p>gen.	ἧστινος</p>
+<p spacebelow="5">dat.	ᾗτινι</p>
+<p>Plural</p>
+<p>nom.	αἵτινες</p>
+<p>acc.	ἅστινας</p>
+<p>gen.	ὧντινων</p>
+<p spacebelow="10">dat.	αἷστισι</p>
+

@@ -1,0 +1,81 @@
+<p><u><b>Stems not ending in –ε, –ι or –ρ</u></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	ἀγαθός	ἀγαθόν</p>
+<p>voc.	ἀγαθέ	ἀγαθόν</p>
+<p>acc.	ἀγαθόν	ἀγαθόν</p>
+<p>gen.	ἀγαθοῦ	ἀγαθοῦ</p>
+<p spacebelow="5">dat.	ἀγαθῷ	ἀγαθῷ</p>
+<p>Plural</p>
+<p>nom.	ἀγαθοί	ἀγαθά</p>
+<p>voc.	ἀγαθοί	ἀγαθά</p>
+<p>acc.	ἀγαθούς	ἀγαθά</p>
+<p>gen.	ἀγαθῶν	ἀγαθῶν</p>
+<p spacebelow="10">dat.	ἀγαθοῖς	ἀγαθοῖς</p>
+
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	ἀγαθή</p>
+<p>voc.	ἀγαθή</p>
+<p>acc.	ἀγαθήν</p>
+<p>gen.	ἀγαθῆς</p>
+<p spacebelow="5">dat.	ἀγαθῇ</p>
+<p>Plural</p>
+<p>nom.	ἀγαθαί</p>
+<p>voc.	ἀγαθαί</p>
+<p>acc.	ἀγαθάς</p>
+<p>gen.	ἀγαθῶν</p>
+<p spacebelow="10">dat.	ἀγαθαῖς</p>
+
+<p><u><b>Stems ending in –ε, –ι or –ρ</u></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	δίκαιος	δίκαιον</p>
+<p>voc.	δίκαιε	δίκαιον</p>
+<p>acc.	δίκαιον	δίκαιον</p>
+<p>gen.	δικαίου	δικαίου</p>
+<p spacebelow="5">dat.	δικαίῳ	δικαίῳ</p>
+<p>Plural</p>
+<p>nom.	δίκαιοι	δίκαια</p>
+<p>voc.	δίκαιοι	δίκαια</p>
+<p>acc.	δικαίους	δίκαια</p>
+<p>gen.	δικαίων	δικαίων</p>
+<p spacebelow="10">dat.	δικαίοις	δικαίοις</p>
+
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	δικαία</p>
+<p>voc.	δικαία</p>
+<p>acc.	δικαίαν</p>
+<p>gen.	δικαίας</p>
+<p spacebelow="5">dat.	δικαίᾳ</p>
+<p>Plural</p>
+<p>nom.	δίκαιαι</p>
+<p>voc.	δίκαιαι</p>
+<p>acc.	δικαίας</p>
+<p>gen.	δικαιῶν</p>
+<p spacebelow="10">dat.	δικαίαις</p>
+
+<p><u><b>Contract stems (-εος, -εα, -εον)</u></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	χαλκοῦς	χαλκοῦν</p>
+<p>voc.	χαλκεῖ	χαλκοῦν</p>
+<p>acc.	χαλκοῦν	χαλκοῦν</p>
+<p>gen.	χαλκοῦ	χαλκοῦ</p>
+<p spacebelow="5">dat.	χαλκῷ	χαλκῷ</p>
+<p>Plural</p>
+<p>nom.	χαλκοῖ	χαλκᾶ</p>
+<p>voc.	χαλκοῖ	χαλκᾶ</p>
+<p>acc.	χαλκοῦς	χαλκᾶ</p>
+<p>gen.	χαλκῶν	χαλκῶν</p>
+<p spacebelow="10">dat.	χαλκοῖς	χαλκοῖς</p>
+
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	χαλκῆ</p>
+<p>voc.	χαλκῆ</p>
+<p>acc.	χαλκῆν</p>
+<p>gen.	χαλκῆς</p>
+<p spacebelow="5">dat.	χαλκῇ</p>
+<p>Plural</p>
+<p>nom.	χαλκαῖ</p>
+<p>voc.	χαλκαῖ</p>
+<p>acc.	χαλκᾶς</p>
+<p>gen.	χαλκῶν</p>
+<p spacebelow="10">dat.	χαλκαῖς</p>
+

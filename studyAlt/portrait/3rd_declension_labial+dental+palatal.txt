@@ -1,0 +1,42 @@
+<p><u>Labial	-π,β,φ</u></p>
+<p>Singular</p>
+<p>nom.	ἡ λαῖλαψ</p>
+<p>voc.	λαῖλαψ</p>
+<p>acc.	λαίλαπα</p>
+<p>gen.	λαίλαπος</p>
+<p spacebelow="5">dat.	λαίλαπι</p>
+<p>Plural</p>
+<p>nom.	λαίλαπες</p>
+<p>voc.	λαίλαπες</p>
+<p>acc.	λαίλαπας</p>
+<p>gen.	λαιλάπων</p>
+<p spacebelow="10">dat.	λαίλαψι(ν)</p>
+
+<p><u>Dental	-τ,δ,θ</u></p>
+<p>Singular</p>
+<p>nom.	ὁ πούς</p>
+<p>voc.	πούς</p>
+<p>acc.	πόδα</p>
+<p>gen.	ποδός</p>
+<p spacebelow="5">dat.	ποδί</p>
+<p>Plural</p>
+<p>nom.	πόδες</p>
+<p>voc.	πόδες</p>
+<p>acc.	πόδας</p>
+<p>gen.	ποδῶν</p>
+<p spacebelow="10">dat.	ποσί(ν)</p>
+
+<p><u>Palatal	-κ,γ,χ</u></p>
+<p>Singular</p>
+<p>nom.	ἡ νύξ</p>
+<p>voc.	νύξ</p>
+<p>acc.	νύκτα</p>
+<p>gen.	νυκτός</p>
+<p spacebelow="5">dat.	νυκτί</p>
+<p>Plural</p>
+<p>nom.	νύκτες</p>
+<p>voc.	νύκτες</p>
+<p>acc.	νύκτας</p>
+<p>gen.	νυκτῶν</p>
+<p spacebelow="10">dat.	νυξί(ν)</p>
+

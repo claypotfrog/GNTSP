@@ -1,0 +1,27 @@
+<p><i><b>singular forms: πολύς, πολύν, and πολύ</i></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	πολύς	πολύ</p>
+<p>voc.	πολέ	πολύ</p>
+<p>acc.	πολύν	πολύ</p>
+<p>gen.	πολλοῦ	πολλοῦ</p>
+<p spacebelow="5">dat.	πολλῷ	πολλῷ</p>
+<p>Plural</p>
+<p>nom.	πολλοί	πολλά</p>
+<p>voc.	πολλοί	πολλά</p>
+<p>acc.	πολλούς	πολλά</p>
+<p>gen.	πολλῶν	πολλῶν</p>
+<p spacebelow="10">dat.	πολλοῖς	πολλοῖς</p>
+
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	πολλή</p>
+<p>voc.	πολλή</p>
+<p>acc.	πολλήν</p>
+<p>gen.	πολλῆς</p>
+<p spacebelow="5">dat.	πολλῇ</p>
+<p>Plural</p>
+<p>nom.	πολλαί</p>
+<p>voc.	μεγάλαι</p>
+<p>acc.	πολλάς</p>
+<p>gen.	πολλῶν</p>
+<p spacebelow="10">dat.	πολλαῖς</p>
+
