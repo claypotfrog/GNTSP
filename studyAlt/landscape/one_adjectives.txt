@@ -1,0 +1,5 @@
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom.	εἷς	μία	ἕν</p>
+<p>acc.	ἕνα	μίαν	ἕν</p>
+<p>gen.	ἑνός	μιᾶς	ἑνός</p>
+<p spacebelow="10">dat.	ἑνί	μιᾷ	ἑνί</p>
