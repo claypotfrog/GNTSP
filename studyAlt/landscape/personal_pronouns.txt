@@ -1,0 +1,36 @@
+<p><i><b>1st person</i></b></p>
+<p>Singular	<u>emphatic	unemphatic</u></p>
+<p>nom.	ἐγώ	&mdash;</p>
+<p>acc.	ἐμέ	με</p>
+<p>gen.	ἐμοῦ	μου</p>
+<p spacebelow="5">dat.	ἐμοί	μοι</p>
+<p>Plural</p>
+<p>nom.	ἡμεῖς	&mdash;</p>
+<p>acc.	ἡμᾶς	&mdash;</p>
+<p>gen.	ἡμῶν	&mdash;</p>
+<p spacebelow="10">dat.	ἡμῖν	&mdash;</p>
+
+<p><i><b>2nd person</i></b></p>
+<p>Singular	<u>emphatic	unemphatic</u></p>
+<p>nom.	σύ	&mdash;</p>
+<p>acc.	σέ	σε</p>
+<p>gen.	σοῦ	σου</p>
+<p spacebelow="5">dat.	σοί	σοι</p>
+<p>Plural</p>
+<p>nom.	ὑμεῖς	&mdash;</p>
+<p>acc.	ὑμᾶς	&mdash;</p>
+<p>gen.	ὑμῶν	&mdash;</p>
+<p spacebelow="10">dat.	ὑμῖν	&mdash;</p>
+
+<p><i><b>3rd person</i></b></p>
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom.	αὐτός	αὐτή	αὐτό</p>
+<p>acc.	αὐτόν	αὐτήν	αὐτό</p>
+<p>gen.	αὐτοῦ	αὐτῆς	αὐτοῦ</p>
+<p spacebelow="5">dat.	αὐτῷ	αὐτῇ	αὐτῷ</p>
+<p>Plural</p>
+<p>nom.	αὐτοί	αὐταί	αὐτά</p>
+<p>acc.	αὐτούς	αὐτάς	αὐτά</p>
+<p>gen.	αὐτῶν	αὐτῶν	αὐτῶν</p>
+<p spacebelow="10">dat.	αὐτοῖς	αὐταῖς	αὐτοῖς</p>
+

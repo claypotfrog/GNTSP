@@ -1,0 +1,24 @@
+<p><i><b>relative (who, which, what, that)</i></b></p>
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom.	ὅς	ἥ	ὅ</p>
+<p>acc.	ὅν	ἥν	ὅ</p>
+<p>gen.	οὗ	ἧς	οὗ</p>
+<p spacebelow="5">dat.	ᾧ	ᾗ	ᾧ</p>
+<p>Plural</p>
+<p>nom.	οἵ	αἵ	ἅ</p>
+<p>acc.	οὕς	ἅς	ἅ</p>
+<p>gen.	ὧν	ὧν	ὧν</p>
+<p spacebelow="10">dat.	οἷς	αἷς	οἷς</p>
+
+<p><i><b>indefinite relative (whosoever, anyone who)</i></b></p>
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom.	ὅστις	ἥτις	ὅ τι</p>
+<p>acc.	ὅντινα	ἥντινα	ὅ τι</p>
+<p>gen.	οὗτινος	ἧστινος	οὗτινος</p>
+<p spacebelow="5">dat.	ᾧτινι	ᾗτινι	ᾧτινι</p>
+<p>Plural</p>
+<p>nom.	οἵτινες	αἵτινες	ἅτινα</p>
+<p>acc.	οὕστινας	ἅστινας	ἅτινα</p>
+<p>gen.	ὧντινων	ὧντινων	ὧντινων</p>
+<p spacebelow="10">dat.	οἷστισι	αἷστισι	οἷστισι</p>
+

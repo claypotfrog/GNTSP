@@ -1,0 +1,32 @@
+<h2>Perfect Middle/Passive</h2>
+<p>	<u>Indicative</u></p>
+<p>1st sg	γέγραμμαι</p>
+<p>2nd sg	γέγραψαι</p>
+<p>3rd sg	γέγραπται</p>
+<p>1st pl	γεγράμμεθα</p>
+<p>2nd pl	γέγραφθε</p>
+<p spacebelow="10">3rd pl	γεγραμμένοι εἰσί(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">γεγράφθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	γεγραμμένος	γεγραμμένη	γεγραμμένον</p>
+<p>acc sg	γεγραμμένον	γεγραμμένην	γεγραμμένον</p>
+<p>gen sg	γεγραμμένου	γεγραμμένης	γεγραμμένου</p>
+<p spacebelow="5">dat sg	γεγραμμένῳ	γεγραμμένῃ	γεγραμμένῳ</p>
+<p>nom pl	γεγραμμένοι	γεγραμμέναι	γεγραμμένα</p>
+<p>acc pl	γεγραμμένους	γεγραμμένας	γεγραμμένα</p>
+<p>gen pl	γεγραμμένων	γεγραμμενῶν	γεγραμμένων</p>
+<p spacebelow="10">dat pl	γεγραμμένοις	γεγραμμέναις	γεγραμμένοις</p>
+
+<h2>Pluperfect Middle/Passive</h2>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐγεγράμμην</p>
+<p>2nd sg	ἐγέγραψο</p>
+<p>3rd sg	ἐγέγραπτο</p>
+<p>1st pl	ἐγεγράμμεθα</p>
+<p>2nd pl	ἐγέγραφθε</p>
+<p spacebelow="10">3rd pl	γεγραμμένοι ἦσαν</p>
+

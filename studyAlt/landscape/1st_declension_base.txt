@@ -1,0 +1,13 @@
+<p>Singular	<u>fem.	masc.</u></p>
+<p>nom.	–η	–ης</p>
+<p>voc.	–η	–α</p>
+<p>acc.	–ην	–ην</p>
+<p>gen.	–ης	–ου</p>
+<p spacebelow="5">dat.	–ῃ	–ῃ</p>
+<p>Plural</p>
+<p>nom.	–αι	–αι</p>
+<p>voc.	–αι	–αι</p>
+<p>acc.	–ας	–ας</p>
+<p>gen.	–ῶν	–ῶν</p>
+<p spacebelow="10">dat.	–αις	–αις</p>
+

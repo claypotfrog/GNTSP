@@ -1,0 +1,36 @@
+<p><i><b>1st person reflexive (myself, ourselves)</i></b></p>
+<p>Singular	<u>Masc.	Fem.</u></p>
+<p>acc.	ἐμαυτόν	ἐμαυτήν</p>
+<p>gen.	ἐμαυτοῦ	ἐμαυτῆς</p>
+<p spacebelow="5">dat.	ἐμαυτῷ	ἐμαυτῇ</p>
+<p>Plural</p>
+<p>acc.	ἡμᾶς αὐτούς	ἡμᾶς αὐτάς</p>
+<p>gen.	ἡμῶν αὐτῶν	ἡμῶν αὐτῶν</p>
+<p spacebelow="10">dat.	ἡμῖν αὐτοῖς	ἡμῖν αὐταῖς</p>
+
+<p><i><b>2nd person reflexive (yourself, yourselves)</i></b></p>
+<p>Singular	<u>Masc.	Fem.</u></p>
+<p>acc.	σεαυτόν	σεαυτήν</p>
+<p>gen.	σεαυτοῦ	σεαυτῆς</p>
+<p spacebelow="5">dat.	σεαυτῷ	σεαυτῇ</p>
+<p>Plural</p>
+<p>acc.	ὑμᾶς αὐτούς	ὑμᾶς αὐτάς</p>
+<p>gen.	ὑμῶν αὐτῶν	ὑμῶν αὐτῶν</p>
+<p spacebelow="10">dat.	ὑμῖν αὐτοῖς	ὑμῖν αὐταῖς</p>
+
+<p><i><b>3rd person reflexive</i></b></p>
+<p>	<i><b>(himself, herself, itself, themselves)</i></b></p>
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>acc.	ἑαυτόν	ἑαυτήν	ἑαυτό</p>
+<p>gen.	ἑαυτοῦ	ἑαυτῆς	ἑαυτοῦ</p>
+<p spacebelow="5">dat.	ἑαυτῷ	ἑαυτῇ	ἑαυτῷ</p>
+<p>Plural</p>
+<p>acc.	ἑαυτούς	ἑαυτάς	ἑαυτά</p>
+<p>gen.	ἑαυτῶν	ἑαυτῶν	ἑαυτῶν</p>
+<p spacebelow="10">dat.	ἑαυτοῖς	ἑαυταῖς	ἑαυτοῖς</p>
+
+<p><i><b>reciprocal (each other)</i></b></p>
+<p>Plural	<u>Masc.	Fem.	Neut.</u></p>
+<p>acc.	ἀλλήλους	ἀλλήλας	ἄλληλα</p>
+<p>gen.	ἀλλήλων	ἀλλήλων	ἀλλήλων</p>
+<p spacebelow="10">dat.	ἀλλήλοις	ἀλλήλαις	ἀλλήλοις</p>

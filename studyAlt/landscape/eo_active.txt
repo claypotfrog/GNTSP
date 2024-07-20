@@ -1,0 +1,31 @@
+<p spacebelow="5">		<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ποιῶ	ποιῶ	ποιοίην	&mdash;</p>
+<p>2nd sg	ποιεῖς	ποιῇς	ποιοίης	ποίει</p>
+<p>3rd sg	ποιεῖ	ποιῇ	ποιοίη	ποιείτω</p>
+<p>1st pl	ποιοῦμεν	ποιῶμεν	ποιοῖμεν	&mdash;</p>
+<p>2nd pl	ποιεῖτε	ποιῆτε	ποιοῖτε	ποιεῖτε</p>
+<p spacebelow="10">3rd pl	ποιοῦσι(ν)	ποιῶσι(ν)	ποιοῖεν	ποιείτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ποιεῖν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	ποιῶν	ποιοῦσα	ποιοῦν</p>
+<p>acc sg	ποιοῦντα	ποιοῦσαν	ποιοῦν</p>
+<p>gen sg	ποιοῦντος	ποιούσης	ποιοῦντος</p>
+<p spacebelow="5">dat sg	ποιοῦντι	ποιούσῃ	ποιοῦντι</p>
+<p>nom pl	ποιοῦντες	ποιοῦσαι	ποιοῦντα</p>
+<p>acc pl	ποιοῦντας	ποιούσας	ποιοῦντα</p>
+<p>gen pl	ποιούντων	ποιουσῶν	ποιούντων</p>
+<p spacebelow="10">dat pl	ποιοῦσι(ν)	ποιούσαις	ποιοῦσι(ν)</p>
+
+<p spacebelow="5">		<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐποίουν</p>
+<p>2nd sg	ἐποίεις</p>
+<p>3rd sg	ἐποίει</p>
+<p>1st pl	ἐποιοῦμεν</p>
+<p>2nd pl	ἐποιεῖτε</p>
+<p spacebelow="10">3rd pl	ἐποίουν</p>

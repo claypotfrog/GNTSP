@@ -1,0 +1,21 @@
+<p>	<u>Indicative</u></p>
+<p>1st sg	λέλυκα</p>
+<p>2nd sg	λέλυκας</p>
+<p>3rd sg	λέλυκε(ν)</p>
+<p>1st pl	λελύκαμεν</p>
+<p>2nd pl	λελύκατε</p>
+<p spacebelow="10">3rd pl	λελύκασι(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">λελυκέναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	λελυκώς	λελυκυῖα	λελυκός</p>
+<p>acc sg	λελυκότα	λελυκυῖαν	λελυκός</p>
+<p>gen sg	λελυκότος	λελυκυίας	λελυκότος</p>
+<p spacebelow="5">dat sg	λελυκότι	λελυκυίᾳ	λελυκότι</p>
+<p>nom pl	λελυκότες	λελυκυῖαι	λελυκότα</p>
+<p>acc pl	λελυκότας	λελυκυίας	λελυκότα</p>
+<p>gen pl	λελυκότων	λελυκυιῶν	λελυκότων</p>
+<p spacebelow="10">dat pl	λελυκόσι(ν)	λελυκυίαις	λελυκόσι(ν)</p>

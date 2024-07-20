@@ -1,0 +1,63 @@
+<p spacebelow="5">		<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἵσταμαι	ἱστῶμαι	ἱσταίμην	&mdash;</p>
+<p>2nd sg	ἵστασαι	ἱστῇ	ἵσταιο	ἵστασο</p>
+<p>3rd sg	ἵσταται	ἱστῆται	ἵσταιτο	ἱστάσθω</p>
+<p>1st pl	ἱστάμεθα	ἱστώμεθα	ἱσταίμεθα	&mdash;</p>
+<p>2nd pl	ἵστασθε	ἱστῆσθε	ἵσταισθε	ἵστασθε</p>
+<p spacebelow="10">3rd pl	ἵστανται	ἱστῶνται	ἵσταιντο	ἱστάσθωσαν</p>
+
+<p ><u>Infinitive</u></p>
+<p spacebelow="10">ἵστασθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	ἱστάμενος	ἱσταμένη	ἱστάμενον</p>
+<p>acc sg	ἱστάμενον	ἱσταμένην	ἱστάμενον</p>
+<p>gen sg	ἱσταμένου	ἱσταμένης	ἱσταμένου</p>
+<p spacebelow="5">dat sg	ἱσταμένῳ	ἱσταμένῃ	ἱσταμένῳ</p>
+<p>nom pl	ἱστάμενοι	ἱστάμεναι	ἱστάμενα</p>
+<p>acc pl	ἱσταμένους	ἱσταμένας	ἱστάμενα</p>
+<p>gen pl	ἱσταμένων	ἱσταμενῶν	ἱσταμένων</p>
+<p spacebelow="10">dat pl	ἱσταμένοις	ἱσταμέναις	ἱσταμένοις</p>
+
+<p  spacebelow="5">		<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἱστάμην</p>
+<p>2nd sg	ἵστασο</p>
+<p>3rd sg	ἵστατο</p>
+<p>1st pl	ἱστάμεθα</p>
+<p>2nd pl	ἵστασθε</p>
+<p spacebelow="10">3rd pl	ἵσταντο</p>
+
+<p  spacebelow="5">		<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	σταθήσομαι</p>
+<p>2nd sg	σταθήσῃ</p>
+<p>3rd sg	σταθήσεται</p>
+<p>1st pl	σταθησόμεθα</p>
+<p>2nd pl	σταθήσεσθε</p>
+<p spacebelow="10">3rd pl	σταθήσονται</p>
+
+<p  spacebelow="5">		<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἐστάθην	σταθῶ	σταθείην	&mdash;</p>
+<p>2nd sg	ἔστάθης	σταθῇς	σταθείης	στάθητι</p>
+<p>3rd sg	ἔστάθην	σταθῇ	σταθείη	σταθήτω</p>
+<p>1st pl	ἐστάθημεν	σταθῶμεν	σταθεῖμεω	&mdash;</p>
+<p>2nd pl	ἐστάθητε	σταθῆτε	σταθεῖτε	στάθητε</p>
+<p spacebelow="10">3rd pl	ἐστάθησαν	σταθῶσι(ν)	σταθεῖεν	σταθέντων</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">σταθῆναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	σταθείς	σταθεῖσα	σταθέν</p>
+<p>acc sg	σταθέντα	σταθεῖσαν	σταθέν</p>
+<p>gen sg	σταθέντος	σταθείσης	σταθέντος</p>
+<p spacebelow="5">dat sg	σταθέντῳ	σταθείσῃ	σταθέντῳ</p>
+<p>nom pl	σταθέντες	σταθεῖσαι	σταθέντα</p>
+<p>acc pl	σταθέντας	σταθείσας	σταθέντα</p>
+<p>gen pl	σταθέντων	σταθεισῶν	σταθέντων</p>
+<p spacebelow="10">dat pl	σταθεῖσι(ν)	σταθείσαις	σταθεῖσι(ν)</p>

@@ -1,0 +1,13 @@
+<p>Singular	<u>masc./fem.	neut.</u></p>
+<p>nom.	λόγος	ἔργον</p>
+<p>voc.	λόγε	ἔργον</p>
+<p>acc.	λόγον	ἔργον</p>
+<p>gen.	λόγου	ἔργου</p>
+<p spacebelow="5">dat.	λόγῳ	ἔργῳ</p>
+<p>Plural</p>
+<p>nom.	λόγοι	ἔργα</p>
+<p>voc.	λόγοι	ἔργα</p>
+<p>acc.	λόγους	ἔργα</p>
+<p>gen.	λόγων	ἔργων</p>
+<p spacebelow="10">dat.	λόγοις	ἔργοις</p>
+

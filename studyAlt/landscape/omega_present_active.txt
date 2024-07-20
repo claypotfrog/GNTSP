@@ -1,0 +1,21 @@
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	λύω	λύω	λύοιμι	&mdash;</p>
+<p>2nd sg	λύεις	λύῃς	λύοις	λῦε</p>
+<p>3rd sg	λύει	λύῃ	λύοι	λυέτω</p>
+<p>1st pl	λύομεν	λύωμεν	λύοιμεν	&mdash;</p>
+<p>2nd pl	λύετε	λύητε	λύοιτε	λύετε</p>
+<p spacebelow="10">3rd pl	λύουσι(ν)	λύωσι(ν)	λύοιεν	λυέτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">λύειν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	λύων	λύουσα	λῦον</p>
+<p>acc sg	λύοντα	λύουσαν	λῦον</p>
+<p>gen sg	λύοντος	λυούσης	λύοντος</p>
+<p spacebelow="5">dat sg	λύοντι	λυούσῃ	λύοντι</p>
+<p>nom pl	λύοντες	λύουσαι	λύοντα</p>
+<p>acc pl	λύοντας 	λυούσας 	λύοντα</p>
+<p>gen pl	λυόντων	λυουσῶν	λυόντων</p>
+<p spacebelow="10">dat pl	λύουσι(ν)	λυούσαις 	λύουσι(ν)</p>

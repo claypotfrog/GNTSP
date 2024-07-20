@@ -1,0 +1,21 @@
+<p>	<u>Indicative</u></p>
+<p>1st sg	λέλυμαι</p>
+<p>2nd sg	λέλυσαι</p>
+<p>3rd sg	λέλυται</p>
+<p>1st pl	λελύμεθα</p>
+<p>2nd pl	λέλυσθε</p>
+<p spacebelow="10">3rd pl	λέλυνται</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">λελύσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	λελυμένος	λελυμένη	λελυμένον</p>
+<p>acc sg	λελυμένον	λελυμένην	λελυμένον</p>
+<p>gen sg	λελυμένου	λελυμένης	λελυμένου</p>
+<p spacebelow="5">dat sg	λελυμένῳ	λελυμένῃ	λελυμένῳ</p>
+<p>nom pl	λελυμένοι	λελυμέναι	λελυμένα</p>
+<p>acc pl	λελυμένους	λελυμένας	λελυμένα</p>
+<p>gen pl	λελυμένων	λελυμενῶν	λελυμένων</p>
+<p spacebelow="10">dat pl	λελυμένοις	λελυμέναις	λελυμένοις</p>

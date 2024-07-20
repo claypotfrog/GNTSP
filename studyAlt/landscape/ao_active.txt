@@ -1,0 +1,31 @@
+<p spacebelow="5">		<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	τιμῶ	τιμῶ	τιμῴην	&mdash;</p>
+<p>2nd sg	τιμᾷς	τιμᾷς	τιμῴης	τίμα</p>
+<p>3rd sg	τιμᾷ	τιμᾷ	τιμῴη	τιμάτω</p>
+<p>1st pl	τιμῶμεν	τιμῶμεν	τιμῷμεν	&mdash;</p>
+<p>2nd pl	τιμᾶτε	τιμᾶτε	τιμῷτε	τιμᾶτε</p>
+<p spacebelow="10">3rd pl	τιμῶσι(ν)	τιμῶσι(ν)	τιμῷεν	τιμάτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">τιμᾶν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	τιμῶν	τιμῶσα	τιμῶν</p>
+<p>acc sg	τιμῶντα	τιμῶσαν	τιμῶν</p>
+<p>gen sg	τιμῶντος	τιμώσης	τιμῶντος</p>
+<p spacebelow="5">dat sg	τιμῶντι	τιμώσῃ	τιμῶντι</p>
+<p>nom pl	τιμῶντες 	τιμῶσαι 	τιμῶντα</p>
+<p>acc pl	τιμῶντας 	τιμώσας 	τιμῶντα</p>
+<p>gen pl	τιμώντων 	τιμωσῶν 	τιμώντων</p>
+<p spacebelow="10">dat pl	τιμῶσι(ν) 	τιμώσαις 	τιμῶσι(ν)</p>
+
+<p spacebelow="5">		<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐτίμων	</p>
+<p>2nd sg	ἐτίμας	</p>
+<p>3rd sg	ἐτίμα	</p>
+<p>1st pl	ἐτιμῶμεν	</p>
+<p>2nd pl	ἐτιμᾶτε	</p>
+<p spacebelow="10">3rd pl	ἐτίμων	</p>

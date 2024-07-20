@@ -1,0 +1,36 @@
+<p><i><b>this (one), these (ones)</i></b></p>
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom.	οὗτος	αὕτη	τοῦτο</p>
+<p>acc.	τοῦτον	ταύτην	τοῦτο</p>
+<p>gen.	τούτου	ταύτης	τούτου</p>
+<p spacebelow="5">dat.	τούτῳ	ταύτῃ	τούτῳ</p>
+<p>Plural</p>
+<p>nom.	οὗτοι	αὗται	ταῦτα</p>
+<p>acc.	τούτους	ταύτας	ταῦτα</p>
+<p>gen.	τούτων	τούτων	τούτων</p>
+<p spacebelow="10">dat.	τούτοις	ταύταις	τούτοις</p>
+
+<p><i><b>that (one), those (ones)</i></b></p>
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom.	ἐκεῖνος	ἐκείνη	ἐκεῖνο</p>
+<p>acc.	ἐκεῖνον	ἐκείνην	ἐκεῖνο</p>
+<p>gen.	ἐκείνου	ἐκείνης	ἐκείνου</p>
+<p spacebelow="5">dat.	ἐκείνῳ	ἐκείνῃ	ἐκείνῳ</p>
+<p>Plural</p>
+<p>nom.	ἐκεῖνοι	ἐκεῖναι	ἐκεῖνα</p>
+<p>acc.	ἐκείνους	ἐκείνας	ἐκεῖνα</p>
+<p>gen.	ἐκείνων	ἐκείνων	ἐκείνων</p>
+<p spacebelow="10">dat.	ἐκείνοις	ἐκείναις	ἐκείνοις</p>
+
+<p><i><b>this, here</i></b></p>
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom.	ὅδε	ἥδε	τόδε</p>
+<p>acc.	τόνδε	τήνδε	τόδε</p>
+<p>gen.	τοῦδε	τῆσδε	τοῦδε</p>
+<p spacebelow="5">dat.	τῷδε	τῇδε	τῷδε</p>
+<p>Plural</p>
+<p>nom.	οἵδε	αἵδε	τάδε</p>
+<p>acc.	τούσδε	τάσδε	τάδε</p>
+<p>gen.	τῶνδε	τῶνδε	τῶνδε</p>
+<p spacebelow="10">dat.	τοῖσδε	ταῖσδε	τοῖσδε</p>
+

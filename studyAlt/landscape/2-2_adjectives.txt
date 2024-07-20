@@ -1,0 +1,13 @@
+<p>Singular	<u>Masc./Fem.	Neut.</u></p>
+<p>nom.	ἄδικος	ἄδικον</p>
+<p>voc.	ἄδικε	ἄδικον</p>
+<p>acc.	ἄδικον	ἄδικον</p>
+<p>gen.	ἀδίκου	ἀδίκου</p>
+<p spacebelow="5">dat.	ἀδίκῳ	ἀδίκῳ</p>
+<p>Plural</p>
+<p>nom.	ἄδικοι	ἄδικα</p>
+<p>voc.	ἄδικοι	ἄδικα</p>
+<p>acc.	ἀδίκους	ἄδικα</p>
+<p>gen.	ἀδίκων	ἀδίκων</p>
+<p spacebelow="10">dat.	ἀδίκοις	ἀδίκοις</p>
+

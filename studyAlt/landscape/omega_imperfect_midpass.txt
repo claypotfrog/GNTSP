@@ -1,0 +1,7 @@
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐλυόμην</p>
+<p>2nd sg	ἐλύου</p>
+<p>3rd sg	ἐλύετο</p>
+<p>1st pl	ἐλυόμεθα</p>
+<p>2nd pl	ἐλύεσθε</p>
+<p spacebelow="10">3rd pl	ἐλύοντο</p>

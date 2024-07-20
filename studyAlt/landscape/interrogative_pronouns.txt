@@ -1,0 +1,24 @@
+<p><i><b>interrogative (who? what?)</i></b></p>
+<p>Singular	<u>Masc./Fem.	Neut.</u></p>
+<p>nom.	τίς	τί</p>
+<p>acc.	τίνα	τί</p>
+<p>gen.	τίνος	τίνος</p>
+<p spacebelow="5">dat.	τίνι	τίνι</p>
+<p>Plural</p>
+<p>nom.	τίνες	τίνα</p>
+<p>acc.	τίνας	τίνα</p>
+<p>gen.	τίνων	τίνων</p>
+<p spacebelow="10">dat.	τίσι	τίσι</p>
+
+<p><i><b>indefinite (some, any)</i></b></p>
+<p>Singular	<u>Masc./Fem.	Neut.</u></p>
+<p>nom.	τις	τι</p>
+<p>acc.	τινα	τι</p>
+<p>gen.	τινός	τινός</p>
+<p spacebelow="5">dat.	τινί	τινί</p>
+<p>Plural</p>
+<p>nom.	τινές	τινά</p>
+<p>acc.	τινάς	τινά</p>
+<p>gen.	τινῶν	τινῶν</p>
+<p spacebelow="10">dat.	τισί	τισί</p>
+

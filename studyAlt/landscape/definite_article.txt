@@ -1,0 +1,10 @@
+<p>Singular	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom.	ὁ	ἡ	τό</p>
+<p>acc.	τόν	τήν	τό</p>
+<p>gen.	τοῦ	τῆς	τοῦ</p>
+<p>dat.	τῷ	τῇ	τῷ</p>
+<p spacebelow="5">Plural</p>
+<p>nom.	οἱ	αἱ	τά</p>
+<p>acc.	τούς	τάς	τά</p>
+<p>gen.	τῶν	τῶν	τῶν</p>
+<p spacebelow="10">dat.	τοῖς	ταῖς	τοῖς</p>
