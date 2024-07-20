@@ -1,5 +1,0 @@
-<p tabstops="70,160">Singular	<u>Masc.	Fem.	Neut.</u></p>
-<p tabstops="70,160">nom.	εἷς	μία	ἕν</p>
-<p tabstops="70,160">gen.	ἑνός	μιᾶς	ἑνός</p>
-<p tabstops="70,160">dat.	ἑνί	μιᾷ	ἑνί</p>
-<p tabstops="70,160">acc.	ἕνα	μίαν	ἕν</p>

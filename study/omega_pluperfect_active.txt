@@ -1,7 +1,0 @@
-<p tabstops="70,160">	<u>Indicative</u></p>
-<p tabstops="70,160">1st sg	ἐλελύκη</p>
-<p tabstops="70,160">2nd sg	ἐλελύκης</p>
-<p tabstops="70,160">3rd sg	ἐλελύκει</p>
-<p tabstops="70,160">1st pl	ἐλελύκεμεν</p>
-<p tabstops="70,160">2nd pl	ἐλελύκετε</p>
-<p tabstops="70,160">3rd pl	ἐλελύκεσαν</p>
