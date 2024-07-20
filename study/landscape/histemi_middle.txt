@@ -1,0 +1,86 @@
+<p spacebelow="5">		<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἵσταμαι	ἱστῶμαι	ἱσταίμην	&mdash;</p>
+<p>2nd sg	ἵστασαι	ἱστῇ	ἵσταιο	ἵστασο</p>
+<p>3rd sg	ἵσταται	ἱστῆται	ἵσταιτο	ἱστάσθω</p>
+<p>1st pl	ἱστάμεθα	ἱστώμεθα	ἱσταίμεθα	&mdash;</p>
+<p>2nd pl	ἵστασθε	ἱστῆσθε	ἵσταισθε	ἵστασθε</p>
+<p spacebelow="10">3rd pl	ἵστανται	ἱστῶνται	ἵσταιντο	ἱστάσθωσαν</p>
+
+<p ><u>Infinitive</u></p>
+<p spacebelow="10">ἵστασθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	ἱστάμενος	ἱσταμένη	ἱστάμενον</p>
+<p>gen sg	ἱσταμένου	ἱσταμένης	ἱσταμένου</p>
+<p>dat sg	ἱσταμένῳ	ἱσταμένῃ	ἱσταμένῳ</p>
+<p spacebelow="5">acc sg	ἱστάμενον	ἱσταμένην	ἱστάμενον</p>
+<p>nom pl	ἱστάμενοι	ἱστάμεναι	ἱστάμενα</p>
+<p>gen pl	ἱσταμένων	ἱσταμενῶν	ἱσταμένων</p>
+<p>dat pl	ἱσταμένοις	ἱσταμέναις	ἱσταμένοις</p>
+<p spacebelow="10">acc pl	ἱσταμένους	ἱσταμένας	ἱστάμενα</p>
+
+<p  spacebelow="5">		<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἱστάμην</p>
+<p>2nd sg	ἵστασο</p>
+<p>3rd sg	ἵστατο</p>
+<p>1st pl	ἱστάμεθα</p>
+<p>2nd pl	ἵστασθε</p>
+<p spacebelow="10">3rd pl	ἵσταντο</p>
+
+<p  spacebelow="5">		<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	στήσομαι</p>
+<p>2nd sg	στήσῃ</p>
+<p>3rd sg	στήσεται</p>
+<p>1st pl	στησόμεθα</p>
+<p>2nd pl	στήσεσθε</p>
+<p spacebelow="10">3rd pl	στήσονται</p>
+
+<p spacebelow="5">		<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἐστησάμην	στήσωμαι	στησαίμην	&mdash;</p>
+<p>2nd sg	ἐστήσω	στήσῃ	στήσαιο	στῆσαι</p>
+<p>3rd sg	ἐστήσατο	στήσηται	στήσαιτο	στησάσθω</p>
+<p>1st pl	ἐστήσαμεθα	στησώμεθα	στησαίμεθα	&mdash;</p>
+<p>2nd pl	ἐστήσασθε	στήσησθε	στήσαισθε	στήσασθε</p>
+<p spacebelow="10">3rd pl	ἐστήσαντο	στήσωνται	στήσαιντο	στήσάσθωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">στήσασθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	στησάμενος	στησαμένη	στησάμενον</p>
+<p>gen sg	στησαμένου	στησαμένης	στησαμένου</p>
+<p>dat sg	στησαμένῳ	στησαμένῃ	στησαμένῳ</p>
+<p spacebelow="5">acc sg	στησάμενον	στησαμένην	στησάμενον</p>
+<p>nom pl	στησάμενοι	στησάμεναι	στησάμενα</p>
+<p>gen pl	στησαμένων	στησαμενῶν	στησαμένων</p>
+<p>dat pl	στησαμένοις	στησαμέναις	στησαμένοις</p>
+<p spacebelow="10">acc pl	στησαμένους	στησαμένας	στησάμενα</p>
+
+<p  spacebelow="5">		<u><b>2nd AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἐστάμην	στῶμαι	σταίμην	&mdash;</p>
+<p>2nd sg	ἔστω	στῇ	σταῖο	στῶ</p>
+<p>3rd sg	ἔστατο	στῆται	σταῖτο	στάσθω</p>
+<p>1st pl	ἐστάμεθα	στώμεθα	σταίμεθα	&mdash;</p>
+<p>2nd pl	ἔστασθε	στῆσθε	σταῖσθε	στάσθε</p>
+<p spacebelow="10">3rd pl	ἔσταντο	στῶνται	σταῖντο	στάσθωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">στάσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	στάμενος	σταμένη	στάμενον</p>
+<p>gen sg	σταμένου	σταμένης	σταμένου</p>
+<p>dat sg	σταμένῳ	σταμένῃ	σταμένῳ</p>
+<p spacebelow="5">acc sg	στάμενον	σταμένην	στάμενον</p>
+<p>nom pl	στάμενοι	στάμεναι	στάμενα</p>
+<p>gen pl	σταμένων	σταμενῶν	σταμένων</p>
+<p>dat pl	σταμένοις	σταμέναις	σταμένοις</p>
+<p spacebelow="10">acc pl	σταμένους	σταμένας	στάμενα</p>

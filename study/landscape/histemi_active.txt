@@ -1,0 +1,131 @@
+<p spacebelow="5">		<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἵστημι	ἱστῶ	ἱσταίην	&mdash;</p>
+<p>2nd sg	ἵστης	ἱστῇς	ἱσταίης	ἵστη</p>
+<p>3rd sg	ἵστησι(ν)	ἱστῇ	ἱσταίη	ἱστάτω</p>
+<p>1st pl	ἵσταμεν	ἱστῶμεν	ἱσταῖμεν	&mdash;</p>
+<p>2nd pl	ἵστατε	ἱστῆτε	ἱσταῖτε	ἵστατε</p>
+<p spacebelow="10">3rd pl	ἱστᾶσι(ν)	ἱστῶσι(ν)	ἱσταῖεν	ἱστάτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ἱστάναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	ἱστάς	ἱστᾶσα	ἱστάν</p>
+<p>gen sg	ἱστάντος	ἱστάσης	ἱστάντος</p>
+<p>dat sg	ἱστάντι	ἱστάσῃ	ἱστάντι</p>
+<p spacebelow="5">acc sg	ἱστάντα	ἱστᾶσαν	ἱστάν</p>
+<p>nom pl	ἱστάντες	ἱστᾶσαι	ἱστάντα</p>
+<p>gen pl	ἱστάντων	ἱστασῶν	ἱστάντων</p>
+<p>dat pl	ἱστᾶσι(ν)	ἱστάσαις	ἱστᾶσι(ν)</p>
+<p spacebelow="10">acc pl	ἱστάντας	ἱστάσας	ἱστάντα</p>
+
+<p spacebelow="5">		<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἵστην</p>
+<p>2nd sg	ἵστης</p>
+<p>3rd sg	ἵστη</p>
+<p>1st pl	ἵσταμεν</p>
+<p>2nd pl	ἵστατε</p>
+<p spacebelow="10">3rd pl	ἵστασαν</p>
+
+<p spacebelow="5">		<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	στήσω</p>
+<p>2nd sg	στήσεις</p>
+<p>3rd sg	στήσει</p>
+<p>1st pl	στήσομεν</p>
+<p>2nd pl	στήσετε</p>
+<p spacebelow="10">3rd pl	στήσουσι(ν)</p>
+
+<p spacebelow="5">		<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἔστησα	στήσω	στήσαιμι	&mdash;</p>
+<p>2nd sg	ἔστησας	στήσῃς	στήσαις	στῆσον</p>
+<p>3rd sg	ἔστησε(ν)	στήσῃ	στήσαι	στησάτω</p>
+<p>1st pl	ἐστήσαμεν	στήσωμεν	στήσαιμεν	&mdash;</p>
+<p>2nd pl	ἐστήσατε	στήσητε	στήσαιτε	στήσατε</p>
+<p spacebelow="10">3rd pl	ἔστησαν	στήσωσι(ν)	στήσαιεν	στησάτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">στῆσαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	στήσας	στήσασα	στήσαν</p>
+<p>gen sg	στήσαντος	στησάσης	στήσαντος</p>
+<p>dat sg	στήσαντι	στησάσῃ	στήσαντι</p>
+<p spacebelow="5">acc sg	στήσαντα	στήσασαν	στήσαν</p>
+<p>nom pl	στήσαντες	στήσασαι	στήσαντα</p>
+<p>gen pl	στησάντων	στησασῶν	στησάντων</p>
+<p>dat pl	στήσασι(ν)	στησάσαις	στήσασι(ν)</p>
+<p spacebelow="10">acc pl	στήσαντας	στησάσας	στήσαντα</p>
+
+<p  spacebelow="5">		<u><b>2nd AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἔστην	στῶ</p>	σταίην	&mdash;</p>
+<p>2nd sg	ἔστης	στῇς</p>	σταίης	στῆθι</p>
+<p>3rd sg	ἔστη	στῇ</p>	σταίη	στήτω</p>
+<p>1st pl	ἔστημεν	στῶμεν</p>	σταῖμεν	&mdash;</p>
+<p>2nd pl	ἔστητε	στῆτε</p>	σταῖτε	στῆτε</p>
+<p spacebelow="10">3rd pl	ἔστησαν	στῶσι(ν)</p>	σταῖεν	στήτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">στῆναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	στάς	στᾶσα	στάν</p>
+<p>gen sg	στάντος	στάσης	στάντος</p>
+<p>dat sg	στάντι	στάσῃ	στάντι</p>
+<p spacebelow="5">acc sg	στάντα	στᾶσαν	στάν</p>
+<p>nom pl	στάντες	στᾶσαι	στάντα</p>
+<p>gen pl	στάντων	στασῶν	στάντων</p>
+<p>dat pl	στᾶσι(ν)	στάσαις	στᾶσι(ν)</p>
+<p spacebelow="10">acc pl	στάντας	στάσας	στάντα</p>
+
+<p spacebelow="5">		<u><b>PERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἕστηκα</p>
+<p>2nd sg	ἕστηκας</p>
+<p>3rd sg	ἕστηκε(ν)</p>
+<p>1st pl	ἕσταμεν</p>
+<p>2nd pl	ἕστατε</p>
+<p spacebelow="10">3rd pl	ἑστᾶσι(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ἑστηκέναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	ἑστηκώς	ἑστηκυῖα	ἑστηκός</p>
+<p>gen sg	ἑστηκότος	ἑστηκυίας	ἑστηκότος</p>
+<p>dat sg	ἑστηκότι	ἑστηκυίᾳ	ἑστηκότι</p>
+<p spacebelow="5">acc sg	ἑστηκότα	ἑστηκυῖαν	ἑστηκός</p>
+<p>nom pl	ἑστηκότες	ἑστηκυῖαι	ἑστηκότα</p>
+<p>gen pl	ἑστηκότων	ἑστηκυιῶν	ἑστηκότων</p>
+<p>dat pl	ἑστηκόσι(ν)	ἑστηκυίαις	ἑστηκόσι(ν)</p>
+<p spacebelow="10">acc pl	ἑστηκότας	ἑστηκυίας	ἑστηκότα</p>
+
+<p spacebelow="5">		<u><b>2nd PERFECT</u></b></p>
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	ἑστώς	ἑστῶσα	ἑστός</p>
+<p>gen sg	ἑστότος	ἑστώσης	ἑστότος</p>
+<p>dat sg	ἑστότι	ἑστώσῃ	ἑστότι</p>
+<p spacebelow="5">acc sg	ἑστότα	ἑστῶσαν	ἑστός</p>
+<p>nom pl	ἑστότες	ἑστῶσαι	ἑστότα</p>
+<p>gen pl	ἑστότων	ἑστωσῶν	ἑστότων</p>
+<p>dat pl	ἑστόσι(ν)	ἑστώσαις	ἑστόσι(ν)</p>
+<p spacebelow="10">acc pl	ἑστότας	ἑστώσας	ἑστότα</p>
+
+<p spacebelow="5">		<u><b>PLUPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	εἱστήκειν</p>
+<p>2nd sg	εἱστήκεις</p>
+<p>3rd sg	εἱστήκει</p>
+<p>1st pl	εἱστήκειμεν</p>
+<p>2nd pl	εἱστήκειτε</p>
+<p spacebelow="10">3rd pl	εἱστήκεισαν</p>
+

@@ -1,0 +1,22 @@
+<p>	<u>Indicative</u></p>
+<p>1st sg	λύσω</p>
+<p>2nd sg	λύσεις</p>
+<p>3rd sg	λύσει</p>
+<p>1st pl	λύσομεν</p>
+<p>2nd pl	λύσετε</p>
+<p spacebelow="10">3rd pl	λύσουσι(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">λύσειν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	λύσων	λύσουσα	λῦσον</p>
+<p>gen sg	λύσοντος	λυσούσης	λύσοντος</p>
+<p>dat sg	λύσοντι	λυσούσῃ	λύσοντι</p>
+<p spacebelow="5">acc sg	λύσοντα	λύσουσαν	λῦσον</p>
+<p>nom pl	λύσοντες	λύσουσαι 	λύσοντα</p>
+<p>gen pl	λυσόντων	λυσουσῶν 	λυσόντων</p>
+<p>dat pl	λύσουσι(ν)	λυσούσαις 	λύσουσι(ν)</p>
+<p spacebelow="10">acc pl	λύσοντας	λυσούσας 	λύσοντα</p>
+
