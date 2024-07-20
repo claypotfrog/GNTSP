@@ -1,0 +1,65 @@
+<p><i><b>this (one), these (ones)</i></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	οὗτος	τοῦτο</p>
+<p>gen.	τούτου	τούτου</p>
+<p>dat.	τούτῳ	τούτῳ</p>
+<p spacebelow="5">acc.	τοῦτον	τοῦτο</p>
+<p>Plural</p>
+<p>nom.	οὗτοι	ταῦτα</p>
+<p>gen.	τούτων	τούτων</p>
+<p>dat.	τούτοις	τούτοις</p>
+<p spacebelow="10">acc.	τούτους	ταῦτα</p>
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	αὕτη</p>
+<p>gen.	ταύτης</p>
+<p>dat.	ταύτῃ</p>
+<p spacebelow="5">acc.	ταύτην</p>
+<p>Plural</p>
+<p>nom.	αὗται</p>
+<p>gen.	τούτων</p>
+<p>dat.	ταύταις</p>
+<p spacebelow="10">acc.	ταύτας</p>
+
+<p><i><b>that (one), those (ones)</i></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	ἐκεῖνος	ἐκεῖνο</p>
+<p>gen.	ἐκείνου	ἐκείνου</p>
+<p>dat.	ἐκείνῳ	ἐκείνῳ</p>
+<p spacebelow="5">acc.	ἐκεῖνον	ἐκεῖνο</p>
+<p>Plural</p>
+<p>nom.	ἐκεῖνοι	ἐκεῖνα</p>
+<p>gen.	ἐκείνων	ἐκείνων</p>
+<p>dat.	ἐκείνοις	ἐκείνοις</p>
+<p spacebelow="10">acc.	ἐκείνους	ἐκεῖνα</p>
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	ἐκείνη</p>
+<p>gen.	ἐκείνης</p>
+<p>dat.	ἐκείνῃ</p>
+<p spacebelow="5">acc.	ἐκείνην</p>
+<p>Plural</p>
+<p>nom.	ἐκεῖναι</p>
+<p>gen.	ἐκείνων</p>
+<p>dat.	ἐκείναις</p>
+<p spacebelow="10">acc.	ἐκείνας</p>
+
+<p><i><b>this, here</i></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	ὅδε	τόδε</p>
+<p>gen.	τοῦδε	τοῦδε</p>
+<p>dat.	τῷδε	τῷδε</p>
+<p spacebelow="5">acc.	τόνδε	τόδε</p>
+<p>Plural</p>
+<p>nom.	οἵδε	τάδε</p>
+<p>gen.	τῶνδε	τῶνδε</p>
+<p>dat.	τοῖσδε	τοῖσδε</p>
+<p spacebelow="10">acc.	τούσδε	τάδε</p>
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	ἥδε</p>
+<p>gen.	τῆσδε</p>
+<p>dat.	τῇδε</p>
+<p spacebelow="5">acc.	τήνδε</p>
+<p>Plural</p>
+<p>nom.	αἵδε</p>
+<p>gen.	τῶνδε</p>
+<p>dat.	ταῖσδε</p>
+<p spacebelow="10">acc.	τάσδε</p>

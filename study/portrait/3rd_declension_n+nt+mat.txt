@@ -1,0 +1,38 @@
+<p>Singular	<u>-ν</u></p>
+<p>nom.	ὁ δαίμων</p>
+<p>gen.	δαίμονος</p>
+<p>dat.	δαίμονι</p>
+<p>acc.	δαίμονα</p>
+<p spacebelow="5">voc.	δαῖμον</p>
+<p>Plural</p>
+<p>nom.	δαίμονες</p>
+<p>gen.	δαιμόνων</p>
+<p>dat.	δαίμοσι(ν)</p>
+<p>acc.	δαίμονας</p>
+<p spacebelow="10">voc.	δαίμονες</p>
+
+<p>Singular	<u>-ντ</u></p>
+<p>nom.	ὁ ἄρχων</p>
+<p>gen.	ἄρχοντος</p>
+<p>dat.	ἄρχοντι</p>
+<p>acc.	ἄρχοντα</p>
+<p spacebelow="5">voc.	ἄρχον</p>
+<p>Plural</p>
+<p>nom.	ἄρχοντες</p>
+<p>gen.	ἀρχόντων</p>
+<p>dat.	ἄρχουσι(ν)</p>
+<p>acc.	ἄρχοντας</p>
+<p spacebelow="10">voc.	ἄρχοντες</p>
+
+<p>Singular	<u>-ματ</u></p>
+<p>nom.	τὸ ὄνομα</p>
+<p>gen.	ὀνόματος</p>
+<p>dat.	ὀνόματι</p>
+<p>acc.	ὄνομα</p>
+<p spacebelow="5">voc.	ὄνομα</p>
+<p>Plural</p>
+<p>nom.	ὀνόματα</p>
+<p>gen.	ὀνομάτων</p>
+<p>dat.	ὀνόμασι(ν)</p>
+<p>acc.	ὀνόματα</p>
+<p spacebelow="10">voc.	ὀνόματα</p>

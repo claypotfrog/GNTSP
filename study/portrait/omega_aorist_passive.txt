@@ -1,0 +1,38 @@
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἐλύθην	λυθῶ</p>
+<p>2nd sg	ἐλύθης	λυθῇς</p>
+<p>3rd sg	ἐλύθη	λυθῇ</p>
+<p>1st pl	ἐλύθημεν	λυθῶμεν</p>
+<p>2nd pl	ἐλύθητε	λυθῆτε</p>
+<p spacebelow="10">3rd pl	ἐλύθησαν	λυθῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	λυθείην	&mdash;</p>
+<p>2nd sg	λυθείης	λύθητι</p>
+<p>3rd sg	λυθείη	λυθήτω</p>
+<p>1st pl	λυθεῖμεν	&mdash;</p>
+<p>2nd pl	λυθεῖτε	λύθητε</p>
+<p spacebelow="10">3rd pl	λυθεῖεν	λυθήτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">λυθῆναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	λυθείς	λυθέν</p>
+<p>gen sg	λυθέντος	λυθέντος</p>
+<p>dat sg	λυθέντῳ	λυθέντῳ</p>
+<p spacebelow="5">acc sg	λυθέντα	λυθέν</p>
+<p>nom pl	λυθέντες	λυθέντα</p>
+<p>gen pl	λυθέντων	λυθέντων</p>
+<p>dat pl	λυθεῖσι(ν)	λυθεῖσι(ν)</p>
+<p spacebelow="10">acc pl	λυθέντας	λυθέντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	λυθεῖσα</p>
+<p>gen sg	λυθείσης</p>
+<p>dat sg	λυθείσῃ</p>
+<p spacebelow="5">acc sg	λυθεῖσαν</p>
+<p>nom pl	λυθεῖσαι</p>
+<p>gen pl	λυθεισῶν</p>
+<p>dat pl	λυθείσαις</p>
+<p spacebelow="10">acc pl	λυθείσας</p>

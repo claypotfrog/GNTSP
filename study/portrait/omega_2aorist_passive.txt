@@ -1,0 +1,38 @@
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἐγράφην	γραφῶ</p>
+<p>2nd sg	ἐγράφης	γραφῇς</p>
+<p>3rd sg	ἐγράφη	γραφῇ</p>
+<p>1st pl	ἐγράφημεν	γραφῶμεν</p>
+<p>2nd pl	ἐγράφητε	γραφῆτε</p>
+<p spacebelow="10">3rd pl	ἐγράφησαν	γραφῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	γραφείην	&mdash;</p>
+<p>2nd sg	γραφείης	γράφητι</p>
+<p>3rd sg	γραφείη	γραφήτω</p>
+<p>1st pl	γραφεῖμεν	&mdash;</p>
+<p>2nd pl	γραφεῖτε	γράφητε</p>
+<p spacebelow="10">3rd pl	γραφεῖεν	γραφήτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">γραφῆναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	γραφείς	γραφέν</p>
+<p>gen sg	γραφέντος	γραφέντος</p>
+<p>dat sg	γραφέντῳ	γραφέντῳ</p>
+<p spacebelow="5">acc sg	γραφέντα	γραφέν</p>
+<p>nom pl	γραφέντες	γραφέντα</p>
+<p>gen pl	γραφέντων	γραφέντων</p>
+<p>dat pl	γραφεῖσι(ν)	γραφεῖσι(ν)</p>
+<p spacebelow="10">acc pl	λγραφέντας	γραφέντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	γραφεῖσα</p>
+<p>gen sg	γραφείσης</p>
+<p>dat sg	γραφείσῃ</p>
+<p spacebelow="5">acc sg	γραφεῖσαν</p>
+<p>nom pl	γραφεῖσαι</p>
+<p>gen pl	γραφεισῶν</p>
+<p>dat pl	γραφείσαις</p>
+<p spacebelow="10">acc pl	γραφείσας</p>

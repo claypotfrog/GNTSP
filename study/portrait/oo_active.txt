@@ -1,0 +1,48 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	δηλῶ	δηλῶ</p>
+<p>2nd sg	δηλοῖς	δηλοῖς</p>
+<p>3rd sg	δηλοῖ	δηλοῖ</p>
+<p>1st pl	δηλοῦμεν	δηλῶμεν</p>
+<p>2nd pl	δηλοῦτε	δηλῶτε</p>
+<p spacebelow="10">3rd pl	δηλοῦσι(ν)	δηλῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	δηλοίην	&mdash;</p>
+<p>2nd sg	δηλοίης	δήλου</p>
+<p>3rd sg	δηλοίη	δηλούτω</p>
+<p>1st pl	δηλοῖμεν	&mdash;</p>
+<p>2nd pl	δηλοῖτε	δηλοῦτε</p>
+<p spacebelow="10">3rd pl	δηλοῖεν	δηλούτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δηλοῦν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δηλῶν	δηλοῦν</p>
+<p>gen sg	δηλοῦντος	δηλοῦντος</p>
+<p>dat sg	δηλοῦντι	δηλοῦντι</p>
+<p spacebelow="5">acc sg	δηλοῦντα	δηλοῦν</p>
+<p>nom pl	δηλοῦντες	δηλοῦντα</p>
+<p>gen pl	δηλούντων	δηλούντων</p>
+<p>dat pl	δηλοῦσι(ν)	δηλοῦσι(ν)</p>
+<p spacebelow="10">acc pl	δηλοῦντας 	δηλοῦντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δηλοῦσα</p>
+<p>gen sg	δηλούσης</p>
+<p>dat sg	δηλούσῃ</p>
+<p spacebelow="5">acc sg	δηλοῦσαν</p>
+<p>nom pl	δηλοῦσαι </p>
+<p>gen pl	δηλουσῶν </p>
+<p>dat pl	δηλούσαις </p>
+<p spacebelow="10">acc pl	δηλούσας </p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐδήλουν</p>
+<p>2nd sg	ἐδήλους</p>
+<p>3rd sg	ἐδήλου</p>
+<p>1st pl	ἐδηλοῦμεν</p>
+<p>2nd pl	ἐδηλοῦτε</p>
+<p spacebelow="10">3rd pl	ἐδήλουν</p>

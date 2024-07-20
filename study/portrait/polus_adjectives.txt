@@ -1,0 +1,26 @@
+<p><i><b>Regular 2-1-2 adjective with irregular</i></b></p>
+<p spacebelow="5"><i><b>singular forms: πολύς, πολύν, and πολύ</i></b></p>
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	πολύς	πολύ</p>
+<p>gen.	πολλοῦ	πολλοῦ</p>
+<p>dat.	πολλῷ	πολλῷ</p>
+<p>acc.	πολύν	πολύ</p>
+<p spacebelow="5">voc.	πολέ	πολύ</p>
+<p>Plural</p>
+<p>nom.	πολλοί	πολλά</p>
+<p>gen.	πολλῶν	πολλῶν</p>
+<p>dat.	πολλοῖς	πολλοῖς</p>
+<p>acc.	πολλούς	πολλά</p>
+<p spacebelow="10">voc.	πολλοί	πολλά</p>
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	πολλή</p>
+<p>gen.	πολλῆς</p>
+<p>dat.	πολλῇ</p>
+<p>acc.	πολλήν</p>
+<p spacebelow="5">voc.	πολλή</p>
+<p>Plural</p>
+<p>nom.	πολλαί</p>
+<p>gen.	πολλῶν</p>
+<p>dat.	πολλαῖς</p>
+<p>acc.	πολλάς</p>
+<p spacebelow="10">voc.	μεγάλαι</p>

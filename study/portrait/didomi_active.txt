@@ -1,0 +1,139 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	δίδωμι	διδῶ</p>
+<p>2nd sg	δίδως	διδῷς</p>
+<p>3rd sg	δίδωσι(ν)	διδῷ</p>
+<p>1st pl	δίδομεν	διδῶμεν</p>
+<p>2nd pl	δίδοτε	διδῶτε</p>
+<p spacebelow="10">3rd pl	διδόασι(ν)	διδῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	διδοίην	&mdash;</p>
+<p>2nd sg	διδοίης	δίδου</p>
+<p>3rd sg	διδοίη	διδότω</p>
+<p>1st pl	διδοῖμεν	&mdash;</p>
+<p>2nd pl	διδοῖτε	δίδοτε</p>
+<p spacebelow="10">3rd pl	διδοῖεν	διδότωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">διδόναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	διδούς	διδόν</p>
+<p>gen sg	διδόντος	διδόντος</p>
+<p>dat sg	διδόντι	διδόντι</p>
+<p spacebelow="5">acc sg	διδόντα	διδόν</p>
+<p>nom pl	διδόντες	διδόντα</p>
+<p>gen pl	διδόντων	διδόντων</p>
+<p>dat pl	διοῦσι(ν)	διοῦσι(ν)</p>
+<p spacebelow="10">acc pl	διδόντας	διδόντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	διδοῦσα</p>
+<p>gen sg	διδούσης</p>
+<p>dat sg	διδούσῃ</p>
+<p spacebelow="5">acc sg	διδοῦσαν</p>
+<p>nom pl	διδοῦσαι</p>
+<p>gen pl	διδουσῶν</p>
+<p>dat pl	διδούσαις</p>
+<p spacebelow="10">acc pl	διδούσας</p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐδίδουν</p>
+<p>2nd sg	ἐδίδους</p>
+<p>3rd sg	ἐδίδου</p>
+<p>1st pl	ἐδίδομεν</p>
+<p>2nd pl	ἐδίδοτε</p>
+<p spacebelow="10">3rd pl	ἐδίδοσαν</p>
+
+<p spacebelow="5">	<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	δώσω</p>
+<p>2nd sg	δώσεις</p>
+<p>3rd sg	δώσει</p>
+<p>1st pl	δώσομεν</p>
+<p>2nd pl	δώσετε</p>
+<p spacebelow="10">3rd pl	δὠσουσι(ν)</p>
+
+<p spacebelow="5">	<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἔδωκα	δῶ</p>
+<p>2nd sg	ἔδωκας	δῷς</p>
+<p>3rd sg	ἔδωκε(ν)	δῷ</p>
+<p>1st pl	ἐδώκαμεν	δῶμεν</p>
+<p>2nd pl	ἐδώκατε	δῶτε</p>
+<p spacebelow="10">3rd pl	ἔδωκαν	δῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	δοίην	&mdash;</p>
+<p>2nd sg	δοίης	δός</p>
+<p>3rd sg	δοίη	δότω</p>
+<p>1st pl	δοῖμεν	&mdash;</p>
+<p>2nd pl	δοῖτε	δότε</p>
+<p spacebelow="10">3rd pl	δοῖεν	δότωσαν</p>
+
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δοῦναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δούς	δόν</p>
+<p>gen sg	δόντος	δόντος</p>
+<p>dat sg	δόντι	δόντι</p>
+<p spacebelow="5">acc sg	δόντα	δόν</p>
+<p>nom pl	δόντες	δόντα</p>
+<p>gen pl	δόντων	δόντων</p>
+<p>dat pl	δοῦσι(ν)	δοῦσι(ν)</p>
+<p spacebelow="10">acc pl	δόντας	δόντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δοῦσα</p>
+<p>gen sg	δούσης</p>
+<p>dat sg	δούσῃ</p>
+<p spacebelow="5">acc sg	δοῦσαν</p>
+<p>nom pl	δοῦσαι</p>
+<p>gen pl	δουσῶν</p>
+<p>dat pl	δούσαις</p>
+<p spacebelow="10">acc pl	δούσας</p>
+
+<p spacebelow="5">	<u><b>PERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	δέδωκα</p>
+<p>2nd sg	δέδωκας</p>
+<p>3rd sg	δέδωκε(ν)</p>
+<p>1st pl	δεδώκαμεν</p>
+<p>2nd pl	δεδώκατε</p>
+<p spacebelow="10">3rd pl	δεδώκασι(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δεδωκέναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δεδωκώς	δεδωκός</p>
+<p>gen sg	δεδωκότος	δεδωκότος</p>
+<p>dat sg	δεδωκότι	δεδωκότι</p>
+<p spacebelow="5">acc sg	δεδωκότα	δεδωκός</p>
+<p>nom pl	δεδωκότες	δεδωκότα</p>
+<p>gen pl	δεδωκότων	δεδωκότων</p>
+<p>dat pl	δεδωκόσι	δεδωκόσι</p>
+<p spacebelow="10">acc pl	δεδωκότας	δεδωκότα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δεδωκυῖα</p>
+<p>gen sg	δεδωκυίας</p>
+<p>dat sg	δεδωκυίᾳ</p>
+<p spacebelow="5">acc sg	δεδωκυῖαν</p>
+<p>nom pl	δεδωκυῖαι</p>
+<p>gen pl	δεδωκυιῶν</p>
+<p>dat pl	δεδωκυίαις</p>
+<p spacebelow="10">acc pl	δεδωκυίας</p>
+
+<p spacebelow="5">	<u><b>PLUPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐδεδώκειν</p>
+<p>2nd sg	ἐδεδώκεις</p>
+<p>3rd sg	ἐδεδώκει</p>
+<p>1st pl	ἐδεδώκειμεν</p>
+<p>2nd pl	ἐδεδώκειτε</p>
+<p spacebelow="10">3rd pl	ἐδεδώκεισαν</p>

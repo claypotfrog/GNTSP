@@ -1,0 +1,129 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	τίθημι	τιθῶ</p>
+<p>2nd sg	τίθης	τιθῇς</p>
+<p>3rd sg	τίθησι(ν)	τιθῇ</p>
+<p>1st pl	τίθεμεν	τιθῶμεν</p>
+<p>2nd pl	τίθετε	τιθῆτε</p>
+<p spacebelow="10">3rd pl	τιθέασι(ν)	τιθῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	τιθείην	&mdash;</p>
+<p>2nd sg	τιθείης	τίθει</p>
+<p>3rd sg	τιθείη	τιθέτω</p>
+<p>1st pl	τιθεῖμεν	&mdash;</p>
+<p>2nd pl	τιθεῖτε	τίθετε</p>
+<p spacebelow="10">3rd pl	τιθεῖεν	τιθέτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">τιθέναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	τιθείς	τιθέν</p>
+<p>gen sg	τιθέντος	τιθέντος</p>
+<p>dat sg	τιθέντι	τιθέντι</p>
+<p spacebelow="5">acc sg	τιθέντα	τιθέν</p>
+<p>nom pl	τιθέντες	τιθέντα</p>
+<p>gen pl	τιθέντων	τιθέντων</p>
+<p>dat pl	τιθεῖσι(ν)	τιθεῖσι(ν)</p>
+<p spacebelow="10">acc pl	τιθέντας	τιθέντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	τιθεῖσα</p>
+<p>gen sg	τιθείσης</p>
+<p>dat sg	τιθείσῃ</p>
+<p spacebelow="5">acc sg	τιθεῖσαν</p>
+<p>nom pl	τιθεῖσαι</p>
+<p>gen pl	τιθεισῶν</p>
+<p>dat pl	τιθείσαις</p>
+<p spacebelow="10">acc pl	τιθείσας</p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐτίθην</p>
+<p>2nd sg	ἐτίθεις</p>
+<p>3rd sg	ἐτίθει</p>
+<p>1st pl	ἐτίθεμεν</p>
+<p>2nd pl	ἐτίθετε</p>
+<p spacebelow="10">3rd pl	ἐτίθεσαν</p>
+
+<p spacebelow="5">	<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	θήσω</p>
+<p>2nd sg	θήσεις</p>
+<p>3rd sg	θήσει</p>
+<p>1st pl	θήσομεν</p>
+<p>2nd pl	θήσετε</p>
+<p spacebelow="10">3rd pl	θήσουσι(ν)</p>
+
+<p spacebelow="5">	<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἔθηκα	θῶ</p>
+<p>2nd sg	ἔθηκας	θῇς</p>
+<p>3rd sg	ἔθηκε(ν)	θῇ</p>
+<p>1st pl	ἐθήκαμεν	θῶμεν</p>
+<p>2nd pl	ἐθήκατε	θῆτε</p>
+<p spacebelow="10">3rd pl	ἔθηκαν	θῶσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	θείην	&mdash;</p>
+<p>2nd sg	θείης	θές</p>
+<p>3rd sg	θείη	θέτω</p>
+<p>1st pl	θεῖμεν	&mdash;</p>
+<p>2nd pl	θεῖτε	θέτε</p>
+<p spacebelow="10">3rd pl	θεῖεν	θέτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">θεῖναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	θείς	θέν</p>
+<p>gen sg	θέντος	θέντος</p>
+<p>dat sg	θέντι	θέντι</p>
+<p spacebelow="5">acc sg	θέντα	θέν</p>
+<p>nom pl	θέντες	θέντα</p>
+<p>gen pl	θέντων	θέντων</p>
+<p>dat pl	θεῖσι(ν)	θεῖσι(ν)</p>
+<p spacebelow="10">acc pl	θέντας	θέντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	θεῖσα</p>
+<p>gen sg	θείσης</p>
+<p>dat sg	θείσῃ</p>
+<p spacebelow="5">acc sg	θεῖσαν</p>
+<p>nom pl	θεῖσαι</p>
+<p>gen pl	θεισῶν</p>
+<p>dat pl	θείσαις</p>
+<p spacebelow="10">acc pl	θείσας</p>
+
+<p spacebelow="5">	<u><b>PERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	τέθεικα</p>
+<p>2nd sg	τέθεικας</p>
+<p>3rd sg	τέθεικε(ν)</p>
+<p>1st pl	τεθείκαμεν</p>
+<p>2nd pl	τεθείκατε</p>
+<p spacebelow="10">3rd pl	τεθείκασι(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">τεθεικέναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	τεθεικώς	τεθεικός</p>
+<p>gen sg	τεθεικότος	τεθεικότος</p>
+<p>dat sg	τεθεικότι	τεθεικότι</p>
+<p spacebelow="5">acc sg	τεθεικότα	τεθεικός</p>
+<p>nom pl	τεθεικότες	τεθεικότα</p>
+<p>gen pl	τεθεικότων	τεθεικότων</p>
+<p>dat pl	τεθεικόσι(ν)	τεθεικόσι(ν)</p>
+<p spacebelow="10">acc pl	τεθεικότας	τεθεικότα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	τεθεικυῖα</p>
+<p>gen sg	τεθεικυίας</p>
+<p>dat sg	τεθεικυίᾳ</p>
+<p spacebelow="5">acc sg	τεθεικυῖαν</p>
+<p>nom pl	τεθεικυῖαι</p>
+<p>gen pl	τεθεικυιῶν</p>
+<p>dat pl	τεθεικυίαις</p>
+<p spacebelow="10">acc pl	τεθεικυίας</p>

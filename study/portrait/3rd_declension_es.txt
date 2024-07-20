@@ -1,0 +1,13 @@
+<p>Singular	<u>Masc./Fem.	Neut.</u></p>
+<p><i>(always proper names)</i></p>
+<p>nom.	ὁ ᾍδης	τὸ ἔτος</p>
+<p>gen.	ᾍδους	ἔτους</p>
+<p>dat.	ᾍδει	ἔτει</p>
+<p>acc.	ᾍδη	ἔτος</p>
+<p spacebelow="5">voc.	ᾍδες	ἔτος</p>
+<p>Plural  <i>(no plurals for names)</i></p>
+<p>nom.		ἔτη</p>
+<p>gen.		ἐτῶν</p>
+<p>dat.		ἔτεσι(ν)</p>
+<p>acc.		ἔτη</p>
+<p spacebelow="10">voc.		ἔτη</p>

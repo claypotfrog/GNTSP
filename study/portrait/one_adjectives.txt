@@ -1,0 +1,10 @@
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	εἷς	ἕν</p>
+<p>gen.	ἑνός	ἑνός</p>
+<p>dat.	ἑνί	ἑνί</p>
+<p spacebelow="10">acc.	ἕνα	ἕν</p>
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	μία</p>
+<p>gen.	μιᾶς</p>
+<p>dat.	μιᾷ</p>
+<p spacebelow="10">acc.	μίαν</p>

@@ -1,0 +1,38 @@
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἔβαλον	βάλω</p>
+<p>2nd sg	ἔβαλες	βάλῃς</p>
+<p>3rd sg	ἔβαλε(ν)	βάλῃ</p>
+<p>1st pl	ἐβάλομεν	βάλωμεν</p>
+<p>2nd pl	ἐβάλετε	βάλητε</p>
+<p spacebelow="10">3rd pl	ἔβαλον/αν	βάλωσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	βάλοιμι	&mdash;</p>
+<p>2nd sg	βάλοις	βάλε</p>
+<p>3rd sg	βάλοι	βαλέτω</p>
+<p>1st pl	βάλοιμεν	&mdash;</p>
+<p>2nd pl	βάλοιτε	βάλετε</p>
+<p spacebelow="10">3rd pl	βάλοιεν	βαλέτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">βαλεῖν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	βαλών	βαλόν</p>
+<p>gen sg	βαλόντος	βαλόντος</p>
+<p>dat sg	βαλόντι	βαλόντι</p>
+<p spacebelow="5">acc sg	βαλόντα	βαλόν</p>
+<p>nom pl	βαλόντες	βαλόντα</p>
+<p>gen pl	βαλόντων	βαλόντων</p>
+<p>dat pl	βαλοῦσι(ν)	βαλοῦσι(ν)</p>
+<p spacebelow="10">acc pl	βαλόντας	βαλόντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	βαλοῦσα</p>
+<p>gen sg	βαλούσης</p>
+<p>dat sg	βαλούσῃ</p>
+<p spacebelow="5">acc sg	βαλοῦσαν</p>
+<p>nom pl	βαλοῦσαι</p>
+<p>gen pl	βαλουσῶν</p>
+<p>dat pl	βαλούσαις</p>
+<p spacebelow="10">acc pl	βαλούσας</p>

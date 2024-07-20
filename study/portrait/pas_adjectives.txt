@@ -1,0 +1,24 @@
+<p>Singular	<u>Masc.	Neut.</u></p>
+<p>nom.	πᾶς	πᾶν</p>
+<p>gen.	παντός	παντός</p>
+<p>dat.	παντί	παντί</p>
+<p>acc.	πάντα	πᾶν</p>
+<p spacebelow="5">voc.	πᾶς	πᾶν</p>
+<p>Plural</p>
+<p>nom.	πάντες	πάντα</p>
+<p>gen.	πάντων	πάντων</p>
+<p>dat.	πᾶσι(ν)	πᾶσι(ν)</p>
+<p>acc.	πάντας	πάντα</p>
+<p spacebelow="10">voc.	πάντες	πάντα</p>
+<p>Singular	<u>Fem.</u></p>
+<p>nom.	πᾶσα</p>
+<p>gen.	πάσης</p>
+<p>dat.	πάσῃ</p>
+<p>acc.	πᾶσαν</p>
+<p spacebelow="5">voc.	πᾶσα</p>
+<p>Plural</p>
+<p>nom.	πᾶσαι</p>
+<p>gen.	πασῶν</p>
+<p>dat.	πάσαις</p>
+<p>acc.	πάσας</p>
+<p spacebelow="10">voc.	πᾶσαι</p>

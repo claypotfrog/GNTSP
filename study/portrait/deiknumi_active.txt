@@ -1,0 +1,129 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	δείκνυμι	δεικνύω</p>
+<p>2nd sg	δείκνυς	δεικνύῃς</p>
+<p>3rd sg	δείκνυσι(ν)	δεικνύῃ</p>
+<p>1st pl	δείκνυμεν	δεικνύωμεν</p>
+<p>2nd pl	δείκνυτε	δεικνύητε</p>
+<p spacebelow="10">3rd pl	δεικνύασι(ν)	δεικνύωσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	δεικνύοιμι	&mdash;</p>
+<p>2nd sg	δεικνύοις	δείκνυ</p>
+<p>3rd sg	δεικνύοι	δεικνύτω</p>
+<p>1st pl	δεικνύοιμεν	&mdash;</p>
+<p>2nd pl	δεικνύοιτε	δείκνυτε</p>
+<p spacebelow="10">3rd pl	δεικνύοιεν	δεικνύτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δεικνύναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δεικνύς	δεικνύν</p>
+<p>gen sg	δεικνύντος	δεικνύντος</p>
+<p>dat sg	δεικνύντι	δεικνύντι</p>
+<p spacebelow="5">acc sg	δεικνύντα	δεικνύν</p>
+<p>nom pl	δεικνύντες	δεικνύντα</p>
+<p>gen pl	δεικνύντων	δεικνύντων</p>
+<p>dat pl	δεικνῦσι(ν)	δεικνῦσι(ν)</p>
+<p spacebelow="10">acc pl	δεικνύντας	δεικνύντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δεικνῦσα</p>
+<p>gen sg	δεικνύσης</p>
+<p>dat sg	δεικνύσῃ</p>
+<p spacebelow="5">acc sg	δεικνῦσαν</p>
+<p>nom pl	δεικνῦσαι</p>
+<p>gen pl	δεικνασῶν</p>
+<p>dat pl	δεικνύσαις</p>
+<p spacebelow="10">acc pl	δεικνύσας</p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἐδείκνυν</p>
+<p>2nd sg	ἐδείκνυς</p>
+<p>3rd sg	ἐδείκνυ</p>
+<p>1st pl	ἐδείκνυμεν</p>
+<p>2nd pl	ἐδείκνυτε</p>
+<p spacebelow="10">3rd pl	ἐδείκνυσαν</p>
+
+<p spacebelow="5">	<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	δείξω</p>
+<p>2nd sg	δείξεις</p>
+<p>3rd sg	δείξει</p>
+<p>1st pl	δείξομεν</p>
+<p>2nd pl	δείξετε</p>
+<p spacebelow="10">3rd pl	δείξουσι(ν)</p>
+
+<p spacebelow="5">	<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἔδειξα 	δείξω</p>
+<p>2nd sg	ἔδειξας	δείξῃς</p>
+<p>3rd sg	ἔδειξε(ν)	δείξῃ</p>
+<p>1st pl	ἐδείξαμεν	δείξωμεν</p>
+<p>2nd pl	ἐδείξατε	δείξητε</p>
+<p spacebelow="10">3rd pl	ἔδειξαν	δείξωσι(ν)</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	δείξαιμι	&mdash;</p>
+<p>2nd sg	δείξαις	δεῖξον</p>
+<p>3rd sg	δείξαι	δειξάτω</p>
+<p>1st pl	δείξαιμεν	&mdash;</p>
+<p>2nd pl	δείξαιτε	δείξατε</p>
+<p spacebelow="10">3rd pl	δείξαιεν	δειξάτωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δεῖξαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δείξας	δείξαν</p>
+<p>gen sg	δείξαντος	δείξαντος</p>
+<p>dat sg	δείξαντι	δείξαντι</p>
+<p spacebelow="5">acc sg	δείξαντα	δείξαν</p>
+<p>nom pl	δείξαντες	δείξαντα</p>
+<p>gen pl	δειξάντων	δειξάντων</p>
+<p>dat pl	δείξασι(ν)	δείξασι(ν)</p>
+<p spacebelow="10">acc pl	δείξαντας	δείξαντα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δείξασα</p>
+<p>gen sg	δειξάσης</p>
+<p>dat sg	δειξάσῃ</p>
+<p spacebelow="5">acc sg	δείξασαν</p>
+<p>nom pl	δείξασαι</p>
+<p>gen pl	δειξασῶν</p>
+<p>dat pl	δειξάσαις</p>
+<p spacebelow="10">acc pl	δειξάσας</p>
+
+<p spacebelow="5">	<u><b>PERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	δέδειχα</p>
+<p>2nd sg	δέδειχας</p>
+<p>3rd sg	δέδειχε(ν)</p>
+<p>1st pl	δεδείχαμεν</p>
+<p>2nd pl	δεδείχατε</p>
+<p spacebelow="10">3rd pl	δεδείχασι(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">δεδειχέναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	δεδειχώς	δεδειχός</p>
+<p>gen sg	δεδειχότος	δεδειχότος</p>
+<p>dat sg	δεδειχότι	δεδειχότι</p>
+<p spacebelow="5">acc sg	δεδειχότα	δεδειχός</p>
+<p>nom pl	δεδειχότες	δεδειχότα</p>
+<p>gen pl	δεδειχότων	δεδειχότων</p>
+<p>dat pl	δεδειχόσι(ν)	δεδειχόσι(ν)</p>
+<p spacebelow="10">acc pl	δεδειχότας	δεδειχότα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	δεδειχυῖα</p>
+<p>gen sg	δεδειχυίας</p>
+<p>dat sg	δεδειχυίᾳ</p>
+<p spacebelow="5">acc sg	δεδειχυῖαν</p>
+<p>nom pl	δεδειχυῖαι</p>
+<p>gen pl	δεδειχυιῶν</p>
+<p>dat pl	δεδειχυίαις</p>
+<p spacebelow="10">acc pl	δεδειχυίας</p>

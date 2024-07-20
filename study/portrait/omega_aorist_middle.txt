@@ -1,0 +1,38 @@
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἐλυσάμην	λύσωμαι</p>
+<p>2nd sg	ἐλύσω	λύσῃ</p>
+<p>3rd sg	ἐλύσατο	λύσηται</p>
+<p>1st pl	ἐλυσάμεθα	λυσώμεθα</p>
+<p>2nd pl	ἐλύσασθε	λύσησθε</p>
+<p spacebelow="10">3rd pl	ἐλύσαντο	λύσωνται</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	λυσαίμην	&mdash;</p>
+<p>2nd sg	λύσαιο	λῦσαι</p>
+<p>3rd sg	λύσαιτο	λυσάσθω</p>
+<p>1st pl	λυσαίμεθα	&mdash;</p>
+<p>2nd pl	λύσαισθε	λύσασθε</p>
+<p spacebelow="10">3rd pl	λύσαιντο	λυσάσθωσαν</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">λύσασθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	λυσάμενος	λυσάμενον</p>
+<p>gen sg	λυσαμένου	λυσαμένου</p>
+<p>dat sg	λυσαμένῳ	λυσαμένῳ</p>
+<p spacebelow="5">acc sg	λυσάμενον	λυσάμενον</p>
+<p>nom pl	λυσάμενοι	λυσάμενα</p>
+<p>gen pl	λυσαμένων	λυσαμένων</p>
+<p>dat pl	λυσαμένοις	λυσαμένοις</p>
+<p spacebelow="10">acc pl	λυσαμένους	λυσάμενα</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	λυσαμένη</p>
+<p>gen sg	λυσαμένης</p>
+<p>dat sg	λυσαμένῃ</p>
+<p spacebelow="5">acc sg	λυσαμένην</p>
+<p>nom pl	λυσάμεναι</p>
+<p>gen pl	λυσαμενῶν</p>
+<p>dat pl	λυσαμέναις</p>
+<p spacebelow="10">acc pl	λυσαμένας</p>

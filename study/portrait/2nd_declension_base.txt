@@ -1,0 +1,14 @@
+<p>Singular	<u>Masc./Fem.	Neut.</u></p>
+<p>nom.	–ος	–ον</p>
+<p>gen.	–ου	–ου</p>
+<p>dat.	–ῳ	–ῳ</p>
+<p>acc.	–ον	–ον</p>
+<p spacebelow="5">voc.	–ε	–ον</p>
+<p>Plural</p>
+<p>nom.	–οι	–α</p>
+<p>gen.	–ων	–ων</p>
+<p>dat.	–οις	–οις</p>
+<p>acc.	–ους	–α</p>
+<p spacebelow="10">voc.	–οι	–α</p>
+
+
