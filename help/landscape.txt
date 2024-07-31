@@ -1,4 +1,17 @@
-<p spacebelow=10>Starting in version 2.2, when you rotate a mobile device, the display will rotate.  But not all screens can accomadate landscape mode.  Some screens on smaller devices do not work well in landscape mode.  Here's the Search screen in landscape mode on a small screen.</p>
+<p spacebelow=10>Starting in version 2.2, when you rotate a mobile device, the display will rotate.  From version 2.3, moreover, you can lock the display so that it will not rotate when you rotate the device.</p>
+<p spacebelow=10>In order to lock or unlock the screen rotation, press and hold the blue gear icon in the upper right of the screen.  Normally when you press this icon, it brings up the Settings dialog box.  But if you press and hold the icon for more a couple of seconds, it will display a lock icon showing the status of the rotation lock.  A blue unlocked image means the display is unlocked and will rotate as you rotate your device.  A red locked image means the display is locked and will not rotate when you rotate your device.</p>
+<p spacebelow=10><img src="binfile:help/images/rotation-icons.png"></p>
+<p spacebelow=10>By default, the display rotation is unlocked.  So if you press and hold the Settings icon, you will see the blue unlocked icon.</p>
+<p spacebelow=10><img src="binfile:help/images/rotation-unlocked.png"></p>
+<p spacebelow=10>If you click on the image, it will briefly change to a red locked image and the text will say "Locked!" before the image disappears.  If you do not wish to lock the display, simply press anywhere on the screen other than the blue image and the display will return to normal without changing the lock status.</p>
+<p spacebelow=10>Likewise, if the display is locked and you wish to unlock it, press and hold the blue gear icon for a couple of seconds, and you will see the red locked image.</p>
+<p spacebelow=10><img src="binfile:help/images/rotation-locked.png"></p>
+<p spacebelow=10>Click on the image to unlock the display.  The image will briefly change to a blue unlocked image which says "Unlocked!" before disappearing.  Like before, if you do not wish to change anything, click anywhere other than the red image.</p>
+<p spacebelow=10>You can visually tell if the program has locked the display by the presence of a faint red line along the top of the navigation bar.  The presence of that red line means that the display is locked by the program.  If you do not see that red line, the program has not locked the display.  Your operating system can also lock the display.  For example, some phones will not display in portrait mode when upside down.  If the display will not rotate and you do NOT see the red line along the navigation bar at the bottom of the screen, then check your operating system settings.</p>
+<p spacebelow=10>In the following image, you can see the red line along the navigation panel indicating that the display is locked.</p>
+<p spacebelow=10><img src="binfile:help/images/rotation-red-line.png"></p>
+<p spacebelow=10>The lock status of the display is saved between sessions.  So if you lock the screen, then close the app.  When you reopen it, the display will still be locked.</p>
+<p spacebelow=10>Please note that although all screens can be displayed in both landscape and portrait mode, not all screens can accommodate landscape mode.  Some screens on smaller devices do not work well in landscape mode.  Here's the Search screen in landscape mode on a small screen.</p>
 <p spacebelow=10><img src="binfile:help/images/landscape-search.png"></p>
 <p spacebelow=10>As you can see, with the mobile device's onscreen keyboard displayed so you can type in the search field, you cannot see any of your matches.</p>
 <p spacebelow=10>Or here is the verb study field in Portrait mode where you can easily see the entire description of the verb.</p>
@@ -6,12 +19,13 @@
 <p spacebelow=10>But if we turn our phone to landscape mode, there is very little room and you must scroll to see all the description.</p>
 <p spacebelow=10><img src="binfile:help/images/landscape-verbstudy.png"></p>
 <p spacebelow=10>On smaller devices, you will find that most screens in the app work better in portrait mode.</p>
-<p spacebelow=10>In addition, some dialog boxes will not fit in landscape mode.  If you rotate your device and there is not enough room to display a dialog box, the option will disabled.  Here is the Setting dialog box displayed on a phone in portrait mode where it fits easily.</p>
-<p spacebelow=10><img src="binfile:help/images/portrait-settings.png"></p>
-<p spacebelow=10>But here we have rotated the phone to landscape mode.  Since the Settings dialog will not fit on the screen now, the dialog box has been closed and the blue gear icon in the upper-right has been disabled so you cannot access the Settings dialog from this orientation.  You must rotate your device back to portrait mode in order to access the Settings dialog box.</p>
+<p spacebelow=10>In addition, some dialog boxes will not fit in landscape mode.  If you rotate your device and there is not enough room to display a dialog box, one of two things will happen.  Some settings icons will be grayed out and unavailable.  Here you see on the Vocabulary page, the settings icon for the Backup/Synchronize functions is grayed out and unavailable because the dialog boxes are much too big to display properly in landscape mode.  If you wish to access those settings, you will need to rotate your device to portrait mode.</p>
 <p spacebelow=10><img src="binfile:help/images/landscape-settings.png"></p> 
-<p spacebelow=10>If the device does have enough space to display the dialog box in landscape mode, however, then it will always be available.  Here you can see the settings dialog displayed on a tablet (which has a much larger screen) in landscape mode.</p>
-<p spacebelow=10><img src="binfile:help/images/landscape-tablet-settings.png"></p>
+<p spacebelow=10>In other cases, the dialog box will still display, but you will need to scroll it up and down to see all the options.  Here's the Settings dialog box from the Read screen displayed in landscape mode.  As you can see, the bottom of the box is cut off and you cannot see (or access) the "Done" and "Cancel" buttons to close the dialog box.</p>
+<p spacebelow=10><img src="binfile:help/images/settings-landscape.png"></p>
+<p spacebelow=10>To access the parts of the dialog box which are below the screen, you can scroll the dialog box down.  Now the top will be above the level which you can see, but you can access the bottom of the dialog box.</p>
+<p spacebelow=10><img src="binfile:help/images/settings-landscape-scrolled.png"></p>
+<p spacebelow=10><i>You could also rotate your device back to portrait mode.  Then you will be able to see and access the entire dialog box.</i></p>
 <p spacebelow=10>In other cases, dialog boxes may fit on the screen, but when the mobile keyboard is activated it "pushes" the dialog box up so that it's no longer usable.  Here's a Save dialog box which has been pushed up by the mobile keyboard so that you can no longer see the field in which to type.</p>
 <p spacebelow=10><img src="binfile:help/images/landscape-pushup.png"></p>
 <p spacebelow=10>In this case, simply rotate the device back to portrait mode.  Then you can open the dialog box again and you should be able to access all of it.</p>

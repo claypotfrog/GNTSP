@@ -1,6 +1,3 @@
-<p spacebelow=10>*** Landscape Mode on Mobile</p>
-<p spacebelow=10>*** Bookmark, highlight, and copy verses. Click on verse number to access. (See the "Verse Actions" section on the About page.)</p>
-<p spacebelow=10>*** Vocabulary lists can be created for an entire book ordered by chapter.</p>
-<p spacebelow=10>*** Set a maximum interval for vocabulary review from 1 month to a year.  (Default is 6 months.)</p>
-<p spacebelow=10>*** Transparency of the Scroll Buttons can be adjusted in Settings.</p>
-<p spacebelow=10>*** Expand and Collapse all Verses on Occurrence screen.</p>
+<p spacebelow=10>*** Dark Mode!  Follows system preferences by default.  Configure in Settings on Read page.</p>
+<p spacebelow=10>*** Lock/unlock screen rotation in mobile.  Press and hold the settings icon on the Read page to access.</p>
+<p spacebelow=10>*** Vocabulary study interval can be applied to existing words you are studying.</p>

@@ -14,6 +14,7 @@
 <p spacebelow=10><img src="binfile:help/images/verseoptions_blue_hilite.png"></p>
 <p spacebelow=10>Click the "Highlight Verse" button again and now the verse is highlighted in the new color.</p>
 <p spacebelow=10><img src="binfile:help/images/text_hilited_blue.png"></p>
+<p spacebelow=10><i>(If you highlighted a verse in previous version of the program, and the highlight color now appears different, it probably is.  Some of the highlight colors were changed when dark mode was added so that they work in both light and dark mode.)</i></p>
 <p spacebelow=10>You can see all your bookmarks and all your highlights by clicking on the blue Bookmark icon in the upper left of the Read screen.  The title tells you whether you are looking at Bookmarks or Highlights.  Here on the Bookmarks screen, you see John 1:6, the verse which we have just bookmarked, as well as other verses which we have previously bookmarked.  You can have as many bookmarked verses as you wish.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmark_items.png"></p>
 <p spacebelow=10>In order to see what verses you have highlighted, click on the Exchange arrows in the upper left of the window.  Now the window shows our highlighted verses.  Notice that you see the verse reference highlighted in the same color as the verse itself is highlighted.</p>
