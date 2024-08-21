@@ -1,4 +1,4 @@
-### These the main database table as a TAB delimited text file in case anyone wants to work with the data in raw form.
+### This is the main database table as a TAB delimited text file in case anyone wants to work with the data in raw form.
 
 -----------------------------------------------------
 **dictionary.txt** is the main dictionary table containing the base form of every word found in the SBLGNT.  There are six columns in each record.
