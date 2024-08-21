@@ -7,7 +7,7 @@
 <p spacebelow=10><img src="binfile:help/images/sync-new-account.png"></p>
 <p spacebelow=10>Once you create a new account, you can find your Account ID and Password by clicking again on the blue gear icon in the lower right.  This will now bring up the "Account Information" dialog box.  You should store your Account ID and Password (take a screenshot and email it to yourself) so you can retrieve your backup in case you need to reinstall the program or you wish to access the data on a different device.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-account-info.png"></p>
-<p spacebelow=10>Account IDs are random numbers between 1000 and 1000000.  Passwords are 10 characters long and consist only of letters and numbers.  You cannot change either of these.  They are created by the program.</p>
+<p spacebelow=10>Account IDs are random numbers between 1000 and 1000000.  Passwords are 10 <b>hexadecimal</b> characters long (which means they consist only of the numbers 0-9 and the letters 'A-F')  </i>(So when you see an "0", that's the number zero not the letter Oh.)</i> You cannot change either of these.  They are created by the program.</p>
 <p>Once you know your Account ID and Password, you can connect additional devices to this account by entering the Account ID and Password into the "Connect to Existing Account" section of the New Account dialog on the other devices and clicking the "Connect" button.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-connect-account.png"></p>
 <p spacebelow=10>Assuming that you have entered the correct Account ID and Password, your device will be connected to this account, and you will be given the choice whether to copy the data from this account to your local device immediately.</p>
@@ -34,5 +34,5 @@
 <p spacebelow=10><img src="binfile:help/images/sync-timeout-20.png"></p>
 <p spacebelow=10>Click on the menu which says "20 seconds" and you can increase the time up to 5 minutes (300 seconds).</p>
 <p spacebelow=10><img src="binfile:help/images/sync-timeout-60.png"></p>
-<p spacebelow=10>That change will be saved so that the program will always try to connect to the server for that long whenever it connects to the internet.</p>
+<p spacebelow=10>That change will be saved so that the program will always try to connect to the server for that long until you change.</p>
 <p spacebelow=10>This is obviously a very rudimentary backup and synchronization system.  You can't chose your own Account Name or Password, you can't decide what data to backup, everything is done manually, and you can't do any sort of "Merge" if your devices get out of sync.  While there is a lot of room for improvement to this system (and one day I hope go back and do just that), for the moment, it does a <i>decent</i> enough job of backing up your data and keeping multiple devices in sync.</p>

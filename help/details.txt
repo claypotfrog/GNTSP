@@ -34,7 +34,7 @@
 <p spacebelow=10><img src="binfile:help/images/details-logos-show-all-verses.png"></p>
 <p spacebelow=10>If you wish to hide the verse text of any particular line, press and hold anywhere on the verse until the verse text closes.</p>
 <p spacebelow=10>If you click normally on any line with the verse text showing, the program will take you to the Read screen with that book open to that chapter and verse.  All occurrences of the word you were examining in the Details screen (in any form) will be highlighted throughout the book. (You can remove the highlights by pressing and holding anywhere on the Greek Text or on Mobile by shaking your device.)</p>
-<p spacebelow=10>Moreover, in the upper left corner of the Read screen next to the bookmarks icon, the back arrow will now be highlighted indeacting that you can click on it.  Clicking on this arrow will return you to the Occurrences screen.  The arrow will remained enabled until you click on another word in the Greek text and examine that word.</p>
+<p spacebelow=10>Moreover, in the upper left corner of the Read screen next to the bookmarks icon, the back arrow will now be highlighted indicating that you can click on it.  Clicking on this arrow will return you to the Occurrences screen.  The arrow will remained enabled until you click on another word in the Greek text and examine that word.</p>
 <p spacebelow=5><img src="binfile:help/images/read-with-back.png"></p>
 <p spacebelow=10>From the Occurrences screen, you can return to the Details screen by pressing the back arrow in the upper left.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos.png"></p>
@@ -45,8 +45,12 @@
 <p spacebelow=10>Just like in the Occurrences screen, you can click on any of these lines to show the verse with that form highlighted.  You hide the text by pressing and holding on the verse until the verse text closes.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-gen-pl-verse.png"></p>
 <p spacebelow=10>Clicking normally on the line will take you back to the Read screen with that book open to that chapter and verse.  Click on the back arrow to return to the Details screen.</p>
-<p spacebelow=10>Finally, the last line is a link which says, "Add word to vocabulary list".</p>
+<p spacebelow=10>Finally, the last line is a link which says, "Add word to vocabulary".</p>
 <p spacebelow=10><img src="binfile:help/images/details-add-to-vocab.png"></p>
-<p spacebelow=10>Clicking this line allows you to add the word to a Vocabulary list you are creating manually.  When you click the link, the program will briefly tell you that the word has been added to the manual vocabulary list screen.  Next time you create a vocabulary list, you'll see this word under the "Manual List" item.</p>
+<p spacebelow=10>Clicking this line brings up a drop-down menu which allows you to add the word to a Vocabulary list.</p>
+<p spacebelow=10><img src="binfile:help/images/details-dropdown.png"></p>
+<p spacebelow=10>The first line of the list always says, "Vocabulary Creator Field".  Choosing this line will place the word in the "Manual List" Field of the Vocabulary Creator page where you can decide what vocabulary group to add it to later.</p>
 <p spacebelow=10><img src="binfile:help/images/details-word-added.png"></p>
-<p spacebelow=10><i>See the <b>Vocabulary Lists</b> section to review how to create, edit, and save Vocabulary lists and groups.</i></p>
+<p spacebelow=10>But all the other lines in this list are vocabulary groups which you have "starred" and marked them so you can add words directly to them from the Details page (the page we are on) or the Search page.  In the above example, we have only marked one group, "My Custom List", as being a group we want to add words to directly.  If we choose that line, this word will be added to that group.</p>
+<p spacebelow=10>If you decide not to add the word to any list, simply click anywhere outside the menu,- and it will disappear.</p>
+<p spacebelow=10><i>See the section "Adding words from the Details and Search screens" in the "Editing Vocabulary" section on the About page for more information on how to "star" vocabulary groups.</i></p>

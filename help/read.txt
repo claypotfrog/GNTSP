@@ -1,7 +1,7 @@
 <p spacebelow=10><img src="binfile:help/images/read.png"></p>
 <p spacebelow=10>Clicking on the Read icon brings up the text of the Society of Biblical Literature Greek New Testament (SBLGNT) and the Lexham English Bible (LEB). <i>(See the Credits for more information on these two texts.)</i></p>
-<p spacebelow=10>At the top of the screen are dropdown lists for selecting the book and chapter you wish to read.</p>
-<p spacebelow=10>You can move through the book by scrolling up and down.  As you scroll, the Chapter dropdown will update to show you which chapter you are reading in.  You cannot, however, scroll to the next or previous book.  You must change books by selecting them in the Book dropdown.</p>
+<p spacebelow=10>At the top of the screen are drop-down lists for selecting the book and chapter you wish to read.</p>
+<p spacebelow=10>You can move through the book by scrolling up and down.  As you scroll, the Chapter drop-down will update to show you which chapter you are reading in.  You cannot, however, scroll to the next or previous book.  You must change books by selecting them in the Book drop-down.</p>
 <p spacebelow=10><img src="binfile:help/images/bookselect.png"></p>
 <p spacebelow=10>Immediately below the Book and Chapter menus is where you choose whether you wish to see the text of the Greek New Testament or the Lexham English Bible.  Clicking on the item to the left labeled "Greek" will bring up the text of the Greek New Testament.</p>
 <p spacebelow=10><img src="binfile:help/images/langchooser-greek.png"></p>

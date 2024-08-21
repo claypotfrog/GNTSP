@@ -3,7 +3,7 @@
 <p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
 <p spacebelow=10>Check that box, click "Accept", and you'll see light blue arrows in the upper right of every scrollable field.</p>
 <p spacebelow=10><img src="binfile:help/images/scroll_arrows.png"></p>
-<p spacebelow=10>The arrows point to the right meaning the scroll buttons are hidden.  Click on these arrows and then will flip to point to the left and enable the scroll buttons at bottom-right of that field.</p>
+<p spacebelow=10>The arrows point to the right meaning the scroll buttons are hidden.  Click on these arrows, and they will flip to point to the left and enable the scroll buttons at bottom-right of that field.</p>
 <p spacebelow=10><img src="binfile:help/images/scroll_buttons_enabled.png"></p>
 <p spacebelow=10>Clicking on these will do exactly what they say, "Top" going to the first line and "Bottom" going to the last line in the field.  The "Scroll Up" and "Scroll Down" buttons will move up or down by a little less than half a screen initially, but if you hold the button down, they will accelerate and move by larger and larger amounts.  You can hide the scroll buttons by clicking the arrows in the upper right again.</p>
 <p spacebelow=10>By default, the "darkness" of the scroll buttons is set at 50%.  But you can adjust how dark or light the buttons are using the slider on the settings page below the checkbox to enable or disable the buttons.</p>
@@ -13,4 +13,4 @@
 <p spacebelow=10>Or if you prefer, set the darkness to a much smaller number, and the buttons will be much fainter and the text underneath them much easier to see.  Here we have set them to 20%.</p>
 <p spacebelow=10><img src="binfile:help/images/scroll_btn_lighter.png"></p>
 <p spacebelow=10>You can turn the scroll buttons off completely by going back to the "Setting" icon on the "Read" page and removing the check from the "Show Scroll Buttons" checkbox.  All the scroll buttons and the blue arrows which activate them will be hidden</p>
-<p spacebelow=10>You can scroll all drop-down menus using the up and down arrow keys as well.  And you can select the chosen line either pressing the left or right arrow keys, or the Return of Enter keys.</p>
+<p spacebelow=10>You can scroll many (though not all) drop-down menus using the up and down arrow keys as well.  Select the chosen line either pressing the left or right arrow keys, or the Return of Enter keys.</p>

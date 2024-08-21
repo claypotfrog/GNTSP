@@ -1,3 +1,4 @@
-<p spacebelow=10>*** Dark Mode!  Follows system preferences by default.  Configure in Settings on Read page.</p>
-<p spacebelow=10>*** Lock/unlock screen rotation in mobile.  Press and hold the settings icon on the Read page to access.</p>
-<p spacebelow=10>*** Vocabulary study interval can be applied to existing words you are studying.</p>
+<p spacebelow=10>The program window can be resized on desktop and reopens at last size and location.</p>
+<p spacebelow=10>Vocabulary lists and groups can be shared directly through the app without sending any files.  <i>See "Sharing Vocabulary" on the About page.</i></p>
+<p spacebelow=10>"Star" vocabulary groups and add words directly to "starred" groups from the Details and Search pages.  <i>See "Editing Vocabulary" on the About page.</i></p>
+<p spacebelow=10>When creating Vocabulary groups, you can limit by frequency both in the selection and in the entire NT.  <i>See "Creating Vocabulary" on the About page.</i></p>

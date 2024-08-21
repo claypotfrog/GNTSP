@@ -20,15 +20,15 @@
 <p spacebelow=10>In order to see what verses you have highlighted, click on the Exchange arrows in the upper left of the window.  Now the window shows our highlighted verses.  Notice that you see the verse reference highlighted in the same color as the verse itself is highlighted.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmark_hilites.png"></p>
 <p spacebelow=10>Clicking on any of these lines in either the Bookmarks or the Highlights window will take you to that verse in the Read page. <i>(In that sense, bookmarks and highlights work identically.)<i></p>
-<p spacebelow=10>You can delete bookmarks and highlights by clicking on the blue "Edit" in the upper right of the window, then click the red minus sign next to the bookmark or highlight that you wish to delete, and finally click the "Delete" button to remove that bookmark or highlight.</p>
+<p spacebelow=10>You can delete bookmarks and highlights by clicking on the blue "Edit" link in the upper right of the window to put the list into EDIT mode.  Then click the red minus sign next to the bookmark or highlight that you wish to delete, and finally click the "Delete" button to remove that bookmark or highlight.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmark_delete.png"></p>
 <p spacebelow=10>Once we remove a highlight from the list, that verse is no longer highlighted in the text.</p>
 <p spacebelow=10><img src="binfile:help/images/text_no_hilite.png"></p>
-<p spacebelow=10>By default, bookmarks appear on the list in the order in which you created them with the newest bookmark always appearing first.  But you can rearrange the order of the bookmarks in the list.  <i>(You cannot reorder highlights; they always appear in the same order the verses appear in the Biblical text.)</i>  When you click the "Edit" button while viewing Bookmarks, you will not only see the red minus icon on the left side of each verse, but the Reorder icon (three horizontal gray bars) on the right side.</p>
+<p spacebelow=10>By default, bookmarks appear on the list in the order in which you created them with the newest bookmark always appearing first.  But you can rearrange the order of the bookmarks in the list.  <i>(You cannot reorder highlights; they always appear in the same order the verses appear in the Biblical text.)</i>  When you click the "Edit" link in the upper right while viewing Bookmarks, you will not only see the red half-circle icon on the left side of each verse, but the Reorder icon (three horizontal gray bars) on the right side.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmark_reorder.png"></p>
 <p spacebelow=10>Click and drag the Reorder icon, and you can drag that bookmark anywhere you desire on the list.  In the image below, we have dragged the first bookmark, John 1:6, to the bottom of the list so now it is the last bookmark.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmark_reordered.png"></p>
-<p spacebelow=10>Click the blue "Done" in the upper right to exit "Edit" mode.  Use the navigation bar at the bottom of the screen to return to the Read page.</p>
+<p spacebelow=10>Click the blue "Done" in the upper right to exit EDIT mode.  Use the navigation bar at the bottom of the screen to return to the Read page.</p>
 <p spacebelow=10>Finally, back in the Verse Actions menu, you can copy a verse to the clipboard so you can paste it elsewhere.  Click on the "Include Reference" toggle switch (or the "Include Reference" label itself) to indicate if you want the reference copied as well.  If the "Include Reference" toggle switch is active then the verse reference (in this case John "1:6") will be copied as well as the text of the verse.  If the toggle switch is not active, then only the text of the verse will be copied.  (In the image below, the toggle switch is active.)</p>
 <p spacebelow=10><img src="binfile:help/images/verseoptions_blue_hilite.png"></p>
 <p spacebelow=10>Once you have set the switch to include (or not) the reference, click the "Copy Verse" button to copy this verse to the clipboard. <i>(Please note that when you copy the English text, the <u>underlining</u>, italics, and blue ampersands (<font color='blue'>@</font> - indicating a translators' note) are all automatically removed.)</i></p>
@@ -39,4 +39,3 @@
 <p spacebelow=10><img src="binfile:help/images/mobile_manual_hilite.png"></p>
 <p spacebelow=10><i>(Please note that this mobile field can be edited and your mobile keyboard will be enabled.  Nothing you change here will affect the Greek or English text in the program, however.)</i></p>
 <p spacebelow=10>Once you have completed everything you wish to do with this verse, click the "Done" button to return to the Read screen.</p>
-

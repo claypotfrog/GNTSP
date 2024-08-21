@@ -1,0 +1,40 @@
+<h3>Sharing a Vocabulary List or Group</h3>
+<p spacebelow=10>As of version 2.4, the program allows you share your vocabulary lists and groups with others without having to send any files.  You share your vocabulary to the server, and then give the ID of your shared vocabulary to anyone else using the program.  They can import this vocabulary list or group directly into the program on their device using the ID that you give them.</p>
+<p spacebelow=10>Sharing is accessed through the options for each Vocabulary list and group.  On either the Vocabulary List or Group page, put the page into EDIT mode by clicking the blue "Edit" link in the upper right.  Then click the red half-circle on the left of whichever list or group you want to share in order to bring up the options.  The first option is the green "Share" button.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-showoptions.png"></p>
+<p spacebelow=10>Clicking the "Share" button will share a copy of the list or group on the program's server on the internet, assign it a unique ID, and store that ID for you.  (Only the words in the list are shared, not any progress you have made in studying the words.)</p>
+<p spacebelow=10>Let's illustrate this by sharing a vocabulary list which we made.  We've created a Vocabulary list of all the verbs which appear ten or more times in the Greek New Testament but which have 2nd Aorist forms (either Active, Middle, or Passive).</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-2aorist.png"></p>
+<p spacebelow=10>Within that list we have made two groups of words - all the words which appear more than fifty times in the entire Greek New Testament and all the words appearing ten to fifty times.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-2aorist-groups.png"></p>
+<p spacebelow=10>In order to share a Vocabulary list, we go to the main Vocabulary page and then click the "Edit" link to put the page into EDIT mode and click on the red half-circle next on the "2nd Aorist Verbs" line (which is the first line).</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-options.png"></p>
+<p spacebelow=10>When we click the "Share" button, the program will inform us that it is copying the list to the server in order to share it.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-info.png"></p>
+<p spacebelow=10>If there are any issues with the upload, the program will notify you.  Assuming the upload is successful, then you will be taken to the Shared Vocabulary page</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-page.png"></p>
+<p spacebelow=10>Here we can see any vocabulary lists and groups which we have shared.  We see the name of the list we shared and the date we shared it.  On the left side of the entry, there is a "List ID" which in this case is "L11111".  (In case you are wondering, Yes, I did manually edit that ID to make it really easy to remember since I was working with it so often.  The program uses random 5 digit numbers.)</p>
+<p spacebelow=10>We can tell this is a Vocabulary list (and not a single group) because it has a "List ID" and the ID start with an "L".  Shared Groups will have a "Group ID" which always starts with "G".  (The names of vocabulary groups are also shown in italics.)</p>
+<p spacebelow=10>You can access the Shared Vocabulary page at any time from the main Vocabulary page.  At the top of the screen there is a cloud icon containing an up arrow on the left side next to the settings icon.  If that cloud icon is grayed out, then you have not shared any vocabulary lists or groups.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-gray-icon.png"></p>
+<p spacebelow=10>Once you have shared a list or group, that icon will be blue, and clicking on it will take you the Shared Vocabulary page.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-blue-icon.png"></p>
+<p spacebelow=10>Once you have shared a list or group, you can give the ID to anyone else who uses the program, and they in turn can import that list or group into their database.</p>
+<p spacebelow=10>So let's import the "2nd Aorist Verbs" list we just shared into the program running on another device.  To import a list, we go to the main Vocabulary list page and click the "Edit" link to put the page into EDIT mode.  Then we click the "+" ("plus") icon that appear in the upper left.  This brings up the Create List menu.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-create.png"></p>
+<p spacebelow=10>We choose the bottom line, "Import Shared List".  This brings up a dialog box where we enter the List ID of the vocabulary list we wish to import.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-dialog.png"></p>
+<p spacebelow=10>Since this is a List, the ID will always start with an "L", so the "L" is already present.  (If we were importing a group on the Vocabulary groups page, the dialog box would show the ID beginning with a "G".)  You need to enter the five digits which follow the "L" in the List ID.  So here we enter "11111" which is the rest of the List ID.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-dialog-filled.png"></p>
+<p spacebelow=10>Click the "Import" button, and the program will show you its status as it imports the list.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-importing.png"></p>
+<p spacebelow=10>Assuming that there are no errors importing the list, the imported list will be created and placed at the top of the Vocabulary Lists page.  You can, of course, edit the name and/or drag it to another position in the list.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-new-created.png"></p>
+<p spacebelow=10>Feel free to import this "2nd Aorist Verbs" shared list right now in order to practice how it works.  This list is presently shared on the server.  You can delete the list anytime after you import it.</p>
+<h3>Deleting a shared list or group</h3>
+<p spacebelow=10>You can also remove a list or group that you shared.  On the Shared Vocabulary page, click the blue "Edit" link in the upper right to put the page into EDIT mode.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-editmode.png"></p>
+<p spacebelow=10>Here you can see that we have also shared a vocabulary list "Mark" as well as the "2nd Aorist Verbs" vocabulary list we shared earlier.  To delete the "Mark" list, we click on the red half-circle to bring up the options.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-sharing-delete.png"></p>
+<p spacebelow=10>Then we click the red "Delete" button.  If you have not disabled Delete warnings in the Vocabulary Settings (See "Vocabulary Warnings" on the About page) then the program will ask you to confirm the deletion.  If you choose "Delete", the program will inform us that it is removing the shared group from the server, and assuming there are no errors, we'll see that "Mark" list is no longer listed in our Shared Vocabulary.  Please note that this does not effect the actual list on anyone's program.  This only deletes the shared copy on the server.  Anyone who has already imported this list will still have it on their device.</p>
+<p spacebelow=10>Everything we have described here works exactly the same for sharing and importing shared vocabulary groups.  You do all the same actions but from the vocabulary groups page rather than the vocabulary lists pages.</p>
