@@ -1,4 +1,4 @@
-### These are tables from the database as TAB delimited text files in case anyone wants to work with the data in raw form.
+### These the main database table as a TAB delimited text file in case anyone wants to work with the data in raw form.
 
 -----------------------------------------------------
 **dictionary.txt** is the main dictionary table containing the base form of every word found in the SBLGNT.  There are six columns in each record.
@@ -14,22 +14,3 @@ col 4 : display - the way the word will be displayed in the program.  Nouns incl
 col 5 : gloss - short definition(s) of the lemma.
 
 col 6 : count -  the number of times this lemma appears (in any form) in the SBLGNT
-
---------------------------------------------------------
-**verbforms.txt** and **ntverbforms.txt** are the tables used by the Verb Forms Tutor (on the Forms page) for studying verbal forms.  verbforms.txt contains the textbook entries and ntverbforms.txt contains every verbal form found in the SBLGNT.  These tables have identical structure with seven columns.
-
-col 1 : the verbal form itself - this is not necessarily unique as a verbal form can have multiple parsings, i.e. "λύσω" which can be a future active indicative or aorist active subjunctive, 1st person singular.
-
-col 2 : tense
-
-col 3 : voice
-
-col 4 : mood
-
-col 5 : person or case (participles only)
-
-col 6 : number
-
-col 7 : gender (participles only)
-
-Not every verbal form has all the columns; different moods parse differently.  Infinitives have data for just the first four columns; the last three columns are blank.  Indicatives, subjunctives, optatives, and imperatives have the first six columns, and column 5 contains the person (1st, 2nd, or 3rd).  Participles have all seven columns, and column 5 contains the case (nom., gen., dat., acc., voc.).
