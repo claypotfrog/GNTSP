@@ -5,8 +5,7 @@
 <p>3rd sg	ἐστί(ν)	ᾖ	εἴη	ἔστω</p>
 <p>1st pl	ἐσμέν	ὦμεν	εἶμεν	&mdash;</p>
 <p>2nd pl	ἐστέ	ἦτε	εἶτε	ἔστε</p>
-<p>3rd pl	εἰσί(ν)	ὦσι(ν)	εἶεν	ἔστων /</p>
-<p spacebelow="10">				ἔστωσαν</p>
+<p spacebelow="10">3rd pl	εἰσί(ν)	ὦσι(ν)	εἶεν	ἔστωσαν</p>
 
 <p><u>Infinitive</u></p>
 <p spacebelow="10">εἶναι</p>
