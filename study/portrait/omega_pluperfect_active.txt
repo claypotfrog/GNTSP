@@ -1,7 +1,7 @@
 <p>	<u>Indicative</u></p>
-<p>1st sg	ἐλελύκη</p>
-<p>2nd sg	ἐλελύκης</p>
+<p>1st sg	ἐλελύκειν</p>
+<p>2nd sg	ἐλελύκεις</p>
 <p>3rd sg	ἐλελύκει</p>
-<p>1st pl	ἐλελύκεμεν</p>
-<p>2nd pl	ἐλελύκετε</p>
-<p spacebelow="10">3rd pl	ἐλελύκεσαν</p>
+<p>1st pl	ἐλελύκειμεν</p>
+<p>2nd pl	ἐλελύκειτε</p>
+<p spacebelow="10">3rd pl	ἐλελύκεισαν</p>
