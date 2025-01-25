@@ -1,9 +1,11 @@
 <p spacebelow=10>The following instructional videos are available online:</p>
 <p spacebelow=10><a href="https://youtu.be/HcpDLx3fUW0">A brief overview of the entire program</a></p>
+<p spacebelow=10><a href="https://youtu.be/kE3E0NQq-Bw">A LONG overview of the entire program</a></p>
 <p spacebelow=10><a href="https://youtu.be/5s89395bDKU">Read the Greek New Testament</a></p>
 <p spacebelow=10><a href="https://youtu.be/zo7S5K3JN-0">Study Koine Greek grammar</a></p>
 <p spacebelow=10><a href="https://youtu.be/Pl4CtRDk8OA">See the details of a word in the Greek New Testament</a></p>
 <p spacebelow=10><a href="https://youtu.be/VHNe6cwRkv0">Search for words in the Greek New Testament</a></p>
 <p spacebelow=10><a href="https://youtu.be/6jh7V_XPDXw">Study vocabulary from the Greek New Testament</a></p>
-<p spacebelow=10><a href="https://youtu.be/fZswE77NiX4">Create custom vocabulary lists</a></p>
+<p spacebelow=10><a href="https://youtu.be/nMOkjrH3vAc">Create custom vocabulary lists</a></p>
+<p spacebelow=10><a href="https://youtu.be/6Nub6SuS_T8">Share Vocabulary Lists</a></p>
 <p spacebelow=10><a href="https://youtu.be/N1SJy10TI1Y">Backup your data and synchronize across multiple devices</a></p>

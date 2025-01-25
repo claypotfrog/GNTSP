@@ -10,7 +10,7 @@
 <p spacebelow=10>You can visually tell if the program has locked the display by the presence of a faint red line along the top of the navigation bar.  The presence of that red line means that the display is locked by the program.  If you do not see that red line, the program has not locked the display.  Your operating system can also lock the display.  For example, some phones will not display in portrait mode when upside down.  If the display will not rotate and you do NOT see the red line along the navigation bar at the bottom of the screen, then check your operating system settings.</p>
 <p spacebelow=10>In the following image, you can see the red line along the navigation panel indicating that the display is locked.</p>
 <p spacebelow=10><img src="binfile:help/images/rotation-red-line.png"></p>
-<p spacebelow=10>The lock status of the display is saved between sessions.  So if you lock the screen, then close the app.  When you reopen it, the display will still be locked.</p>
+<p spacebelow=10>The lock status of the display is saved between sessions.  So when you reopen the app, the display will still be locked or unlocked as you last set it.</p>
 <p spacebelow=10>Please note that although all screens can be displayed in both landscape and portrait mode, not all screens can accommodate landscape mode.  Some screens on smaller devices do not work well in landscape mode.  Here's the Search screen in landscape mode on a small screen.</p>
 <p spacebelow=10><img src="binfile:help/images/landscape-search.png"></p>
 <p spacebelow=10>As you can see, with the mobile device's onscreen keyboard displayed so you can type in the search field, you cannot see any of your matches.</p>

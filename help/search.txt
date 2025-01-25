@@ -33,9 +33,9 @@
 <p spacebelow=10><img src="binfile:help/images/search-wildcard-multiple.png"></p>
 <p spacebelow=10><i>(The question mark and brackets can only be used when you select "Wildcard Search".  They are automatically removed from any other type of search.)</i></p>
 <h3>Sorting</h3>
-<p spacebelow=10>Up until now, all of our results have been sorted alphabetically by the Greek word.  This is indicated by the blue Sort icon in the upper right which is labeled "A" to "Z".  But if you click on the Sort icon, you have four possible options for sorting your results: alphabetically by the Greek word either ascending (A-Z) or descending (Z-A), or numerically by the number of times the word appears in the Greek New Testament (count), again either ascending (1-9) or descending (9-1).</p>
+<p spacebelow=10>Up until now, all of our results have been sorted alphabetically by the Greek word.  This is indicated by the blue Sort icon in the upper right which is labeled "A" to "Ω".  But if you click on the Sort icon, you have four possible options for sorting your results: alphabetically by the Greek word either ascending (A-Ω) or descending (Ω-A), or numerically by the number of times the word appears in the Greek New Testament (count), again either ascending (1-9) or descending (9-1).</p>
 <p spacebelow=10><img src="binfile:help/images/search-show-sort.png"></p>
-<p spacebelow=10>Clicking on any of these lines will immediately resort your results.  So in the image below, we have resorted the same "ωμι" results to show them alphabetically descending, from "Z" to "A" (or rather "Ω" to "Α" in Greek).</p>
+<p spacebelow=10>Clicking on any of these lines will immediately resort your results.  So in the image below, we have resorted the same "ωμι" results to show them alphabetically descending, from "Ω" to "A".</p>
 <p spacebelow=10><img src="binfile:help/images/search-sort-Z-A.png"></p>
 <p spacebelow=10>And here, we have resorted the same results to show them by "Count Descending" so that the words are displayed by their frequency in the text.</p>
 <p spacebelow=10><img src="binfile:help/images/search-sort-9-1.png"></p>

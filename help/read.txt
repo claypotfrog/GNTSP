@@ -1,8 +1,11 @@
 <p spacebelow=10><img src="binfile:help/images/read.png"></p>
 <p spacebelow=10>Clicking on the Read icon brings up the text of the Society of Biblical Literature Greek New Testament (SBLGNT) and the Lexham English Bible (LEB). <i>(See the Credits for more information on these two texts.)</i></p>
-<p spacebelow=10>At the top of the screen are drop-down lists for selecting the book and chapter you wish to read.</p>
-<p spacebelow=10>You can move through the book by scrolling up and down.  As you scroll, the Chapter drop-down will update to show you which chapter you are reading in.  You cannot, however, scroll to the next or previous book.  You must change books by selecting them in the Book drop-down.</p>
+<p spacebelow=10>At the top of the screen are drop-down menus for selecting the book and chapter you wish to read.  Click on the book name to bring up the book drop-down menu, and click on the chapter number to bring up the chapter drop-down menu.</p>
+<p spacebelow=10>Here we have clicked on the book name "John" to bring up the list of books.</p>
 <p spacebelow=10><img src="binfile:help/images/bookselect.png"></p>
+<p spacebelow=10>Here we have clicked on the chapter number "1" to bring up the list of chapters.</p>
+<p spacebelow=10><img src="binfile:help/images/chapterselect.png"></p>
+<p spacebelow=10>Aside from using the chapter drop-down, you can move through a book by scrolling up and down.  As you scroll, the Chapter number will update to show you which chapter you are reading in.  You cannot, however, scroll to the next or previous book.  You must change books by selecting them in the Book drop-down.</p>
 <p spacebelow=10>Immediately below the Book and Chapter menus is where you choose whether you wish to see the text of the Greek New Testament or the Lexham English Bible.  Clicking on the item to the left labeled "Greek" will bring up the text of the Greek New Testament.</p>
 <p spacebelow=10><img src="binfile:help/images/langchooser-greek.png"></p>
 <p spacebelow=10>And clicking on the item to the right labeled "English" will bring up the text of the Lexham English Bible.</p>
@@ -21,10 +24,10 @@
 <p spacebelow=10>All of these lines can be clicked on to bring up more information or to allow editing.  <i>See the <b>Details</b> section for more information about the functions of this screen.</i></p>
 <p spacebelow=10>Click the back arrow in the upper left corner or the "Read" icon at the bottom of the screen to return to the Read screen from this Details screen.  This word (in all forms) will be highlighted in the book where you are reading.  You can remove the highlighting by pressing and holding anywhere on the text screen until the highlights disappear.  <i>(On mobile, you can also shake the device and all the highlighting will disappear.)</i></p>
 <p spacebelow=10><img src="binfile:help/images/hilited.png"></p>
-<p spacebelow=10>Hopefully with all this information, you will be able to read the Greek text.  But if you find yourself unable to understand the Greek, click on the English tab at the top of the text and you can see how the Lexham English Bible (LEB) translated that passage.</p>
+<p spacebelow=10>Hopefully with all this information, you will be able to read the Greek text.  But if you find yourself unable to understand the Greek, click on the English tab at the top of the text, and you can see how the Lexham English Bible (LEB) translated that passage.</p>
 <p spacebelow=10>Moreover, the LEB includes visual clues which will help you understand how the LEB translators translated the Greek text in English.</p>
 <p spacebelow=10>For example, any word or words which you see in brackets and italicized <i>[like this]</i> are words which do not appear in the Greek text but which are implied or are necessary to supply in English for the translation to make sense.</p>
 <p spacebelow=10><img src="binfile:help/images/englishtext-italics.png"></p>
-<p spacebelow=10>In addition, words and phrases which are underlined <u>like this</u> are places where the Greek text uses an idiom.  There is always a translation note attached to these which you can read to the see the original Greek idiom.</p>
+<p spacebelow=10>In addition, words and phrases which are underlined <u>like this</u> are places where the Greek text uses an idiom.  There is always a translation note attached to these which you can read to see the original Greek idiom.</p>
 <p spacebelow=10>Translation notes are indicated by superscripted blue ampersands (<font color="blue"><sup shift="-4">@</sup></font>).  Click on these to access the LEB translation notes for the previous word or words.</p>
 <p spacebelow=10><img src="binfile:help/images/englishclick.png"></p>

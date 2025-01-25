@@ -1,4 +1,7 @@
-<p spacebelow=10>The program window can be resized on desktop and reopens at last size and location.</p>
-<p spacebelow=10>Vocabulary lists and groups can be shared directly through the app without sending any files.  <i>See "Sharing Vocabulary" on the About page.</i></p>
-<p spacebelow=10>"Star" vocabulary groups and add words directly to "starred" groups from the Details and Search pages.  <i>See "Editing Vocabulary" on the About page.</i></p>
-<p spacebelow=10>When creating Vocabulary groups, you can limit by frequency both in the selection and in the entire NT.  <i>See "Creating Vocabulary" on the About page.</i></p>
+<p spacebelow=10>Update to latest SBLGNT text.</p>
+<p spacebelow=10>Sort icons on the Search page show "A-Ω" and "Ω-A" rather than "A-Z" and "Z-A".</p>
+<p spacebelow=10>The order of words in a vocabulary group can now be sorted.</p>
+<p spacebelow=10>Highlighted verses are saved with backups.</p>
+<p spacebelow=10>The font size of words in a vocabulary group is greater so you can see them easier.</p>
+<p spacebelow=10>Added principle parts of all verbs appearing nine times in the Greek New Testament.</p>
+<p spacebelow=10>Imported vocabulary lists and groups with Greek titles will display correctly.</p>
