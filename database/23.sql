@@ -1,5 +1,3 @@
-PRAGMA foreign_keys = 0
-
 CREATE TABLE gntsp_temp_table AS SELECT * FROM versehilites
 
 DROP TABLE versehilites
@@ -12,4 +10,3 @@ DROP TABLE gntsp_temp_table
 
 CREATE INDEX versehilites_num_index ON versehilites (num)
 
-PRAGMA foreign_keys = 1
