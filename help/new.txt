@@ -1,7 +1,5 @@
-<p spacebelow=10>Update to latest SBLGNT text.</p>
-<p spacebelow=10>Sort icons on the Search page show "A-Ω" and "Ω-A" rather than "A-Z" and "Z-A".</p>
-<p spacebelow=10>The order of words in a vocabulary group can now be sorted.</p>
-<p spacebelow=10>Highlighted verses are saved with backups.</p>
-<p spacebelow=10>The font size of words in a vocabulary group is greater so you can see them easier.</p>
-<p spacebelow=10>Added principle parts of all verbs appearing nine times in the Greek New Testament.</p>
-<p spacebelow=10>Imported vocabulary lists and groups with Greek titles will display correctly.</p>
+<p spacebelow=5>You can show the English text as well as the Greek text for each verse on the Occurrences page.</p>
+<p spacebelow=5>You can search for two words which both appear in the same verse.  See the section "Searching for Multiple Words in a Verse" in <b>Searching</b> on the "About" page.</p>
+<p spacebelow=5>You can set the app to automatically sync your database before and after you study vocabulary.  See <b>Backup/Synchronize</b> on the "About" page.</p>
+<p spacebelow=5>You can see the Textual Apparatus for each book.  See <b>Textual Apparatus</b> on the "About" page for information on how to enable this.</p>
+<p spacebelow=5>Added principle parts of all verbs appearing eight times in the Greek text.</p>

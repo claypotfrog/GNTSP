@@ -32,6 +32,11 @@
 <p spacebelow=10><img src="binfile:help/images/details-logos-show-verse.png"></p>
 <p spacebelow=10>You can also display the text of all the verses by clicking on the blue arrow in the box in the upper-right.  (<i>The blue plus you just clicked on will change to minus.  Click on the minus to hide the text of all the verses.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-show-all-verses.png"></p>
+<p spacebelow=10>If you would like to see the English translation of the verse from the Lexham English Bible (LEB) along with the Greek text, then click the switch (or the text itself) on the right above the verses which says "Show English Verses".</p>
+<p spacebelow=10><img src="binfile:help/images/details-show-eng-verses-click.png"></p>
+<p spacebelow=10>In the image below, the "Show English Verses" switch is On (highlighted in yellow), and so we see both the Greek text and the LEB text for each verse when we expand the lines.</p>
+<p spacebelow=10><img src="binfile:help/images/details-eng-verses-shown.png"></p>
+<p spacebelow=10>Clicking on the "Show English Verses" switch toggles the display of any expanded verses immediately.  You do not need to refresh anything.</p>
 <p spacebelow=10>If you wish to hide the verse text of any particular line, press and hold anywhere on the verse until the verse text closes.</p>
 <p spacebelow=10>If you click normally on any line with the verse text showing, the program will take you to the Read screen with that book open to that chapter and verse.  All occurrences of the word you were examining in the Details screen (in any form) will be highlighted throughout the book. (You can remove the highlights by pressing and holding anywhere on the Greek Text or on Mobile by shaking your device.)</p>
 <p spacebelow=10>Moreover, in the upper left corner of the Read screen next to the bookmarks icon, the back arrow will now be highlighted indicating that you can click on it.  Clicking on this arrow will return you to the Occurrences screen.  The arrow will remained enabled until you click on another word in the Greek text and examine that word.</p>

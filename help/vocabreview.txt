@@ -11,7 +11,7 @@
 <p spacebelow=10>You can enable and disable the groups in order to review the collections of vocabulary words which you are interested in.  Once you have enabled any groups to review, the "Study" button at the top of the screen will become enabled.  Clicking on that button will take you to the Vocabulary Review screen.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabstudy.png"></p>
 <p spacebelow=10>In the Vocabulary Review screen, all the words in all the groups which you selected to review are randomized and presented to you one at a time.  At the bottom of the screen, the number of words remaining to review is on the left in red and the number of words which you have seen is in blue on the right.</p>
-<p spacebelow=10>After looking at the word and (hopefully) remembering its meaning, click anywhere on the screen to display the gloss and see if you correctly knew the word.</p>
+<p spacebelow=10>After looking at the word, hopefully you remember its meaning.  Click anywhere on the screen to display the gloss and see if you correctly knew the word.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabstudy-show.png"></p>
 <p spacebelow=10>The gloss and the number of occurrences in the Greek text are shown as well as the principle parts (of verbs) and any notes which you have attached to this word.</p>
 <p spacebelow=10>At the bottom there will now be four colored buttons from which you need to choose one to tell the app when you wish to next see this word in your studies.</p>
