@@ -1,0 +1,17 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	φημί</p>
+<p>2nd sg	φής</p>
+<p>3rd sg	φησί(ν)</p>
+<p>1st pl	φαμέν</p>
+<p>2nd pl	φατέ</p>
+<p spacebelow="10">3rd pl	φασί(ν)</p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἔφην</p>
+<p>2nd sg	ἔφησθα</p>
+<p>3rd sg	ἔφη</p>
+<p>1st pl	ἔφαμεν</p>
+<p>2nd pl	ἔφατε</p>
+<p spacebelow="10">3rd pl	ἔφασαν</p>

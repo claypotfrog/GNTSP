@@ -1,0 +1,129 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	ἵεμαι	ἱῶμαι</p>
+<p>2nd sg	ἵεσαι	ἱῇ</p>
+<p>3rd sg	ἵεται	ἰῆται</p>
+<p>1st pl	ἱέμεθα	ἱώμεθα</p>
+<p>2nd pl	ἵεσθε	ἱῆσθε</p>
+<p spacebelow="10">3rd pl	ἵενται	ἱῶνται</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	ἱείμην	&mdash;</p>
+<p>2nd sg	ἱεῖσο/ἱεῖο	ἵεσο</p>
+<p>3rd sg	ἱεῖτο	ἱέσθω</p>
+<p>1st pl	ἱείμεθα	&mdash;</p>
+<p>2nd pl	ἱεῖσθε	ἵεσθε</p>
+<p spacebelow="10">3rd pl	ἱεῖντο	ἱέσθων</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ἵεσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	ἱέμενος	ἱέμενον</p>
+<p>acc sg	ἱέμενον	ἱέμενον</p>
+<p>gen sg	ἱεμένου	ἱεμένου</p>
+<p spacebelow="5">dat sg	ἱεμένῳ	ἱεμένῳ</p>
+<p>nom pl	ἱέμενοι	ἱέμενα</p>
+<p>acc pl	ἱεμένους	ἱέμενα</p>
+<p>gen pl	ἱεμένων	ἱεμένων</p>
+<p spacebelow="10">dat pl	ἱεμένοις	ἱεμένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	ἱεμένη</p>
+<p>acc sg	ἱεμένην</p>
+<p>gen sg	ἱεμένης</p>
+<p spacebelow="5">dat sg	ἱεμένῃ</p>
+<p>nom pl	ἱέμεναι </p>
+<p>acc pl	ἱεμένας </p>
+<p>gen pl	ἱεμενῶν </p>
+<p spacebelow="10">dat pl	ἱεμέναις </p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἱέμην</p>
+<p>2nd sg	ἵεσο</p>
+<p>3rd sg	ἵετο</p>
+<p>1st pl	ἱέμεθα</p>
+<p>2nd pl	ἵεσθε</p>
+<p spacebelow="10">3rd pl	ἵεντο</p>
+
+<p spacebelow="5">	<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἥσομαι</p>
+<p>2nd sg	ἥσῃ/ἥσει</p>
+<p>3rd sg	ἥσεται</p>
+<p>1st pl	ἡσόμεθα</p>
+<p>2nd pl	ἥσεσθε</p>
+<p spacebelow="10">3rd pl	ἥσονται</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ἥσεσθαι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	ἡσόμενος	ἡσόμενον</p>
+<p>acc sg	ἡσόμενον	ἡσόμενον</p>
+<p>gen sg	ἡσομένου	ἡσομένου</p>
+<p spacebelow="5">dat sg	ἡσομένῳ	ἡσομένῳ</p>
+<p>nom pl	ἡσόμενοι	ἡσόμενα</p>
+<p>acc pl	ἡσομένους	ἡσόμενα</p>
+<p>gen pl	ἡσομένων	ἡσομένων</p>
+<p spacebelow="10">dat pl	ἡσομένοις	ἡσομένοις</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	ἡσομένη</p>
+<p>acc sg	ἡσομένην</p>
+<p>gen sg	ἡσομένης</p>
+<p spacebelow="5">dat sg	ἡσομένῃ</p>
+<p>nom pl	ἡσόμεναι</p>
+<p>acc pl	ἡσομένας</p>
+<p>gen pl	ἡσομενῶν</p>
+<p spacebelow="10">dat pl	ἡσομέναις</p>
+
+<p spacebelow="5">	<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive</u></p>
+<p>1st sg	εἵθην	ἑθῶ </p>
+<p>2nd sg	εἵθης	ἑθῇς</p>
+<p>3rd sg	εἵθη	ἑθῇ</p>
+<p>1st pl	εἵθημεν	ἑθῶμεν</p>
+<p>2nd pl	εἵθητε	ἑθῆτε</p>
+<p spacebelow="10">3rd pl	εἵθησαν	ἑθῶσι</p>
+
+<p>	<u>Optative	Imperative</u></p>
+<p>1st sg	ἑθείην	&mdash;</p>
+<p>2nd sg	ἑθείης	ἕθηθι</p>
+<p>3rd sg	ἑθείη	ἑθήτω</p>
+<p>1st pl	ἑθεῖμεν	&mdash;</p>
+<p>2nd pl	ἑθεῖτε	ἕθητε</p>
+<p spacebelow="10">3rd pl	ἑθεῖεν	ἑθέντων</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ἑθῆναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Neut.</u></p>
+<p>nom sg	ἑθείς	ἑθέν</p>
+<p>acc sg	ἑθέντα	ἑθέν</p>
+<p>gen sg	ἑθέντος	ἑθέντος</p>
+<p spacebelow="5">dat sg	ἑθέντι	ἑθέντι</p>
+<p>nom pl	ἑθέντες	ἑθέντα</p>
+<p>acc pl	ἑθέντας	ἑθέντα</p>
+<p>gen pl	ἑθέντων	ἑθέντων</p>
+<p spacebelow="10">dat pl	ἑθεἷσι(ν)	ἑθεἷσι(ν)</p>
+<p>	<u>Fem.</u></p>
+<p>nom sg	ἑθεῖσα</p>
+<p>acc sg	ἑθεῖσαν</p>
+<p>gen sg	ἑθείσης</p>
+<p spacebelow="5">dat sg	ἑθείσῃ</p>
+<p>nom pl	ἑθεῖσαι </p>
+<p>acc pl	ἑθείσας </p>
+<p>gen pl	ἑθεισῶν </p>
+<p spacebelow="10">dat pl	ἑθείσαις </p>
+
+<p spacebelow="5">	<u><b>PERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἕωμαι</p>
+<p>2nd sg	ἕωσαι</p>
+<p>3rd sg	ἕωται</p>
+<p>1st pl	ἑώμεθα</p>
+<p>2nd pl	ἕωσθε</p>
+<p spacebelow="10">3rd pl	ἕωνται</p>
