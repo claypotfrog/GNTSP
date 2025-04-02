@@ -1,0 +1,86 @@
+<p spacebelow="5">	<u><b>PRESENT</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἵημι	ἱῶ	ἱείην	&mdash;</p>
+<p>2nd sg	ἵης/ἱεῖς	ἱῇς	ἱείης	ἵει</p>
+<p>3rd sg	ἵησι(ν)/ἱεῖ	ἱῇ	ἱείη	ἱέτω</p>
+<p>1st pl	ἵεμεν	ἱῶμεν	ἱεῖμεν	&mdash;</p>
+<p>2nd pl	ἵετε	ἱῆτε	ἱεῖτε	ἵετε</p>
+<p spacebelow="10">3rd pl	ἱᾶσι(ν)	ἱῶσι(ν)	ἱεῖεν	ἱέντων</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ἱέναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	ἱείς	ἱεῖσα	ἱέν</p>
+<p>gen sg	ἱέντος	ἱείσης	ἱέντος</p>
+<p>dat sg	ἱέντι	ἱείσῃ	ἱέντι</p>
+<p spacebelow="5">acc sg	ἱέντα	ἱεῖσαν	ἱέν</p>
+<p>nom pl	ἱέντες	ἱεῖσαι	ἱέντα</p>
+<p>gen pl	ἱέντων	ἱεισῶν	ἱέντων</p>
+<p>dat pl	ἱεῖσι(ν)	ἱείσαις	ἱεῖσι(ν)</p>
+<p spacebelow="10">acc pl	ἱέντας	ἱείσας	ἱέντα</p>
+
+<p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἵειν/ἵην</p>
+<p>2nd sg	ἵεις</p>
+<p>3rd sg	ἵει</p>
+<p>1st pl	ἵεμεν</p>
+<p>2nd pl	ἵετε</p>
+<p spacebelow="10">3rd pl	ἵεσαν</p>
+
+<p spacebelow="5">	<u><b>FUTURE</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἥσω</p>
+<p>2nd sg	ἥσεις</p>
+<p>3rd sg	ἥσει</p>
+<p>1st pl	ἥσομεν</p>
+<p>2nd pl	ἥσετε</p>
+<p spacebelow="10">3rd pl	ἥσουσι(ν)</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">ἥσειν</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	ἥσων	ἥσουσα	ἥσον</p>
+<p>gen sg	ἥσοντος	ἡσούσης	ἥσοντος</p>
+<p>dat sg	ἥσοντι	ἡσούσῃ	ἥσοντι</p>
+<p spacebelow="5">acc sg	ἥσοντα	ἥσουσαν	ἥσον</p>
+<p>nom pl	ἥσοντες	ἥσουσαι	ἥσοντα</p>
+<p>gen pl	ἡσόντων	ἡσουσῶν	ἡσόντων</p>
+<p>dat pl	ἡσοῦσι	ἡσούσαις	ἡσοῦσι</p>
+<p spacebelow="10">acc pl	ἥσοντας	ἡσούσας	ἥσοντα</p>
+
+<p spacebelow="5">	<u><b>AORIST</u></b></p>
+<p>	<u>Indicative	Subjunctive	Optative	Imperative</u></p>
+<p>1st sg	ἧκα	ὧ	εἵην	&mdash;</p>
+<p>2nd sg	ἧκας	ᾗς	εἵης	ἕς</p>
+<p>3rd sg	ἧκε(ν)	ᾗ	εἵη	ἕτω</p>
+<p>1st pl	εἷμεν	ὧμεν	εἷμεν	&mdash;</p>
+<p>2nd pl	εἷτε	ἧτε	εἷτε	ἕτε</p>
+<p spacebelow="10">3rd pl	εἷσαν	ὧσι(ν)	εἷεν	ἕντων</p>
+
+<p><u>Infinitive</u></p>
+<p spacebelow="10">εἷναι</p>
+
+<p><u>Participle</u></p>
+<p>	<u>Masc.	Fem.	Neut.</u></p>
+<p>nom sg	εἵς	εἷσα	ἕν</p>
+<p>gen sg	ἕντος	εἵσην	ἕντος</p>
+<p>dat sg	ἕντι	εἵσῃ	ἕντι</p>
+<p spacebelow="5">acc sg	ἕντα	εἷσαν	ἕν</p>
+<p>nom pl	ἕντες	εἷσαι	ἕντα</p>
+<p>gen pl	ἕντων	εἱσῶν	ἕντων</p>
+<p>dat pl	εἷσι(ν)	εἵσαις	εἷσι(ν)</p>
+<p spacebelow="10">acc pl	ἕντας	εἵσας	ἕντα</p>
+
+<p spacebelow="5">	<u><b>PERFECT</u></b></p>
+<p>	<u>Indicative</u></p>
+<p>1st sg	ἕωκα</p>
+<p>2nd sg	ἕωκας</p>
+<p>3rd sg	ἕωκε(ν)</p>
+<p>1st pl	ἑώκαμεν</p>
+<p>2nd pl	ἑώκατε</p>
+<p spacebelow="10">3rd pl	ἑώκασι(ν)</p>
