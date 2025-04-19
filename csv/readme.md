@@ -14,3 +14,5 @@ col 4 : display - the way the word will be displayed in the program.  Nouns incl
 col 5 : gloss - short definition(s) of the lemma.
 
 col 6 : count -  the number of times this lemma appears (in any form) in the SBLGNT
+
+col 7: lemmaID - a unique numeric ID for each lemma which is the filename for the audio file of this word pronounced.  Those files will not be available until version 3.0, but when available, they will be located in the "audio/words" folder.
