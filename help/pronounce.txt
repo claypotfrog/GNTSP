@@ -1,0 +1,63 @@
+<p spacebelow=10>All the audio in this program uses Erasmian pronunciation.  Here's a chart of how I pronounce each letter and letter combination. <i>(Please note that there are differences of pronunciation within Erasmian, so this is not how everyone pronounces Erasmian.  This is how I pronounce Erasmian.  See below for some of the other ways Erasmian is pronounced.)</i></p>
+<p spacebelow=5 tabstops=65,150,360><u>Letter</u>	<u>Name</u>	<u>Pronunciation</u></p>
+<p spacebelow=5 tabstops=65,150,360>α, Α	Alpha	<b>a</b> as in f<b>a</b>ther</p>
+<p spacebelow=5 tabstops=65,150,360>β, Β	Beta	<b>b</b> as in <b>b</b>all</p>
+<p spacebelow=0 tabstops=65,150,360>γ, Γ	Gamma	<b>g</b> as in <b>g</b>o</p>
+<p spacebelow=0 leftindent=5 rightindent=5><i>γ before a 'γ', 'κ', or 'χ' is a special case and makes the sound <b>ng</b> as in si<b>ng</b></i></p>
+<p spacebelow=5 leftindent=5 rightindent=5><i>So ἄγγελος is pronounced like a<b>ng</b>-ge-los, not a<b>g</b>-ge-los.</i></p>
+<p spacebelow=5 tabstops=65,150,360>δ, Δ	Delta	<b>d</b> as in <b>d</b>ad</p>
+<p spacebelow=5 tabstops=65,150,360>ε, Ε	Epsilon	<b>e</b> as in <b>e</b>gg</p>
+<p spacebelow=5 tabstops=65,150,360>ζ, Ζ	Zeta	<b>z</b> as in <b>z</b>oo</p>
+<p spacebelow=5 tabstops=65,150,360>η, Η	Eta	<b>a</b> as in <b>a</b>te</p>
+<p spacebelow=5 tabstops=65,150,360>θ, Θ	Theta	<b>th</b> as in <b>th</b>in</p>
+<p spacebelow=5 tabstops=65,150,360>ι, Ι	Iota	<b>i</b> as in sk<b>i</b></p>
+<p spacebelow=5 tabstops=65,150,360>κ, Κ	Kappa	<b>k</b> as in <b>k</b>ey</p>
+<p spacebelow=5 tabstops=65,150,360>λ, Λ	Lambda	<b>l</b> as in <b>l</b>ate</p>
+<p spacebelow=5 tabstops=65,150,360>μ, Μ	Mu	<b>m</b> as in <b>m</b>om</p>
+<p spacebelow=5 tabstops=65,150,360>ν, Ν	Nu	<b>n</b> as in <b>n</b>ote</p>
+<p spacebelow=5 tabstops=65,150,360>ξ, Ξ	Xi	<b>x</b> as in bo<b>x</b></p>
+<p spacebelow=5 tabstops=65,150,360>ο, Ο	Omicron	<b>o</b> as in <b>o</b>ff</p>
+<p spacebelow=5 tabstops=65,150,360>π, Π	Pi	<b>p</b> as in <b>p</b>at</p>
+<p spacebelow=5 tabstops=65,150,360>ρ, Ρ	Rho	a trill (rolled 'r')</p>
+<p spacebelow=5 tabstops=65,150,360>σ,ς, Σ	Sigma	<b>s</b> as in <b>s</b>ap</p>
+<p spacebelow=5 tabstops=65,150,360>τ, Τ	Tau	<b>t</b> as in <b>t</b>ap</p>
+<p spacebelow=5 tabstops=65,150,360>υ, Υ	Upsilon	French 'u'/German '&uuml;'</p>
+<p spacebelow=5 tabstops=65,150,360>φ, Φ	Phi	<b>ph</b> as in <b>ph</b>one</p>
+<p spacebelow=5 tabstops=65,150,360>χ, Χ	Chi	German 'ch'/Hebrew 'כ'</p>
+<p spacebelow=5 tabstops=65,150,360>ψ, Ψ	Psi	<b>ps</b> as in to<b>ps</b></p>
+<p spacebelow=10 tabstops=65,150,360>ω, Ω	Omega	<b>o</b> as in <b>o</b>bey</p>
+
+<p spacebelow=10>There are a few combinations of two vowels which get pronounced together as one sound rather than pronouncing each vowel separately.  Two vowels pronounced as one sound is called a "diphthong".</p>
+<p spacebelow=5 tabstops=145,360><u>Diphthong</u>	<u>Pronunciation</u></p>
+<p spacebelow=5 tabstops=145,360>αι, Αι	<b>ai</b> as in <b>ai</b>sle</p>
+<p spacebelow=5 tabstops=145,360>αυ, Αυ	<b>au</b> as in s<b>au</b>erkr<b>au</b>t</p>
+<p spacebelow=5 tabstops=145,360>ει, Ει	<b>ei</b> as in <b>ei</b>ght</p>
+<p spacebelow=5 tabstops=145,360>ευ, Ευ	<b>eu</b> as in f<b>eu</b>d</p>
+<p spacebelow=5 tabstops=145,360>οι, Οι	<b>oi</b> as in <b>oi</b>l</p>
+<p spacebelow=5 tabstops=145,360>ου, Ου	<b>ou</b> as in s<b>ou</b>p</p>
+<p spacebelow=10 tabstops=145,360>υι, Υι	<b>ui</b> as in s<b>ui</b>te</p>
+
+<h3>Erasmian Variations</h3>
+<p spacebelow=5><b>ζ, Ζ (Zeta)</b>	I pronounce Zeta like the <b>z</b> in <b>z</b>oo, but some people pronounce it like the <b>dz</b> in ku<b>dz</b>u.</p>
+<p spacebelow=5><b>ι, Ι (Iota)</b>	I pronounce Iota like the <b>i</b> in sk<b>i</b>, but some people pronounce it like the <b>i</b> in s<b>i</b>t.  And others pronounce it either way depending on where the Iota appears in the word.</p>
+<p spacebelow=5><b>ρ, Ρ (Rho)</b>	I slightly roll the letter Rho like the rolled 'r' in Spanish.  But many English speakers simply use a regular English <b>r</b> as in <b>r</b>oll.</p>
+<p spacebelow=5><b>υ, Υ (Upsilon)</b>	I pronounce Upsilon like the French 'u' or the German '&uuml;'  But many English speakers pronounce Upsilon like the 'οo' in m<b>oo</b>n.  But now 'υ' and 'ου' both sound the same.  This loses a great advantage of Erasmian (as I learned it) that all the sounds are distinct.  As I say them, "λύω" (to untie) and "λούω" (to wash) do not sound the same and are easy to distinguish from each other.  <i>(See <b>Why I Use Erasmian Pronunciation</b> below.)</i></p>
+<p spacebelow=5>If you want to say the Upsilon like I do, it is not difficult to learn.  You say the sound <b>ee</b> as in g<b>ee</b>se, but round your lips.  Normally when you say 'ee', your lips are pulled back like you are smiling.  Now make the 'ee' sound, but pucker your lips like you are going to give someone a big kiss.  That's the Upsilon.</p>
+<p spacebelow=5>Here's a few words which have both the 'υ' and the 'ου' in them so you can practice hearing (and speaking) the different sounds. (Click on a word to hear my pronunciation.) <a href="words::Χριστός">συμβούλιον</a> (advice), <a href="words::αὐτός">σύνδουλος</a> (a fellow servant), <a href="words::γάρ">ὑπακούω</a> (I obey), <a href="words::γίνομαι">χρυσοῦς</a> (golden).</p>
+<p spacebelow=5><b>χ, Χ (Chi)</b>	I pronounce the Chi like the German <b>ch</b> as in ba<b>ch</b> or the Hebrew <b>כ</b> (Kaf) as in מל<b>ך</b>.  Many English speakers pronounce it like a 'κ', but now 'χ' and 'κ' sound the same.</p>
+<p spacebelow=5>If you want to say the Chi like I do, it is also fairly easy to learn.  Make the <b>k</b> sound like in <b>k</b>ey but don't totally stop the air for a moment like the 'k' does.  Just restrict the airflow; don't stop it.  It sounds to me a bit like a cat hissing from the back of its throat.</p>
+<p spacebelow=5>The sound of 'χ' has the same relationship to the sound of 'k' as 's' does to 't'.  Say "tap" and "sap".  Do you hear/feel how when you say the 't', your tongue totally stops the air for a moment?  But when you say the 's', your tongue doesn't quite touch the top of your mouth to stop the air; it just gets close to the top and so restricts the air rather than stopping it.  Your tongue is in basically the same place in your mouth for both letters.  But for the 't', the airflow is stopped for a moment while for the 's', the airflow is just restricted.</p>
+<p spacebelow=10>That's what the 'χ' does.  Your tongue is almost making the sound of a 'k', but it just restricts the airflow rather than stopping it.  Here's some words with both sounds in them so you can practice. <a href="words::διά">καυχάομαι</a> (I boast), <a href="words::ἔρχομαι">κατέρχομαι</a> (I come down), <a href="words::θεός">χαλκίον</a> (a bronze vessel), <a href="words::κύριος">ἐκχέω</a> (I pour out).</p>
+
+<h3>'η' versus 'ει'</h3>
+<p spacebelow=10>This one is hard to hear, but they are different.  The 'ει' sounds like the 'η' except that it lasts a tiny bit longer because it has a slight 'y' sound at the end.  Like when you say the word "ray".  Do you hear how there is a slight 'y' sound at the end of the word?  (At least there is when I say it; you may say it differently.)  The 'ει' sounds like the <b>ay</b> in r<b>ay</b>, while the 'η' sounds like the <b>a</b> in r<b>a</b>te.  It's a little shorter because there's no little 'y' sound at the end of the 'η'.</p>
+<p spacebelow=10>But the difference is slight and  difficult to hear when you are saying words at normal speaking speed.  (You can best hear the 'y' sound at the end of 'ει' when it's at the end of a word or when it's followed by another vowel.)  But if you want to make the two sounds like I do, then practice putting that very slight 'y' sound at the end of 'ει' and not putting it at the end of 'η'.</p>
+<p spacebelow=10>Here's some words with both sounds in them so you can practice. <a href="words::εἰκῇ">εἰκῇ</a> (in vain), <a href="words::εἰρήνη">εἰρήνη</a> (peace), <a href="words::μηδείς">μηδείς</a> (no one), <a href="words::σημεῖον">σημεῖον</a> (a sign/miracle).</p>
+
+<h3>Why I Use Erasmian Pronunciation</h3>
+<p spacebelow=10><i>Please note that this is entirely my opinion, and you are welcome to disagree with me.  This is why I choose to pronounce Koine Greek in Erasmian, and you are welcome to have your own reasons for choosing differently.  And as noted in the <b>Audio</b> section of the "Help" page, you can turn off audio everywhere in the app.  Its use is totally optional.</i></p>
+<p spacebelow=10>There are many ways to pronounce Koine Greek in use today: Reconstructed Classical, Reconstructed Koine, Erasmian, and Modern being the main ones.  And there are differences even within each pronunciation system.  Erasmian was certainly NOT how anyone in Ancient Greece or the Roman Empire ever spoke Greek.  It is a pronunciation system made up by the Dutch Monk Desiderius Erasmus (hence the name) in the early 16th century.  But it does have one advantage (in my opinion) over the other systems when it comes to learning Koine Greek.</p>
+<p spacebelow=10>In Erasmian (at least as I pronounce it), all the letters and letter combinations make unique sounds.  That's not true with the other pronunciations.  So in Erasmian, words that sound different are spelled different, and words that sound the same are spelled the same.</p>
+<p spacebelow=10>For example, in Erasmian, the "eye" sound is always spelled "αι", "αι" is always pronounced as "eye", and nothing else makes the sound "eye".  The "oh" sound is always spelled "ω", "ω" is always pronounced as "oh", and nothing else makes the sound "oh". So if you heard "eye-own" in Greek, there's only one way to spell that in Erasmian, "αἰων".  No other letters make those sounds.  I find that very helpful for learning vocabulary.</p>
+<p spacebelow=10>But again, all this is my totally subjective opinion.  There are very good reasons for learning a different pronunciation system.  I hear more and more Reconstructed Koine among New Testament scholars, so you may want to learn that system if you are planning to pursue advanced degrees in New Testament studies.  Or if you plan to go on and study Classical Greek as well as Koine, then perhaps you should learn Reconstructed Classical.  If you already know or plan to learn Modern Greek, then I suggest you use Modern.</p>
+<p spacebelow=10>But if you just want to learn Koine Greek, then in my opinion, the distinct sounds made in the Erasmian system make it the easiest pronunciation method for learning vocabulary and spelling.</p>

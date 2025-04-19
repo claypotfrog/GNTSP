@@ -1,4 +1,4 @@
-<p spacebelow=10>Starting in version 2.2, when you rotate a mobile device, the display will rotate.  From version 2.3, moreover, you can lock the display so that it will not rotate when you rotate the device.</p>
+<p spacebelow=10>When you rotate a mobile device, the app's display will rotate with it.  But you can, if you wish, lock the app's screen so that it will not rotate when you rotate the device.</p>
 <p spacebelow=10>In order to lock or unlock the screen rotation, press and hold the blue gear icon in the upper right of the screen.  Normally when you press this icon, it brings up the Settings dialog box.  But if you press and hold the icon for more a couple of seconds, it will display a lock icon showing the status of the rotation lock.  A blue unlocked image means the display is unlocked and will rotate as you rotate your device.  A red locked image means the display is locked and will not rotate when you rotate your device.</p>
 <p spacebelow=10><img src="binfile:help/images/rotation-icons.png"></p>
 <p spacebelow=10>By default, the display rotation is unlocked.  So if you press and hold the Settings icon, you will see the blue unlocked icon.</p>

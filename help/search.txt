@@ -57,7 +57,7 @@
 <p spacebelow=10><img src="binfile:help/images/search-multiple-results.png"></p>
 <p spacebelow=10>Just like any list of verses, you can click on them to expand them and see the Greek text.  The two words which you selected will both be highlighted.  In the image below we have opened the first verse, Matthew 5:45, and are also showing the English translation as well.</p>
 <p spacebelow=10><img src="binfile:help/images/search-multiple-results-expanded.png"></p>
-<p spacebelow=10>Just like in any list of verses, you can click and hold an expanded verse to collapse it, or you can click on an expanded verse to open that verse within its book.  When you do so, every form of both words you seached for will be highlighted in the book.</p>
+<p spacebelow=10>Just like in any list of verses, you can click and hold an expanded verse to collapse it, or you can click on an expanded verse to open that verse within its book.  When you do so, every form of both words you searched for will be highlighted in the book.</p>
 <p spacebelow=10>In the image below, we have clicked on the first verse in the list, Matthew 5:45, and the program has opened the book of Matthew, and taken us that verse.  The words "πατηρ" and "υἱός" have been highlighted wherever they appear in the book.  <i>(Please note searching for two words will increase the time it takes to open the verse you clicked since the whole book must now be searched for every instance of two words rather than one.)</i></p>
 <p spacebelow=10><img src="binfile:help/images/search-hilite-two-words.png"></p>
 <p spacebelow=10>If no verse in the Greek New Testament contains both these words, then the program will flash the message "No Matches".</p>

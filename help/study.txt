@@ -1,9 +1,10 @@
 <p spacebelow=10><img src="binfile:help/images/study.png"></p>
-<p spacebelow=10>Clicking on the Forms icon brings up the list of major grammatical forms which you can review as well as a Verb Form Review you can use to test how well you recognize various verbal forms.</p>
+<p spacebelow=10>Clicking on the Forms icon brings up the list of major grammatical forms which you can review as well as Verb and Noun Reviews you can use to test how well you recognize various forms.</p>
 <p spacebelow=10><img src="binfile:help/images/studylist.png"></p>
-<p spacebelow=10>Clicking on any line other than the top line, Verb Forms Review, in this screen will bring up a list of grammatical forms for that part-of-speech.</p>
+<p spacebelow=10>Clicking on any line below the dotted line will bring up a list of grammatical forms for that particular item.  In the image below, we clicked on the line which said "1st Declension Nouns".</p>
 <p spacebelow=10><img src="binfile:help/images/studytopic.png"></p>
 <p spacebelow=10>Clicking any of these lines will expand the section so you can review the material.  Clicking in the section does nothing.  These lists are not interactive; they are only for review.</p>
+<p spacebelow=10>In the image below, we clikced on the title "feminine", and it has opened up to show us the forms for feminine nouns in the 1st declension.</p>
 <p spacebelow=10><img src="binfile:help/images/studyclicked.png"></p>
 <p spacebelow=10>You can close any section by pressing and holding until the section collapses back to just the title.</p>
 <p spacebelow=10>On the main Forms screen, there is a blue gear icon in the upper right.</p>
@@ -40,3 +41,13 @@
 <p spacebelow=10>The top option controls how common a verb has to be in order to be included in your review of New Testament verbs.  <i>(This setting only matters when you are studying New Testament forms.)</i>  The higher you set this number, the more you limit which New Testament verbs you can review, but the more common will be the forms you see.  You can set this as low as 1, meaning all verbs in the Greek New Testament, or as high as 150, for which there are only 25 verbs in the New Testament which qualify.</p>
 <p spacebelow=10>The lower option controls how many verbal forms you review in a session.  You can see between 5 and 100 verbs in each review.  You can drag both these sliders to a new position, or you can click on either side of the slider to move it by 1 in that direction.  Click the "Done" button to return to the selection screen.</p>
 <p spacebelow=10><i>Please note that when you review verb forms, you will see all possible forms of that verb, regardless of whether that form exists in the New Testament.  If you are reviewing New Testament verbs, however, then you will only see forms which actually exist in the text.  For example, if you see "λύσω" in the verb form review, then the program will say that this could be two different forms of the verb.  It can be either the "future active indicative 1st person singular" or the "aorist active subjunctive 1st person singular".  But if you see "λύσω" in the New Testament verb review, then it will only say that this an "aorist active subjunctive 1st person singular" because the future form does not appear in the New Testament.</i></p>
+<h3>Noun Form Review</h3>
+<p spacebelow=10>Clicking on the Noun Form Review line brings up the Noun Form Review screen where you can test your recognition of noun forms.</p>
+<p spacebelow=10><img src="binfile:help/images/nounreviewchooser.png"></p>
+<p spacebelow=10>The Noun Review works identically to the Verb Review except that the only choice you must make is which of the three noun declensions you wish to study.  Choose the declension(s) you wish to study and click the Study button.  Just like the Verb Review, the Noun Review will look up words in the New Testament from those declensions and present them to you.  <i>(By default, a noun must appear at least 30 times in the NT to be reviewed, and you will be shown 25 different nouns to review.  But you change both of these settings by clicking on the blue gear icon, just like in the Verb Form Review.)</i></p>
+<p spacebelow=10>In the image below, we have chosen to review "1st" and "2nd" declension nouns.</p>
+<p spacebelow=10><img src="binfile:help/images/nounreviewchoosen.png"></p>
+<p spacebelow=10>We click the "Study" button and the program presents us with 1st and 2nd declension nouns which are found in the New Testament.</p>
+<p spacebelow=10><img src="binfile:help/images/nounreviewquestion.png"></p>
+<p spacebelow=10>When you think you have identified this form, then just like the Verb Review, you click anywhere below the word to see if you are right.</p>
+<p spacebelow=10><img src="binfile:help/images/nounreviewanswer.png"></p>

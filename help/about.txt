@@ -1,0 +1,9 @@
+<p spacebelow=10>When you click on a topic on the About screen, you are taken to the page which explains that topic.  You can adjust the size of the text on those pages using the "Text Height" button in the upper right corner of the screen.</p>
+<p spacebelow=10><img src="binfile:help/images/textsize-btn.png"></p>
+<p spacebelow=10>Click that button, and a small slider will appear which allows you to adjust the size of the text on the About pages.</p>
+<p spacebelow=10><img src="binfile:help/images/textsize.png"></p>
+<p spacebelow=10>As you adjust that slider, you will see the text become smaller or larger on the page behind the slider.</p>
+<p spacebelow=10><img src="binfile:help/images/textsize-max.png"></p>
+<p spacebelow=10>Once you have set the text to the size you desire, click anywhere else on page other than the slider, and the slider will disappear.</p>
+<p spacebelow=10><img src="binfile:help/images/textsize-set.png"></p>
+<p spacebelow=10>All About pages will now appear in this text size.  The program also remembers your choice, so if you quit and restart, the text will remain at this size.</p>

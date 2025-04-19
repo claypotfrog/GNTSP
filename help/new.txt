@@ -1,5 +1,5 @@
-<p spacebelow=5>You can show the English text as well as the Greek text for each verse on the Occurrences page.</p>
-<p spacebelow=5>You can search for two words which both appear in the same verse.  See the section "Searching for Multiple Words in a Verse" in <b>Searching</b> on the "About" page.</p>
-<p spacebelow=5>You can set the app to automatically sync your database before and after you study vocabulary.  See <b>Backup/Synchronize</b> on the "About" page.</p>
-<p spacebelow=5>You can see the Textual Apparatus for each book.  See <b>Textual Apparatus</b> on the "About" page for information on how to enable this.</p>
-<p spacebelow=5>Added principle parts of all verbs appearing eight times in the Greek text.</p>
+<p spacebelow=10>Fixed a regression that caused the app's display to freeze on some versions.  My apologies to everyone who had issues.  Please let me know if you still have any issues with this version.  (See the <b>Contact</b> item on the About screen.)</p>
+<p spacebelow=10>The textual apparatus will now be displayed in a blue box directly under the verse rather than in its own window at the bottom of the screen.</p>
+<p spacebelow=10>There is a Noun Form Review item on the Forms page for reviewing nouns which operates just like the Verb Form Review.</p>
+<p spacebelow=10>Program reopens to last chapter and verse rather than verse 1 of last chapter.</p>
+<p spacebelow=10>You can adjust the text size on the pages of the About screen.  See <b>About Pages</b> on the About screen for information.</p>
