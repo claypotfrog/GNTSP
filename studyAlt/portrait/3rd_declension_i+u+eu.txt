@@ -1,28 +1,15 @@
-<p>Singular	<u>-ι</u></p>
-<p>nom.	ἡ πόλις</p>
-<p>voc.	πόλι</p>
-<p>acc.	πόλιν</p>
-<p>gen.	πόλεως</p>
-<p spacebelow="5">dat.	πόλει</p>
+<p>Singular	<u>-ι</u>	<u>-υ</u></p>
+<p>nom.	ἡ πόλις	ὁ πῆχυς</p>
+<p>voc.	πόλι	πῆχυ</p>
+<<p>acc.	πόλιν	πῆχυν</p>
+<p>gen.	πόλεως	πήχεως</p>
+<p spacebelow="5">dat.	πόλει	πήχει</p>
 <p>Plural</p>
-<p>nom.	πόλεις</p>
-<p>voc.	πόλεις</p>
-<p>acc.	πόλεις</p>
-<p>gen.	πόλεων</p>
-<p spacebelow="10">dat.	πόλεσι(ν)</p>
-
-<p>Singular	<u>-υ</u></p>
-<p>nom.	ὁ πῆχυς</p>
-<p>voc.	πῆχυ</p>
-<p>acc.	πῆχυν</p>
-<p>gen.	πήχεως</p>
-<p spacebelow="5">dat.	πήχει</p>
-<p>Plural</p>
-<p>nom.	πήχεις</p>
-<p>voc.	πήχεις</p>
-<p>acc.	πήχεις</p>
-<p>gen.	πήχεων</p>
-<p spacebelow="10">dat.	πήχεσι(ν)</p>
+<p>nom.	πόλεις	πήχεις</p>
+<p>voc.	πόλεις	πήχεις</p>
+<p>acc.	πόλεις	πήχεις</p>
+<p>gen.	πόλεων	πήχεων</p>
+<p spacebelow="10">dat.	πόλεσι(ν)	πήχεσι(ν)</p>
 
 <p>Singular	<u>-ευ</u></p>
 <p>nom.	ὁ βασιλεύς</p>
