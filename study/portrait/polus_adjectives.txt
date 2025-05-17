@@ -1,5 +1,3 @@
-<p><i><b>Regular 2-1-2 adjective with irregular</i></b></p>
-<p spacebelow="5"><i><b>singular forms: πολύς, πολύν, and πολύ</i></b></p>
 <p>Singular	<u>Masc.	Neut.</u></p>
 <p>nom.	πολύς	πολύ</p>
 <p>gen.	πολλοῦ	πολλοῦ</p>
