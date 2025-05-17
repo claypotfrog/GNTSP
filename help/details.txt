@@ -7,7 +7,7 @@
 <p spacebelow=10>The field has an "En" watermark behind it which tells you that your keyboard will type in English (or whatever your native language is).  You can change to a Greek keyboard by typing the ampersand character ("&").  The watermark changes to "Gr" to indicate that you are now typing Greek letters in this field.  Pressing the "&" will toggle the keyboard back and forth between English and Greek.</p>
 <p spacebelow=10>You can see which English letters correspond to which Greek ones by typing the dollar sign ("$").  This will bring up the keyboard map that shows you how to type words in Greek.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-map.png"></p>
-<p spacebelow=10>Click anywhere on the keyboard map to close it.  <i>(On Desktop versions you can also press the spacebar to close the keyboard map.)</i></p>
+<p spacebelow=10>Click anywhere on the keyboard map to close it.  (<i>On Desktop versions you can also press the spacebar to close the keyboard map.</i>)</p>
 <p spacebelow=10>You can include diacritics in your Greek words using special "control characters", "[ ] / \ =  ( ) 1 2 3".  Typing any of these before a vowel will add the diacritics to that vowel.  You can type breathings, "[" or "(" for rough and "]" or ")" for smooth, and accents, "/" or "1" for acute, "\" or "2" for grave, and "=" or "3" for circumflex in front of any vowel.</p>
 <p spacebelow=10>So if you want to type an omega with a smooth breathing and a circumflex accent, you could type ")3w".  The order of the diacritics does not matter.  You could type "3)w" and get the same result.  All that matters is that the vowel be typed last.  Nothing will appear until after you type the vowel.  The control characters do not appear when you type.  Once you type the vowel "ω", "<b>ὦ</b>" will appear.  If you type anything other than a vowel immediately after these characters, then they will silently discarded.</p>
 <p spacebelow=10><img src="binfile:help/images/details-gloss-greek.png"></p>
@@ -15,13 +15,13 @@
 <p spacebelow=10>Once you have edited the definition, click the "Save" link in the upper right to save the new definition and return to the Details screen where you will see the new gloss you just entered.  Or click the back arrow in the upper left to return to the Details screen without saving any changes.</p>
 <p spacebelow=10>In the same way, you can click on the Notes line to enter or edit a note about the word.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-note.png"></p>
-<p spacebelow=10>Like the definition screen, you can type your notes in any combination of English and Greek using the "&" character <i>(or tab on desktop)</i> to change the keyboard.  Also like the definition screen, click the Save link to save the note and return to the Details screen where you will see the note you just entered or click the back arrow in the upper left to return to the Details screen without saving any changes you may have made.</p>
-<p spacebelow=10>If the word is a verb, then below the definition line will be a line for the principle parts of the verb.</p>
+<p spacebelow=10>Like the definition screen, you can type your notes in any combination of English and Greek using the "&" character (<i>or tab on desktop</i>) to change the keyboard.  Also like the definition screen, click the Save link to save the note and return to the Details screen where you will see the note you just entered or click the back arrow in the upper left to return to the Details screen without saving any changes you may have made.</p>
+<p spacebelow=10>If the word is a verb, then below the definition line will be a line for the principal parts of the verb.</p>
 <p spacebelow=10><img src="binfile:help/images/details-lego.png"></p>
-<p spacebelow=10>The database includes the principle parts for all verbs appearing 10 or more times in the Greek text.  The six principle parts are arranged in the traditional order of present, future active, aorist active, perfect active, perfect middle, aorist passive.  In addition, the imperfect will be in parenthesis after the present.  If there are multiple forms attested for that tense, then they will be separated by a slash (/).</p>
-<p spacebelow=10>Please note that only forms which are attested in the Greek text are included in the principle parts.  For example, "λύω" has no perfect active forms in the Greek text, so there is no perfect active principle part listed.  Elsewhere in Greek literature, however, "λέλυκα" is the perfect active form of "λύω".</p>
+<p spacebelow=10>The database includes the principal parts for all verbs appearing eight or more times in the Greek text.  The six principal parts are arranged in the traditional order of present, future active, aorist active, perfect active, perfect middle, aorist passive.  In addition, the imperfect will be in parenthesis after the present.  If there are multiple forms attested for that tense, then they will be separated by a slash (/).</p>
+<p spacebelow=10>Please note that only forms which are attested in the Greek text are included in the principal parts.  For example, "λύω" has no perfect active forms in the Greek text, so there is no perfect active principal part listed.  Elsewhere in Greek literature, however, "λέλυκα" is the perfect active form of "λύω".</p>
 <p spacebelow=10><img src="binfile:help/images/details-luw-parts.png"></p>
-<p spacebelow=10>Clicking on the Principle Parts line takes you to the screen where you can add or edit the principle parts.  <i><i>(Note that this screen, unlike the others, defaults to the Greek rather than the English keyboard.)</i></i></p>
+<p spacebelow=10>Clicking on the Principal Parts line takes you to the screen where you can add or edit the principal parts.  (<i>Note that this screen, unlike the others, defaults to the Greek rather than the English keyboard.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/details-lego-parts.png"></p>
 <p spacebelow=10>This screen operates just like the "Edit Definition" and "Edit Note" screens.  Press the Save link to save your changes; press the back arrow to cancel and return to the details screen.</p>
 <p spacebelow=10>Back in the Details screen, we see that there are 330 occurrences of the word "λόγος" (in any form) in the Greek text.</p>
@@ -46,11 +46,19 @@
 <p spacebelow=10>Below the Occurrences lines, we see that the word "λόγος" has eight different forms attested in the Greek text.  Clicking on that link will bring up a screen where you can see all the different grammatical forms in which that word appears in the Greek text.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-forms.png"></p>
 <p spacebelow=10>You can then click on any of these different forms to bring up the Occurrences screen again, but this time showing you only verses where that particular form of the word appears.  As you can see here, although the word "λόγος" appears in 318 verses in all its form, it only appears in nine verses in the genitive plural, "λόγων".  The form that you are looking at appears at the top of the screen followed by its dictionary head-word in parenthesis.</p>
+<p spacebelow=10>You can also see in this image that "λόγων" appears twice in Matthew 12:37.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-gen-pl.png"></p>
 <p spacebelow=10>Just like in the Occurrences screen, you can click on any of these lines to show the verse with that form highlighted.  You hide the text by pressing and holding on the verse until the verse text closes.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-gen-pl-verse.png"></p>
 <p spacebelow=10>Clicking normally on the line will take you back to the Read screen with that book open to that chapter and verse.  Click on the back arrow to return to the Details screen.</p>
-<p spacebelow=10>Finally, the last line is a link which says, "Add word to vocabulary".</p>
+<p spacebelow=10>Just to the right of the "Show English Verses" button, you can also see three small ellipses buttons.  If you click on these, it will bring up a drop-down menu which shows you every book in which this word (or form) appears along with a count of the total number of times that word (or form) appears in the book.</p>
+<p spacebelow=10><img src="binfile:help/images/occurrences_dropdown.png"></p>
+<p spacebelow=10>Initially the list is sorted in the order the Biblical books appear.  (Hence that first column is bold.)  But you can click on the header where it says "Total #" to sort the list by books which have the most occurrences.</p>
+<p spacebelow=10><img src="binfile:help/images/occurrences_dropdown_totals.png"></p>
+<p spacebelow=10>Now the list is in order of which books have the most occurrences (and that total is bold).</p>
+<p spacebelow=10>Clicking on any of these lines in the menu will take you the first occurrence of that book.  In the image below we have clicked on "Hebrews" and so the first verse of Hebrews in which this word appears is at the top of the display.</p>
+<p spacebelow=10><img src="binfile:help/images/occurrences_dropdown_hebrews.png"></p>
+<p spacebelow=10>Finally, back on the Details screen, the last line is a link which says, "Add word to vocabulary".</p>
 <p spacebelow=10><img src="binfile:help/images/details-add-to-vocab.png"></p>
 <p spacebelow=10>Clicking this line brings up a drop-down menu which allows you to add the word to a Vocabulary list.</p>
 <p spacebelow=10><img src="binfile:help/images/details-dropdown.png"></p>

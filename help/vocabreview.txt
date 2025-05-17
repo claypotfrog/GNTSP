@@ -13,7 +13,7 @@
 <p spacebelow=10>In the Vocabulary Review screen, all the words in all the groups which you selected to review are randomized and presented to you one at a time.  At the bottom of the screen, the number of words remaining to review is on the left in red and the number of words which you have seen is in blue on the right.</p>
 <p spacebelow=10>After looking at the word, hopefully you remember its meaning.  Click anywhere on the screen to display the gloss and see if you correctly knew the word.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabstudy-show.png"></p>
-<p spacebelow=10>The gloss and the number of occurrences in the Greek text are shown as well as the principle parts (of verbs) and any notes which you have attached to this word.</p>
+<p spacebelow=10>The gloss and the number of occurrences in the Greek text are shown as well as the principal parts (of verbs) and any notes which you have attached to this word.</p>
 <p spacebelow=10>At the bottom there will now be four colored buttons from which you need to choose one to tell the app when you wish to next see this word in your studies.</p>
 <p spacebelow=10><img src="binfile:help/images/vocabbuttons.png"></p>
 <p spacebelow=10>If you choose the red "Again" button, then the word will be added (randomly) to the end of your review list, and you will see it again during this review session.  If you choose any of the three buttons marked with days, however, then you will not see the word again for that many days.</p>

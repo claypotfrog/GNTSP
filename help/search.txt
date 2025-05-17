@@ -31,7 +31,7 @@
 <p spacebelow=10><img src="binfile:help/images/search-wildcard-bracket.png"></p>
 <p spacebelow=10>You can only use brackets once in a wildcard search.  You cannot enter something like "α[πφ]?[ηι]μι".  That search will return nothing.  But you can include as many question marks as you like.  In the image below we are searching for all words which begin with "β" and are followed by an "α" and then a "λ" with anything (including nothing) in-between.</p>
 <p spacebelow=10><img src="binfile:help/images/search-wildcard-multiple.png"></p>
-<p spacebelow=10><i>(The question mark and brackets can only be used when you select "Wildcard Search".  They are automatically removed from any other type of search.)</i></p>
+<p spacebelow=10>(<i>The question mark and brackets can only be used when you select "Wildcard Search".  They are automatically removed from any other type of search.</i>)</p>
 <h3>Sorting</h3>
 <p spacebelow=10>Up until now, all of our results have been sorted alphabetically by the Greek word.  This is indicated by the blue Sort icon in the upper right which is labeled "A" to "Ω".  But if you click on the Sort icon, you have four possible options for sorting your results: alphabetically by the Greek word either ascending (A-Ω) or descending (Ω-A), or numerically by the number of times the word appears in the Greek New Testament (count), again either ascending (1-9) or descending (9-1).</p>
 <p spacebelow=10><img src="binfile:help/images/search-show-sort.png"></p>
@@ -41,7 +41,7 @@
 <p spacebelow=10><img src="binfile:help/images/search-sort-9-1.png"></p>
 <p spacebelow=10>You can also search in the definitions of words by selecting "English Definitions" from the Search drop-down.  The Text drop-down will switch to "Appears Anywhere" since that is the only way you can search the English definitions.</p>
 <p spacebelow=10><img src="binfile:help/images/search-english.png"></p>
-<p spacebelow=10>Here we are searching for all Greek words which have "encourage" in their glosses.  You can see that there are five words which contain the word "encourage". <i>(Note this also finds "encouragement" because it includes the text "encourage".)</i></p>
+<p spacebelow=10>Here we are searching for all Greek words which have "encourage" in their glosses.  You can see that there are five words which contain the word "encourage". (<i>Note this also finds "encouragement" because it includes the text "encourage".</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/search-english-encourage.png"></p>
 <p spacebelow=10>Regardless of what you searched for, clicking on any of these lines will either take you to the Details screen for this word or add this word (or all the words in the list) to a vocabulary list.  Directly above the list of words, on the right, below the "Cancel" button, the program tells you what action a click will do.  By default, when you enter the Search screen, it says "Open in Details".  This means that when you click on any of these lines, it will bring that Greek word up in the Details screen, just the same as if you have clicked on the word while reading the Greek text.  In the screen below, we have clicked on the first line, "παράκλησις", which takes us to its Details screen.</p>
 <p spacebelow=10><img src="binfile:help/images/search-encourage.png"></p>
@@ -58,7 +58,7 @@
 <p spacebelow=10>Just like any list of verses, you can click on them to expand them and see the Greek text.  The two words which you selected will both be highlighted.  In the image below we have opened the first verse, Matthew 5:45, and are also showing the English translation as well.</p>
 <p spacebelow=10><img src="binfile:help/images/search-multiple-results-expanded.png"></p>
 <p spacebelow=10>Just like in any list of verses, you can click and hold an expanded verse to collapse it, or you can click on an expanded verse to open that verse within its book.  When you do so, every form of both words you searched for will be highlighted in the book.</p>
-<p spacebelow=10>In the image below, we have clicked on the first verse in the list, Matthew 5:45, and the program has opened the book of Matthew, and taken us that verse.  The words "πατηρ" and "υἱός" have been highlighted wherever they appear in the book.  <i>(Please note searching for two words will increase the time it takes to open the verse you clicked since the whole book must now be searched for every instance of two words rather than one.)</i></p>
+<p spacebelow=10>In the image below, we have clicked on the first verse in the list, Matthew 5:45, and the program has opened the book of Matthew, and taken us that verse.  The words "πατηρ" and "υἱός" have been highlighted wherever they appear in the book.  (<i>Please note searching for two words will increase the time it takes to open the verse you clicked since the whole book must now be searched for every instance of two words rather than one.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/search-hilite-two-words.png"></p>
 <p spacebelow=10>If no verse in the Greek New Testament contains both these words, then the program will flash the message "No Matches".</p>
 <p spacebelow=10><img src="binfile:help/images/search-multiple-results-nomatches.png"></p>

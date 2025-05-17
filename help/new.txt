@@ -1,5 +1,6 @@
-<p spacebelow=10>Fixed a regression that caused the app's display to freeze on some versions.  My apologies to everyone who had issues.  Please let me know if you still have any issues with this version.  (See the <b>Contact</b> item on the About screen.)</p>
-<p spacebelow=10>The textual apparatus will now be displayed in a blue box directly under the verse rather than in its own window at the bottom of the screen.</p>
-<p spacebelow=10>There is a Noun Form Review item on the Forms page for reviewing nouns which operates just like the Verb Form Review.</p>
-<p spacebelow=10>Program reopens to last chapter and verse rather than verse 1 of last chapter.</p>
-<p spacebelow=10>You can adjust the text size on the pages of the About screen.  See <b>About Pages</b> on the About screen for information.</p>
+<p spacebelow=10>Selecting a chapter from the chapter drop-down menu on the Read page opens a Verse drop-down which takes you directly to that verse (as opposed to verse 1 of the chapter).</p>
+<p spacebelow=10>Drop-down menus for books and chapters (and verses) will use the entire height of the window rather than maxing out at 12 rows.</p>
+<p spacebelow=10>A drop-down menu on the Occurrences page shows you how many times that word occurs in each book.  You can click on the header to sort by book or by occurrences.  Clicking on a book name takes you directly to the first listing for that book.</p>
+<p spacebelow=10>On the Occurrence page, if a word (or form) appears multiple times in a verse, it will be noted next to the verse reference.</p>
+<p spacebelow=10>The program remembers your previous choices for verb and noun reviews between restarts.</p>
+<p spacebelow=10>Desktop versions can now download and install upgrades automatically.  See "Operating Systems" on the "About" page.</p>

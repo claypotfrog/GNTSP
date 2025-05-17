@@ -18,7 +18,7 @@
 <p spacebelow=10><img src="binfile:help/images/vocab-childlist-creator.png"></p>
 <p spacebelow=10>There are (again!) two ways on this page to create vocabulary group.  You can select words en masse by frequency or you can enter individual words.</p>
 <h3>Create Vocabulary Groups by Frequency</h3>
-<p spacebelow=10>To create a new group based on word frequency, select the "Frequency List" button near the top of the screen. <i>(This is the default choice when you create a new list.)</i></p>
+<p spacebelow=10>To create a new group based on word frequency, select the "Frequency List" button near the top of the screen. (<i>This is the default choice when you create a new list.</i>)</p>
 <p spacebelow=10>Click where it says "All Books" in blue below the title "Select words from:".  Here we choose which books of the Bible we want to select words from.  We can select words from "All Books" (the entire Greek New Testament), or we can select words from any individual book.  In this example we want to make vocabulary groups from the words in the book of Mark, so we choose "Mark" from the drop-down menu.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-childlist-bookmenu.png"></p>
 <p spacebelow=10>If you choose a book, then you can also choose to select words from the entire book or from only one chapter.  Click on the word "All" in blue below the heading labeled "Chapter:".  This brings up the chapter menu.  You can select "All" for the entire book (the default) or choose a particular chapter.</p>

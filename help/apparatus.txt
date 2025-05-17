@@ -4,9 +4,9 @@
 <p spacebelow=10><img src="binfile:help/images/textual_app_settings.png"></p>
 <p spacebelow=10>Click the "Done" button and the Textual Apparatus will be loaded for whichever book you are presently reading.</p>
 <p spacebelow=10>When the Textual Apparatus is enabled, a small Greek papyrus icon will appear at the end of any verse in the Greek text which contains information in the Textual Apparatus.</p>
-<p spacebelow=10>In the image below, we have enabled the Textual Apparatus for the book of Galatians.  You can see the window at the bottom of the screen where the Textual Apparatus for a verse will be displayed.  In addition, you can see two papyrus icons here in Galatians 1, one at the end of verse 3 and one at the end of verse 4.</p>
+<p spacebelow=10>In the image below, we have enabled the Textual Apparatus for the book of Galatians.  So you can see two papyrus icons here at the beginning of Galatians 1, one at the end of verse 3 and one at the end of verse 4.</p>
 <p spacebelow=10><img src="binfile:help/images/textual_app_initial.png"></p>
-<p spacebelow=10><i>(Please note that the Textual Apparatus can only be enabled and disabled while reading the Greek text.  Since there is no apparatus for the English text, the button is disabled and you cannot click on it if you access the Settings while reading the English text.)</i></p>
+<p spacebelow=10>(<i>Please note that the Textual Apparatus can only be enabled and disabled while reading the Greek text.  Since there is no apparatus for the English text, the button is disabled and you cannot click on it if you access the Settings while reading the English text.</i>)</p>
 <p spacebelow=10>If we click on the papyrus icon at the end of verse 3, then we will see the Textual Apparatus information for that verse in a blue box directly below the papyrus icon we clicked on.</p>
 <p spacebelow=10><img src="binfile:help/images/textual_app_after_click.png"></p>
 <p spacebelow=10>The program will always attempt to place the textual apparatus directly below the icon so you can see the verse itself while you read the apparatus.  But if there is not enough room below the icon, then the apparatus will be displayed at the top of the Greek text.  If you wish to see the apparatus below the verse then, if possible, scroll down a bit to make space on the screen below the verse.</p>
