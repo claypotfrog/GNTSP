@@ -1,4 +1,3 @@
-<p><i><b>singular forms: πολύς, πολύν, and πολύ</i></b></p>
 <p>Singular	<u>Masc.	Neut.</u></p>
 <p>nom.	πολύς	πολύ</p>
 <p>voc.	πολέ	πολύ</p>
