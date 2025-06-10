@@ -1,6 +1,3 @@
-<p spacebelow=10>Selecting a chapter from the chapter drop-down menu on the Read page opens a Verse drop-down which takes you directly to that verse (as opposed to verse 1 of the chapter).</p>
-<p spacebelow=10>Drop-down menus for books and chapters (and verses) will use the entire height of the window rather than maxing out at 12 rows.</p>
-<p spacebelow=10>A drop-down menu on the Occurrences page shows you how many times that word occurs in each book.  You can click on the header to sort by book or by occurrences.  Clicking on a book name takes you directly to the first listing for that book.</p>
-<p spacebelow=10>On the Occurrence page, if a word (or form) appears multiple times in a verse, it will be noted next to the verse reference.</p>
-<p spacebelow=10>The program remembers your previous choices for verb and noun reviews between restarts.</p>
-<p spacebelow=10>Desktop versions can now download and install upgrades automatically.  See "Operating Systems" on the "About" page.</p>
+<p spacebelow=10>You can highlight and copy a range of verses. You can include or exclude verse numbers when copying verses. See "Verse Actions" on the "About" page.</p>
+<p spacebelow=10>Verse Actions allows you to copy verses to the Clipboard or save them to a file.  Mobile can also use the Mobile Sharing menus to "share" the text. See "Verse Actions" on the "About" page.</p>
+<p spacebelow=10>You can export and save your Vocabulary lists in CSV, TSV, or JSON format. See "Exporting Vocabulary" on the "About" page.</p>

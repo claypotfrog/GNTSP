@@ -29,9 +29,9 @@
 <p spacebelow=10>Click the blue gear icon in the lower right to bring up the "Account Information" dialog box and check the small box below the Close button which says, "Choose Direction Of Sync Next Backup".</p>
 <p spacebelow=10><img src="binfile:help/images/sync-force-manual.png"></p>
 <p spacebelow=10>Then press "Close" to exit the dialog box.  Next time you click the "Backup/Synchronize" button, the program will tell you that your data is out of sync and show you the dialog box which allows you to choose which direction to copy your data.</p>
-<p spacebelow=10>You can disconnect from your account at any time by clicking on the "Disconnect" button in the "Account Information" dialog box.</p>
+<p spacebelow=10>You can remove this account from your device by clicking on the "Remove" button in the "Account Information" dialog box.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-account-info.png"></p>
-<p spacebelow=10>You must then tell the program whether it can delete your backup files or not.</p>
+<p spacebelow=10>This does not, however, remove your backup files from the server.  It only removes the account from this device.  You must then tell the program whether you want your backup files deleted off the server as well.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-confirm-delete.png"></p>
 <p spacebelow=10>If you have other devices using this data, then tell the program to "Keep" your files.  But if you no longer need the data, please allow the program to "Delete" your files so that they do not take up space on the backup server.</p>
 <p spacebelow=10>Obviously to connect to a server on the internet, you will need an internet connection.  By default, the program will try for 20 seconds to access the backup server.  If it cannot reach the server after 20 seconds, it will stop trying and alert you so you can check your internet connection and try again later.</p>

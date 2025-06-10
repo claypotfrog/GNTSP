@@ -1,0 +1,52 @@
+<h3>Exporting a Vocabulary List</h3>
+<p spacebelow=10>If you ever wish to use your vocabulary lists outside of the program, you can export the data from any of your lists in a number of different ways.</p>
+<p spacebelow=10>Exporting is accessed through the options for each Vocabulary List.  On the Vocabulary List page, put the page into EDIT mode by clicking the blue "Edit" link in the upper right.  Then click the red half-circle on the left of whichever list or group you want to export in order to bring up the options.  The second option is the purple "Export" button.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-showoptions.png"></p>
+<p spacebelow=10>Clicking the "Export" button brings up the Export Dialog box where you choose all the options for what and how you wish to export your vocabulary list.</p>
+<p spacebelow=10><img src="binfile:help/images/export-options.png"></p>
+<p spacebelow=10>At the top you see that we are exporting a Vocabulary List called "My Vocab List".  In the section labeled "Columns to Export", you choose which columns you wish to include in the export.  By default all columns are included, but you can choose to disable any of the columns by clicking on the check box next to the column name. (<i>The Greek Entry and English Gloss columns are grayed out because they are always included in the export.  You cannot disable them.</i>)</p>
+<p spacebelow=10>Then in the section labeled "Format", you choose your export format.  "CSV" stands for "comma separated values", "TSV" stands for "tab separated values", and "JSON" stands for "JavaScript Object Notation".  (<i>Note that if you choose "JSON" format, then the columns for "List Name" and "Group Name" are included by default and you cannot disable them.  They are needed for the JSON format.</i>)</p>
+<p spacebelow=10><img src="binfile:help/images/export-options-json.png"></p>
+<p spacebelow=10>Finally in the section labeled "Action", you decide how to export the data.  This section will look different depending on which operating system you are using.</p>
+<p spacebelow=10>If you are running this program on a desktop, then the "Share" item will be disabled because desktop operating systems do not have built-in Sharing menus like mobile devices do.  Selecting "Copy" as the action will place a copy of the vocabulary list (in the format you specified) on your clipboard.  Selecting "Save" will save the vocabulary list as a file to your hard drive.</p>
+<p spacebelow=10><img src="binfile:help/images/export-options-desktop.png"></p>
+
+<p spacebelow=10>If you are on Android then all three options will (probably) be active, "Copy", "Save", and "Share".  "Copy" puts the content of the Vocabulary list into the clipboard so you can paste them into another program.  "Save" saves the data to a file in your Android device's public "Download" directory.  (<i>If the program cannot find your public "Download" directory, then this option will be grayed out.</i>)</p>
+<p spacebelow=10><img src="binfile:help/images/export-options-android.png"></p>
+<p spacebelow=10>"Share" will pull up the Android Sharing menu which allows you to save the file to an email, to google drive, or to transfer it to other devices.  (<i>Which options are available to you depends on how your device is configured.</i>)</p> 
+<p spacebelow=10><img src="binfile:help/images/android_sharing.png"></p>
+<p spacebelow=10>Be aware that the "Share" item works with a file containing the Vocabulary list, not the contents of the list itself.  So if you use the "Share" item and then create an email, a file with the Vocabulary list will be attached to the email.  If you want the Vocabulary list in the body of an email, then you should use the "Copy" item to copy the Vocabulary list to the clipboard, then create a new email, and finally paste the Vocabulary list into the body of the email.</p>
+<p spacebelow=10>If you are on iOS, then the "Copy" and "Share" items will be active while the "Save" item is disabled.
+<p spacebelow=10><img src="binfile:help/images/export-options-ios.png"></p>
+<p spacebelow=10>iOS always uses the Sharing menu when you export a Vocabulary list.  The "Copy" and the "Share" items determine how the Vocabulary List is shared.</p>
+<p spacebelow=10><img src="binfile:help/images/ios_sharing.png"></p>
+<p spacebelow=10>Using the "Copy" item shares a copy of the Vocabulary list.  Using the "Share" button shares a file containing the Vocabulary list.  So in the image below, we have created a text message by using the "Copy" item.  As you can see, the contents of the Vocabulary list are placed in the message.</p>
+<p spacebelow=10><img src="binfile:help/images/export-ios-copy.png"></p>
+<p spacebelow=10>But in the following image, we have used the "Share" item and then created a text message.  This time a file containing the Vocabulary list has been put into the text message.</p>
+<p spacebelow=10><img src="binfile:help/images/export-ios-share.png"></p>
+<p spacebelow=10>Obviously you should chose to use the "Copy" or "Share" item depending on whether you want to share the contents of the Vocabulary list itself, or a file containing the Vocabulary list.</p>
+<p spacebelow=10>Once you have decided which columns to include, what format to use, and where to save the data, click the "OK" button and the program will save the data as you asked or bring up the appropriate mobile Sharing menu.</p>
+<p spacebelow=10>Once done, the program will briefly flash a message saying that the list has been saved.  If the list was exported by the program itself, then the program knows if it succeeded or not, and the message will tell you appropriately.  But if you use one of the Mobile Sharing menus to export the data, then the program does not know if the export succeeded or not.</p>
+<p spacebelow=10>For example, if you used the Sharing menu to prepare an email, but then canceled the message rather than sending it, the program has no way to know that you did not actually send the message.  When you use a Mobile Sharing menu, therefore, the program always reports success.</p>
+<p spacebelow=10><img src="binfile:help/images/export-success.png"></p>
+<p spacebelow=10>Please note that you can only export to one format and save in one way for each export.  So if you wish to save a list both in CSV and JSON formats, or you wish to save a list to a file <i>and</i> copy it to the clipboard, then you will need to go through the same steps and do a second export.</p>
+<h3>Export Formats</h3>
+<p spacebelow=10>All data is exported as "UTF-8".  If you try to read one of your exported lists and the Greek text appears as gibberish or as all question marks, then the program you are using probably does not recognize that the text is UTF-8.  You may have to manually tell the program to deal with the text as UTF-8.</p>
+<p spacebelow=10>For example, if I export a list as a CSV file and then open the file in MS Excel, Excel does not correctly recognize the data as being in UTF-8 format.  In order to read the file properly in Excel, I must open Excel first, then go to the Data tab, choose "Get Data From Text/CSV", and the select the exported file.  Now when Excel opens the file, I have the opportunity to tell it that this file is in UTF-8 if it does not deduce that properly.  From there Excel opens and correctly displays all my data. (LibreOffice Calc, on the other hand, imports it perfectly on the first try.  So...)</p>
+<p spacebelow=10>Lists are exported as text files in the format that you choose.  All strings are enclosed within double-quotes.  This is all fields except for the Count field, which is a number.  In order to account for double-quotes within the strings themselves, CSV and TSV formats encode double quotes by doubling them; so "" is interpreted as a double-quote.  JSON format, however, escapes them as \".</p>
+<p spacebelow=10>The the definition in the lexicon for the Greek word "ταλιθά" has double-quotes in it:</p>
+<p spacebelow=10>   "little girl" (in Aramaic)</p>
+<p spacebelow=10>In a CSV or TSV string, the double quotes will be repeated.  So the string will appear as:</p>
+<p spacebelow=10>   """little girl"" (in Aramaic)"</p>
+<p spacebelow=10>In JSON format, however, the double-quotes will be escaped, so it will appear as:</p>
+<p spacebelow=10>   "\"little girl\" (in Aramaic)"</p>
+<p spacebelow=10>Newlines must also be accounted for within strings.  The CSV and TSV formats include newlines directly in the string while JSON format escapes newlines as "\n".</p>
+<p spacebelow=10>The definition of the Greek word "ξένος" has a newline in it.  It looks like this in the program:</p>
+<p>   new, novel</p>
+<p spacebelow=10>   ὁ ξένος - a foreigner</p>
+<p spacebelow=10>In CSV and TSV formats, the string will look exactly like that but with double quotes around it.</p>
+<p>   "new, novel</p>
+<p spacebelow=10>   ὁ ξένος - a foreigner"</p>
+<p spacebelow=10>But in JSON format, the entry will be one line with the newline represented as "\n".</p>
+<p spacebelow=10>   "new, novel\nὁ ξένος - a foreigner"</p>
+<p spacebelow=10>These are the "standard" conventions for including double-quotes and newlines in CSV, TSV, and JSON files.  Assuming the program you are using to read these files understands these conventions, then your files should display correctly.</p>

@@ -6,10 +6,12 @@
 <p spacebelow=10><img src="binfile:help/images/vocab-parentlist-rename.png"></p>
 <p spacebelow=10>You can also click and drag any line's reorder bars (the three gray horizontal lines on the right side) to reorder the list on this screen.  In the image below, we have dragged the first line of the list, "All Words by Frequency", to make it the second line of the list.  (<i>On Android you cannot click and drag the reorder bars directly.  First click on the bars of the row you wish to reorder.  This will put that row into "reorder" mode.  Then you can click anywhere on that row and drag it to a new position.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-parentlist-reorder.png"></p>
-<p spacebelow=10>While in EDIT mode, clicking on the red half circle on the left side will bring up more options for that list.  In the image below we have clicked on the icon on the second line, "All Verbs by Frequency", which brings up the "Share, "Reset", and "Delete" buttons for that list.</p>
+<p spacebelow=10>While in EDIT mode, clicking on the red half circle on the left side will bring up more options for that list.  In the image below we have clicked on the icon on the second line, "All Verbs by Frequency", which brings up the "Share", "Export", "Reset", and "Delete" buttons for that list.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-parentlist-showoptions.png"></p>
 <h3>Sharing a Vocabulary List or Group</h3>
 <p spacebelow=10>See the section in the About page entitled "Sharing Vocabulary" for information how to share vocabulary lists with others using the program.</p>
+<h3>Exporting a Vocabulary List or Group</h3>
+<p spacebelow=10>See the section in the About page entitled "Exporting Vocabulary" for information how to export the data from a vocabulary list.</p>
 <h3>Resetting a Vocabulary List or Group</h3>
 <p spacebelow=10>Clicking on the blue "Reset" button will reset all the words in that vocabulary list or group so that you will review them again immediately the next time you review any words from this list.  If you do this for a vocabulary group, then only that group is reset.  If you do this for a vocabulary list, then all the groups in the list are reset.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-reset.png"></p>
