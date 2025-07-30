@@ -21,7 +21,6 @@
 <p>gen.	ὧν</p>
 <p spacebelow="10">dat.	αἷς</p>
 
-<p></p>
 <p><i><b>indefinite (whosoever, anyone who)</i></b></p>
 <p>Singular	<u>Masc.	Neut.</u></p>
 <p>nom.	ὅστις	ὅ τι</p>
