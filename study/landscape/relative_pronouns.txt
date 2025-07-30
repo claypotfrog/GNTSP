@@ -1,4 +1,4 @@
-<p spacebelow="5"><i><b>relative (who, which, what, that)</i></b></p>
+<p><i><b>definite (who, which, what, that)</i></b></p>
 <p>Singular	<u>Masc.	Fem.	Neut.</u></p>
 <p>nom.	ὅς	ἥ	ὅ</p>
 <p>gen.	οὗ	ἧς	οὗ</p>
@@ -10,7 +10,7 @@
 <p>dat.	οἷς	αἷς	οἷς</p>
 <p spacebelow="10">acc.	οὕς	ἅς	ἅ</p>
 
-<p spacebelow="5"><i><b>indefinite relative (whosoever, anyone who)</i></b></p>
+<p><i><b>indefinite (whosoever, anyone who)</i></b></p>
 <p>Singular	<u>Masc.	Fem.	Neut.</u></p>
 <p>nom.	ὅστις	ἥτις	ὅ τι</p>
 <p>gen.	οὗτινος	ἧστινος	οὗτινος</p>
