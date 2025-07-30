@@ -33,7 +33,7 @@
 <p spacebelow=10><img src="binfile:help/images/text_hilited_blue.png"></p>
 <p spacebelow=10>You can see all the verses which you have bookmarked and/or highlighted by clicking on the blue Bookmark (ribbon) icon just to the left of the name of the Book you are reading.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmark_icon.png"></p>
-<p spacebelow=10>On the Bookmarks/Highlights page, the selection chooser at the top tells you whether you are looking at Bookmarks or Highlights.  Here on the Bookmarks screen, you see John 1:6, the verse which we have just bookmarked, as well as other verses which we have previously bookmarked.  You can have as many bookmarked verses as you wish.</p>
+<p spacebelow=10>On this page, the selection chooser at the top tells you whether you are looking at Bookmarks or Highlights.  (You can also track your reading progress here if you so desire.  See "Reading the NT Text" on the "About" page for information on the "Progress" item.)  Here on the Bookmarks screen, you see John 1:6, the verse which we have just bookmarked, as well as other verses which we have previously bookmarked.  You can have as many bookmarked verses as you wish.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmark_items.png"></p>
 <p spacebelow=10>In order to see what verses you have highlighted, click on the word "Highlights" in the selection chooser at the top.  Now the window shows all the verses in the program which we have highlighted.  Since we highlighted the range of verses from John 1:6 to 9, each of these verses is listed.  Notice that the verse reference is highlighted in the same color as the verse itself is highlighted.</p>
 <p spacebelow=10><img src="binfile:help/images/bookmark_hilites.png"></p>
@@ -77,7 +77,6 @@
 <p spacebelow=10><img src="binfile:help/images/copied_verse_ref.png"></p>
 <p spacebelow=10>And finally here is the same range showing neither the reference nor the verse numbers.</p>
 <p spacebelow=10><img src="binfile:help/images/copied_verse.png"></p>
-<p spacebelow=10>(<i>At the moment, paragraph markers are not included in the copied text.  So if you copy a range of verses which includes a new paragraph in either the Greek or English text, the copied text will all be one paragraph.</i>)
 <p spacebelow=10>Remember that once you have completed everything you wish to do with this verse or range of verses, you must click the "Done" button to return to the Read screen.</p>
 <h3>File Names</h3>
 <p spacebelow=10>While Linux and Android allow the colon (":") in filenames, Windows, MacOS, and iOS do not.  When saving the name of a range as a filename on Windows, MacOS, or iOS, therefore, the program will change all colons to commas.  So the program will not create a file called "John 3:16" but rather "John 3,16".  Of course, if know that you will be uploading the file to a drive which allows colons in filenames (like Google Drive),  you can change the commas back to colons.  But commas are <i>always</i> safe in file names while colons not.</p>

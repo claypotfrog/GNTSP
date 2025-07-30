@@ -1,3 +1,1 @@
-<p spacebelow=10>You can highlight and copy a range of verses. You can include or exclude verse numbers when copying verses. See "Verse Actions" on the "About" page.</p>
-<p spacebelow=10>Verse Actions allows you to copy verses to the Clipboard or save them to a file.  Mobile can also use the Mobile Sharing menus to "share" the text. See "Verse Actions" on the "About" page.</p>
-<p spacebelow=10>You can export and save your Vocabulary lists in CSV, TSV, or JSON format. See "Exporting Vocabulary" on the "About" page.</p>
+<p spacebelow=10>Version 2.11</p>

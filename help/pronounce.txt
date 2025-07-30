@@ -1,4 +1,4 @@
-<p spacebelow=10>All the audio in this program uses <b>Erasmian</b> pronunciation.  Here's a chart of how I pronounce each letter and letter combination.  Please note that there are differences of pronunciation within Erasmian, so this is not how everyone pronounces Erasmian.  This is how I pronounce Erasmian and so how you will hear all words pronounced if you enable audio in the app.  (<i>See below for some of the other ways Erasmian is pronounced.</i>)</p>
+<p spacebelow=10>All the audio in this program uses <b>Erasmian</b> pronunciation.  Here's a chart of how I pronounce each letter and letter combination.  Please note that there are differences of pronunciation within Erasmian, so this is not how everyone pronounces Erasmian.  This is how I pronounce Erasmian and how you will hear the words pronounced if you enable audio in the app.  (<i>See below for some of the other ways Erasmian is pronounced.</i>)</p>
 <p spacebelow=5 tabstops=65,150,360><u>Letter</u>	<u>Name</u>	<u>Pronunciation</u></p>
 <p spacebelow=5 tabstops=65,150,360>α, Α	Alpha	<b>a</b> as in f<b>a</b>ther</p>
 <p spacebelow=5 tabstops=65,150,360>β, Β	Beta	<b>b</b> as in <b>b</b>all</p>
@@ -51,7 +51,7 @@
 
 <h3>'η' versus 'ει'</h3>
 <p spacebelow=10>This one is hard to hear, but they are different.  The 'ει' sounds like the 'η' except that it has a slight 'y' sound at the end.  Like when you say the word "ray" versus the word "rate".  Do you hear how there is a slight 'y' sound at the end of the word "ray"?  (At least there is when I say it; you may say it differently.)  The 'ει' sounds like the <b>ay</b> in r<b>ay</b>, while the 'η' sounds like the <b>a</b> in r<b>a</b>te.  There's no little 'y' sound at the end of the 'η'.</p>
-<p spacebelow=10>But the difference is slight and difficult to hear when you are not speaking slowly and enunciating carefully.  (You can best hear the 'y' sound at the end of 'ει' when it's at the end of a word or when it's followed by another vowel.)  But if you want to make the two sounds like I do, then practice putting that very slight 'y' sound at the end of 'ει' and not putting it at the end of 'η'.</p>
+<p spacebelow=10>But the difference is slight and very difficult to hear when you are speaking normally.  (You can best hear the 'y' sound at the end of 'ει' when it's at the end of a word or when it's followed by another vowel.)  But if you want to make the two sounds like I do, then practice putting that very slight 'y' sound at the end of 'ει' and not putting it at the end of 'η'.</p>
 <p spacebelow=10>Here's some words with both sounds in them so you can practice. <a href="words::εἰκῇ">εἰκῇ</a> (in vain), <a href="words::εἰρήνη">εἰρήνη</a> (peace), <a href="words::μηδείς">μηδείς</a> (no one), <a href="words::σημεῖον">σημεῖον</a> (a sign/miracle).</p>
 
 <h3>Why I Use Erasmian Pronunciation</h3>
