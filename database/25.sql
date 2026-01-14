@@ -1,3 +1,4 @@
+drop table if exists gntsp_temp_table
 CREATE TABLE gntsp_temp_table AS SELECT * FROM verses
 
 DROP TABLE verses
@@ -6,6 +7,6 @@ CREATE TABLE verses(num INTEGER NOT NULL,chapter INTEGER NOT NULL,verse INTEGER 
 
 INSERT INTO verses(num, chapter, verse, text, normtext, nopunctext, parsecode) SELECT num, chapter, verse, text, normtext, nopunctext, parsecode FROM gntsp_temp_table
 
-DROP TABLE gntsp_temp_table
+DROP TABLE if exists gntsp_temp_table
 
-drop table scrollpositions
+drop table if exists scrollpositions
