@@ -1,7 +1,7 @@
-<p spacebelow=10>As of version 3.0, the program can speak aloud all the root forms of every word in the SBLGNT Text.  There are three places in the program where you can hear words spoken, and audio can be enabled or disabled for each screen.  So if you really don't like the way I pronounce the Greek, you can disable it everywhere! &#128513;</p>
+<p spacebelow=10>As of version 3.0, the program can speak aloud every word in the SBLGNT Text.  (For information on how words are pronounced, see the "Pronunciation" section on the About page.)  There are three places in the program where you can hear words spoken, and audio can be enabled or disabled for each screen.</p>
 <h3>The Read Screen</h3>
 <p spacebelow=10>You can hear words spoken aloud on the Read screen when you click on a word to bring up the lexical form, gloss, and parsing.  At the bottom of the blue dialog box that appears is an button with a Play icon and the words "Hear" and the Greek word.  Click on that button, and the program will speak the word aloud.</p>
-<p spacebelow=10>In the image below we have clicked on the word "θεόν" in John 1:1, and have pulled up the information about this word.  At the bottom of the blue box is the button to hear the word spoken.  Notice that what will be spoken is the <i>root</i> form "θεός", not this particular form (the accusative singular), "θεόν".</p>
+<p spacebelow=10>In the image below we have clicked on the word "θεόν" in John 1:1, and have pulled up the information about this word.  At the bottom of the blue box is the button to hear the word spoken.</p>
 <p spacebelow=10><img src="binfile:help/images/read-audio.png"></p>
 <p spacebelow=10>You can disable audio on the Read screen, and you will no longer see the audio button at the bottom of the blue dialog box when you click on a word.</p>
 <p spacebelow=10><img src="binfile:help/images/read-no-audio.png"></p>
@@ -24,11 +24,7 @@
 <p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
 <p spacebelow=10>Click on the blue line which says "Show Audio Settings" next to the Play icon.  This will bring up the Audio Settings box.</p>
 <p spacebelow=10><img src="binfile:help/images/settings-audio-all.png"></p>
-<p spacebelow=10>By default, Audio is enabled on all three pages: Read, Details, and Vocabulary.  But you turn it on or off for each page by enabling or disabling the appropriate check box.  So if you don't want to see the "Play" button when you click on a word in the Read page, disable the check box which says, "Show Audio on Read page".  Do the same thing for each of the three pages.  In the image below, we have turned off audio everywhere.</p>
+<p spacebelow=10>By default, Audio is enabled on all three pages: Read, Details, and Vocabulary.  "Enabled" onyl means you can choose to hear a word.  The program never speaks words automatically.  But you can turn it off completely (so you do not even have the option to listen) for each page by enabling or disabling the appropriate check box.  So if you don't want to see the "Play" button when you click on a word in the Read page, disable the check box which says, "Show Audio on Read page".  Do the same thing for each of the three pages.  In the image below, we have turned off audio everywhere.</p>
 <p spacebelow=10><img src="binfile:help/images/settings-audio-none.png"></p>
 <p spacebelow=10>When you press the "Done" button, your settings are saved immediately.  It does not matter whether you press "Accept" or "Cancel" back on the main Settings page.  The program remembers your choices between sessions, so if you disable audio on any page, it will remain disabled until you choose to enable it again here in the Audio settings.</p>
 <p spacebelow=10>If you wish to cancel any changes you have made, then do not click the "Done" button, but click anywhere else on the screen to cancel the Audio settings box.  Any changes you have made will NOT be saved, and you will taken back to the main Settings screen.</p>
-
-
-
-

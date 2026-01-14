@@ -13,4 +13,3 @@
 <p spacebelow=10>Or if you prefer, set the darkness to a much smaller number, and the buttons will be much fainter and the text underneath them much easier to see.  Here we have set them to 20%.</p>
 <p spacebelow=10><img src="binfile:help/images/scroll_btn_lighter.png"></p>
 <p spacebelow=10>You can turn the scroll buttons off completely by going back to the "Setting" icon on the "Read" page and removing the check from the "Show Scroll Buttons" checkbox.  All the scroll buttons and the blue arrows which activate them will be hidden</p>
-<p spacebelow=10>You can scroll many (though not all) drop-down menus using the up and down arrow keys as well.  Select the chosen line either pressing the left or right arrow keys, or the Return of Enter keys.</p>

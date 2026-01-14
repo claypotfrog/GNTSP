@@ -29,6 +29,14 @@
 <p spacebelow=10><img src="binfile:help/images/details-logos-noplay.png"></p>
 <p spacebelow=10>Click the back arrow in the upper left corner or the "Read" icon at the bottom of the screen to return to the Read screen from this Details screen.  This word (in all forms) will be highlighted in the book where you are reading.  You can remove the highlighting by pressing and holding anywhere on the text screen until the highlights disappear.</p>
 <p spacebelow=10><img src="binfile:help/images/hilited.png"></p>
+<p spacebelow=10>You can also hide the parsing information in the blue dialog box and require a second click to show it.  Long pressing on the blue box (over 1 second) will toggle whether the program shows you parsing information by default or not.  In the image below we have pressed and held on the blue box and the program is showing us that it will now hide parsing information.  (This status message will disappears automatically.)</p>
+<p spacebelow=10><img src="binfile:help/images/hideParsingDialog.png"></p>
+<p spacebelow=10>Once the status message disappears, you can see that the parsing information is hidden in the blue box.  From now on, any time you click on a word in the Greek text it will appears like this with the parsing information hidden.</p>
+<p spacebelow=10><img src="binfile:help/images/no-parsing-shown.png"></p>
+<p spacebelow=10>Click anywhere in the blue box to show the parsing information.</p>
+<p spacebelow=10><img src="binfile:help/images/wordclick.png"></p>
+<p spacebelow=10>Once the parsing information is shown, clicking on the blue dialog box again will go to the Detail pages for this word like normal.  If you are hiding the parsing information, then you must click twice to go to the Details page.</p>
+<p spacebelow=10>You can change the behavior of the blue dialog box at any time by long-pressing the box.  This will toggle back and forth whether it shows you the parsing information by default or requires you to click on the blue box to see it.</p>
 <p spacebelow=10>Hopefully with all this information, you will be able to read the Greek text.  But if you find yourself unable to understand the Greek, click on the English tab at the top of the text, and you can see how the Lexham English Bible (LEB) translated that passage.</p>
 <p spacebelow=10>Moreover, the LEB includes visual clues which will help you understand how the LEB translators translated the Greek text in English.</p>
 <p spacebelow=10>For example, any word or words which you see in brackets and italicized <i>[like this]</i> are words which do not appear in the Greek text but which are implied or are necessary to supply in English for the translation to make sense.</p>

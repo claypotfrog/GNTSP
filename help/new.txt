@@ -1,1 +1,5 @@
-<p spacebelow=10>Version 2.11</p>
+<p spacebelow=10>Notes can be included when you export a vocabulary list.</p>
+<p spacebelow=10>Vocabulary study direction (Greek or English) can now be set per vocabulary list rather than only globally.</p>
+<p spacebelow=10>Swiping left and right on Mobile to switch between languages is more forgiving of moving up or down.</p>
+<p spacebelow=10>You can hide parsing info when you click on a Greek word and require a second click to show it.  See "Reading the NT Text" in the "About" screen for more information.</p>
+<p spacebelow=10>New Textbook Vocabulary list - "A New Testament Greek Primer" by S.M. Baugh</p>
