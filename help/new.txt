@@ -1,5 +1,6 @@
-<p spacebelow=10>Notes can be included when you export a vocabulary list.</p>
-<p spacebelow=10>Vocabulary study direction (Greek or English) can now be set per vocabulary list rather than only globally.</p>
-<p spacebelow=10>Swiping left and right on Mobile to switch between languages is more forgiving of moving up or down.</p>
-<p spacebelow=10>You can hide parsing info when you click on a Greek word and require a second click to show it.  See "Reading the NT Text" in the "About" screen for more information.</p>
-<p spacebelow=10>New Textbook Vocabulary list - "A New Testament Greek Primer" by S.M. Baugh</p>
+<p spacebelow=5>Verbs can be visually marked for Tense, Voice, Mood, and Person/Number using "Verb Feature Filters".</p>
+<p spacebelow=5><img src="binfile:help/filters.png"></p>
+<p spacebelow=10>Filters are turned OFF by default.  Enable them in the Settings on the Read page.  See <b>Verb Feature Filters</b> on the <b>About</b> page for more information.</p>
+<p spacebelow=10>The program tracks when you study vocabulary and shows study statistics.  Statistics can be turned on or off in the Settings on the Vocabulary page.</p>
+<p spacebelow=10>Textual Apparatus shows and hides in no extra time.</p>
+<p spacebelow=10>Vocabulary Lists from Textbooks and Vocabulary Frequency Lists can be imported by name.</p>

@@ -20,9 +20,9 @@
 <p spacebelow=10>Once you have shared a list or group, that icon will be blue, and clicking on it will take you the Shared Vocabulary page.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-sharing-blue-icon.png"></p>
 <p spacebelow=10>Once you have shared a list or group, you can give the ID to anyone else who uses the program, and they in turn can import that list or group into their database.</p>
-<p spacebelow=10>So let's import the "2nd Aorist Verbs" list we just shared into the program running on another device.  To import a list, we go to the main Vocabulary list page and click the "Edit" link to put the page into EDIT mode.  Then we click the "+" ("plus") icon that appear in the upper left.  This brings up the Create List menu.</p>
+<p spacebelow=10>So let's import the "2nd Aorist Verbs" list we just shared into the program running on another device.  To import a list, we go to the main Vocabulary list page and click the "Edit" link to put the page into EDIT mode.  Then we click the "<b>+</b>" ("plus") icon that appear in the upper left.  This brings up the Create List menu.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-parentlist-create.png"></p>
-<p spacebelow=10>We choose the bottom line, "Import Shared List".  This brings up a dialog box where we enter the List ID of the vocabulary list we wish to import.</p>
+<p spacebelow=10>In this case, we choose the second line, "Import Shared List".  This brings up a dialog box where we enter the List ID of the vocabulary list we wish to import.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-sharing-dialog.png"></p>
 <p spacebelow=10>Since this is a List, the ID will always start with an "L", so the "L" is already present.  (If we were importing a group on the Vocabulary groups page, the dialog box would show the ID beginning with a "G".)  You need to enter the five digits which follow the "L" in the List ID.  So here we enter "11111" which is the rest of the List ID.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-sharing-dialog-filled.png"></p>
@@ -31,6 +31,24 @@
 <p spacebelow=10>Assuming that there are no errors importing the list, the imported list will be created and placed at the top of the Vocabulary Lists page.  You can, of course, edit the name and/or drag it to another position in the list.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-parentlist-new-created.png"></p>
 <p spacebelow=10>Feel free to import this "2nd Aorist Verbs" shared list right now in order to practice how it works.  This list is presently shared on the server.  You can delete the list anytime after you import it.</p>
+<h3>Importing a Predefined List</h3>
+<p spacebelow=10>The program comes with a number of predefined vocabulary lists, word frequency lists and lists corresponding to the vocabulary of various Greek textbooks.  These are all stored on the same server as lists you share personally, and can be re-imported at any time.  So you can remove any of the program's predefined lists you are not using and then re-import them later if you decide you want to study from them.</p>
+<p spacebelow=10>If you wish to import a vocabulary list from a textbook, click on the "<b>+</b>" ("plus") icon in the upper left when the page is in EDIT mode.</p>
+<p spacebelow=10><img src="binfile:help/images/vocab-parentlist-create.png"></p>
+<p spacebelow=10>Then click on the line which says, "Import Textbook List".  This will bring up the Textbook Import box.</p>
+<p spacebelow=10><img src="binfile:help/images/textbook_import_blank.png"></p>
+<p spacebelow=10>Click on the blue line which says "Choose Textbook" and you'll see a drop-down list of all the textbook that the program has vocabulary lists for.</p>
+<p spacebelow=10><img src="binfile:help/images/textbook_import_list.png"></p>
+<p spacebelow=10>At the time of this writing (v. 2.12), the program has vocabulary lists for eight textbooks in it.  By default these are presented alphabetically by title, but if you click on the Header where it says "Author", the list will be sorted alphabetically by Author's last name. (<i>Clicking on the Header where it says "Textbook" will re-sort the list alphabetically by Textbook Title.</i>)</p>
+<p spacebelow=10><img src="binfile:help/images/textbook_import_list_author.png"></p>
+<p spacebelow=10>Click on the textbook whose vocabulary list you wish to import.  This will return you to the Textbook Import box but instead of saying "Choose Textbook" the blue line will say the name of the textbook you choose.  The Import button is also now enabled.</p>
+<p spacebelow=10>In the image below we choose Mounce's "Basics of Biblical Greek Grammar".</p>
+<p spacebelow=10><img src="binfile:help/images/textbook_import_mounce.png"></p>
+<p spacebelow=10>Now click the "Import" button and the program will import the vocabulary list for this textbook, and you will be returned to the Vocabulary page.  Below you see the vocabulary list for Mounce's textbook has been imported and is at the top of the list.  (<i>You can rearrange the order by clicking and dragging on the gray "Reorder" icons at the right of each line.</i>)</p>
+<p spacebelow=10><img src="binfile:help/images/textbook_import_mounce_imported.png"></p>
+<p spacebelow=10>To import a predefined Frequency List, do exactly the same thing, but choose "Import Frequency List" from the drop-down list that appears when you click the "<b>+</b>" ("plus").  When you click the blue "Choose List" line in the Import Frequency List box that appears, you will see a drop-down of all the predefined frequency lists in the program.  At the time of this writing (v. 2.12), there are five.</p>
+<p spacebelow=10><img src="binfile:help/images/frequencylist_import_list.png"></p>
+<p spacebelow=10>Choose the frequency list you wish to import, then click the Import button and the list will be imported and placed at the top of the Vocabulary page.</p>
 <h3>Deleting a shared list or group</h3>
 <p spacebelow=10>You can also remove a list or group that you shared.  On the Shared Vocabulary page, click the blue "Edit" link in the upper right to put the page into EDIT mode.</p>
 <p spacebelow=10><img src="binfile:help/images/vocab-sharing-editmode.png"></p>

@@ -13,10 +13,10 @@
 
 <p spacebelow=10>If you are on Android then all three options will (probably) be active, "Copy", "Save", and "Share".  "Copy" puts the content of the Vocabulary list into the clipboard so you can paste them into another program.  "Save" saves the data to a file in your Android device's public "Download" directory.  (<i>If the program cannot find your public "Download" directory, then this option will be grayed out.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/export-options-android.png"></p>
-<p spacebelow=10>"Share" will pull up the Android Sharing menu which allows you to save the file to an email, to google drive, or to transfer it to other devices.  (<i>Which options are available to you depends on how your device is configured.</i>)</p> 
+<p spacebelow=10>"Share" will pull up the Android Sharing menu which allows you to save the file to an email, to google drive, or to transfer it to other devices.  (<i>Which options are available to you depends on how your device is configured.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/android_sharing.png"></p>
 <p spacebelow=10>Be aware that the "Share" item works with a file containing the Vocabulary list, not the contents of the list itself.  So if you use the "Share" item and then create an email, a file with the Vocabulary list will be attached to the email.  If you want the Vocabulary list in the body of an email, then you should use the "Copy" item to copy the Vocabulary list to the clipboard, then create a new email, and finally paste the Vocabulary list into the body of the email.</p>
-<p spacebelow=10>If you are on iOS, then the "Copy" and "Share" items will be active while the "Save" item is disabled.
+<p spacebelow=10>If you are on iOS, then the "Copy" and "Share" items will be active while the "Save" item is disabled.</p>
 <p spacebelow=10><img src="binfile:help/images/export-options-ios.png"></p>
 <p spacebelow=10>iOS always uses the Sharing menu when you export a Vocabulary list.  The "Copy" and the "Share" items determine how the Vocabulary List is shared.</p>
 <p spacebelow=10><img src="binfile:help/images/ios_sharing.png"></p>

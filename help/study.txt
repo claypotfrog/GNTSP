@@ -51,5 +51,5 @@
 <p spacebelow=10><img src="binfile:help/images/nounreviewquestion.png"></p>
 <p spacebelow=10>When you think you have identified this form, then just like the Verb Review, you click anywhere below the word to see if you are right.</p>
 <p spacebelow=10><img src="binfile:help/images/nounreviewanswer.png"></p>
-<p spacebelow=10>Clicking anywhere on the screen will show you another noun from the declensions which you have choosen to study.</p>
+<p spacebelow=10>Clicking anywhere on the screen will show you another noun from the declensions which you have chosen to study.</p>
 <p spacebelow=10><i>Both the Verb and Noun review screens remember what you have selected between sessions.  Obviously, you can click the "Reset" button to clear everything and make new selections.</i></p>

@@ -20,7 +20,7 @@
 <p spacebelow=10><img src="binfile:help/images/landscape-verbstudy.png"></p>
 <p spacebelow=10>On smaller devices, you will find that most screens in the app work better in portrait mode.</p>
 <p spacebelow=10>In addition, some dialog boxes will not fit in landscape mode.  If you rotate your device and there is not enough room to display a dialog box, one of two things will happen.  Some settings icons will be grayed out and unavailable.  Here you see on the Vocabulary page, the settings icon for the Backup/Synchronize functions is grayed out and unavailable because the dialog boxes are much too big to display properly in landscape mode.  If you wish to access those settings, you will need to rotate your device to portrait mode.</p>
-<p spacebelow=10><img src="binfile:help/images/landscape-settings.png"></p> 
+<p spacebelow=10><img src="binfile:help/images/landscape-settings.png"></p>
 <p spacebelow=10>In other cases, the dialog box will still display, but you will need to scroll it up and down to see all the options.  Here's the Settings dialog box from the Read screen displayed in landscape mode.  As you can see, the bottom of the box is cut off and you cannot see (or access) the "Done" and "Cancel" buttons to close the dialog box.</p>
 <p spacebelow=10><img src="binfile:help/images/settings-landscape.png"></p>
 <p spacebelow=10>To access the parts of the dialog box which are below the screen, you can scroll the dialog box down.  Now the top will be above the level which you can see, but you can access the bottom of the dialog box.</p>

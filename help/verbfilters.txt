@@ -1,0 +1,131 @@
+<p spacebelow=10>Normally the Greek text is displayed to you simply as black on white (or white on black) text.  So here is the text of Jude 1:3&4 as it is normally presented to you (in Light mode).</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_jude_none.png"></p>
+<p spacebelow=10>As of version 2.12, however, the program can display verbs in different colors and formatting.  So here is the same text of Jude with the verbs colored by Tense and formatted by Mood.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_jude_default.png"></p>
+<p spacebelow=10>These are called "Verb Feature Filters" because they change the display of verbs, "filtering" them by their features (Tense, Voice, Mood, Person/Number).  As you can see, this makes the verbs stand out in the text.  Moreover, the different colors show you at a glance the tense of the verb, and the text formatting shows you the mood.  And you can customize all this however you wish.</p>
+<p spacebelow=10>In order to turn on the Verb Feature Filters, click on the "Settings" (blue gear) icon on the Read page while the Greek text is up.  (The English text does not have verb filters.)  This brings up the Settings Dialog box.</p>
+<p spacebelow=10><img src="binfile:help/images/settings_dialog.png"></p>
+<p spacebelow=10>A little over half the way down is a checkbox that says "Enable Verb Feature Filters".</p>
+<p spacebelow=10><img src="binfile:help/images/settings_filter_dialog.png"></p>
+<p spacebelow=10>Click on that checkbox to enable the Verb Feature Filters and then click the "Accept" button, and you will see the verbs all visually filtered.  As long as you leave this box checked, whenever you read a new book, the verbs will all be visually filtered.  But you can uncheck this box at any time, click the "Accept" button, and all the verb filters will be removed.</p>
+<p spacebelow=10>Once you enable the filters, the "Active Filter" menu will also be enabled.  It is set initially to the "Default" filter.</p>
+<p spacebelow=10><img src="binfile:help/images/settings_filter_dialog_enabled.png"></p>
+<p spacebelow=10>But you can click on the name of the filter ("Default" in this case) and bring up a drop-down list of all the filters in your database. Here we have clicked on the filter name to bring up the drop-down box.  You can see the four filters that the program comes with initially - "Default", which filters by Tense and Mood, as well as "Show Mood" and "Show Tense" and "Show Verbs".</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_settings_dropdown.png"></p>
+<p spacebelow=10>Clicking on another filter name will select it as the new active filter.  Then press the "Accept" button, and that filter will be applied to the text.  In the image below, we have selected the "Show Tense" filter.  Now you see that verbs are still filtered by color for Tense, but they are no longer filtered for Mood by formatting; they are all "normal" text, no <b>bold</b>, <u>underline</u>, <i>italics</i>, etc.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_jude_tense_only.png"></p>
+<p spacebelow=10>In order to create, delete, or edit verb feature filters, click again on the "Settings" (blue gear) icon on the Read page to bring up the Setting Dialog box.  Then click the button which says "Edit Verb Feature Filters".  This brings up the Verb Filters dialog box.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_dlg.png"></p>
+<p spacebelow=10>At the top is the name of the presently active filter, in this case "Default".  But just as in the Settings dialog box, you can click on the filter name to bring up a drop-down list of all the filters.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_dropdown.png"></p>
+<p spacebelow=10>Clicking on a filter name will make that filter active, and you can see how it visually displays verbs.  In the image below, we have clicked on "Show Mood" to activate that filter.  Notice that in this filter, Tense filtering is turned off completely.  (The checkbox labeled "Enable Filters for Verb Tense" is not checked.)</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_tense_disabled.png"></p>
+<p spacebelow=10>But if we choose "Mood" from the Verb Features chooser near the top, you'll see that filters for Mood are enabled.  (The checkbox labeled to "Enable Filters for Verb Mood" is checked.)</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_enable_mood.png"></p>
+<p spacebelow=10>If you click on "Person" in the Verb Features chooser, you'll see that Person filters are also inactive.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_disable_person.png"></p>
+<p spacebelow=10>Finally click on "Voice" in the Verb Features chooser.  Here we have set all three voices to be the same color.  In other words, this will color ALL verbs in red.  This doesn't actually show us anything about voice, but it is an easy way to make all the verbs stand out in the text by coloring them all red.  This is what the "Show Verbs" filter does.  It simply makes all verbs red by setting the same red color for all three voices.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_voice_all_red.png"></p>
+<p spacebelow=10>If we click "Accept" here and then again in the Settings Dialog box, we see that the verbs in the text are no longer colored by tense but instead are all red.  But the text formatting (<u>underline</u>, <i>italics</i>, <b>bold</b>, etc.) still shows you the mood.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_jude_mood.png"></p>
+<p spacebelow=10>Back in the Verb Filters Dialog box, click on the "Actions" button in the upper right.  This allows you to create, save, and delete filters.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_menu.png"></p>
+<p spacebelow=10>"New" will create a new, blank filter set.  "Copy" will copy your current filter with a new name.  "Save" will save any changes you have made to this filter.  (<i>Any changes you have made are also saved when you press "Accept".</i>)  You can also revert any changes you have made by pressing "Cancel" or by changing to another filter and telling the program to discard your changes when prompted.  "Rename" allows you to change the name of the active filter.  (<i>You cannot create, copy, or rename a filter to a name that already exists.</i>)  "Delete" will remove that filter and set the "Default" filter as active again.  (<i>You cannot rename or delete the "Default" filter.</i>)</p>
+<p spacebelow=10>Let's choose "Delete".  The program asks us to confirm the deletion as deleted filters cannot be recovered.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_confirm_delete.png"></p>
+<p spacebelow=10>The "Show Mood" filter is deleted and the "Default" filter is set as the active filter.  If you click on the filter name to see the list of filters saved in the program, you can see that the "Show Mood" filter is gone.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_mood_deleted.png"></p>
+<h3>Creating Verb Filters</h3>
+<p spacebelow=10>You can create a new empty filter by choosing "New" from the "Actions" menu, or you can create a copy of the active filter and give it a new name by choosing "Copy".  We will create a new empty filter and then edit it as we want.  So press the "Actions" item in the upper right and choose "New".  Then give this new filter a name.  I'll call this one "Show Voice" since that's what it's going to do.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_saveas_show_voice.png"></p>
+<p spacebelow=10>By default, a new filter has nothing enabled.  So first decide which verb features you want to filter on.  You can filter on any combination of Tense, Voice, Mood, and/or Person (which includes Number).  In this case, we want to create a filter which shows us the voice of a verb, i.e. which verbs are Active, which are Middle, and which are Passive.</p>
+<p spacebelow=10>So we click on "Voice" in the verb features chooser and click the check box so this feature is enabled.  You'll see that all the options become active so you can click on them.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_voice_enabled.png"></p>
+<p spacebelow=10>Now we have to decide how we want to visually display verbs for each of the three different voices.  Right now, you can see that the text isn't filtered at all.  It's the normal black text on a white background (or vice versa if you are working in Dark Mode).  Click either on one of the blue title lines: Active, Middle, or Passive, or on the Greek text itself next to that title to open the Filter Editor.  In the image below we clicked on the word "Active".</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_none.png"></p>
+<p spacebelow=10>The title at the top shows us that we are creating a filter for Active Voice.  Directly under that, we see the Greek word from the previous dialog box, ἔλυσα, the aorist <i>active</i> indicative, 1st person sg. (<i>The Greek text is always a form of "λύω" which matches whatever verbal feature you are filtering on.</i>)  The Greek text appears both in Light Mode on the left and in Dark Mode on the right so you can see what the filter will look like in both modes.</p>
+<h3>Changing the Text Color</h3>
+<p spacebelow=10>The chooser at the top shows us how we can create filters.  At the moment, the filter is set to "None".  But we can also filter by text color, highlight color, or text formatting.  So let's select "Color" (for text color) from the chooser at the top.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_color.png"></p>
+<p spacebelow=10>In the image below, the Greek text is now colored in pure red.  (<i>Pure red is the default color.</i>)  You can see the Hex Color Code and RGB values for this color in the center of the screen: "#FF0000 - <font color='#FF0000'>255</font>,<font color='#00B000'>0</font>,<font color='#0080FF'>0</font>".  (<i>I personally want to see these values when I am creating filters, so I put them there.  You can ignore them completely if you don't care.</i>)</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_color_red.png"></p>
+<p spacebelow=10>You can see what this color will look like as text both in Light mode on the left and Dark mode on the right.  You'll also notice that the word "Red" is selected (there's a circle around it) and there are twelve different shades of red there that you could choose from.  You can see a black border around this particular shade of red.</p>
+<p spacebelow=10>You can click on the various color names, and you'll see twelve different shades of that color.  Here's what the "Violet" presets look like. </p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_violet.png"></p>
+<p spacebelow=10>Notice that the color of the text and the color codes for this color are still set to the red we previously choose.  But if we click on one of the different shades of violet, we see that the text changes to show us what that color will look like in Light and Dark mode, and we see the new Hex Color Code and RGB values for this color.  In the image below, I've chosen a shade of violet that I think works well in both Light and Dark mode.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_violet_choosen.png"></p>
+<p spacebelow=10>Click "Accept" and now we see that verbs in Active voice will be displayed in the color we chose.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_active_voice.png"></p>
+<p spacebelow=10>Click "Accept" a couple more times to get back to the Greek text, and now all the Active voice verbs are in violet.  Nothing else is filtered because Active voice is the only verbal feature we have set a filter for.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_jude_av_violet.png"></p>
+<p spacebelow=10>Let's finish the filter.  Go back into Settings and then into "Edit Verb Feature Filters"  and click on the Middle Voice (either the word "Middle" or the Greek text next to it).  We go back into the Filter Editor which shows that the filter is set to "None".  Click on "Color" in the chooser to change the text colors, and this time, let's choose a blue.  Click on the word "Blue" to see the blue presets.  Below you can see the shade that I chose outlined in black.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_blue.png"></p>
+<p spacebelow=10>Click "Accept" and you'll see that the Middle Voice verbs will now be shown in the blue text we choose.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_active_middle.png"></p>
+<p spacebelow=10>Finally click on the Passive Voice item (either the word "Passive" or the Greek text next to it) and let's choose an Orange.  You know the drill.  Click on "Color" in the chooser to change the text color in our filter, then click on the word "Orange" to see the Orange presets.  In the image below, you can again see the one I chose outlined in black.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_orange.png"></p>
+<p spacebelow=10>Click "Accept" and you'll see that we have now assigned different text colors to the three voices.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_all_voices.png"></p>
+<p spacebelow=10>Click "Accept" a couple more times to get back to the Greek text and you'll see that all verbs now appear in either violet, blue, or orange depending upon their voice.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_jude_voice.png"></p>
+<h3>Changing the Text Background Color</h3>
+<p spacebelow=10>But text color is only one of three ways you can visually filter the text.  Go back to the Filter Dialog and click on "Active" again to bring up the filter we chose.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_violet_choosen.png"></p>
+<p spacebelow=10>Now click on "Highlight" in the chooser at the top.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_hilite.png"></p>
+<p spacebelow=10>In the image below, you can see that the color hasn't changed, but now instead of the text being colored in the Light and Dark mode fields, the text is white or black like normal and the background is colored.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_hilite_violet.png"></p>
+<p spacebelow=10>Click accept and you'll see that Active voice verbs now have a violet background color instead of a violet text color.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_active_hilite.png"></p>
+<p spacebelow=10>Now click "Accept" a couple of times to get back to the Greek text and you'll see that all the Active voice verbs have a violet background.  We didn't change the Middle and Passive voice verbs filters, so they remain in their original colors of blue and orange.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_jude_voice_hilite.png"></p>
+<p spacebelow=10>You are also not limited to the preset colors.  Go back into the Filters Dialog box and click on the Middle voice to bring our blue filter back.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_blue.png"></p>
+<p spacebelow=10>Now select "Custom" from the chooser in the middle of the box.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_fitlers_options_custom.png"></p>
+<p spacebelow=10>Up until now we've only used "Presets".  But here you can create any color you want.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_custom_color.png"></p>
+<p spacebelow=10>When you first come here, the color will be set to whatever the previously selected color was.  So this is still set to our previous blue.  You can click and drag the Red, Green, and Blue sliders to any values you want and you'll see that color both in the Light and Dark mode fields, as well as in the Hex Color Code fields.</p>
+<p spacebelow=10>You can click on "Highlight" or "Color" in the chooser at the top to change which way the color will be applied.  Like the "Presets", the "Custom" colors can be used either with text color or highlights.</p>
+<p spacebelow=10>Let's make this a "pure" blue, no red or green.  So drag the red and green sliders all the way to 0.  Now we have a pure blue, which doesn't (IMHO) look great in Dark mode, but looks quite good in Light mode.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_pureblue.png"></p>
+<p spacebelow=10>You can also click on the Red, Green, and Blue values and type in a new number.  In the image below, we have clicked on the Red value, and now we can edit the number directly.  Press enter on your keyboard or click away from the edit field to save the number you entered.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_mobile_edit.png"></p>
+<p spacebelow=10>There are also two sliders at the bottom of the screen, one for colors and one for grays.  You can slide these to see a great variety of colors and shades which you can use directly or edit as you wish to fit your needs.</p>
+<p spacebelow=10>Once you've got the color you want from the Custom Colors, you can simply press "Accept" and use that color.  But if you ever might want to use this color again, press the "Save Color" button directly above the Hex Color Codes.  This saves the color into your "My Colors".</p>
+<p spacebelow=10>In the image below, I've created a shade of pink between violet and red which is not in the presets, but which I quite like and have used in (my) Default filter set (which is also your default filter set until you save your own).</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_custom_pink.png"></p>
+<p spacebelow=10>Since I may want to use this color again, I have stored it in "My Colors".  So click where it says "My Colors" in the chooser in the middle of the screen, between "Presets" and "Custom".</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_mycolors.png"></p>
+<p spacebelow=10>Here you'll find any colors which you have created and stored.  This is basically another set of "Preset" colors just like the "Red", "Orange", etc. on the "Presets" page.  You can click on a color here and use it either as a text color or a background color.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_mycolors_selected.png"></p>
+<p spacebelow=10>You only have sixteen slots, so you can only store sixteen custom colors.  If you try to store more, the program will tell you that there is no room.  But you can remove saved colors by using the chooser directly above the colors which says "Select" and "Clear".  Normally this is set to "Select" which means when you click on a color, that color is selected and becomes the active text or background color.  But if you select "Clear", any colors you click on will be removed.  There is no warning; they are simply deleted.  So make sure that's what you want to do.</p>
+<p spacebelow=10>So if you don't like the pink color that I have saved as much as I do, you can remove it.  Choose "Clear" from the chooser, then click on the color and it will be removed and that space is now available again for saving a new custom color.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_fitlers_options_custom_cleared.png"></p>
+<p spacebelow=10>There are two ways to add colors so "My Colors".  You can use the "Save Color" button under Custom colors as we have seen.  But if there is a particular color in one of the color presets that you want to save, then long-press on that color and it will also be saved in your "My Colors".  You never have to do this since the presets are always available.  But it can be convenient if you want to save all the colors you use frequently in one place where they are easily accessible.</p>
+<p spacebelow=10>After all that, let's finally press "Accept" and we'll use my custom color for Middle voice verbs.  This takes you back to the Filters dialog box and you can see that Middle verbs are now colored in this new color.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_middle_custom.png"></p>
+<h3>Changing the Text Formatting</h3>
+<p spacebelow=10>Finally let's look at the third way you can filter verbs, and that's by text formatting rather than color.  Click on the Passive Voice (the word "Passive" or the Greek word next to it) and bring back the Filters Editor for Passive voice verbs.  We assigned this an orange text color, and so that's what the editor shows us.  Since we choose one of the preset colors, the color we choose is outlined in black.  If we have chosen a custom color and saved it, then the color in "My Colors" would be outlined in black.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_options_orange.png"></p>
+<p spacebelow=10>Now click on the chooser at the top and select "Format".</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_format.png"></p>
+<p spacebelow=10>The colors disappear and the Light and Dark mode fields go back to showing you the text without any additional colors.  But below those fields are all the different ways that you can change the formatting of the text.  You can choose any and as many of these as you like as a unique display for Passive verbs.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_format_all.png"></p>
+<p spacebelow=10>Let's turn on "Bold" and "Italics".  You'll see that the Greek text in the Light and Dark mode fields shows you what the text will look like with those formats applied.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_format_chosen.png"></p>
+<p spacebelow=10>Click "Accept" and you'll see that Passive voice verbs will now be shown bold and italicized.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_voice_various.png"></p>
+<p spacebelow=10>Click "Accept" a couple of times to get back to the Greek text and you'll see that everything appears as we set it: Active verbs are highlighted in violet, Middle verbs are colored in our custom pink color, and Passive verbs are bold and italicized.</p>
+<p spacebelow=10><img src="binfile:help/images/verb_filters_jude_various.png"></p>
+<p spacebelow=10>Admittedly, this is not a visually attractive filter.  But it does show you in an instant that about half (six out of eleven) of the verbs in Jude 1:3&4 are active, three are middle, and two are passive.  In that sense, the filter is doing its job.</p>
+<h3>Notes on Filters</h3>
+<ul><li>Filter names are sorted alphabetically in the drop-down menus except for the "Default" filter which is always first.  If you want your filters to appear in any sort of order, name them alphabetically.  Or put a number as their first character because numbers sort before letters.  But remember that numbers are still sorted alphabetically.  So "1" is followed by "10" is followed by "2" alphabetically.</li>
+<li>When you filter on Person/Number, this does not affect infinitives since infinitives don't have person or number.  So you might want to include another filter as well to bring out that the infinitives are also verbs.  Like set ALL verbs to show in <b>bold</b> (set all three voices to display in bold - that will filter ALL verbs), but then change the text color or highlight color for the Person/Number.</li>
+<li>Since participles don't have person (but do have number), if you filter on Person/Number, then Participles will be filtered according to the 3rd person filters.  So singular participles will be filtered like 3rd singular verbs, and plural participles will be filtered like 3rd plural verbs.  You can see that in the Person/Number screen.  Notice that the two 3rd person lines also say "Ptcp" (for "participle").</li>
+<li type="skip"><img src="binfile:help/images/verb_filters_person.png"></li>
+<li>Filters are applied alphabetically by verbal feature.  So Mood first, then Person, then Tense, and finally Voice.  So if you use the same filtering method, say text color, for two different types of verbal feature, one will overwrite the other.  If you made Present Tense verbs green, but also made Active Voice verbs red, then Present Active verbs will be red, because Voice is applied after Tense.  So if you want to filter on multiple verbal features (like the "Default" filter does on Tense and Mood) you need to use separate filtering methods for each.  Color, Highlight, and Formatting can all live on the same verb, but text cannot have multiple colors simultaneously.</li>
+<li>There are three levels of highlighting in the program, and they are always applied in the same order.  So if you are using text highlighting for filtering but not seeing it, check that it is not being over written by another level of highlighting.  Verb filter highlights are always applied to the text first.  Then any user defined highlights are applied.  Then finally any selected words are highlighted.  Notice in the following image how my yellow highlight over verse 3 in Jude overwrites all the Active verb highlights.  They are still there, but you will have to remove the custom highlighting on the verse to see them.</li>
+<li type="skip"><img src="binfile:help/images/verb_filters_jude_over-hilited.png"></li></ul>
+<p spacebelow=10 spaceabove=10>Filtering is still a work in progress so I may make changes as I discover better ways to do things.  But the basic ideas that you have read here should always work.</p>
+<p><b>Happy Filtering!</b></p>
