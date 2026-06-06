@@ -33,7 +33,7 @@
 <p spacebelow=10><img src="binfile:help/images/hideParsingDialog.png"></p>
 <p spacebelow=10>Once the status message disappears, you can see that the parsing information is hidden in the blue box.  From now on, any time you click on a word in the Greek text it will appears like this with the parsing information hidden.</p>
 <p spacebelow=10><img src="binfile:help/images/no-parsing-shown.png"></p>
-<p spacebelow=10>Click anywhere in the blue box to show the parsing information.</p>
+<p spacebelow=10>As the italicized text below the gloss tells you, click anywhere in the blue box to show the parsing information.</p>
 <p spacebelow=10><img src="binfile:help/images/wordclick.png"></p>
 <p spacebelow=10>Once the parsing information is shown, clicking on the blue dialog box again will go to the Detail pages for this word like normal.  If you are hiding the parsing information, then you must click twice to go to the Details page.</p>
 <p spacebelow=10>You can change the behavior of the blue dialog box at any time by long-pressing the box.  This will toggle back and forth whether it shows you the parsing information by default or requires you to click on the blue box to see it.</p>

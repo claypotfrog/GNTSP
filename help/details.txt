@@ -1,28 +1,23 @@
 <p spacebelow=10>When you click on a particular word, either while reading the Greek text or in the Search screen, you are taken to that word's details page.  Here you see and can edit the details about this word and its use in the Greek text.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos.png"></p>
-<p spacebelow=10>All words will have at least the first five rows you see in the above image: part of speech and definition, number of occurrences in the Greek text, number of different forms this word can be found in the Greek text, and any notes that you have added to this word.  (Notes are entirely personal; there are none to begin with in the database.)  Finally there is a link to add this word to a Vocabulary list.</p>
+<p spacebelow=10>All words will have at least the six rows you see in the above image: part of speech and definition, number of occurrences in the Greek text, number of different forms this word can be found in the Greek text, and any notes that you have added to this word.  (Notes are entirely personal; there are none to begin with in the database.)  Finally there is a link to add this word to a Vocabulary list and a link to look up the word on different websites.</p>
 <p spacebelow=10>You can click on all these lines either to edit them or to get more information.</p>
 <p spacebelow=10>If you click on the first line containing the definition, you are taken to a screen where you can edit the gloss.</p>
 <p spacebelow=10><img src="binfile:help/images/details-gloss.png"></p>
-<p spacebelow=10>The field has an "En" watermark behind it which tells you that your keyboard will type in English (or whatever your native language is).  You can change to a Greek keyboard by typing the ampersand character ("&")  (<i>On Desktop versions you can also press the TAB key.</i>).  The watermark changes to "Gr" to indicate that you are now typing Greek letters in this field.  Pressing the ampersand (or TAB on desktop) will toggle the keyboard back and forth between English and Greek.</p>
-<p spacebelow=10>You can see which English letters correspond to which Greek ones by typing the dollar sign ("$") while you are typing with the Greek keyboard up.  This displays the keyboard map that shows you how to type words in Greek.</p>
-<p spacebelow=10><img src="binfile:help/images/vocab-map.png"></p>
-<p spacebelow=10>Click the "Close" button to close it go back to editing.  (<i>On Desktop versions you can also press ENTER to close the keyboard map.</i>)</p>
-<p spacebelow=10>You can include diacritics in your Greek words using special "control characters", '[ ] / \ =  ( ) 1 2 3 | ! + "'.  Typing any of these before a vowel will add the diacritics to that vowel.  You can type breathings, "[" or "(" for rough and "]" or ")" for smooth, and accents, "/" or "1" for acute, "\" or "2" for grave, and "=" or "3" for circumflex in front of any vowel to display the vowel with that accent and breathing.</p>
-<p spacebelow=10>You can also type "|" or "!" before a vowel to get an iota subscript, but remember only the vowels "α", "η", and "ω" can take an iota subscript.  On other vowels, these control characters are ignored.  The same is true for the diaeresis like in the words "πρωΐ" and "πραΰς".  Type "+" or a double-quote (") before a vowel to put a diaeresis over it.  But remember that only "ι" and "υ" can take a diaeresis and never combined with a breathing.  So if you type a diaeresis with a breathing or type it before any other vowel, it will be ignored.</p>
-<p spacebelow=10>So if you want to type an omega with a smooth breathing and a circumflex accent, you could type ")=w".  The order of the diacritics does not matter.  You could type "=)w" and get the same result.  All that matters is that the vowel be typed last.  Nothing will appear until after you type the vowel.  The control characters do not appear when you type.  Once you type the vowel "ω", "<b>ὦ</b>" will appear.  If you type anything other than a vowel immediately after these characters, they will silently discarded.</p>
+<p spacebelow=10>The field has an "A" in the upper right corner and the Greek keyboard indicator directly above it is not enabled. Both of these indicate that the built-in Greek keyboard is turned off.</p>
+<p spacebelow=10>You can enable the Greek keyboard by clicking on the keyboard indicator. (<i>On desktops, you can also press the TAB key to switch keyboards.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/details-gloss-greek.png"></p>
-<p spacebelow=10>If you want to type any of the control characters themselves and have them appear, type a space (" ") immediately after the character.  So "(" + space will type "(", "=" + space will type "=", etc.</p>
-<p spacebelow=10>Once you have edited the definition, click the "Save" link in the upper right to save the new definition and return to the Details screen where you will see the new gloss you just entered.  Or click the back arrow in the upper left to return to the Details screen without saving any changes.</p>
+<p spacebelow=10>The indicator lights up, and the "A" changes to "Ω" showing that the Greek keyboard is enabled.  See "Typing in Greek" on the "About" page for detailed information of how to use the built-in Greek keyboard</p>
+<p spacebelow=10>If you make changes to the definition, click the "Save" button in the upper right to save the new definition and return to the Details screen where you will see the new gloss you just entered.  Click the back arrow in the upper left to return to the Details screen without saving any changes.</p>
 <p spacebelow=10>In the same way, you can click on the Notes line to enter or edit a note about the word.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-note.png"></p>
-<p spacebelow=10>Like the definition screen, you can type your notes in any combination of English and Greek using the "&" character (<i>or tab on desktop</i>) to change the keyboard.  Also like the definition screen, click the Save link to save the note and return to the Details screen where you will see the note you just entered or click the back arrow in the upper left to return to the Details screen without saving any changes you may have made.</p>
+<p spacebelow=10>Like the definition screen, you can type your notes in Greek by enabling the Greek keyboard.  And like the definition screen, click the Save link to save the note and return to the Details screen where you will see the note you just entered or click the back arrow in the upper left to return to the Details screen without saving any changes you may have made.</p>
 <p spacebelow=10>If the word is a verb, then below the definition line will be a line for the principal parts of the verb.</p>
 <p spacebelow=10><img src="binfile:help/images/details-lego.png"></p>
 <p spacebelow=10>The database includes the principal parts for all verbs appearing eight or more times in the Greek text.  The six principal parts are arranged in the traditional order of present, future active, aorist active, perfect active, perfect middle, aorist passive.  In addition, the imperfect will be in parenthesis after the present.  If there are multiple forms attested for that tense, then they will be separated by a slash (/).</p>
 <p spacebelow=10>Please note that only forms which are attested in the Greek text are included in the principal parts.  For example, "λύω" has no perfect active forms in the Greek text, so there is no perfect active principal part listed.  Elsewhere in Greek literature, however, "λέλυκα" is the perfect active form of "λύω".</p>
 <p spacebelow=10><img src="binfile:help/images/details-luw-parts.png"></p>
-<p spacebelow=10>Clicking on the Principal Parts line takes you to the screen where you can add or edit the principal parts.  (<i>Note that this screen, unlike the others, defaults to the Greek rather than the English keyboard.</i>)</p>
+<p spacebelow=10>Clicking on the Principal Parts line takes you to the screen where you can add or edit the principal parts.  (<i>Note that on this screen, unlike the others, the Greek keyboard is enabled by default.  But you can disable it by clicking on the keyboard indicator above the right corner of the field.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/details-lego-parts.png"></p>
 <p spacebelow=10>This screen operates just like the "Edit Definition" and "Edit Note" screens.  Press the Save link to save your changes; press the back arrow to cancel and return to the details screen.</p>
 <p spacebelow=10>Back in the Details screen, we see that there are 330 occurrences of the word "λόγος" (in any form) in the Greek text.</p>
@@ -39,7 +34,7 @@
 <p spacebelow=10><img src="binfile:help/images/details-eng-verses-shown.png"></p>
 <p spacebelow=10>Clicking on the "Show English Verses" switch toggles the display of any expanded verses immediately.  You do not need to refresh anything.</p>
 <p spacebelow=10>If you wish to hide the verse text of any particular line, press and hold anywhere on the verse until the verse text closes.</p>
-<p spacebelow=10>If you click normally on any line with the verse text showing, the program will take you to the Read screen with that book open to that chapter and verse.  All occurrences of the word you were examining in the Details screen (in any form) will be highlighted throughout the book. (You can remove the highlights by pressing and holding anywhere on the Greek Text or on Mobile by shaking your device.)</p>
+<p spacebelow=10>If you click normally on any line with the verse text showing, the program will take you to the Read screen with that book open to that chapter and verse.  All occurrences of the word you were examining in the Details screen (in any form) will be highlighted throughout the book. (You can remove the highlights by pressing and holding anywhere on the Greek Text.)</p>
 <p spacebelow=10>Moreover, in the upper left corner of the Read screen next to the bookmarks icon, the back arrow will now be highlighted indicating that you can click on it.  Clicking on this arrow will return you to the Occurrences screen.  The arrow will remained enabled until you click on another word in the Greek text and examine that word.</p>
 <p spacebelow=5><img src="binfile:help/images/read-with-back.png"></p>
 <p spacebelow=10>From the Occurrences screen, you can return to the Details screen by pressing the back arrow in the upper left.</p>
@@ -59,12 +54,69 @@
 <p spacebelow=10>Now the list is in order of which books have the most occurrences (and that total is bold).</p>
 <p spacebelow=10>Clicking on any of these lines in the menu will take you the first occurrence of that book.  In the image below we have clicked on "Hebrews" and so the first verse of Hebrews in which this word appears is at the top of the display.</p>
 <p spacebelow=10><img src="binfile:help/images/occurrences_dropdown_hebrews.png"></p>
-<p spacebelow=10>Finally, back on the Details screen, the last line is a link which says, "Add word to vocabulary".</p>
+<p spacebelow=10>Back on the Details screen, the second to the last line is a link which says, "Add word to vocabulary".</p>
 <p spacebelow=10><img src="binfile:help/images/details-add-to-vocab.png"></p>
 <p spacebelow=10>Clicking this line brings up a drop-down menu which allows you to add the word to a Vocabulary list.</p>
 <p spacebelow=10><img src="binfile:help/images/details-dropdown.png"></p>
-<p spacebelow=10>The first line of the list always says, "Vocabulary Creator Field".  Choosing this line will place the word in the "Manual List" Field of the Vocabulary Creator page where you can decide what vocabulary group to add it to later.</p>
+<p spacebelow=10>The first line of the list always says, "Bulk Add Field".  Choosing this line will place the word in the "Bulk Add" field on the Vocabulary Creator page where you can decide what vocabulary group to add it to later.</p>
 <p spacebelow=10><img src="binfile:help/images/details-word-added.png"></p>
-<p spacebelow=10>But all the other lines in this list are vocabulary groups which you have "starred" and marked them so you can add words directly to them from the Details page (the page we are on) or the Search page.  In the above example, we have only marked one group, "My Custom List", as being a group we want to add words to directly.  If we choose that line, this word will be added to that group.</p>
-<p spacebelow=10>If you decide not to add the word to any list, simply click anywhere outside the menu,- and it will disappear.</p>
-<p spacebelow=10><i>See the section "Adding words from the Details and Search screens" in the "Editing Vocabulary" section on the About page for more information on how to "star" vocabulary groups.</i></p>
+<p spacebelow=10>But all the other lines in this list are vocabulary groups which you have "starred" and marked so you can add words directly to them from the Details page (the page we are on) or the Search page.  In the above example, we have only marked one group, "My Custom List", as being a group we want to add words to directly.  If we choose that line, this word will be added to that group.</p>
+<p spacebelow=10>If you decide not to add the word to any list, simply click anywhere outside the drop-down menu, and it will disappear.</p>
+<p spacebelow=10><i>See the section "Adding words from the Details and Search screens" in the "Editing Vocabulary" section on the "About" page for more information on how to "star" vocabulary groups.</i></p>
+<p spacebelow=10>Finally, the last line on the Details page is always a link which allows you to look up this word in a number of online websites.  Here's the line as we've seen it for the "λόγος" entry.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_logos.png"></p>
+<p spacebelow=10>If you click on this line, you will be presented with a list of websites where you can examine this word in more detail.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_dropdown.png"></p>
+<p spacebelow=10>Clicking on any of these lines will open your web browser and take you to the entry for this word in that website.  In the image below, we've clicked on the second line, "Blue Letter Bible", and the program has opened the entry for "λόγος" on the Blue Letter Bible site.</p>
+<p spacebelow=10><img src="binfile:help/images/details_BBB_logos.png"></p>
+<p spacebelow=10>By default, all the websites are enabled, but you can enable and disabled them as you wish as well as rearrange the order that the sites are presented to you.  (Disabled sites do not appear in the list of "Lookup" sites.)</p>
+<p spacebelow=10>Click on the blue gear icon in the upper right to open the Settings dialog box.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_settings.png"></p>
+<p spacebelow=10>As noted, all four sites are enabled.  But click on the name of a site or on the blue switch to the left of the name to enable or disable that site.  When they are disabled, the switch and the name both become gray.  In the image below we have clicked on the switches for "Wiktionary" and "BibleHub".  You can see that they are now grayed out.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_disabled.png"></p>
+<p spacebelow=10>Click "Done" to close the Settings dialog box and now click again on the last line which says "Lookup 'λόγος, ου, ὁ'".  Now you see that the two entries we disabled no longer appear in the list of "Lookup" sites.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_shortlist.png"></p>
+<p spacebelow=10>Go back to the Setting dialog box (click on the blue gear icon), and notice the three gray lines on the right side of each website name.  These are drag bars that allow you rearrange the order of the lines.  Click on the bars and then drag the websites into the order you want them to appear when you click to look up a word.</p>
+<p spacebelow=10>In the image below, we have re-enabled "BibleHub" by clicking on the switch to the left of the name, and we have dragged it to the top of the list.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_moved.png"></p>
+<p spacebelow=10>Now again if we click "Done" to return to the Details page, and then click the last line, the drop-down list of websites appears in the order we specified.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_reordered.png"></p>
+<p spacebelow=10>Now open up the Settings dialog again and notice the field in the lower left which says "Blue Letter Bible Version".  The Blue Letter Bible website allows you to specify which translation it uses when it shows you all the verses which contain this word.  By default, this is set to "NIV", but you can change it to any translation which the Blue Letter Bible supports.</p>
+<p spacebelow=10>Click on the blue word "NIV" to bring up the list of English translations that are available at the Blue Letter Bible site.</p>
+<p spacebelow=10><img src="binfile:help/images/details_BBB_versions.png"></p>
+<p spacebelow=10>As you see the "New International Version" (NIV) is highlighted because it is presently selected.  But we can change that to whatever version we wish.</p>
+<p spacebelow=10>Let's say that we want to use the "English Standard Version" (ESV) as our translation when we lookup words at the Blue Letter Bible site.  Click on the line which says "English Standard Version".</p>
+<p spacebelow=10><img src="binfile:help/images/details_choose_ESV.png"></p>
+<p spacebelow=10>The menu closes, and you see that below the "Blue Letter Bible Version" line it says "ESV".  From now on, when we look up words on the Blue Letter Bible website, the verses will be drawn from the ESV.</p>
+<p spacebelow=10><img src="binfile:help/images/details_BBB_ESV.png"></p>
+<p spacebelow=10>Since this item only has effect when you examine a word at the Blue Letter Bible site, if you disable that site, then this item cannot be accessed.  In the image below, we have disabled the "Blue Letter Bible" line, and so the "ESV" line is grayed out and cannot be clicked on.</p>
+<p spacebelow=10><img src="binfile:help/images/details_BBB_disabled.png"></p>
+<p spacebelow=10>But if you re-enable the "Blue Letter Bible" line, then you can again alter this choice.</p>
+<p spacebelow=10>Finally, notice the checkbox below the list of Lookup sites which says "Lookup Directly in ..."  Until now that checkbox has always been grayed out.  But if you enable one, and only one, Lookup site, it will become active.  In the image below we have disabled every Lookup site except for "Blue Letter Bible".</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_BBBonly.png"></p>
+<p spacebelow=10>With only the "Blue Letter Bible" site enabled, that the checkbox is now active and it now says, "Lookup in 'Blue Letter Bible'".  When you have only one Lookup site enabled, this checkbox becomes active for that Lookup site.</p>
+<p spacebelow=10>Click on the checkbox so it becomes active.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_gosolo.png"></p>
+<p spacebelow=10>Now close the Settings dialog box and notice that the last line on the page has changed.  Instead of saying "Lookup 'λόγος, ου, ὁ'" as it did before, it now says, "Lookup in 'Blue Letter Bible'".</p>
+<p spacebelow=10><img src="binfile:help/images/details_one_lookup.png"></p>
+<p spacebelow=10>Now whenever you click on this line, it will take you directly to this word at the Lookup site you have selected.  So if you only have one site you ever want to check, you can go directly there without needing to select it from the list.</p>
+<p spacebelow=10>This option does not turn on automatically when you select only one Lookup site.  You must always enable it manually using the checkbox.  In the image below, we have enabled only the "Logeion Web" line, but we have not checked the box which says "Lookup in 'Logeion Web'"</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_LWonly.png"></p>
+<p spacebelow=10>So when we close the Settings dialog box, the last line still says "Lookup 'λόγος, ου, ὁ'" and when we click on that line we get the drop-down list of Lookup sites, although in this case, there is only one option to click on.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_oneoption.png"></p>
+<h3>Logeion iOS App</h3>
+<p spacebelow=10>If you are on an iOS device, you will have one other option for word lookups.  The Logeion Website is also available as an iOS app.  If you have the Logeion iOS app installed, when you click to look up a word, you will see the additional option, "Logeion iOS App".</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_ios.png"></p>
+<p spacebelow=10>If you are on an iOS device and you do not see the "Logeion iOS App" option, then you probably don't have the app installed.  Click on the blue gear options to bring up the Settings dialog box.  The Logeion iOS App will be disabled.</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_ios_disabled.png"></p>
+<p spacebelow=10>Click on the switch next to the name to enable it.  If it enables, then you are good to go.  But probably you will see the following message...</p>
+<p spacebelow=10><img src="binfile:help/images/details_lookup_nologeion.png"></p>
+<p spacebelow=10>If you click "OK" then nothing will happen.  But if you click the "Install Logeion" button, then the program will open the iOS App Store to the Logeion app so you can install it.</p>
+<p spacebelow=10><img src="binfile:help/images/details_logeion_appstore.png"></p>
+<p spacebelow=10>After you have installed Logeion, try again to enable the line in the Setting dialog.  This time it should work.</p>
+<p spacebelow=10><img src="binfile:help/images/details_logeion_enabled.png"></p>
+<p spacebelow=10>Now you can click on the "Logeion iOS App" line in the list of available sites, and it will take you immediately to the entry for that word in the Logeion App on your device.</p>
+<p spacebelow=10><img src="binfile:help/images/details_logeion_logos.png"></p>
+<p spacebelow=10>Logeion is a wonderful resource (both the App and on the Web) because it contains several excellent Ancient Greek dictionaries including the venerable "Liddell-Scott-Jones" (LSJ) as well as the "Abbott-Smith NT".</p>
+<p spacebelow=10>Having Logeion on your device means lookups are almost instantaneous as you do not need to wait for the web browser to connect to a website.  And you never need worry about connectivity issues.  If you have an iOS device, I encourage you to get Logeion.  Because of its speed, I use it whenever I want a fuller definition of a word than the gloss which this app provides.</p>
+

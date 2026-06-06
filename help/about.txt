@@ -6,4 +6,4 @@
 <p spacebelow=10><img src="binfile:help/images/textsize-max.png"></p>
 <p spacebelow=10>Once you have set the text to the size you desire, click anywhere else on page other than the slider, and the slider will disappear.</p>
 <p spacebelow=10><img src="binfile:help/images/textsize-set.png"></p>
-<p spacebelow=10>All About pages will now appear in this text size.  The program also remembers your choice, so if you quit and restart, the text will remain at this size.</p>
+<p spacebelow=10>All About pages will now appear in this text size.  The program remembers your choice, so when you quit and restart, the text will remain at this size.</p>

@@ -7,4 +7,4 @@
 <p spacebelow=10>In the image below, we have selected "Show Dark Theme" so all screens in the program will now display in dark mode.</p>
 <p spacebelow=10><img src="binfile:help/images/theme-dark.png"></p>
 <p spacebelow=10>The program remembers your choice and will apply it every time it opens.  If you wish to change to a different theme (or back to following the operating system preferences), you must manually make that choice in the Settings dialog.</p>
-<p spacebelow=10><i>Please note that except for this page, all the images in the About pages are taken in Light mode.  So they will appear in different colors than you will see them when viewing in Dark Mode.  But aside from the colors, everything is exactly the same.</i></p>
+<p spacebelow=10><i>Please note that except for this page, all the images in the "About" pages are taken in Light mode.  So they will appear in different colors than you will see them when viewing in Dark Mode.  But aside from the colors, everything is exactly the same.</i></p>
