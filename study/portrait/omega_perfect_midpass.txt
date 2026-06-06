@@ -1,10 +1,10 @@
-<p>	<u>Indicative</u></p>
-<p>1st sg	λέλυμαι</p>
-<p>2nd sg	λέλυσαι</p>
-<p>3rd sg	λέλυται</p>
-<p>1st pl	λελύμεθα</p>
-<p>2nd pl	λέλυσθε</p>
-<p spacebelow="10">3rd pl	λέλυνται</p>
+<p>	<u>Indicative	Imperative</u></p>
+<p>1st sg	λέλυμαι	&mdash;</p>
+<p>2nd sg	λέλυσαι	λέλυσο</p>
+<p>3rd sg	λέλυται	λελύσθω</p>
+<p>1st pl	λελύμεθα	&mdash;</p>
+<p>2nd pl	λέλυσθε	λέλυσθε</p>
+<p spacebelow="10">3rd pl	λέλυνται	λελύσθωσαν</p>
 
 <p><u>Infinitive</u></p>
 <p spacebelow="10">λελύσθαι</p>
