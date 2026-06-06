@@ -15,4 +15,4 @@ col 5 : gloss - short definition(s) of the lemma.
 
 col 6 : count -  the number of times this lemma appears (in any form) in the SBLGNT
 
-col 7: lemmaID - a unique numeric ID for each lemma which is the filename for the audio file of this word pronounced.  Those files will not be available until version 3.0, but when available, they will be located in the "audio/words" folder.
+col 7: strongs - the Strongs Number assigned to this word (but without the "G" at the beginning).  There are 20 words which do not have a Strong's Number assigned to them.  These have "0" in this column.  Strong was working from the Textus Receptus Greek text of the New Testament while this app uses the SBLGNT.  There a few words in the SBLGNT which are not in the Textus Receptus, so there is no Strong's number assigned to them.  There are also a couple dozen words where the the root is the same, but the part of speech is different.  So the Textus Receptus might have the noun form of a root while the SBLGNT has the verb.  In that case, I have assigned Strong's number to that form.  Searching on that number will turn up the wrong form, but you can at least see the root.
