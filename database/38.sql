@@ -2,7 +2,7 @@ DROP TABLE IF EXISTS gntsp_temp_table
 CREATE TABLE gntsp_temp_table AS SELECT * FROM vocabparentlists;
 DROP TABLE vocabparentlists;
 CREATE TABLE vocabparentlists (listID INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, display TEXT NOT NULL, position INTEGER NOT NULL, direction INTEGER DEFAULT (1) NOT NULL);
-INSERT INTO vocabparentlists (listID, display, position) SELECT listID, display, position FROM gntsp_temp_table;
+INSERT INTO vocabparentlists (listID, display, position) SELECT listID, display, position FROM gntsp_temp_table
 DROP TABLE gntsp_temp_table;
 
 CREATE TABLE gntsp_temp_table AS SELECT * FROM bookmarks where num < 30

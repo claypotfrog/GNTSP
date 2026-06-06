@@ -1,0 +1,87 @@
+CREATE TABLE verbpartsUpdates (lemma TEXT NOT NULL UNIQUE ON CONFLICT REPLACE, parts TEXT NOT NULL)
+
+insert or replace into settings(name,value) values('sync_alias','0')
+insert or replace into settings(name,value) values('bible_version','NIV')
+
+update dictionary set gloss = '(καί + ἐκεῖ) and there' where lemma = 'κἀκεῖ'
+update dictionary set gloss = 'kindness, goodness of heart' where lemma = 'χρηστότης'
+update dictionary set gloss = 'in order, one after another<cr>τῷ/τῇ ἑξῆς - on the next day' where lemma = 'ἑξῆς'
+update dictionary set gloss = 'I prepare, repair, restore' where lemma = 'καταρτίζω'
+update dictionary set gloss = 'useful, good, kind' where lemma = 'χρηστός'
+update dictionary set lookup = 'ητταομαι,ησσαομαι', display = 'ἡττάομαι, ἡσσάομαι' where lemma = 'ἡττάομαι'
+update dictionary set display = 'θεός, οῦ, ὁ/ἡ' where lemma = 'θεός'
+update dictionary set pos = 'noun', gloss = 'someone who is fasting, someone who is hungry' where lemma = 'νῆστις'
+update dictionary set gloss = 'I run' where lemma = 'τρέχω'
+update dictionary set gloss = 'a circle<cr>κύκλῳ (adverbial) - around, in a circle' where lemma = 'κύκλος'
+update dictionary set gloss = 'I spend (money), pay expenses' where lemma = 'δαπανάω'
+update dictionary set gloss = 'I insult, reproach, revile' where lemma = 'ὀνειδίζω'
+update dictionary set gloss = 'an insult, reproach' where lemma = 'ὀνειδισμός'
+update dictionary set gloss = 'I am rich' where lemma = 'πλουτέω'
+update dictionary set gloss = 'a righteous act, a requirement or rule (to be righteous)' where lemma = 'δικαίωμα'
+update dictionary set gloss = 'I see, watch' where lemma = 'θεωρέω'
+update dictionary set gloss = '(κατά + ὅτι) because; in as much as' where lemma = 'καθότι'
+update dictionary set gloss = 'I harvest' where lemma = 'θερίζω'
+update dictionary set gloss = 'I nullify, make useless, release (from obligation)' where lemma = 'καταργέω'
+update dictionary set gloss = 'I treat horribly, insult greatly' where lemma = 'ὑβρίζω'
+update dictionary set gloss = 'from here' where lemma = 'ἐντεῦθεν'
+update dictionary set gloss = 'kind, good' where lemma = 'χρηστός'
+update dictionary set gloss = 'a container', display = 'ἄγγος, ους, τό' where lemma = 'ἄγγος'
+update dictionary set gloss = 'I recline, lay (with ἡμέρα - the day is ending)' where lemma = 'κλίνω'
+update dictionary set gloss = 'I recline (at a table for a meal) with' where lemma = 'συνανάκειμαι'
+update dictionary set gloss = 'I lay back, recline (at a table for a meal)' where lemma = 'ἀναπίπτω'
+update dictionary set gloss = 'I give birth' where lemma = 'τίκτω'
+update dictionary set gloss = 'a prophet' where lemma = 'προφήτης'
+update dictionary set gloss = 'a confession' where lemma = 'ὁμολογία'
+update dictionary set gloss = 'I confess; I praise' where lemma = 'ἐξομολογέω'
+update dictionary set gloss = '(gen) opposite (either "in front of" or "opposed to")' where lemma = 'ἀπέναντι'
+update dictionary set gloss = 'I visit (to help)' where lemma = 'ἐπισκέπτομαι'
+update dictionary set gloss = 'a viper (snake)' where lemma = 'ἔχιδνα'
+update dictionary set gloss = 'restoration' where lemma = 'ἀποκατάστασις'
+update dictionary set gloss = 'I examine very carefully, determine precisely' where lemma = 'ἀκριβόω'
+update dictionary set gloss = 'I scatter' where lemma = 'σκορπίζω'
+update dictionary set gloss = 'I scatter, waste' where lemma = 'διασκορπίζω'
+update dictionary set gloss = 'a donkey' where lemma = 'ὄνος'
+update dictionary set gloss = 'a command' where lemma = 'ἐπιταγή'
+update dictionary set gloss = 'one eighth of a Roman mile (~607 ft.); a race or race track one "στάδιον" long' where lemma = 'στάδιον'
+update dictionary set gloss = 'I give rest, refresh' where lemma = 'ἀναπαύω'
+update dictionary set gloss = 'rest, refreshment' where lemma = 'ἀνάπαυσις'
+update dictionary set gloss = 'fasting, hungry', display = 'νῆστις (ιος), νῆστι' where lemma = 'νῆστις'
+update dictionary set display = 'πυρρός, ά, όν' where lemma = 'πυρρός'
+update dictionary set display = 'Λύστρα, ας/ων, ἡ/τά' where lemma = 'Λύστρα'
+update dictionary set gloss = 'I scatter around' where lemma = 'διασπείρω'
+update dictionary set gloss = 'I interrogate, question, demand' where lemma = 'ἐπερωτάω'
+update dictionary set gloss = 'where?' where lemma = 'ποῦ'
+update dictionary set gloss = 'from where?' where lemma = 'πόθεν'
+update dictionary set gloss = 'I sit down' where lemma = 'καθίζω'
+update dictionary set gloss = 'a shadow, darkness' where lemma = 'σκιά'
+update dictionary set gloss = 'I give (to someone); I give up' where lemma = 'ἐπιδίδωμι'
+update dictionary set gloss = 'where' where lemma = 'οὗ'
+update dictionary set gloss = 'where, wherever' where lemma = 'ὅπου'
+update dictionary set gloss = 'from where (location), therefore (cause)' where lemma = 'ὅθεν'
+update dictionary set gloss = 'from where? (location or cause)' where lemma = 'πόθεν'
+update dictionary set gloss = 'who(ever), what(ever)' where lemma = 'ὅστις'
+update dictionary set gloss = 'a yoke, a balance (for weighing)' where lemma = 'ζυγός'
+update dictionary set gloss = 'I confound, confuse, frustrate' where lemma = 'συγχέω'
+update dictionary set gloss = 'failing a test, disqualified' where lemma = 'ἀδόκιμος'
+update dictionary set gloss = 'from here' where lemma = 'ἔνθεν'
+update dictionary set gloss = 'a setting of the sun, the West' where lemma = 'δύσις'
+update dictionary set gloss = 'I sound, ring, peal' where lemma = 'ἠχέω'
+
+update dictionary set gloss = replace(gloss,'metaph -','fig.')
+update dictionary set display = replace(display,'ὁ, ἡ','ὁ/ἡ') where display like '%ὁ, ἡ'
+update dictionary set gloss = replace(gloss,'(at a table ','(')
+
+update verbparts set parts = '-, δήσω, ἔδησα, δέδεκα, δέδεμαι, ἐδέθην' where lemma = 'δέω'
+update verbparts set parts = '-, εἰδήσω, -, οἶδα (ᾔδειν), -, -' where lemma = 'οἶδα'
+update verbparts set parts = 'κόπτω (ἔκοπτον), κόψω, ἔκοψα, -, -, -' where lemma = 'κόπτω'
+update verbparts set parts = 'φυσιόω, -, -, -, πεφυσίωμαι, ἐφυσιώθην' where lemma = 'φυσιόω'
+update verbparts set parts = 'εὐδοκέω (εὐδόκουν), -, εὐδόκησα, -, -, -' where lemma = 'εὐδοκέω'
+update verbparts set parts = 'ἀποκαθίστημι, ἀποκαταστήσω, ἀπεκατέστην, -, -, ἀπεκατεστάθην' where lemma = 'ἀποκαθίστημι'
+
+update entries set parsetxt = 'adverb', parsecode = 'D' where wordID = 51026
+update verses set parsecode = replace(parsecode,'F P R','F D R') where num = 4 and chapter = 4 and verse = 5
+
+update dictionary set pos = 'noun' where lemma = 'Τραχωνῖτις'
+insert into ntnounforms(normword,parsetxt,declension,lemma) values('Τραχωνίδιος','genitive singular feminine','3','Τραχωνῖτις')
+update verses set parsecode = replace(parsecode,'C AGSF N','C NGSF N') where num = 3 and chapter = 3 and verse = 1
+update entries set parsetxt = 'noun: genitive singular feminine', parsecode = 'NGSF' where wordID = 31678
