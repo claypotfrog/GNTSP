@@ -2,12 +2,12 @@
 <p spacebelow=10><img src="binfile:help/images/sync-disabled.png"></p>
 <p spacebelow=10>This panel allows you to backup your data to a server on the internet.  You can use that backup both to download your data if you have to reinstall the program, but also to synchronize your data between separate devices.  So if you want to use this app both on your phone and your desktop, or on your phone and your tablet (or on any number of devices of any type), you can keep your data in sync.  You can work on vocabulary on one device, backup your data, then download that data to another device, and pick up your study where you left off on the previous device.</p>
 <h3>Creating An Account</h3>
-<p spacebelow=10>The "Backup/Synchronize" panel is disabled (grayed out) at first because your device is not connected to an account on the backup server.  Click on the blue gear icon in the lower right to bring up the "Account Setup" dialog where you can setup a backup account.</p>
+<p spacebelow=10>The "Backup/Synchronize" panel is disabled (grayed out) at first because your device is not connected to an account on the backup server.  Click on the gear icon in the lower right to bring up the "Account Setup" dialog where you can setup a backup account.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-setup.png"></p>
 <p spacebelow=10>If this is your first (or only) device, then click the "Create Account" button.  A new account will be created on the server with a random Account ID and Password, and your data will be automatically copied to this account.  You will then be asked if you want to automatically sync your account before and after you study vocabulary.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-new-account.png"></p>
 <p spacebelow=10>If you press "Yes", then every time you click the "Study" button to study vocabulary and every time you exit a vocabulary study session, the program will automatically sync your account.  Press "No" if you prefer to sync your account yourself.  "Ask" will ask you every time you start and every time you finish a vocabulary study session if you wish to sync your account.</p>
-<p spacebelow=10>Once you create a new account, you can find your Account ID and Password by clicking again on the blue gear icon in the lower right.  This will bring up the "Account Information" dialog box.</p>
+<p spacebelow=10>Once you create a new account, you can find your Account ID and Password by clicking again on the gear icon in the lower right.  This will bring up the "Account Information" dialog box.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-account-info.png"></p>
 <p spacebelow=10>Account IDs are random numbers between 1,000 and 999,999.  You cannot change your Account ID.  But you can create an "alias" which is a name that you choose for your account which can used just like the Account ID.  To create an alias, click on the "Create Alias" button.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-account-create-alias.png"></p>
@@ -16,7 +16,7 @@
 <p spacebelow=10><img src="binfile:help/images/sync-account-alias-created.png"></p>
 <p spacebelow=10>The "Create Alias" button now say "Delete Alias".  You can only have one alias per account.  If you want to change the alias, you first need to delete this alias and then create a new one.</p>
 <p spacebelow=10>You never need to create an alias.  They are strictly to make your life easier if you are syncing multiple devices.  With an alias, you do not need to remember that your Account ID is "957398"; you just remember that your alias is "King Richard".</p>
-<p spacebelow=10>In the same vein, to make remembering your account details easier, you can change your password.  By default, your password is hidden in the "Account Information" section.  But click on the word "Password:" or the blue "Eye" icon, and you will see the actual password.</p>
+<p spacebelow=10>In the same vein, to make remembering your account details easier, you can change your password.  By default, your password is hidden in the "Account Information" section.  But click on the word "Password:" or the "Eye" icon, and you will see the actual password.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-account-info-pw.png"></p>
 <p spacebelow=10>The program creates a random 10 character <b>hexadecimal</b> password. ("Hexadecimal" means it consists only of the numbers 0-9 and the letters 'A-F'.  So when you see an "0", that's the number zero not the letter Oh.)</p>
 <p spacebelow=10>But if you wish, you can change it to whatever you want by clicking on the "Change Password" button.  This brings up the "Change Password" Dialog Box. (Like the Account Alias, you never <i>need</i> to change your password; the default one works fine.  Only change it if you need an easier-to-remember password.)</p>
@@ -34,7 +34,7 @@
 <p spacebelow=10><img src="binfile:help/images/sync-verified.png"></p>
 <p spacebelow=10>If you choose to copy your data, after the sync, you will be asked if you want to automatically sync your data before and after every vocabulary study session.  (<i>See the comments above on answering this question after creating a new account.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/sync-auto-ask.png"></p>
-<p spacebelow=10>You can change the automatic sync function any time by clicking on the blue gear icon in the lower right to bring up the "Account Information" dialog box.  Above the Close button is a line that says "Automatically sync database before and after studying vocabulary?"  Next to it is a blue line which says "Yes", "No", or "Ask".  Click on that word to bring up the menu where you change whether the program automatically syncs before and after studying vocabulary.</p>
+<p spacebelow=10>You can change the automatic sync function any time by clicking on the gear icon in the lower right to bring up the "Account Information" dialog box.  Above the Close button is a line that says "Automatically sync database before and after studying vocabulary?"  Next to it is a line which says "Yes", "No", or "Ask".  Click on that word to bring up the menu where you change whether the program automatically syncs before and after studying vocabulary.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-auto-choose.png"></p>
 <p spacebelow=10>Once you have either created a new account or connected to an existing account, the "Backup/Synchronize" panel will become active and you can click on it.</p>
 <p spacebelow=10><img src="binfile:help/images/sync-active.png"></p>
@@ -46,7 +46,7 @@
 <p spacebelow=10>If you are using the program on multiple devices, then you should always synchronize your data on each device BEFORE you make any changes (before you study Vocabulary or make any changes to words on the "Details" screen), and then synchronize again AFTER you have made any changes.  In this way, your devices will always be in sync.  The automatic sync function can do that for you before and after studying vocabulary, but you must do it manually if you make changes to any words on the "Details" screen.</p>
 <h3>Forcing Sync Direction</h3>
 <p spacebelow=10>If you ever make changes on your local device but do NOT want to save those changes to the server, or if you want to copy your data up to the server even though you know that the server data is newer, then you can tell the program to ask you whether to upload or download your data next time you backup.</p>
-<p spacebelow=10>Click the blue gear icon in the lower right to bring up the "Account Information" dialog box and check the small box below the Close button which says, "Choose Direction Of Sync Next Backup".</p>
+<p spacebelow=10>Click the gear icon in the lower right to bring up the "Account Information" dialog box and check the small box below the Close button which says, "Choose Direction Of Sync Next Backup".</p>
 <p spacebelow=10><img src="binfile:help/images/sync-force-manual.png"></p>
 <p spacebelow=10>Then press "Close" to exit the dialog box.  Next time you click the "Backup/Synchronize" button, the program will tell you that your data is out of sync and show you the dialog box which allows you to choose which direction to copy your data.</p>
 <h3> Deleting Your Account</h3>
@@ -56,7 +56,7 @@
 <p spacebelow=10><img src="binfile:help/images/sync-confirm-delete.png"></p>
 <p spacebelow=10>If you have other devices using this data, then tell the program to "Keep" your files.  But if you no longer need the data, please allow the program to "Delete" your files so that they do not take up space on the backup server.</p>
 <p spacebelow=10>Obviously to connect to a server on the internet, you will need an internet connection.  By default, the program will try for 20 seconds to access the backup server.  If it cannot reach the server after 20 seconds, it will stop trying and alert you so you can check your internet connection and try again later.</p>
-<p spacebelow=10>If you need to increase how long the program tries to connect to the server, however, you can adjust it by clicking on the blue gear icon in the lower right next to the "Backup/Synchronize" button.  In either the "Account Setup" dialog or the "Account Information" dialog, just above the "Close" button, you'll see a line that says "Try to connect to the server for:"</p>
+<p spacebelow=10>If you need to increase how long the program tries to connect to the server, however, you can adjust it by clicking on the gear icon in the lower right next to the "Backup/Synchronize" button.  In either the "Account Setup" dialog or the "Account Information" dialog, just above the "Close" button, you'll see a line that says "Try to connect to the server for:"</p>
 <p spacebelow=10><img src="binfile:help/images/sync-timeout-20.png"></p>
 <p spacebelow=10>Click on the menu which says "20 seconds" and you can increase the time up to 5 minutes (300 seconds).</p>
 <p spacebelow=10><img src="binfile:help/images/sync-timeout-60.png"></p>

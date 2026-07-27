@@ -4,10 +4,10 @@
 <p spacebelow=10>Clicking on any line below the dotted line will bring up a list of grammatical forms for that particular item.  In the image below, we clicked on the line which said "1st Declension Nouns".</p>
 <p spacebelow=10><img src="binfile:help/images/studytopic.png"></p>
 <p spacebelow=10>Clicking any of these lines will expand the section so you can review the material.  Clicking in the section does nothing.  These lists are not interactive; they are only for review.</p>
-<p spacebelow=10>In the image below, we clicked on the title "feminine", and it has opened up to show us the forms for feminine nouns in the 1st declension.  (You can also click the "Expand" button (the plus sign "+") in the upper right and open all the sections.)</p>
+<p spacebelow=10>In the image below, we clicked on the title "feminine", and it has opened up to show us the forms for feminine nouns in the 1st declension.  (You can also click the "Expand" button ("+") in the upper right and open all the sections at once.)</p>
 <p spacebelow=10><img src="binfile:help/images/studyclicked.png"></p>
-<p spacebelow=10>You can close any section by pressing and holding until the section collapses back to just the title.  (Likewise, clicking the "Collapse" button (the minus sign "-") in the upper right will close all the sections.)</p>
-<p spacebelow=10>On the main Forms screen, there is a blue gear icon in the upper right.</p>
+<p spacebelow=10>Click on any open section and it will collapse back to just the title.  (Likewise, clicking the "Collapse" button (the minus sign "-") in the upper right will close all the sections.)</p>
+<p spacebelow=10>On the main Forms screen, there is a gear icon in the upper right.</p>
 <p spacebelow=10><img src="binfile:help/images/forms-settings-gear.png"></p>
 <p spacebelow=10>Clicking this icon brings up the "Settings" menu for how noun cases are presented in the program.  You can choose to view nouns cases in the order: Nominative, Genitive, Dative, Accusative, Vocative (which I am told is the "American" order) or in the order: Nominative, Vocative, Accusative, Genitive, Dative (which I am told is the "British" order).</p>
 <p spacebelow=10><img src="binfile:help/images/forms-settings.png"></p>
@@ -32,11 +32,11 @@
 <p spacebelow=10><img src="binfile:help/images/verbreviewshow.png"></p>
 <p spacebelow=10>Tap anywhere in the screen to see the information about this verbal form.</p>
 <p spacebelow=10><img src="binfile:help/images/verbreviewshowall.png"></p>
-<p spacebelow=10>You see here the verb's parsing information, dictionary form, and dictionary definition.  The "Lookup" button will take you the Details page for this verb if you wish to examine it further.  You can return to the verb review page by clicking the "Forms" icon at the bottom of the screen.</p>
+<p spacebelow=10>You see here the verb's parsing information, dictionary form, and dictionary definition.  The "Lookup" button will take you the Details page for this verb if you wish to examine it further.  The "Show verses" button will take you to a list of all the verses in the Greek New Testament which contain this exact form of the word.  You can return to the verb review page from either of these pages by clicking the Back arrow in the upper left of the page, or by clicking on the "Forms" icon in the Navigation bar across the bottom of the screen.</p>
 <p spacebelow=10>Click on the back arrow in the upper left hand corner to move backwards through the list of verbs.</p>
 <p spacebelow=10><i>Please note that for the Present, Imperfect, Perfect, and Pluperfect tenses, the voice will be "mid/pass" rather than "middle" or "passive" since the middle and passive forms are the same in these tenses.</i></p>
 <p spacebelow=10>You can click away from the review at any time using the icons in the navigation bar at the bottom of the screen.  Your progress is saved.  Clicking on the Forms icon will put you back where you were.  Click the "Exit" button at the top of the page to return to Verb Forms page where you can select new options.  Since the forms are randomly chosen from the database, simply pressing the "Study" button again will get you a new set of forms to test yourself with.</p>
-<p spacebelow=10>Clicking on the blue Gear icon brings up the setting page for the verb form review.</p>
+<p spacebelow=10>Clicking on the gear icon brings up the setting page for the verb form review.</p>
 <p spacebelow=10><img src="binfile:help/images/verbreviewsettings.png"></p>
 <p spacebelow=10>The top option controls how common a verb has to be in order to be included in your review of New Testament verbs.  (<i>This setting only matters when you are studying New Testament forms.</i>)  The higher you set this number, the more you limit which New Testament verbs you can review, but the more common will be the forms you see.  You can set this as low as 1, meaning all verbs in the Greek New Testament, or as high as 150, for which there are only 25 verbs in the New Testament which qualify.</p>
 <p spacebelow=10>The lower option controls how many verbal forms you review in a session.  You can see between 5 and 100 verbs in each review.  You can drag both these sliders to a new position, or you can click on either side of the slider to move it by 1 in that direction.  Click the "Done" button to return to the selection screen.</p>
@@ -44,7 +44,7 @@
 <h3>Noun Form Review</h3>
 <p spacebelow=10>Clicking on the Noun Form Review line brings up the Noun Form Review screen where you can test your recognition of noun forms.</p>
 <p spacebelow=10><img src="binfile:help/images/nounreviewchooser.png"></p>
-<p spacebelow=10>The Noun Review works identically to the Verb Review except that you can only review nouns found in the Greek Text.  Choose which declension(s) and gender(s) you wish to study and click the Study button.  Just like the Verb Review, the Noun Review will look up words in the New Testament from those declensions and present them to you.  (<i>And just like with the Verb Review page, click on the blue gear icon to change how common a noun must be for you to review it and how many nouns are shown to you in a session.</i>)</p>
+<p spacebelow=10>The Noun Review works identically to the Verb Review except that you can only review nouns found in the Greek Text.  Choose which declension(s) and gender(s) you wish to study and click the Study button.  Just like the Verb Review, the Noun Review will look up words in the New Testament from those declensions and present them to you.  (<i>And just like with the Verb Review page, click on the gear icon to change how common a noun must be for you to review it and how many nouns are shown to you in a session.</i>)</p>
 <p spacebelow=10>In the image below, we have chosen to review neuter nouns from the "1st" and "2nd" declension.</p>
 <p spacebelow=10><img src="binfile:help/images/nounreviewchoosen.png"></p>
 <p spacebelow=10>We click the "Study" button and the program presents us with 1st and 2nd declension neuter nouns which are found in the New Testament.</p>

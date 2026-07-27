@@ -1,4 +1,4 @@
-<p spacebelow=10>The SBLGNT Textual Apparatus is now included along with the text of the Greek New Testament.  By default, however, it is not enabled.  You can enable the Textual Apparatus in the Settings dialog box of the Read page.  Click on the blue gear icon in the upper right corner of the Read page to bring up the Settings Dialog box.</p>
+<p spacebelow=10>The SBLGNT Textual Apparatus is now included along with the text of the Greek New Testament.  By default, however, it is not enabled.  You can enable the Textual Apparatus in the Settings dialog box of the Read page.  Click on the gear icon in the upper right corner of the Read page to bring up the Settings Dialog box.</p>
 <p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
 <p spacebelow=10>Then click on the checkbox near the bottom of the box which says "Show Textual Apparatus".</p>
 <p spacebelow=10><img src="binfile:help/images/textual_app_settings.png"></p>
@@ -7,7 +7,7 @@
 <p spacebelow=10>In the image below, we have enabled the Textual Apparatus for the book of Galatians.  So you can see two papyrus icons here at the beginning of Galatians 1, one at the end of verse 3 and one at the end of verse 4.</p>
 <p spacebelow=10><img src="binfile:help/images/textual_app_initial.png"></p>
 <p spacebelow=10>(<i>Please note that the Textual Apparatus can only be enabled and disabled while reading the Greek text.  Since there is no apparatus for the English text, the button is disabled and you cannot click on it if you access the Settings while reading the English text.</i>)</p>
-<p spacebelow=10>If we click on the papyrus icon at the end of verse 3, then we will see the Textual Apparatus information for that verse in a blue box directly below the papyrus icon we clicked on.</p>
+<p spacebelow=10>If we click on the papyrus icon at the end of verse 3, then we will see the Textual Apparatus information for that verse in a box directly below the papyrus icon we clicked on.</p>
 <p spacebelow=10><img src="binfile:help/images/textual_app_after_click.png"></p>
 <p spacebelow=10>The program will always attempt to place the textual apparatus directly below the icon so you can see the verse itself while you read the apparatus.  But if there is not enough room below the icon, then the apparatus will be displayed at the top of the Greek text.  If you wish to see the apparatus below the verse then, if possible, scroll down a bit to make space on the screen below the verse.</p>
 <p spacebelow=10>In the image below, we have clicked on the apparatus icon at the end of the last verse in the book of Romans, 16:24.  Obviously there's no way to scroll any further down, so the apparatus is displayed at the top of the text.</p>

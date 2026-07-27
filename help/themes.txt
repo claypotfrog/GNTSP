@@ -1,0 +1,11 @@
+<p spacebelow=10>As of version 2.14, the app can be displayed in different color themes.  You access the themes by clicking on the gear icon in the upper right of the Read page.  This brings up the Setting dialog box.</p>
+<p spacebelow=10><img src="binfile:help/images/fontsettings.png"></p>
+<p spacebelow=10>Below the three settings for fonts are the two Color settings.  There is the icon of a painter's palette which indicates the theme being displayed.  And below that is a night and day icon which indicates whether the program is displaying in Light or Dark mode.  (See "Dark Mode" on the "About" page for more information.)</p>
+<p spacebelow=10>Until you change it, the theme is set to "Default".  This is the dark-blue based theme that the program has always had.  However, if you click on that line, you will see a list of many different themes you can choose from to change the appearance of the program.</p>
+<p spacebelow=10><img src="binfile:help/images/themes_dropdown.png"></p>
+<p spacebelow=10>You can click on any line to choose that theme, and the theme will applied immediately.  You do not need to click "Accept" to apply the theme, nor will clicking "Cancel" negate your choice.</p>
+<p spacebelow=10>Here is the theme "Autumn" in Light mode.</p>
+<p spacebelow=10><img src="binfile:help/images/themes_autumn_light.png"></p>
+<p spacebelow=10>And here it is in Dark mode.</p>
+<p spacebelow=10><img src="binfile:help/images/themes_autumn_dark.png"></p>
+<p spacebelow=10>The easiest way to see the theme colors is by selecting them and examining the screens in the app.  But most of the names and color palettes of the themes in the app are based on themes from <a href="https://daisyui.com/docs/themes/">DaisyUI</a>, so you can see most all the color schemes at a glance at the DaisyUI site.  DaisyUI is built to make themes for web sites, so there is not a one-to-one mapping between its colors and the app's colors, but the DaisyUI site will give you a good idea of the general color palettes used in the different themes in the app.</p>

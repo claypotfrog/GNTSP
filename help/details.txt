@@ -14,7 +14,7 @@
 <p spacebelow=10>Like the definition screen, you can type your notes in Greek by enabling the Greek keyboard.  And like the definition screen, click the Save link to save the note and return to the Details screen where you will see the note you just entered or click the back arrow in the upper left to return to the Details screen without saving any changes you may have made.</p>
 <p spacebelow=10>If the word is a verb, then below the definition line will be a line for the principal parts of the verb.</p>
 <p spacebelow=10><img src="binfile:help/images/details-lego.png"></p>
-<p spacebelow=10>The database includes the principal parts for all verbs appearing eight or more times in the Greek text.  The six principal parts are arranged in the traditional order of present, future active, aorist active, perfect active, perfect middle, aorist passive.  In addition, the imperfect will be in parenthesis after the present.  If there are multiple forms attested for that tense, then they will be separated by a slash (/).</p>
+<p spacebelow=10>The database includes the principal parts for all verbs appearing seven or more times in the Greek text.  The six principal parts are arranged in the traditional order of present, future active, aorist active, perfect active, perfect middle, aorist passive.  In addition, the imperfect will be in parenthesis after the present.  If there are multiple forms attested for that tense, then they will be separated by a slash (/).</p>
 <p spacebelow=10>Please note that only forms which are attested in the Greek text are included in the principal parts.  For example, "λύω" has no perfect active forms in the Greek text, so there is no perfect active principal part listed.  Elsewhere in Greek literature, however, "λέλυκα" is the perfect active form of "λύω".</p>
 <p spacebelow=10><img src="binfile:help/images/details-luw-parts.png"></p>
 <p spacebelow=10>Clicking on the Principal Parts line takes you to the screen where you can add or edit the principal parts.  (<i>Note that on this screen, unlike the others, the Greek keyboard is enabled by default.  But you can disable it by clicking on the keyboard indicator above the right corner of the field.</i>)</p>
@@ -26,7 +26,7 @@
 <p spacebelow=10><img src="binfile:help/images/details-logos-occurrences.png"></p>
 <p spacebelow=10>Here we see that the word "λόγος" appears (in all its forms) in 318 verses in the Greek text.  Clicking on any of these lines will display the text of the verse with the occurrences of the word highlighted.</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-show-verse.png"></p>
-<p spacebelow=10>You can also display the text of all the verses by clicking on the blue arrow in the box in the upper-right.  (<i>The blue plus you just clicked on will change to minus.  Click on the minus to hide the text of all the verses.</i>)</p>
+<p spacebelow=10>You can also display the text of all the verses by clicking on the arrow in the box in the upper-right.  (<i>The Plus sign you just clicked on will change to Minus.  Click on the Minus to hide the text of all the verses.</i>)</p>
 <p spacebelow=10><img src="binfile:help/images/details-logos-show-all-verses.png"></p>
 <p spacebelow=10>If you would like to see the English translation of the verse from the Lexham English Bible (LEB) along with the Greek text, then click the switch (or the text itself) on the right above the verses which says "Show English Verses".</p>
 <p spacebelow=10><img src="binfile:help/images/details-show-eng-verses-click.png"></p>
@@ -70,19 +70,19 @@
 <p spacebelow=10>Clicking on any of these lines will open your web browser and take you to the entry for this word in that website.  In the image below, we've clicked on the second line, "Blue Letter Bible", and the program has opened the entry for "λόγος" on the Blue Letter Bible site.</p>
 <p spacebelow=10><img src="binfile:help/images/details_BBB_logos.png"></p>
 <p spacebelow=10>By default, all the websites are enabled, but you can enable and disabled them as you wish as well as rearrange the order that the sites are presented to you.  (Disabled sites do not appear in the list of "Lookup" sites.)</p>
-<p spacebelow=10>Click on the blue gear icon in the upper right to open the Settings dialog box.</p>
+<p spacebelow=10>Click on the gear icon in the upper right to open the Settings dialog box.</p>
 <p spacebelow=10><img src="binfile:help/images/details_lookup_settings.png"></p>
-<p spacebelow=10>As noted, all four sites are enabled.  But click on the name of a site or on the blue switch to the left of the name to enable or disable that site.  When they are disabled, the switch and the name both become gray.  In the image below we have clicked on the switches for "Wiktionary" and "BibleHub".  You can see that they are now grayed out.</p>
+<p spacebelow=10>As noted, all the sites are enabled.  But click on the name of a site or on the switch to the left of the name to enable or disable that site.  When they are disabled, the switch and the name both become gray.  In the image below we have clicked on the switches for "Wiktionary" and "BibleHub".  You can see that they are now grayed out.</p>
 <p spacebelow=10><img src="binfile:help/images/details_lookup_disabled.png"></p>
 <p spacebelow=10>Click "Done" to close the Settings dialog box and now click again on the last line which says "Lookup 'λόγος, ου, ὁ'".  Now you see that the two entries we disabled no longer appear in the list of "Lookup" sites.</p>
 <p spacebelow=10><img src="binfile:help/images/details_lookup_shortlist.png"></p>
-<p spacebelow=10>Go back to the Setting dialog box (click on the blue gear icon), and notice the three gray lines on the right side of each website name.  These are drag bars that allow you rearrange the order of the lines.  Click on the bars and then drag the websites into the order you want them to appear when you click to look up a word.</p>
+<p spacebelow=10>Go back to the Setting dialog box (click on the gear icon), and notice the three gray lines on the right side of each website name.  These are drag bars that allow you rearrange the order of the lines.  Click on the bars and then drag the websites into the order you want them to appear when you click to look up a word.</p>
 <p spacebelow=10>In the image below, we have re-enabled "BibleHub" by clicking on the switch to the left of the name, and we have dragged it to the top of the list.</p>
 <p spacebelow=10><img src="binfile:help/images/details_lookup_moved.png"></p>
 <p spacebelow=10>Now again if we click "Done" to return to the Details page, and then click the last line, the drop-down list of websites appears in the order we specified.</p>
 <p spacebelow=10><img src="binfile:help/images/details_lookup_reordered.png"></p>
 <p spacebelow=10>Now open up the Settings dialog again and notice the field in the lower left which says "Blue Letter Bible Version".  The Blue Letter Bible website allows you to specify which translation it uses when it shows you all the verses which contain this word.  By default, this is set to "NIV", but you can change it to any translation which the Blue Letter Bible supports.</p>
-<p spacebelow=10>Click on the blue word "NIV" to bring up the list of English translations that are available at the Blue Letter Bible site.</p>
+<p spacebelow=10>Click on the word "NIV" to bring up the list of English translations that are available at the Blue Letter Bible site.</p>
 <p spacebelow=10><img src="binfile:help/images/details_BBB_versions.png"></p>
 <p spacebelow=10>As you see the "New International Version" (NIV) is highlighted because it is presently selected.  But we can change that to whatever version we wish.</p>
 <p spacebelow=10>Let's say that we want to use the "English Standard Version" (ESV) as our translation when we lookup words at the Blue Letter Bible site.  Click on the line which says "English Standard Version".</p>
@@ -92,22 +92,13 @@
 <p spacebelow=10>Since this item only has effect when you examine a word at the Blue Letter Bible site, if you disable that site, then this item cannot be accessed.  In the image below, we have disabled the "Blue Letter Bible" line, and so the "ESV" line is grayed out and cannot be clicked on.</p>
 <p spacebelow=10><img src="binfile:help/images/details_BBB_disabled.png"></p>
 <p spacebelow=10>But if you re-enable the "Blue Letter Bible" line, then you can again alter this choice.</p>
-<p spacebelow=10>Finally, notice the checkbox below the list of Lookup sites which says "Lookup Directly in ..."  Until now that checkbox has always been grayed out.  But if you enable one, and only one, Lookup site, it will become active.  In the image below we have disabled every Lookup site except for "Blue Letter Bible".</p>
-<p spacebelow=10><img src="binfile:help/images/details_lookup_BBBonly.png"></p>
-<p spacebelow=10>With only the "Blue Letter Bible" site enabled, that the checkbox is now active and it now says, "Lookup in 'Blue Letter Bible'".  When you have only one Lookup site enabled, this checkbox becomes active for that Lookup site.</p>
-<p spacebelow=10>Click on the checkbox so it becomes active.</p>
-<p spacebelow=10><img src="binfile:help/images/details_lookup_gosolo.png"></p>
-<p spacebelow=10>Now close the Settings dialog box and notice that the last line on the page has changed.  Instead of saying "Lookup 'λόγος, ου, ὁ'" as it did before, it now says, "Lookup in 'Blue Letter Bible'".</p>
+<p spacebelow=10>Now go back into the Settings and disable all the lines except the Blue Letter Bible, then close the Settings dialog box.  Notice that the last line on the page has changed.  Instead of saying "Lookup 'λόγος, ου, ὁ'" as it did before, it now says, "Lookup in 'Blue Letter Bible'".</p>
 <p spacebelow=10><img src="binfile:help/images/details_one_lookup.png"></p>
-<p spacebelow=10>Now whenever you click on this line, it will take you directly to this word at the Lookup site you have selected.  So if you only have one site you ever want to check, you can go directly there without needing to select it from the list.</p>
-<p spacebelow=10>This option does not turn on automatically when you select only one Lookup site.  You must always enable it manually using the checkbox.  In the image below, we have enabled only the "Logeion Web" line, but we have not checked the box which says "Lookup in 'Logeion Web'"</p>
-<p spacebelow=10><img src="binfile:help/images/details_lookup_LWonly.png"></p>
-<p spacebelow=10>So when we close the Settings dialog box, the last line still says "Lookup 'λόγος, ου, ὁ'" and when we click on that line we get the drop-down list of Lookup sites, although in this case, there is only one option to click on.</p>
-<p spacebelow=10><img src="binfile:help/images/details_lookup_oneoption.png"></p>
+<p spacebelow=10>Now whenever you click on this line, it will take you directly to this word at the Lookup site you have selected.  So if you only enable one site where you wish to lookup words, This line will always specify that site, and clicking on this line will always go directly to that site without presenting you a drop-down list with only one option in it.</p>
 <h3>Logeion iOS App</h3>
 <p spacebelow=10>If you are on an iOS device, you will have one other option for word lookups.  The Logeion Website is also available as an iOS app.  If you have the Logeion iOS app installed, when you click to look up a word, you will see the additional option, "Logeion iOS App".</p>
 <p spacebelow=10><img src="binfile:help/images/details_lookup_ios.png"></p>
-<p spacebelow=10>If you are on an iOS device and you do not see the "Logeion iOS App" option, then you probably don't have the app installed.  Click on the blue gear options to bring up the Settings dialog box.  The Logeion iOS App will be disabled.</p>
+<p spacebelow=10>If you are on an iOS device and you do not see the "Logeion iOS App" option, then you probably don't have the app installed.  Click on the gear icon to bring up the Settings dialog box.  The Logeion iOS App will be disabled.</p>
 <p spacebelow=10><img src="binfile:help/images/details_lookup_ios_disabled.png"></p>
 <p spacebelow=10>Click on the switch next to the name to enable it.  If it enables, then you are good to go.  But probably you will see the following message...</p>
 <p spacebelow=10><img src="binfile:help/images/details_lookup_nologeion.png"></p>
@@ -119,4 +110,3 @@
 <p spacebelow=10><img src="binfile:help/images/details_logeion_logos.png"></p>
 <p spacebelow=10>Logeion is a wonderful resource (both the App and on the Web) because it contains several excellent Ancient Greek dictionaries including the venerable "Liddell-Scott-Jones" (LSJ) as well as the "Abbott-Smith NT".</p>
 <p spacebelow=10>Having Logeion on your device means lookups are almost instantaneous as you do not need to wait for the web browser to connect to a website.  And you never need worry about connectivity issues.  If you have an iOS device, I encourage you to get Logeion.  Because of its speed, I use it whenever I want a fuller definition of a word than the gloss which this app provides.</p>
-

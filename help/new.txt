@@ -1,12 +1,6 @@
-<p spacebelow=5>On the Details page, you can look up words in a number of different websites.</p>
-<p spacebelow=5><img src="binfile:help/lookups.png"></p>
-<p spacebelow=5>See "Word Details" on the "About" page for more information.</p>
-<p spacebelow=5>You can set your own name and password on your backup account if you wish.</p>
-<p spacebelow=5>Custom vocab can be added by searching for Greek words and forms.</p>
-<p spacebelow=5>All forms of a word can be added to a vocab list.</p>
-<p spacebelow=5>You can edit individual vocabulary words in lists.</p>
-<p spacebelow=5>See "Creating Vocabulary" and "Editing Vocabulary" on the "About" page for more information.</p>
-<p spacebelow=5>You can study nouns by gender as well as declension.</p>
-<p spacebelow=5>All fields have built-in Greek keyboard and a visual indicator which shows when the Greek keyboard is enabled.</p>
-<p spacebelow=5>Click the visual indicator to enable/disable Greek keyboard.  Long-press on the indicator or "Ω" symbol to show keyboard map.  Typing "$" or "&" is no longer used.</p>
-<p spacebelow=5>See "Typing in Greek" on the "About" page for more information.</p>
+<p spacebelow=5>THEMES!  The program can be displayed in different color themes.  Go to the Settings dialog box on the Read page to access the different themese.  See "Themes" on the "About" page for more information.</p>
+<p spacebelow=5>No more long press to close rows for Forms and Occurrences.  Click a closed item to open and click an open item to close.  Up and Down arrows show rows which can be clicked to open or close.</p>
+<p spacebelow=5>"Jump to Verse" buttons on Occurrences page to open that verse on the Read page.</p>
+<p spacebelow=5>Added setting on Read page to make chapter numbers 50% bigger than verse numbers for both Greek and English text.</p>
+<p spacebelow=5>Added setting on Read page to turn off text and only show icons on Navigation Bar.</p>
+

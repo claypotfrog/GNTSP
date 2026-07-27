@@ -3,7 +3,7 @@
 <p spacebelow=10>As of version 2.12, however, the program can display verbs in different colors and formatting.  So here is the same text of Jude with the verbs colored by Tense and formatted by Mood.</p>
 <p spacebelow=10><img src="binfile:help/images/verb_filters_jude_default.png"></p>
 <p spacebelow=10>These are called "Verb Feature Filters" because they change the display of verbs, "filtering" them by their features (Tense, Voice, Mood, Person/Number).  As you can see, this makes the verbs stand out in the text.  Moreover, the different colors show you at a glance the tense of the verb, and the text formatting shows you the mood.  And you can customize all this however you wish.</p>
-<p spacebelow=10>In order to turn on the Verb Feature Filters, click on the "Settings" (blue gear) icon on the Read page while the Greek text is up.  (The English text does not have verb filters.)  This brings up the Settings Dialog box.</p>
+<p spacebelow=10>In order to turn on the Verb Feature Filters, click on the gear icon on the Read page while the Greek text is up.  (The English text does not have verb filters.)  This brings up the Settings Dialog box.</p>
 <p spacebelow=10><img src="binfile:help/images/settings_dialog.png"></p>
 <p spacebelow=10>A little over half the way down is a checkbox that says "Enable Verb Feature Filters".</p>
 <p spacebelow=10><img src="binfile:help/images/settings_filter_dialog.png"></p>
@@ -14,7 +14,7 @@
 <p spacebelow=10><img src="binfile:help/images/verb_filters_settings_dropdown.png"></p>
 <p spacebelow=10>Clicking on another filter name will select it as the new active filter.  Then press the "Accept" button, and that filter will be applied to the text.  In the image below, we have selected the "Show Tense" filter.  Now you see that verbs are still filtered by color for Tense, but they are no longer filtered for Mood by formatting; they are all "normal" text, no <b>bold</b>, <u>underline</u>, <i>italics</i>, etc.</p>
 <p spacebelow=10><img src="binfile:help/images/verb_filters_jude_tense_only.png"></p>
-<p spacebelow=10>In order to create, delete, or edit verb feature filters, click again on the "Settings" (blue gear) icon on the Read page to bring up the Setting Dialog box.  Then click the button which says "Edit Verb Feature Filters".  This brings up the Verb Filters dialog box.</p>
+<p spacebelow=10>In order to create, delete, or edit verb feature filters, click again on the gear icon on the Read page to bring up the Setting Dialog box.  Then click the button which says "Edit Verb Feature Filters".  This brings up the Verb Filters dialog box.</p>
 <p spacebelow=10><img src="binfile:help/images/verb_filters_dlg.png"></p>
 <p spacebelow=10>At the top is the name of the presently active filter, in this case "Default".  But just as in the Settings dialog box, you can click on the filter name to bring up a drop-down list of all the filters.</p>
 <p spacebelow=10><img src="binfile:help/images/verb_filters_dropdown.png"></p>
@@ -41,7 +41,7 @@
 <p spacebelow=10>By default, a new filter has nothing enabled.  So first decide which verb features you want to filter on.  You can filter on any combination of Tense, Voice, Mood, and/or Person (which includes Number).  In this case, we want to create a filter which shows us the voice of a verb, i.e. which verbs are Active, which are Middle, and which are Passive.</p>
 <p spacebelow=10>So we click on "Voice" in the verb features chooser and click the check box so this feature is enabled.  You'll see that all the options become active so you can click on them.</p>
 <p spacebelow=10><img src="binfile:help/images/verb_filters_voice_enabled.png"></p>
-<p spacebelow=10>Now we have to decide how we want to visually display verbs for each of the three different voices.  Right now, you can see that the text isn't filtered at all.  It's the normal black text on a white background (or vice versa if you are working in Dark Mode).  Click either on one of the blue title lines: Active, Middle, or Passive, or on the Greek text itself next to that title to open the Filter Editor.  In the image below we clicked on the word "Active".</p>
+<p spacebelow=10>Now we have to decide how we want to visually display verbs for each of the three different voices.  Right now, you can see that the text isn't filtered at all.  It's the normal black text on a white background (or vice versa if you are working in Dark Mode).  Click either on one of the title lines: Active, Middle, or Passive, or on the Greek text itself next to that title to open the Filter Editor.  In the image below we clicked on the word "Active".</p>
 <p spacebelow=10><img src="binfile:help/images/verb_filters_options_none.png"></p>
 <p spacebelow=10>The title at the top shows us that we are creating a filter for Active Voice.  Directly under that, we see the Greek word from the previous dialog box, ἔλυσα, the aorist <i>active</i> indicative, 1st person sg. (<i>The Greek text is always a form of "λύω" which matches whatever verbal feature you are filtering on.</i>)  The Greek text appears both in Light Mode on the left and in Dark Mode on the right so you can see what the filter will look like in both modes.</p>
 <h3>Changing the Text Color</h3>
