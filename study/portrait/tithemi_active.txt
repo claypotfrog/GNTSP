@@ -40,12 +40,12 @@
 
 <p spacebelow="5">	<u><b>IMPERFECT</u></b></p>
 <p>	<u>Indicative</u></p>
-<p>1st sg	ἐτίθην</p>
+<p>1st sg	ἐτίθουν</p>
 <p>2nd sg	ἐτίθεις</p>
 <p>3rd sg	ἐτίθει</p>
-<p>1st pl	ἐτίθεμεν</p>
-<p>2nd pl	ἐτίθετε</p>
-<p spacebelow="10">3rd pl	ἐτίθεσαν</p>
+<p>1st pl	ἐτιθοῦμεν</p>
+<p>2nd pl	ἐτιθεῖτε</p>
+<p spacebelow="10">3rd pl	ἐτίθουν / ἐτίθεσαν</p>
 
 <p spacebelow="5">	<u><b>FUTURE</u></b></p>
 <p>	<u>Indicative</u></p>
