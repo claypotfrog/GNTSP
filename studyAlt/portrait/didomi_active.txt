@@ -45,7 +45,7 @@
 <p>3rd sg	ἐδίδου</p>
 <p>1st pl	ἐδίδομεν</p>
 <p>2nd pl	ἐδίδοτε</p>
-<p spacebelow="10">3rd pl	ἐδίδοσαν</p>
+<p spacebelow="10">3rd pl	ἐδίδουν / ἐδίδοσαν</p>
 
 <p spacebelow="5">	<u><b>FUTURE</u></b></p>
 <p>	<u>Indicative</u></p>
