@@ -2268,7 +2268,7 @@
 περιρρήγνυμι	verb	περιρρηγνυμι	περιρρήγνυμι	I tear off	1	4048
 περισπάω	verb	περισπαω	περισπάω	I distract, trouble greatly	1	4049
 περισσεία	noun	περισσεια	περισσεία, ας, ἡ	abundance	4	4050
-περισσεύω	verb	περισσευω	περισσεύω	I exceed, have an absundance; I am left over	39	4052
+περισσεύω	verb	περισσευω	περισσεύω	I exceed, have an abundance; I am left over	39	4052
 περισσοτέρως	adverb	περισσοτερωσ	περισσοτέρως	abundantly more, far more	12	4056
 περισσός	adjective	περισσοσ	περισσός, ή, όν	abundant, greater, vehemently, advantage	6	4053
 περισσότερος	adjective	περισσοτεροσ	περισσότερος, α, ον	greater, more	16	4055
@@ -2513,7 +2513,7 @@
 προσοχθίζω	verb	προσοχθιζω	προσοχθίζω	I am displeased with	2	4360
 προσπήγνυμι	verb	προσπηγνυμι	προσπήγνυμι	I fasten to	1	4362
 προσπίπτω	verb	προσπιπτω	προσπίπτω	I fall down before, beat against	8	4363
-προσποιέω	verb	προσποιεω	προσποιέω	I pretend, regard	2	4364
+προσποιέω	verb	προσποιεω	προσποιέω	I pretend; (with neg.) I ignore (pretend to the contrary)	2	4364
 προσπορεύομαι	verb	προσπορευομαι	προσπορεύομαι	I approach	1	4365
 προσρήγνυμι	verb	προσρηγνυμι	προσρήγνυμι	I dash against	2	4366
 προστάσσω	verb	προστασσω	προστάσσω	I instruct, command, appoint	7	4367
@@ -3272,7 +3272,7 @@
 φιλότεκνος	adjective	φιλοτεκνοσ	φιλότεκνος, ον	loving one's children	1	5388
 φιμόω	verb	φιμοω	φιμόω	I muzzle, silence	7	5392
 φλογίζω	verb	φλογιζω	φλογίζω	I inflame, fire with passion	2	5394
-φλυαρέω	verb	φλυαρεω	φλυαρέω	I gossip against	1	5396
+φλυαρέω	verb	φλυαρεω	φλυαρέω	I talk nonsense	1	5396
 φλόξ	noun	φλοξ	φλόξ, φλογός, ἡ	a flame	7	5395
 φλύαρος	adjective	φλυαροσ	φλύαρος, ον	prating, talking foolishly	1	5397
 φοβέομαι	verb	φοβεομαι	φοβέομαι	I fear, am terrified	95	5399
@@ -4478,7 +4478,7 @@
 ἐντρέφω	verb	εντρεφω	ἐντρέφω	I nourish on, am educated in	1	1789
 ἐντροπή	noun	εντροπη	ἐντροπή, ῆς, ἡ	shame	2	1791
 ἐντρυφάω	verb	εντρυφαω	ἐντρυφάω	I revel in, live luxuriously	1	1792
-ἐντυγχάνω	verb	εντυγχανω	ἐντυγχάνω	I appeal to; I intercede for	5	1793
+ἐντυγχάνω	verb	εντυγχανω	ἐντυγχάνω	I appeal to (+ dat.); I intercede for (+ ὑπέρ)	5	1793
 ἐντυλίσσω	verb	εντυλισσω	ἐντυλίσσω	I wrap up, roll round, envelop	3	1794
 ἐντυπόω	verb	εντυποω	ἐντυπόω	I engrave	1	1795
 ἐντόπιος	adjective	εντοπιοσ	ἐντόπιος, α, ον	belonging to the place, native, resident	1	1786
