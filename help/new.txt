@@ -1,6 +1,2 @@
-<p spacebelow=5>THEMES!  The program can be displayed in different color themes.  Go to the Settings dialog box on the Read page to access the different themese.  See "Themes" on the "About" page for more information.</p>
-<p spacebelow=5>No more long press to close rows for Forms and Occurrences.  Click a closed item to open and click an open item to close.  Up and Down arrows show rows which can be clicked to open or close.</p>
-<p spacebelow=5>"Jump to Verse" buttons on Occurrences page to open that verse on the Read page.</p>
-<p spacebelow=5>Added setting on Read page to make chapter numbers 50% bigger than verse numbers for both Greek and English text.</p>
-<p spacebelow=5>Added setting on Read page to turn off text and only show icons on Navigation Bar.</p>
-
+<p spacebelow=5>This is primarily a maintenance release which fixes a number of bugs which I caused by a change I made in version 2.14. So multi-word searches work again, final word in vocabulary groups is no longer hidden, bookmarks and highlights page no longer freezes if you delete the last item, etc.</p>
+<p spacebelow=5>Each theme now has its own word selection color which matches the theme.</p>
